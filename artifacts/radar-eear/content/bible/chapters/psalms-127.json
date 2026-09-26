@@ -1,0 +1,44 @@
+{
+  "translation": "Almeida Atualizada",
+  "abbreviation": "almeida",
+  "lang": "pt",
+  "language": "Portuguese",
+  "direction": "LTR",
+  "encoding": "UTF-8",
+  "book_nr": 19,
+  "book_name": "Salmos",
+  "chapter": 127,
+  "name": "Salmos 127",
+  "verses": [
+    {
+      "chapter": 127,
+      "verse": 1,
+      "name": "Salmos 127:1",
+      "text": "Se o Senhor não edificar a casa, em vão trabalham os que edificam: se o Senhor não guardar a cidade, em vão vigia a sentinella."
+    },
+    {
+      "chapter": 127,
+      "verse": 2,
+      "name": "Salmos 127:2",
+      "text": "Inutil vos será levantar de madrugada, repousar tarde, comer o pão de dôres, pois assim dá elle aos seus amados o somno."
+    },
+    {
+      "chapter": 127,
+      "verse": 3,
+      "name": "Salmos 127:3",
+      "text": "Eis que os filhos são herança do Senhor, e o fructo do ventre o seu galardão."
+    },
+    {
+      "chapter": 127,
+      "verse": 4,
+      "name": "Salmos 127:4",
+      "text": "Como frechas na mão d'um homem valente, assim são os filhos da mocidade."
+    },
+    {
+      "chapter": 127,
+      "verse": 5,
+      "name": "Salmos 127:5",
+      "text": "Bemaventurado o homem que enche d'elles a sua aljava: não serão confundidos, mas fallarão com os seus inimigos á porta. "
+    }
+  ]
+}

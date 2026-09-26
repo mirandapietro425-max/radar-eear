@@ -1,0 +1,50 @@
+{
+  "translation": "Almeida Atualizada",
+  "abbreviation": "almeida",
+  "lang": "pt",
+  "language": "Portuguese",
+  "direction": "LTR",
+  "encoding": "UTF-8",
+  "book_nr": 19,
+  "book_name": "Salmos",
+  "chapter": 1,
+  "name": "Salmos 1",
+  "verses": [
+    {
+      "chapter": 1,
+      "verse": 1,
+      "name": "Salmos 1:1",
+      "text": "Bemaventurado o varão que não anda no conselho dos impios, nem está no caminho dos peccadores, nem se assenta no assento dos escarnecedores."
+    },
+    {
+      "chapter": 1,
+      "verse": 2,
+      "name": "Salmos 1:2",
+      "text": "Antes tem o seu prazer na lei do Senhor, e na sua lei medita de dia e de noite."
+    },
+    {
+      "chapter": 1,
+      "verse": 3,
+      "name": "Salmos 1:3",
+      "text": "Pois será como a arvore plantada junto a ribeiros de aguas, que dá o seu fructo no seu tempo; as suas folhas não cairão, e tudo quanto fizer prosperará."
+    },
+    {
+      "chapter": 1,
+      "verse": 4,
+      "name": "Salmos 1:4",
+      "text": "Não são assim os impios: mas são como a moinha que o vento espalha."
+    },
+    {
+      "chapter": 1,
+      "verse": 5,
+      "name": "Salmos 1:5",
+      "text": "Pelo que os impios não subsistirão no juizo, nem os peccadores na congregação dos justos."
+    },
+    {
+      "chapter": 1,
+      "verse": 6,
+      "name": "Salmos 1:6",
+      "text": "Porque o Senhor conhece o caminho dos justos; porém o caminho dos impios perecerá. "
+    }
+  ]
+}

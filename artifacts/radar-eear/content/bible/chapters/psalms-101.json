@@ -1,0 +1,62 @@
+{
+  "translation": "Almeida Atualizada",
+  "abbreviation": "almeida",
+  "lang": "pt",
+  "language": "Portuguese",
+  "direction": "LTR",
+  "encoding": "UTF-8",
+  "book_nr": 19,
+  "book_name": "Salmos",
+  "chapter": 101,
+  "name": "Salmos 101",
+  "verses": [
+    {
+      "chapter": 101,
+      "verse": 1,
+      "name": "Salmos 101:1",
+      "text": "Cantarei a misericordia e o juizo: a ti, Senhor, cantarei."
+    },
+    {
+      "chapter": 101,
+      "verse": 2,
+      "name": "Salmos 101:2",
+      "text": "Portar me-hei com intelligencia no caminho recto. Quando virás a mim? Andarei em minha casa com um coração sincero."
+    },
+    {
+      "chapter": 101,
+      "verse": 3,
+      "name": "Salmos 101:3",
+      "text": "Não porei coisa má diante dos meus olhos: aborreço a obra d'aquelles que se desviam; não se me pegará a mim."
+    },
+    {
+      "chapter": 101,
+      "verse": 4,
+      "name": "Salmos 101:4",
+      "text": "Um coração perverso se apartará de mim: não conhecerei o homem mau"
+    },
+    {
+      "chapter": 101,
+      "verse": 5,
+      "name": "Salmos 101:5",
+      "text": "Aquelle que murmura do seu proximo ás escondidas, eu o destruirei: aquelle que tem olhar altivo, e coração soberbo, não soffrerei."
+    },
+    {
+      "chapter": 101,
+      "verse": 6,
+      "name": "Salmos 101:6",
+      "text": "Os meus olhos estarão sobre os fieis da terra, para que se assentem comigo: o que anda n'um caminho recto esse me servirá."
+    },
+    {
+      "chapter": 101,
+      "verse": 7,
+      "name": "Salmos 101:7",
+      "text": "O que usa de engano não ficará dentro da minha casa: o que falla mentiras não está firme perante os meus olhos."
+    },
+    {
+      "chapter": 101,
+      "verse": 8,
+      "name": "Salmos 101:8",
+      "text": "Pela manhã destruirei todos os impios da terra, para desarreigar da cidade do Senhor todos os que obram a iniquidade. "
+    }
+  ]
+}

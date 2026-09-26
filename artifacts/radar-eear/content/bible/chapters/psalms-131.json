@@ -1,0 +1,32 @@
+{
+  "translation": "Almeida Atualizada",
+  "abbreviation": "almeida",
+  "lang": "pt",
+  "language": "Portuguese",
+  "direction": "LTR",
+  "encoding": "UTF-8",
+  "book_nr": 19,
+  "book_name": "Salmos",
+  "chapter": 131,
+  "name": "Salmos 131",
+  "verses": [
+    {
+      "chapter": 131,
+      "verse": 1,
+      "name": "Salmos 131:1",
+      "text": "Senhor, o meu coração não se elevou nem os meus olhos se levantaram: não me exercito em grandes materias, nem em coisas muito elevadas para mim"
+    },
+    {
+      "chapter": 131,
+      "verse": 2,
+      "name": "Salmos 131:2",
+      "text": "Certamente que me tenho portado e socegado como uma creança desmamada de sua mãe: a minha alma está como uma creança desmamada."
+    },
+    {
+      "chapter": 131,
+      "verse": 3,
+      "name": "Salmos 131:3",
+      "text": "Espere Israel no Senhor, desde agora e para sempre. "
+    }
+  ]
+}

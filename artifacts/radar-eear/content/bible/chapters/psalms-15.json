@@ -1,0 +1,44 @@
+{
+  "translation": "Almeida Atualizada",
+  "abbreviation": "almeida",
+  "lang": "pt",
+  "language": "Portuguese",
+  "direction": "LTR",
+  "encoding": "UTF-8",
+  "book_nr": 19,
+  "book_name": "Salmos",
+  "chapter": 15,
+  "name": "Salmos 15",
+  "verses": [
+    {
+      "chapter": 15,
+      "verse": 1,
+      "name": "Salmos 15:1",
+      "text": "Senhor, quem habitará no teu tabernaculo? quem morará no teu sancto monte?"
+    },
+    {
+      "chapter": 15,
+      "verse": 2,
+      "name": "Salmos 15:2",
+      "text": "Aquelle que anda sinceramente, e obra a justiça, e falla a verdade do seu coração."
+    },
+    {
+      "chapter": 15,
+      "verse": 3,
+      "name": "Salmos 15:3",
+      "text": "Aquelle que não murmura com a sua lingua, nem faz mal ao seu proximo, nem acceita nenhum opprobrio contra o seu proximo."
+    },
+    {
+      "chapter": 15,
+      "verse": 4,
+      "name": "Salmos 15:4",
+      "text": "Em cujos olhos o reprobo é desprezado; mas honra aos que temem ao Senhor. Aquelle que jura com damno seu, e comtudo não muda."
+    },
+    {
+      "chapter": 15,
+      "verse": 5,
+      "name": "Salmos 15:5",
+      "text": "Aquelle que não dá o seu dinheiro á usura. nem recebe peitas contra o innocente: quem faz isto nunca será abalado. "
+    }
+  ]
+}

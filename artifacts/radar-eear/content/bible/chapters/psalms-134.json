@@ -1,0 +1,32 @@
+{
+  "translation": "Almeida Atualizada",
+  "abbreviation": "almeida",
+  "lang": "pt",
+  "language": "Portuguese",
+  "direction": "LTR",
+  "encoding": "UTF-8",
+  "book_nr": 19,
+  "book_name": "Salmos",
+  "chapter": 134,
+  "name": "Salmos 134",
+  "verses": [
+    {
+      "chapter": 134,
+      "verse": 1,
+      "name": "Salmos 134:1",
+      "text": "Eis-aqui, bemdizei ao Senhor todos vós, servos do Senhor, que assistis na casa do Senhor todas as noites."
+    },
+    {
+      "chapter": 134,
+      "verse": 2,
+      "name": "Salmos 134:2",
+      "text": "Levantae as vossas mãos no sanctuario, e bemdizei ao Senhor."
+    },
+    {
+      "chapter": 134,
+      "verse": 3,
+      "name": "Salmos 134:3",
+      "text": "O Senhor, que fez o céu e a terra, te abençõe desde Sião. "
+    }
+  ]
+}

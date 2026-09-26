@@ -1,0 +1,776 @@
+[
+  {
+    "id": "guerra-e-paz",
+    "title": "Guerra e Paz",
+    "author": "Liev Tolstói",
+    "year": 1869,
+    "theme": "história • família • guerra • sociedade",
+    "type": "fulltext-source",
+    "source": "https://openlibrary.org/isbn/0140444173",
+    "readingUrl": "https://archive.org/search?query=title%3Awar%20and%20peace%20tolstoy",
+    "publicDomain": true,
+    "sections": [
+      [
+        "A obra",
+        "Um romance panorâmico que articula vida familiar, experiência da guerra, decisões individuais e transformações históricas."
+      ],
+      [
+        "Contexto",
+        "A leitura guiada posiciona personagens e acontecimentos antes de pedir qualquer interpretação."
+      ],
+      [
+        "Personagens e relações",
+        "Observe como família, amizade, status social e expectativas influenciam as escolhas."
+      ],
+      [
+        "História em escala humana",
+        "Use cada acontecimento para comparar experiência individual e movimento histórico mais amplo."
+      ],
+      [
+        "Pergunta-guia",
+        "Como a história coletiva aparece através de decisões, relações e acontecimentos vividos por indivíduos?"
+      ],
+      [
+        "Conexões",
+        "Relacione o romance a História, ética, liderança, guerra, sociedade e leitura de fontes."
+      ]
+    ]
+  },
+  {
+    "id": "crime-e-castigo",
+    "title": "Crime e Castigo",
+    "author": "Fiódor Dostoiévski",
+    "year": 1866,
+    "theme": "culpa • moral • consciência • justiça",
+    "type": "fulltext-source",
+    "source": "https://openlibrary.org/isbn/0140449132",
+    "readingUrl": "https://archive.org/search?query=title%3Acrime%20and%20punishment%20dostoevsky",
+    "publicDomain": true,
+    "sections": [
+      [
+        "A obra",
+        "A narrativa acompanha Raskólnikov e transforma uma transgressão em investigação moral sobre culpa, racionalização, sofrimento e responsabilidade."
+      ],
+      [
+        "Contexto",
+        "O Radar separa a situação social, os conflitos do protagonista e as perguntas filosóficas que surgem do enredo."
+      ],
+      [
+        "Consciência e racionalização",
+        "Observe como uma teoria pode ser usada para justificar uma decisão antes de enfrentar suas consequências."
+      ],
+      [
+        "Justiça e responsabilidade",
+        "Compare responsabilidade jurídica, moral e pessoal sem tratá-las como conceitos idênticos."
+      ],
+      [
+        "Pergunta-guia",
+        "O que muda quando uma pessoa tenta transformar uma regra moral em argumento racional?"
+      ],
+      [
+        "Conexões",
+        "Relacione a leitura com ética, psicologia literária, sociedade urbana e filosofia moral."
+      ]
+    ]
+  },
+  {
+    "id": "orgulho-preconceito",
+    "title": "Orgulho e Preconceito",
+    "author": "Jane Austen",
+    "year": 1813,
+    "theme": "classe • casamento • reputação • julgamento",
+    "type": "fulltext-source",
+    "source": "https://openlibrary.org/isbn/0141439513",
+    "readingUrl": "https://archive.org/search?query=title%3Apride%20and%20prejudice%20austen",
+    "publicDomain": true,
+    "sections": [
+      [
+        "A obra",
+        "Uma narrativa social sobre classe, reputação, casamento, expectativas e julgamento."
+      ],
+      [
+        "Contexto social",
+        "Observe como família, renda, convenções e reputação alteram o espaço de escolha de cada personagem."
+      ],
+      [
+        "Percepção e erro",
+        "Acompanhe diferenças entre aquilo que alguém sabe, aquilo que imagina saber e aquilo que descobre depois."
+      ],
+      [
+        "Linguagem e ironia",
+        "Preste atenção em como diálogo e ironia revelam tensões que não são ditas diretamente."
+      ],
+      [
+        "Pergunta-guia",
+        "Como o contexto social altera a forma como um comportamento é interpretado?"
+      ],
+      [
+        "Conexões",
+        "Relacione o romance a história social, comunicação, ética e análise de personagens."
+      ]
+    ]
+  },
+  {
+    "id": "metamorfose",
+    "title": "A Metamorfose",
+    "author": "Franz Kafka",
+    "year": 1915,
+    "theme": "trabalho • família • identidade • alienação",
+    "type": "fulltext-source",
+    "source": "https://openlibrary.org/isbn/0553213695",
+    "readingUrl": "https://archive.org/search?query=title%3Athe%20metamorphosis%20kafka",
+    "publicDomain": true,
+    "sections": [
+      [
+        "A obra",
+        "Uma narrativa curta que permite estudar trabalho, pertencimento, utilidade e identidade através de uma situação radicalmente estranha."
+      ],
+      [
+        "O espaço familiar",
+        "Observe como o ambiente doméstico muda quando a rotina e as funções esperadas deixam de funcionar."
+      ],
+      [
+        "Trabalho e valor",
+        "Relacione a transformação do protagonista à ideia de utilidade e às expectativas de produtividade."
+      ],
+      [
+        "Identidade",
+        "Pergunte o que permanece quando aparência, capacidade e papel social mudam."
+      ],
+      [
+        "Pergunta-guia",
+        "O que define o valor de uma pessoa dentro de uma família ou organização?"
+      ],
+      [
+        "Conexões",
+        "Relacione a leitura com sociedade, trabalho, identidade, linguagem e filosofia da existência."
+      ]
+    ]
+  },
+  {
+    "id": "fausto",
+    "title": "Fausto",
+    "author": "Goethe",
+    "year": 1808,
+    "theme": "conhecimento • desejo • ciência • moral",
+    "type": "fulltext-source",
+    "source": "https://openlibrary.org/isbn/0140449010",
+    "readingUrl": "https://archive.org/search?query=title%3Afaust%20goethe",
+    "publicDomain": true,
+    "sections": [
+      [
+        "A obra",
+        "Conhecimento, ambição, desejo e limite humano aparecem como problemas que atravessam a leitura."
+      ],
+      [
+        "Contexto intelectual",
+        "O Radar conecta o texto a discussões sobre conhecimento, ciência, religião, arte e modernidade."
+      ],
+      [
+        "Desejo e limite",
+        "Observe a tensão entre querer saber mais e aceitar que nem todo limite é apenas técnico."
+      ],
+      [
+        "Ação e consequência",
+        "Acompanhe como cada escolha reconfigura a trajetória do protagonista e dos outros personagens."
+      ],
+      [
+        "Pergunta-guia",
+        "Que preço uma pessoa imagina estar disposta a pagar pelo conhecimento?"
+      ],
+      [
+        "Conexões",
+        "Relacione o texto a ética, história da ciência, literatura e filosofia."
+      ]
+    ]
+  },
+  {
+    "id": "dom-quixote",
+    "title": "Dom Quixote",
+    "author": "Miguel de Cervantes",
+    "year": 1605,
+    "theme": "realidade • imaginação • narrativa • sociedade",
+    "type": "fulltext-source",
+    "source": "https://openlibrary.org/isbn/0060934344",
+    "readingUrl": "https://archive.org/search?query=title%3Adon%20quixote%20cervantes",
+    "publicDomain": true,
+    "sections": [
+      [
+        "A obra",
+        "Uma das grandes narrativas sobre a relação entre leitura, imaginação, realidade e sociedade."
+      ],
+      [
+        "Contexto literário",
+        "Observe como o livro conversa com tradições anteriores enquanto também brinca com elas."
+      ],
+      [
+        "Realidade e percepção",
+        "Acompanhe o contraste entre o que o protagonista percebe e o que os demais personagens reconhecem."
+      ],
+      [
+        "Narrador e forma",
+        "Preste atenção em como a narrativa comenta a própria construção e transforma leitura em tema."
+      ],
+      [
+        "Pergunta-guia",
+        "Quando uma narrativa molda a maneira como alguém enxerga o mundo?"
+      ],
+      [
+        "Conexões",
+        "Relacione a obra a literatura, retórica, cultura, história social e teoria da narrativa."
+      ]
+    ]
+  },
+  {
+    "id": "machado-dom-casmurro",
+    "title": "Dom Casmurro",
+    "author": "Machado de Assis",
+    "year": 1899,
+    "theme": "Literatura brasileira",
+    "type": "fulltext-source",
+    "status": "metadata",
+    "sections": [
+      {
+        "title": "Como estudar esta obra",
+        "body": "Leia a obra a partir de seus problemas centrais, contexto histórico, linguagem e relações com o edital. Esta ficha não substitui a edição integral."
+      },
+      {
+        "title": "Contexto",
+        "body": "Dom Casmurro, de Machado de Assis, foi publicado em 1899. Relacione a obra ao eixo Literatura brasileira e diferencie texto, interpretação e contexto histórico."
+      },
+      {
+        "title": "Perguntas-guia",
+        "body": "Quais são os conceitos centrais? Que evidências textuais sustentam sua leitura? Que relações podem ser feitas com literatura, filosofia, história ou ciência?"
+      }
+    ]
+  },
+  {
+    "id": "machado-memorias",
+    "title": "Memórias Póstumas de Brás Cubas",
+    "author": "Machado de Assis",
+    "year": 1881,
+    "theme": "Literatura brasileira",
+    "type": "fulltext-source",
+    "status": "integrated",
+    "sections": [
+      {
+        "title": "Como estudar esta obra",
+        "body": "Leia a obra a partir de seus problemas centrais, contexto histórico, linguagem e relações com o edital. Esta ficha não substitui a edição integral."
+      },
+      {
+        "title": "Contexto",
+        "body": "Memórias Póstumas de Brás Cubas, de Machado de Assis, foi publicado em 1881. Relacione a obra ao eixo Literatura brasileira e diferencie texto, interpretação e contexto histórico."
+      },
+      {
+        "title": "Perguntas-guia",
+        "body": "Quais são os conceitos centrais? Que evidências textuais sustentam sua leitura? Que relações podem ser feitas com literatura, filosofia, história ou ciência?"
+      }
+    ]
+  },
+  {
+    "id": "eça-primo-basilio",
+    "title": "O Primo Basílio",
+    "author": "Eça de Queirós",
+    "year": 1878,
+    "theme": "Realismo português",
+    "type": "metadata-study",
+    "status": "metadata",
+    "sections": [
+      {
+        "title": "Como estudar esta obra",
+        "body": "Leia a obra a partir de seus problemas centrais, contexto histórico, linguagem e relações com o edital. Esta ficha não substitui a edição integral."
+      },
+      {
+        "title": "Contexto",
+        "body": "O Primo Basílio, de Eça de Queirós, foi publicado em 1878. Relacione a obra ao eixo Realismo português e diferencie texto, interpretação e contexto histórico."
+      },
+      {
+        "title": "Perguntas-guia",
+        "body": "Quais são os conceitos centrais? Que evidências textuais sustentam sua leitura? Que relações podem ser feitas com literatura, filosofia, história ou ciência?"
+      }
+    ]
+  },
+  {
+    "id": "lima-barreto-triste-fim",
+    "title": "Triste Fim de Policarpo Quaresma",
+    "author": "Lima Barreto",
+    "year": 1915,
+    "theme": "Literatura brasileira",
+    "type": "fulltext-source",
+    "status": "integrated",
+    "sections": [
+      {
+        "title": "Como estudar esta obra",
+        "body": "Leia a obra a partir de seus problemas centrais, contexto histórico, linguagem e relações com o edital. Esta ficha não substitui a edição integral."
+      },
+      {
+        "title": "Contexto",
+        "body": "Triste Fim de Policarpo Quaresma, de Lima Barreto, foi publicado em 1915. Relacione a obra ao eixo Literatura brasileira e diferencie texto, interpretação e contexto histórico."
+      },
+      {
+        "title": "Perguntas-guia",
+        "body": "Quais são os conceitos centrais? Que evidências textuais sustentam sua leitura? Que relações podem ser feitas com literatura, filosofia, história ou ciência?"
+      }
+    ]
+  },
+  {
+    "id": "euclides-os-sertoes",
+    "title": "Os Sertões",
+    "author": "Euclides da Cunha",
+    "year": 1902,
+    "theme": "Brasil e literatura",
+    "type": "metadata-study",
+    "status": "metadata",
+    "sections": [
+      {
+        "title": "Como estudar esta obra",
+        "body": "Leia a obra a partir de seus problemas centrais, contexto histórico, linguagem e relações com o edital. Esta ficha não substitui a edição integral."
+      },
+      {
+        "title": "Contexto",
+        "body": "Os Sertões, de Euclides da Cunha, foi publicado em 1902. Relacione a obra ao eixo Brasil e literatura e diferencie texto, interpretação e contexto histórico."
+      },
+      {
+        "title": "Perguntas-guia",
+        "body": "Quais são os conceitos centrais? Que evidências textuais sustentam sua leitura? Que relações podem ser feitas com literatura, filosofia, história ou ciência?"
+      }
+    ]
+  },
+  {
+    "id": "dante-divina-comedia",
+    "title": "A Divina Comédia",
+    "author": "Dante Alighieri",
+    "year": 1320,
+    "theme": "Épico medieval",
+    "type": "metadata-study",
+    "status": "integrated",
+    "sections": [
+      {
+        "title": "Como estudar esta obra",
+        "body": "Leia a obra a partir de seus problemas centrais, contexto histórico, linguagem e relações com o edital. Esta ficha não substitui a edição integral."
+      },
+      {
+        "title": "Contexto",
+        "body": "A Divina Comédia, de Dante Alighieri, foi publicado em 1320. Relacione a obra ao eixo Épico medieval e diferencie texto, interpretação e contexto histórico."
+      },
+      {
+        "title": "Perguntas-guia",
+        "body": "Quais são os conceitos centrais? Que evidências textuais sustentam sua leitura? Que relações podem ser feitas com literatura, filosofia, história ou ciência?"
+      }
+    ]
+  },
+  {
+    "id": "camões-lusiadas",
+    "title": "Os Lusíadas",
+    "author": "Luís de Camões",
+    "year": 1572,
+    "theme": "Épico português",
+    "type": "metadata-study",
+    "status": "integrated",
+    "sections": [
+      {
+        "title": "Como estudar esta obra",
+        "body": "Leia a obra a partir de seus problemas centrais, contexto histórico, linguagem e relações com o edital. Esta ficha não substitui a edição integral."
+      },
+      {
+        "title": "Contexto",
+        "body": "Os Lusíadas, de Luís de Camões, foi publicado em 1572. Relacione a obra ao eixo Épico português e diferencie texto, interpretação e contexto histórico."
+      },
+      {
+        "title": "Perguntas-guia",
+        "body": "Quais são os conceitos centrais? Que evidências textuais sustentam sua leitura? Que relações podem ser feitas com literatura, filosofia, história ou ciência?"
+      }
+    ]
+  },
+  {
+    "id": "camus-estrangeiro",
+    "title": "O Estrangeiro",
+    "author": "Albert Camus",
+    "year": 1942,
+    "theme": "Filosofia e literatura",
+    "type": "metadata-study",
+    "status": "metadata",
+    "sections": [
+      {
+        "title": "Como estudar esta obra",
+        "body": "Leia a obra a partir de seus problemas centrais, contexto histórico, linguagem e relações com o edital. Esta ficha não substitui a edição integral."
+      },
+      {
+        "title": "Contexto",
+        "body": "O Estrangeiro, de Albert Camus, foi publicado em 1942. Relacione a obra ao eixo Filosofia e literatura e diferencie texto, interpretação e contexto histórico."
+      },
+      {
+        "title": "Perguntas-guia",
+        "body": "Quais são os conceitos centrais? Que evidências textuais sustentam sua leitura? Que relações podem ser feitas com literatura, filosofia, história ou ciência?"
+      }
+    ]
+  },
+  {
+    "id": "kierkegaard-temor",
+    "title": "Temor e Tremor",
+    "author": "Søren Kierkegaard",
+    "year": 1843,
+    "theme": "Filosofia",
+    "type": "metadata-study",
+    "status": "metadata",
+    "sections": [
+      {
+        "title": "Como estudar esta obra",
+        "body": "Leia a obra a partir de seus problemas centrais, contexto histórico, linguagem e relações com o edital. Esta ficha não substitui a edição integral."
+      },
+      {
+        "title": "Contexto",
+        "body": "Temor e Tremor, de Søren Kierkegaard, foi publicado em 1843. Relacione a obra ao eixo Filosofia e diferencie texto, interpretação e contexto histórico."
+      },
+      {
+        "title": "Perguntas-guia",
+        "body": "Quais são os conceitos centrais? Que evidências textuais sustentam sua leitura? Que relações podem ser feitas com literatura, filosofia, história ou ciência?"
+      }
+    ]
+  },
+  {
+    "id": "nietzsche-genealogia",
+    "title": "Genealogia da Moral",
+    "author": "Friedrich Nietzsche",
+    "year": 1887,
+    "theme": "Filosofia",
+    "type": "metadata-study",
+    "status": "metadata",
+    "sections": [
+      {
+        "title": "Como estudar esta obra",
+        "body": "Leia a obra a partir de seus problemas centrais, contexto histórico, linguagem e relações com o edital. Esta ficha não substitui a edição integral."
+      },
+      {
+        "title": "Contexto",
+        "body": "Genealogia da Moral, de Friedrich Nietzsche, foi publicado em 1887. Relacione a obra ao eixo Filosofia e diferencie texto, interpretação e contexto histórico."
+      },
+      {
+        "title": "Perguntas-guia",
+        "body": "Quais são os conceitos centrais? Que evidências textuais sustentam sua leitura? Que relações podem ser feitas com literatura, filosofia, história ou ciência?"
+      }
+    ]
+  },
+  {
+    "id": "montaigne-ensaios",
+    "title": "Ensaios",
+    "author": "Michel de Montaigne",
+    "year": 1580,
+    "theme": "Filosofia",
+    "type": "metadata-study",
+    "status": "integrated",
+    "sections": [
+      {
+        "title": "Como estudar esta obra",
+        "body": "Leia a obra a partir de seus problemas centrais, contexto histórico, linguagem e relações com o edital. Esta ficha não substitui a edição integral."
+      },
+      {
+        "title": "Contexto",
+        "body": "Ensaios, de Michel de Montaigne, foi publicado em 1580. Relacione a obra ao eixo Filosofia e diferencie texto, interpretação e contexto histórico."
+      },
+      {
+        "title": "Perguntas-guia",
+        "body": "Quais são os conceitos centrais? Que evidências textuais sustentam sua leitura? Que relações podem ser feitas com literatura, filosofia, história ou ciência?"
+      }
+    ]
+  },
+  {
+    "id": "more-utopia",
+    "title": "Utopia",
+    "author": "Thomas More",
+    "year": 1516,
+    "theme": "Filosofia política",
+    "type": "metadata-study",
+    "status": "integrated",
+    "sections": [
+      {
+        "title": "Como estudar esta obra",
+        "body": "Leia a obra a partir de seus problemas centrais, contexto histórico, linguagem e relações com o edital. Esta ficha não substitui a edição integral."
+      },
+      {
+        "title": "Contexto",
+        "body": "Utopia, de Thomas More, foi publicado em 1516. Relacione a obra ao eixo Filosofia política e diferencie texto, interpretação e contexto histórico."
+      },
+      {
+        "title": "Perguntas-guia",
+        "body": "Quais são os conceitos centrais? Que evidências textuais sustentam sua leitura? Que relações podem ser feitas com literatura, filosofia, história ou ciência?"
+      }
+    ]
+  },
+  {
+    "id": "descartes-metodo",
+    "title": "Discurso do Método",
+    "author": "René Descartes",
+    "year": 1637,
+    "theme": "Filosofia e método",
+    "type": "metadata-study",
+    "status": "integrated",
+    "sections": [
+      {
+        "title": "Como estudar esta obra",
+        "body": "Leia a obra a partir de seus problemas centrais, contexto histórico, linguagem e relações com o edital. Esta ficha não substitui a edição integral."
+      },
+      {
+        "title": "Contexto",
+        "body": "Discurso do Método, de René Descartes, foi publicado em 1637. Relacione a obra ao eixo Filosofia e método e diferencie texto, interpretação e contexto histórico."
+      },
+      {
+        "title": "Perguntas-guia",
+        "body": "Quais são os conceitos centrais? Que evidências textuais sustentam sua leitura? Que relações podem ser feitas com literatura, filosofia, história ou ciência?"
+      }
+    ]
+  },
+  {
+    "id": "locke-entendimento",
+    "title": "Ensaio sobre o Entendimento Humano",
+    "author": "John Locke",
+    "year": 1689,
+    "theme": "Epistemologia",
+    "type": "metadata-study",
+    "status": "metadata",
+    "sections": [
+      {
+        "title": "Como estudar esta obra",
+        "body": "Leia a obra a partir de seus problemas centrais, contexto histórico, linguagem e relações com o edital. Esta ficha não substitui a edição integral."
+      },
+      {
+        "title": "Contexto",
+        "body": "Ensaio sobre o Entendimento Humano, de John Locke, foi publicado em 1689. Relacione a obra ao eixo Epistemologia e diferencie texto, interpretação e contexto histórico."
+      },
+      {
+        "title": "Perguntas-guia",
+        "body": "Quais são os conceitos centrais? Que evidências textuais sustentam sua leitura? Que relações podem ser feitas com literatura, filosofia, história ou ciência?"
+      }
+    ]
+  },
+  {
+    "id": "arendt-origens",
+    "title": "As Origens do Totalitarismo",
+    "author": "Hannah Arendt",
+    "year": 1951,
+    "theme": "Teoria política",
+    "type": "metadata-study",
+    "status": "metadata",
+    "sections": [
+      {
+        "title": "Como estudar esta obra",
+        "body": "Leia a obra a partir de seus problemas centrais, contexto histórico, linguagem e relações com o edital. Esta ficha não substitui a edição integral."
+      },
+      {
+        "title": "Contexto",
+        "body": "As Origens do Totalitarismo, de Hannah Arendt, foi publicado em 1951. Relacione a obra ao eixo Teoria política e diferencie texto, interpretação e contexto histórico."
+      },
+      {
+        "title": "Perguntas-guia",
+        "body": "Quais são os conceitos centrais? Que evidências textuais sustentam sua leitura? Que relações podem ser feitas com literatura, filosofia, história ou ciência?"
+      }
+    ]
+  },
+  {
+    "id": "foucault-vigiar",
+    "title": "Vigiar e Punir",
+    "author": "Michel Foucault",
+    "year": 1975,
+    "theme": "Filosofia e sociologia",
+    "type": "metadata-study",
+    "status": "metadata",
+    "sections": [
+      {
+        "title": "Como estudar esta obra",
+        "body": "Leia a obra a partir de seus problemas centrais, contexto histórico, linguagem e relações com o edital. Esta ficha não substitui a edição integral."
+      },
+      {
+        "title": "Contexto",
+        "body": "Vigiar e Punir, de Michel Foucault, foi publicado em 1975. Relacione a obra ao eixo Filosofia e sociologia e diferencie texto, interpretação e contexto histórico."
+      },
+      {
+        "title": "Perguntas-guia",
+        "body": "Quais são os conceitos centrais? Que evidências textuais sustentam sua leitura? Que relações podem ser feitas com literatura, filosofia, história ou ciência?"
+      }
+    ]
+  },
+  {
+    "id": "paulo-freire-pedagogia",
+    "title": "Pedagogia do Oprimido",
+    "author": "Paulo Freire",
+    "year": 1968,
+    "theme": "Educação",
+    "type": "metadata-study",
+    "status": "metadata",
+    "sections": [
+      {
+        "title": "Como estudar esta obra",
+        "body": "Leia a obra a partir de seus problemas centrais, contexto histórico, linguagem e relações com o edital. Esta ficha não substitui a edição integral."
+      },
+      {
+        "title": "Contexto",
+        "body": "Pedagogia do Oprimido, de Paulo Freire, foi publicado em 1968. Relacione a obra ao eixo Educação e diferencie texto, interpretação e contexto histórico."
+      },
+      {
+        "title": "Perguntas-guia",
+        "body": "Quais são os conceitos centrais? Que evidências textuais sustentam sua leitura? Que relações podem ser feitas com literatura, filosofia, história ou ciência?"
+      }
+    ]
+  },
+  {
+    "id": "darcy-ribeiro-povo",
+    "title": "O Povo Brasileiro",
+    "author": "Darcy Ribeiro",
+    "year": 1995,
+    "theme": "Brasil e sociedade",
+    "type": "metadata-study",
+    "status": "metadata",
+    "sections": [
+      {
+        "title": "Como estudar esta obra",
+        "body": "Leia a obra a partir de seus problemas centrais, contexto histórico, linguagem e relações com o edital. Esta ficha não substitui a edição integral."
+      },
+      {
+        "title": "Contexto",
+        "body": "O Povo Brasileiro, de Darcy Ribeiro, foi publicado em 1995. Relacione a obra ao eixo Brasil e sociedade e diferencie texto, interpretação e contexto histórico."
+      },
+      {
+        "title": "Perguntas-guia",
+        "body": "Quais são os conceitos centrais? Que evidências textuais sustentam sua leitura? Que relações podem ser feitas com literatura, filosofia, história ou ciência?"
+      }
+    ]
+  },
+  {
+    "id": "sergio-buarque-raizes",
+    "title": "Raízes do Brasil",
+    "author": "Sérgio Buarque de Holanda",
+    "year": 1936,
+    "theme": "História social",
+    "type": "metadata-study",
+    "status": "metadata",
+    "sections": [
+      {
+        "title": "Como estudar esta obra",
+        "body": "Leia a obra a partir de seus problemas centrais, contexto histórico, linguagem e relações com o edital. Esta ficha não substitui a edição integral."
+      },
+      {
+        "title": "Contexto",
+        "body": "Raízes do Brasil, de Sérgio Buarque de Holanda, foi publicado em 1936. Relacione a obra ao eixo História social e diferencie texto, interpretação e contexto histórico."
+      },
+      {
+        "title": "Perguntas-guia",
+        "body": "Quais são os conceitos centrais? Que evidências textuais sustentam sua leitura? Que relações podem ser feitas com literatura, filosofia, história ou ciência?"
+      }
+    ]
+  },
+  {
+    "id": "milton-santos-espaco",
+    "title": "A Natureza do Espaço",
+    "author": "Milton Santos",
+    "year": 1996,
+    "theme": "Geografia",
+    "type": "metadata-study",
+    "status": "metadata",
+    "sections": [
+      {
+        "title": "Como estudar esta obra",
+        "body": "Leia a obra a partir de seus problemas centrais, contexto histórico, linguagem e relações com o edital. Esta ficha não substitui a edição integral."
+      },
+      {
+        "title": "Contexto",
+        "body": "A Natureza do Espaço, de Milton Santos, foi publicado em 1996. Relacione a obra ao eixo Geografia e diferencie texto, interpretação e contexto histórico."
+      },
+      {
+        "title": "Perguntas-guia",
+        "body": "Quais são os conceitos centrais? Que evidências textuais sustentam sua leitura? Que relações podem ser feitas com literatura, filosofia, história ou ciência?"
+      }
+    ]
+  },
+  {
+    "id": "newton-principia",
+    "title": "Philosophiæ Naturalis Principia Mathematica",
+    "author": "Isaac Newton",
+    "year": 1687,
+    "theme": "Física e matemática",
+    "type": "metadata-study",
+    "status": "metadata",
+    "sections": [
+      {
+        "title": "Como estudar esta obra",
+        "body": "Leia a obra a partir de seus problemas centrais, contexto histórico, linguagem e relações com o edital. Esta ficha não substitui a edição integral."
+      },
+      {
+        "title": "Contexto",
+        "body": "Philosophiæ Naturalis Principia Mathematica, de Isaac Newton, foi publicado em 1687. Relacione a obra ao eixo Física e matemática e diferencie texto, interpretação e contexto histórico."
+      },
+      {
+        "title": "Perguntas-guia",
+        "body": "Quais são os conceitos centrais? Que evidências textuais sustentam sua leitura? Que relações podem ser feitas com literatura, filosofia, história ou ciência?"
+      }
+    ]
+  },
+  {
+    "id": "newton-opticks",
+    "title": "Opticks",
+    "author": "Isaac Newton",
+    "year": 1704,
+    "theme": "Óptica e filosofia natural",
+    "type": "metadata-study",
+    "status": "metadata",
+    "sections": [
+      {
+        "title": "Como estudar esta obra",
+        "body": "Leia a obra a partir de seus problemas centrais, contexto histórico, linguagem e relações com o edital. Esta ficha não substitui a edição integral."
+      },
+      {
+        "title": "Contexto",
+        "body": "Opticks, de Isaac Newton, foi publicado em 1704. Relacione a obra ao eixo Óptica e filosofia natural e diferencie texto, interpretação e contexto histórico."
+      },
+      {
+        "title": "Perguntas-guia",
+        "body": "Quais são os conceitos centrais? Que evidências textuais sustentam sua leitura? Que relações podem ser feitas com literatura, filosofia, história ou ciência?"
+      }
+    ]
+  },
+  {
+    "id": "plato-republica",
+    "title": "A República",
+    "author": "Platão",
+    "year": -380,
+    "theme": "Filosofia política",
+    "type": "metadata-study",
+    "status": "metadata",
+    "sections": [
+      {
+        "title": "Como estudar esta obra",
+        "body": "Leia a obra a partir de seus problemas centrais, contexto histórico, linguagem e relações com o edital. Esta ficha não substitui a edição integral."
+      },
+      {
+        "title": "Contexto",
+        "body": "A República, de Platão, foi publicado em -380. Relacione a obra ao eixo Filosofia política e diferencie texto, interpretação e contexto histórico."
+      },
+      {
+        "title": "Perguntas-guia",
+        "body": "Quais são os conceitos centrais? Que evidências textuais sustentam sua leitura? Que relações podem ser feitas com literatura, filosofia, história ou ciência?"
+      }
+    ]
+  },
+  {
+    "id": "descartes-meditacoes",
+    "title": "Meditações Metafísicas",
+    "author": "René Descartes",
+    "year": 1641,
+    "theme": "Filosofia e epistemologia",
+    "type": "metadata-study",
+    "status": "metadata",
+    "sections": [
+      {
+        "title": "Como estudar esta obra",
+        "body": "Leia a obra a partir de seus problemas centrais, contexto histórico, linguagem e relações com o edital. Esta ficha não substitui a edição integral."
+      },
+      {
+        "title": "Contexto",
+        "body": "Meditações Metafísicas, de René Descartes, foi publicado em 1641. Relacione a obra ao eixo Filosofia e epistemologia e diferencie texto, interpretação e contexto histórico."
+      },
+      {
+        "title": "Perguntas-guia",
+        "body": "Quais são os conceitos centrais? Que evidências textuais sustentam sua leitura? Que relações podem ser feitas com literatura, filosofia, história ou ciência?"
+      }
+    ]
+  }
+]

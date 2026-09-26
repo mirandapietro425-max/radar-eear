@@ -1,0 +1,44 @@
+{
+  "translation": "Almeida Atualizada",
+  "abbreviation": "almeida",
+  "lang": "pt",
+  "language": "Portuguese",
+  "direction": "LTR",
+  "encoding": "UTF-8",
+  "book_nr": 19,
+  "book_name": "Salmos",
+  "chapter": 100,
+  "name": "Salmos 100",
+  "verses": [
+    {
+      "chapter": 100,
+      "verse": 1,
+      "name": "Salmos 100:1",
+      "text": "Celebrae com jubilo ao Senhor, todas as terras."
+    },
+    {
+      "chapter": 100,
+      "verse": 2,
+      "name": "Salmos 100:2",
+      "text": "Servi ao Senhor com alegria; e entrae diante d'elle com canto."
+    },
+    {
+      "chapter": 100,
+      "verse": 3,
+      "name": "Salmos 100:3",
+      "text": "Sabei que o Senhor é Deus: foi elle que nos fez, e não nós outros a nós; somos povo seu e ovelhas do seu pasto."
+    },
+    {
+      "chapter": 100,
+      "verse": 4,
+      "name": "Salmos 100:4",
+      "text": "Entrae pelas portas d'elle com louvor, e em seus atrios com hymno: louvae-o, e bemdizei o seu nome."
+    },
+    {
+      "chapter": 100,
+      "verse": 5,
+      "name": "Salmos 100:5",
+      "text": "Porque o Senhor é bom, e eterna a sua misericordia; e a sua verdade dura de geração em geração. "
+    }
+  ]
+}

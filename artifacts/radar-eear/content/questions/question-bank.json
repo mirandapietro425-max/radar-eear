@@ -1,0 +1,1352 @@
+[
+  {
+    "id": "mat-1",
+    "subject": "Matemática",
+    "topic": "Matemática",
+    "prompt": "Se a₁ = 7 e a razão é 3, qual é o quarto termo de uma PA?",
+    "options": [
+      "13",
+      "16",
+      "18",
+      "19"
+    ],
+    "answer": 1,
+    "explanation": "a₄ = 7 + 3·3 = 16.",
+    "origin": "original"
+  },
+  {
+    "id": "mat-2",
+    "subject": "Matemática",
+    "topic": "Matemática",
+    "prompt": "Qual é o MMC de 12 e 18?",
+    "options": [
+      "24",
+      "30",
+      "36",
+      "42"
+    ],
+    "answer": 2,
+    "explanation": "As fatorações dão MMC = 2²·3² = 36.",
+    "origin": "original"
+  },
+  {
+    "id": "mat-3",
+    "subject": "Matemática",
+    "topic": "Matemática",
+    "prompt": "Quanto é 5/8 de 56?",
+    "options": [
+      "30",
+      "32",
+      "35",
+      "40"
+    ],
+    "answer": 2,
+    "explanation": "56 ÷ 8 = 7; 7·5 = 35.",
+    "origin": "original"
+  },
+  {
+    "id": "mat-4",
+    "subject": "Matemática",
+    "topic": "Matemática",
+    "prompt": "Qual é a razão entre 12 e 15?",
+    "options": [
+      "0,6",
+      "0,8",
+      "1,2",
+      "1,25"
+    ],
+    "answer": 1,
+    "explanation": "12/15 = 0,8.",
+    "origin": "original"
+  },
+  {
+    "id": "mat-5",
+    "subject": "Matemática",
+    "topic": "Matemática",
+    "prompt": "Um produto de R$ 25 recebeu 20% de desconto. Preço final?",
+    "options": [
+      "18",
+      "20",
+      "21",
+      "22"
+    ],
+    "answer": 1,
+    "explanation": "25·0,80 = 20.",
+    "origin": "original"
+  },
+  {
+    "id": "mat-6",
+    "subject": "Matemática",
+    "topic": "Matemática",
+    "prompt": "Qual é o valor de x em 4x = 36?",
+    "options": [
+      "7",
+      "8",
+      "9",
+      "10"
+    ],
+    "answer": 2,
+    "explanation": "Dividindo os dois lados por 4, x = 9.",
+    "origin": "original"
+  },
+  {
+    "id": "mat-7",
+    "subject": "Matemática",
+    "topic": "Matemática",
+    "prompt": "Resolva 2x + 3 = 13.",
+    "options": [
+      "4",
+      "5",
+      "6",
+      "7"
+    ],
+    "answer": 1,
+    "explanation": "2x = 10; x = 5.",
+    "origin": "original"
+  },
+  {
+    "id": "mat-8",
+    "subject": "Matemática",
+    "topic": "Matemática",
+    "prompt": "Qual é o próximo termo da sequência 1, 3, 6, 10, ...?",
+    "options": [
+      "12",
+      "13",
+      "14",
+      "15"
+    ],
+    "answer": 3,
+    "explanation": "As diferenças são 2, 3, 4; a próxima é 5, então 15.",
+    "origin": "original"
+  },
+  {
+    "id": "mat-9",
+    "subject": "Matemática",
+    "topic": "Matemática",
+    "prompt": "Qual é o 6º termo da PG 2, 4, 8, ...?",
+    "options": [
+      "16",
+      "24",
+      "32",
+      "64"
+    ],
+    "answer": 3,
+    "explanation": "O sexto termo é 2·2⁵ = 64.",
+    "origin": "original"
+  },
+  {
+    "id": "mat-10",
+    "subject": "Matemática",
+    "topic": "Matemática",
+    "prompt": "A expressão 3² + 3·5 vale:",
+    "options": [
+      "15",
+      "18",
+      "20",
+      "24"
+    ],
+    "answer": 3,
+    "explanation": "9 + 15 = 24.",
+    "origin": "original"
+  },
+  {
+    "id": "mat-11",
+    "subject": "Matemática",
+    "topic": "Matemática",
+    "prompt": "Área de um retângulo de lados 10 e 6:",
+    "options": [
+      "16",
+      "32",
+      "60",
+      "120"
+    ],
+    "answer": 2,
+    "explanation": "A = 10·6 = 60.",
+    "origin": "original"
+  },
+  {
+    "id": "mat-12",
+    "subject": "Matemática",
+    "topic": "Matemática",
+    "prompt": "A diagonal de um quadrado tem relação com o lado pelo fator √2. Se o lado é 5, a diagonal é:",
+    "options": [
+      "5√2",
+      "10",
+      "10√2",
+      "25"
+    ],
+    "answer": 0,
+    "explanation": "d = a√2 = 5√2.",
+    "origin": "original"
+  },
+  {
+    "id": "mat-13",
+    "subject": "Matemática",
+    "topic": "Matemática",
+    "prompt": "Um triângulo retângulo tem catetos 3 e 4. Hipotenusa?",
+    "options": [
+      "4",
+      "5",
+      "6",
+      "7"
+    ],
+    "answer": 1,
+    "explanation": "Pelo teorema de Pitágoras, 3²+4²=5².",
+    "origin": "original"
+  },
+  {
+    "id": "mat-14",
+    "subject": "Matemática",
+    "topic": "Matemática",
+    "prompt": "Circunferência de raio 5 usando π≈3,14:",
+    "options": [
+      "15,7",
+      "31,4",
+      "62,8",
+      "78,5"
+    ],
+    "answer": 1,
+    "explanation": "C = 2πr ≈ 31,4.",
+    "origin": "original"
+  },
+  {
+    "id": "mat-15",
+    "subject": "Matemática",
+    "topic": "Matemática",
+    "prompt": "Área do círculo de raio 5 usando π≈3,14:",
+    "options": [
+      "31,4",
+      "50",
+      "78,5",
+      "157"
+    ],
+    "answer": 2,
+    "explanation": "A = πr² ≈ 78,5.",
+    "origin": "original"
+  },
+  {
+    "id": "mat-16",
+    "subject": "Matemática",
+    "topic": "Matemática",
+    "prompt": "sen θ = 20/30 é aproximadamente:",
+    "options": [
+      "0,33",
+      "0,50",
+      "0,67",
+      "1,50"
+    ],
+    "answer": 2,
+    "explanation": "20/30 = 2/3 ≈ 0,67.",
+    "origin": "original"
+  },
+  {
+    "id": "mat-17",
+    "subject": "Matemática",
+    "topic": "Matemática",
+    "prompt": "Em um triângulo retângulo, cateto oposto 4 e hipotenusa 5. sen θ = ?",
+    "options": [
+      "0,6",
+      "0,8",
+      "1,0",
+      "1,25"
+    ],
+    "answer": 1,
+    "explanation": "sen θ = oposto/hipotenusa = 4/5.",
+    "origin": "original"
+  },
+  {
+    "id": "mat-18",
+    "subject": "Matemática",
+    "topic": "Matemática",
+    "prompt": "A média aritmética de 2, 4, 3 e 3 é:",
+    "options": [
+      "2,5",
+      "3",
+      "3,5",
+      "4"
+    ],
+    "answer": 1,
+    "explanation": "(2+4+3+3)/4 = 3.",
+    "origin": "original"
+  },
+  {
+    "id": "mat-19",
+    "subject": "Matemática",
+    "topic": "Matemática",
+    "prompt": "A probabilidade de retirar uma bola vermelha em 2 vermelhas e 8 azuis é:",
+    "options": [
+      "0,1",
+      "0,2",
+      "0,8",
+      "0,9"
+    ],
+    "answer": 1,
+    "explanation": "Há 2 casos favoráveis em 10: 0,2.",
+    "origin": "original"
+  },
+  {
+    "id": "mat-20",
+    "subject": "Matemática",
+    "topic": "Matemática",
+    "prompt": "Sistema x+y=10 e x-y=2. O valor de x é:",
+    "options": [
+      "4",
+      "5",
+      "6",
+      "8"
+    ],
+    "answer": 2,
+    "explanation": "Somando as equações: 2x=12; x=6.",
+    "origin": "original"
+  },
+  {
+    "id": "mat-21",
+    "subject": "Matemática",
+    "topic": "Matemática",
+    "prompt": "log₂ 64 vale:",
+    "options": [
+      "4",
+      "5",
+      "6",
+      "8"
+    ],
+    "answer": 2,
+    "explanation": "2⁶ = 64.",
+    "origin": "original"
+  },
+  {
+    "id": "mat-22",
+    "subject": "Matemática",
+    "topic": "Matemática",
+    "prompt": "A função f(x)=2x+2 vale 8 quando x é:",
+    "options": [
+      "2",
+      "3",
+      "4",
+      "5"
+    ],
+    "answer": 1,
+    "explanation": "2x+2=8, então x=3.",
+    "origin": "original"
+  },
+  {
+    "id": "mat-23",
+    "subject": "Matemática",
+    "topic": "Matemática",
+    "prompt": "Qual é o coeficiente angular da reta y=4x-2?",
+    "options": [
+      "-2",
+      "2",
+      "4",
+      "-4"
+    ],
+    "answer": 2,
+    "explanation": "O coeficiente de x é 4.",
+    "origin": "original"
+  },
+  {
+    "id": "mat-24",
+    "subject": "Matemática",
+    "topic": "Matemática",
+    "prompt": "Um número aumenta 50% e passa a valer 9. Valor inicial?",
+    "options": [
+      "4,5",
+      "6",
+      "7,5",
+      "8"
+    ],
+    "answer": 1,
+    "explanation": "1,5x=9; x=6.",
+    "origin": "original"
+  },
+  {
+    "id": "mat-25",
+    "subject": "Matemática",
+    "topic": "Matemática",
+    "prompt": "Se 12 alunos representam 4 grupos iguais, quantos alunos por grupo?",
+    "options": [
+      "2",
+      "3",
+      "4",
+      "8"
+    ],
+    "answer": 1,
+    "explanation": "12÷4=3.",
+    "origin": "original"
+  },
+  {
+    "id": "mat-26",
+    "subject": "Matemática",
+    "topic": "Matemática",
+    "prompt": "Perímetro de um quadrado de lado 3:",
+    "options": [
+      "9",
+      "12",
+      "16",
+      "18"
+    ],
+    "answer": 1,
+    "explanation": "P=4·3=12.",
+    "origin": "original"
+  },
+  {
+    "id": "mat-27",
+    "subject": "Matemática",
+    "topic": "Matemática",
+    "prompt": "O dobro de um número menos 5 é 15. Qual é o número?",
+    "options": [
+      "5",
+      "8",
+      "10",
+      "12"
+    ],
+    "answer": 2,
+    "explanation": "2x-5=15; x=10.",
+    "origin": "original"
+  },
+  {
+    "id": "mat-28",
+    "subject": "Matemática",
+    "topic": "Matemática",
+    "prompt": "Se a base de um paralelogramo é 9 e a altura 4, a área é:",
+    "options": [
+      "13",
+      "18",
+      "32",
+      "36"
+    ],
+    "answer": 3,
+    "explanation": "A=b·h=36.",
+    "origin": "original"
+  },
+  {
+    "id": "mat-29",
+    "subject": "Matemática",
+    "topic": "Matemática",
+    "prompt": "A distância entre os pontos 4 e 15 na reta real é:",
+    "options": [
+      "9",
+      "11",
+      "19",
+      "60"
+    ],
+    "answer": 1,
+    "explanation": "|15-4|=11.",
+    "origin": "original"
+  },
+  {
+    "id": "mat-30",
+    "subject": "Matemática",
+    "topic": "Matemática",
+    "prompt": "Uma razão 7:2 aplicada a 2 unidades produz:",
+    "options": [
+      "7",
+      "9",
+      "14",
+      "28"
+    ],
+    "answer": 0,
+    "explanation": "7/2·2=7; para duas unidades a primeira parte vale 7.",
+    "origin": "original"
+  },
+  {
+    "id": "fis-01",
+    "subject": "Física",
+    "topic": "Cinemática",
+    "prompt": "Um móvel percorre 120 m em 20 s com velocidade média constante. Qual é a velocidade?",
+    "options": [
+      "4 m/s",
+      "6 m/s",
+      "8 m/s",
+      "12 m/s"
+    ],
+    "answer": 1,
+    "explanation": "v=Δs/Δt=120/20=6 m/s.",
+    "origin": "original"
+  },
+  {
+    "id": "fis-02",
+    "subject": "Física",
+    "topic": "Cinemática",
+    "prompt": "Um corpo parte do repouso com aceleração de 2 m/s² por 5 s. Velocidade final?",
+    "options": [
+      "5 m/s",
+      "10 m/s",
+      "12 m/s",
+      "20 m/s"
+    ],
+    "answer": 1,
+    "explanation": "v=v₀+at=0+2·5=10 m/s.",
+    "origin": "original"
+  },
+  {
+    "id": "fis-03",
+    "subject": "Física",
+    "topic": "Cinemática",
+    "prompt": "Se a velocidade passa de 5 para 17 m/s em 4 s, a aceleração média é:",
+    "options": [
+      "2 m/s²",
+      "3 m/s²",
+      "4 m/s²",
+      "5 m/s²"
+    ],
+    "answer": 1,
+    "explanation": "(17-5)/4=3 m/s².",
+    "origin": "original"
+  },
+  {
+    "id": "fis-04",
+    "subject": "Física",
+    "topic": "Leis de Newton",
+    "prompt": "Força resultante 20 N atua sobre massa de 5 kg. A aceleração é:",
+    "options": [
+      "2 m/s²",
+      "4 m/s²",
+      "5 m/s²",
+      "10 m/s²"
+    ],
+    "answer": 1,
+    "explanation": "a=F/m=4 m/s².",
+    "origin": "original"
+  },
+  {
+    "id": "fis-05",
+    "subject": "Física",
+    "topic": "Leis de Newton",
+    "prompt": "Um corpo em equilíbrio translacional possui força resultante:",
+    "options": [
+      "0 N",
+      "1 N",
+      "9,8 N",
+      "máxima"
+    ],
+    "answer": 0,
+    "explanation": "Equilíbrio implica resultante nula.",
+    "origin": "original"
+  },
+  {
+    "id": "fis-06",
+    "subject": "Física",
+    "topic": "Trabalho",
+    "prompt": "Uma força de 10 N atua na direção do deslocamento de 3 m. Trabalho?",
+    "options": [
+      "3 J",
+      "10 J",
+      "30 J",
+      "300 J"
+    ],
+    "answer": 2,
+    "explanation": "W=F·d=30 J.",
+    "origin": "original"
+  },
+  {
+    "id": "fis-07",
+    "subject": "Física",
+    "topic": "Energia",
+    "prompt": "Um corpo de 2 kg move-se a 3 m/s. Ec =",
+    "options": [
+      "3 J",
+      "6 J",
+      "9 J",
+      "18 J"
+    ],
+    "answer": 2,
+    "explanation": "Ec=mv²/2=2·9/2=9 J.",
+    "origin": "original"
+  },
+  {
+    "id": "fis-08",
+    "subject": "Física",
+    "topic": "Energia",
+    "prompt": "Um corpo de 2 kg a 5 m de altura, com g=10 m/s², tem energia potencial de:",
+    "options": [
+      "20 J",
+      "50 J",
+      "100 J",
+      "200 J"
+    ],
+    "answer": 2,
+    "explanation": "Ep=mgh=2·10·5=100 J.",
+    "origin": "original"
+  },
+  {
+    "id": "fis-09",
+    "subject": "Física",
+    "topic": "Quantidade de movimento",
+    "prompt": "Um corpo de 3 kg a 4 m/s possui quantidade de movimento:",
+    "options": [
+      "0,75",
+      "7",
+      "12",
+      "16"
+    ],
+    "answer": 2,
+    "explanation": "p=mv=12 kg·m/s.",
+    "origin": "original"
+  },
+  {
+    "id": "fis-10",
+    "subject": "Física",
+    "topic": "Impulso",
+    "prompt": "Força média de 10 N atua por 0,5 s. Impulso:",
+    "options": [
+      "2 N·s",
+      "5 N·s",
+      "10 N·s",
+      "20 N·s"
+    ],
+    "answer": 1,
+    "explanation": "I=FΔt=5 N·s.",
+    "origin": "original"
+  },
+  {
+    "id": "fis-11",
+    "subject": "Física",
+    "topic": "Fluidos",
+    "prompt": "A pressão de 100 N distribuída em 2 m² é:",
+    "options": [
+      "20 Pa",
+      "50 Pa",
+      "100 Pa",
+      "200 Pa"
+    ],
+    "answer": 1,
+    "explanation": "p=F/A=50 Pa.",
+    "origin": "original"
+  },
+  {
+    "id": "fis-12",
+    "subject": "Física",
+    "topic": "Fluidos",
+    "prompt": "A densidade de 2 kg em 0,5 m³ é:",
+    "options": [
+      "1",
+      "2",
+      "4",
+      "8"
+    ],
+    "answer": 2,
+    "explanation": "ρ=m/V=4 kg/m³.",
+    "origin": "original"
+  },
+  {
+    "id": "fis-13",
+    "subject": "Física",
+    "topic": "Fluidos",
+    "prompt": "Um corpo flutua quando sua densidade média é:",
+    "options": [
+      "maior que a do fluido",
+      "igual ou menor que a do fluido",
+      "zero sempre",
+      "independente do fluido"
+    ],
+    "answer": 1,
+    "explanation": "Para flutuar em equilíbrio, a densidade média não excede a do fluido.",
+    "origin": "original"
+  },
+  {
+    "id": "fis-14",
+    "subject": "Física",
+    "topic": "Calor",
+    "prompt": "Quanto calor aquece 2 kg de água em 1°C, usando c=4200 J/kg°C?",
+    "options": [
+      "840 J",
+      "4200 J",
+      "8400 J",
+      "12600 J"
+    ],
+    "answer": 2,
+    "explanation": "Q=mcΔT=8400 J.",
+    "origin": "original"
+  },
+  {
+    "id": "fis-15",
+    "subject": "Física",
+    "topic": "Termodinâmica",
+    "prompt": "A temperatura de 0°C corresponde aproximadamente a:",
+    "options": [
+      "-273 K",
+      "0 K",
+      "273 K",
+      "373 K"
+    ],
+    "answer": 2,
+    "explanation": "T(K)=T(°C)+273≈273 K.",
+    "origin": "original"
+  },
+  {
+    "id": "fis-16",
+    "subject": "Física",
+    "topic": "Gases",
+    "prompt": "Em uma transformação isotérmica ideal, ao aumentar o volume, a pressão tende a:",
+    "options": [
+      "aumentar",
+      "diminuir",
+      "ficar sempre igual",
+      "zerar"
+    ],
+    "answer": 1,
+    "explanation": "Para temperatura constante, PV=constante.",
+    "origin": "original"
+  },
+  {
+    "id": "fis-17",
+    "subject": "Física",
+    "topic": "Ondas",
+    "prompt": "Uma onda de frequência 5 Hz tem período:",
+    "options": [
+      "0,1 s",
+      "0,2 s",
+      "2 s",
+      "5 s"
+    ],
+    "answer": 1,
+    "explanation": "T=1/f=0,2 s.",
+    "origin": "original"
+  },
+  {
+    "id": "fis-18",
+    "subject": "Física",
+    "topic": "Ondas",
+    "prompt": "Se v=10 m/s e f=2 Hz, o comprimento de onda é:",
+    "options": [
+      "2 m",
+      "5 m",
+      "10 m",
+      "20 m"
+    ],
+    "answer": 1,
+    "explanation": "λ=v/f=5 m.",
+    "origin": "original"
+  },
+  {
+    "id": "fis-19",
+    "subject": "Física",
+    "topic": "Óptica",
+    "prompt": "A reflexão especular ocorre em uma superfície:",
+    "options": [
+      "muito irregular",
+      "polida",
+      "opaca apenas",
+      "líquida apenas"
+    ],
+    "answer": 1,
+    "explanation": "Superfícies polidas favorecem reflexão regular.",
+    "origin": "original"
+  },
+  {
+    "id": "fis-20",
+    "subject": "Física",
+    "topic": "Óptica",
+    "prompt": "Ao passar do ar para o vidro, a luz geralmente:",
+    "options": [
+      "aumenta a velocidade",
+      "diminui a velocidade",
+      "para completamente",
+      "vira som"
+    ],
+    "answer": 1,
+    "explanation": "O índice do vidro é maior; a velocidade diminui.",
+    "origin": "original"
+  },
+  {
+    "id": "fis-21",
+    "subject": "Física",
+    "topic": "Lentes",
+    "prompt": "Uma lente convergente é mais espessa:",
+    "options": [
+      "no centro",
+      "nas bordas",
+      "igualmente sempre",
+      "somente no suporte"
+    ],
+    "answer": 0,
+    "explanation": "Lentes convergentes convencionais são mais espessas no centro.",
+    "origin": "original"
+  },
+  {
+    "id": "fis-22",
+    "subject": "Física",
+    "topic": "Eletricidade",
+    "prompt": "Uma corrente de 2 A percorre um resistor de 5 Ω. Tensão?",
+    "options": [
+      "2,5 V",
+      "5 V",
+      "10 V",
+      "20 V"
+    ],
+    "answer": 2,
+    "explanation": "V=RI=10 V.",
+    "origin": "original"
+  },
+  {
+    "id": "fis-23",
+    "subject": "Física",
+    "topic": "Eletricidade",
+    "prompt": "Potência de um aparelho a 20 V e 3 A:",
+    "options": [
+      "6 W",
+      "23 W",
+      "60 W",
+      "120 W"
+    ],
+    "answer": 2,
+    "explanation": "P=VI=60 W.",
+    "origin": "original"
+  },
+  {
+    "id": "fis-24",
+    "subject": "Física",
+    "topic": "Circuitos",
+    "prompt": "Em série, a corrente elétrica é:",
+    "options": [
+      "diferente em cada resistor",
+      "a mesma em todos os elementos",
+      "sempre zero",
+      "inversamente igual"
+    ],
+    "answer": 1,
+    "explanation": "No circuito simples em série, a corrente é a mesma.",
+    "origin": "original"
+  },
+  {
+    "id": "fis-25",
+    "subject": "Física",
+    "topic": "Circuitos",
+    "prompt": "Em paralelo, a tensão nos ramos ideais conectados aos mesmos nós é:",
+    "options": [
+      "a mesma",
+      "sempre zero",
+      "diferente por definição",
+      "infinita"
+    ],
+    "answer": 0,
+    "explanation": "Os ramos compartilham a mesma diferença de potencial.",
+    "origin": "original"
+  },
+  {
+    "id": "fis-26",
+    "subject": "Física",
+    "topic": "Eletromagnetismo",
+    "prompt": "A corrente em um condutor cria ao redor dele:",
+    "options": [
+      "campo magnético",
+      "campo apenas gravitacional",
+      "vácuo",
+      "som"
+    ],
+    "answer": 0,
+    "explanation": "Corrente elétrica produz campo magnético.",
+    "origin": "original"
+  },
+  {
+    "id": "fis-27",
+    "subject": "Física",
+    "topic": "Indução",
+    "prompt": "Variação de fluxo magnético pode induzir:",
+    "options": [
+      "corrente elétrica",
+      "massa",
+      "temperatura absoluta",
+      "gravidade"
+    ],
+    "answer": 0,
+    "explanation": "A indução eletromagnética gera força eletromotriz.",
+    "origin": "original"
+  },
+  {
+    "id": "fis-28",
+    "subject": "Física",
+    "topic": "Radiação",
+    "prompt": "Entre as radiações eletromagnéticas, qual possui maior frequência?",
+    "options": [
+      "rádio",
+      "micro-ondas",
+      "visível",
+      "raios gama"
+    ],
+    "answer": 3,
+    "explanation": "Raios gama ocupam a faixa de maior frequência do espectro eletromagnético.",
+    "origin": "original"
+  },
+  {
+    "id": "fis-29",
+    "subject": "Física",
+    "topic": "Unidades",
+    "prompt": "A unidade SI de força é:",
+    "options": [
+      "joule",
+      "watt",
+      "newton",
+      "pascal"
+    ],
+    "answer": 2,
+    "explanation": "Força é medida em newtons.",
+    "origin": "original"
+  },
+  {
+    "id": "fis-30",
+    "subject": "Física",
+    "topic": "Unidades",
+    "prompt": "A unidade SI de potência é:",
+    "options": [
+      "watt",
+      "joule",
+      "newton",
+      "tesla"
+    ],
+    "answer": 0,
+    "explanation": "Potência é medida em watts.",
+    "origin": "original"
+  },
+  {
+    "id": "por-01",
+    "subject": "Português",
+    "topic": "Concordância",
+    "prompt": "Qual alternativa apresenta concordância adequada?",
+    "options": [
+      "Houveram problemas.",
+      "Houve problemas.",
+      "Haviam problemas ontem.",
+      "Existiu problemas."
+    ],
+    "answer": 1,
+    "explanation": "O verbo haver, no sentido de existir, é impessoal: “houve problemas”.",
+    "origin": "original"
+  },
+  {
+    "id": "por-02",
+    "subject": "Português",
+    "topic": "Regência",
+    "prompt": "No sentido de ver, o verbo assistir pede qual preposição?",
+    "options": [
+      "a",
+      "de",
+      "com",
+      "por"
+    ],
+    "answer": 0,
+    "explanation": "Na norma-padrão, assistir a algo.",
+    "origin": "original"
+  },
+  {
+    "id": "por-03",
+    "subject": "Português",
+    "topic": "Crase",
+    "prompt": "Qual forma está adequada?",
+    "options": [
+      "Vou à escola.",
+      "Vou a à escola.",
+      "Vou à uma escola.",
+      "Vou a escola de Maria sem contexto."
+    ],
+    "answer": 0,
+    "explanation": "A construção “ir à escola” combina preposição a e artigo a.",
+    "origin": "original"
+  },
+  {
+    "id": "por-04",
+    "subject": "Português",
+    "topic": "Pontuação",
+    "prompt": "A vírgula pode separar elementos de uma enumeração?",
+    "options": [
+      "sim",
+      "nunca",
+      "somente em títulos",
+      "somente antes do verbo"
+    ],
+    "answer": 0,
+    "explanation": "A enumeração é um uso regular da vírgula.",
+    "origin": "original"
+  },
+  {
+    "id": "por-05",
+    "subject": "Português",
+    "topic": "Sintaxe",
+    "prompt": "Em “Os alunos estudaram”, o sujeito é:",
+    "options": [
+      "Os alunos",
+      "estudaram",
+      "alunos estudaram",
+      "oculto"
+    ],
+    "answer": 0,
+    "explanation": "“Os alunos” realiza a ação verbal.",
+    "origin": "original"
+  },
+  {
+    "id": "por-06",
+    "subject": "Português",
+    "topic": "Semântica",
+    "prompt": "“Ratificar” significa:",
+    "options": [
+      "confirmar",
+      "corrigir",
+      "duvidar",
+      "retirar"
+    ],
+    "answer": 0,
+    "explanation": "Ratificar é confirmar ou validar.",
+    "origin": "original"
+  },
+  {
+    "id": "por-07",
+    "subject": "Português",
+    "topic": "Figuras",
+    "prompt": "“O vento sussurrava” é exemplo de:",
+    "options": [
+      "personificação",
+      "hipérbole",
+      "antítese",
+      "metonímia"
+    ],
+    "answer": 0,
+    "explanation": "Atribui ação humana ao vento.",
+    "origin": "original"
+  },
+  {
+    "id": "por-08",
+    "subject": "Português",
+    "topic": "Ortografia",
+    "prompt": "Qual forma está correta?",
+    "options": [
+      "exceção",
+      "excessão",
+      "escessão",
+      "exseção"
+    ],
+    "answer": 0,
+    "explanation": "A grafia padrão é exceção.",
+    "origin": "original"
+  },
+  {
+    "id": "por-09",
+    "subject": "Português",
+    "topic": "Formação",
+    "prompt": "“Infelizmente” contém o sufixo:",
+    "options": [
+      "-mente",
+      "-ção",
+      "-ismo",
+      "-eiro"
+    ],
+    "answer": 0,
+    "explanation": "-mente forma advérbios a partir de adjetivos.",
+    "origin": "original"
+  },
+  {
+    "id": "por-10",
+    "subject": "Português",
+    "topic": "Interpretação",
+    "prompt": "Em uma questão de leitura, a informação explícita está:",
+    "options": [
+      "diretamente presente no texto",
+      "somente no contexto histórico",
+      "apenas na intenção do autor",
+      "sempre implícita"
+    ],
+    "answer": 0,
+    "explanation": "Informação explícita é aquela textual, não apenas inferida.",
+    "origin": "original"
+  },
+  {
+    "id": "eng-01",
+    "subject": "Inglês",
+    "topic": "Simple past",
+    "prompt": "Choose the correct form: “They ____ the aircraft yesterday.”",
+    "options": [
+      "check",
+      "checked",
+      "checking",
+      "have check"
+    ],
+    "answer": 1,
+    "explanation": "Yesterday marks a completed past action: checked.",
+    "origin": "original"
+  },
+  {
+    "id": "eng-02",
+    "subject": "Inglês",
+    "topic": "Modal",
+    "prompt": "“You ____ wear a seat belt.”",
+    "options": [
+      "must",
+      "would",
+      "might not",
+      "used"
+    ],
+    "answer": 0,
+    "explanation": "Must expresses obligation.",
+    "origin": "original"
+  },
+  {
+    "id": "eng-03",
+    "subject": "Inglês",
+    "topic": "Passive voice",
+    "prompt": "“The report was ____ by the team.”",
+    "options": [
+      "write",
+      "wrote",
+      "written",
+      "writing"
+    ],
+    "answer": 2,
+    "explanation": "Passive voice requires the past participle: written.",
+    "origin": "original"
+  },
+  {
+    "id": "eng-04",
+    "subject": "Inglês",
+    "topic": "Pronouns",
+    "prompt": "“Maria called John and spoke to ____.”",
+    "options": [
+      "he",
+      "him",
+      "his",
+      "himself"
+    ],
+    "answer": 1,
+    "explanation": "Object pronoun after the preposition/to context is him.",
+    "origin": "original"
+  },
+  {
+    "id": "eng-05",
+    "subject": "Inglês",
+    "topic": "Reading",
+    "prompt": "“The crew had left before sunrise.” They left:",
+    "options": [
+      "after sunrise",
+      "before sunrise",
+      "at noon",
+      "unknown"
+    ],
+    "answer": 1,
+    "explanation": "Had left establishes an earlier past event.",
+    "origin": "original"
+  },
+  {
+    "id": "eng-06",
+    "subject": "Inglês",
+    "topic": "Connectors",
+    "prompt": "“Although it rained, the event continued.” Although indicates:",
+    "options": [
+      "contrast",
+      "cause",
+      "time only",
+      "place"
+    ],
+    "answer": 0,
+    "explanation": "Although introduces a concessive contrast.",
+    "origin": "original"
+  },
+  {
+    "id": "eng-07",
+    "subject": "Inglês",
+    "topic": "Preposition",
+    "prompt": "“Interested ____ science.”",
+    "options": [
+      "on",
+      "at",
+      "in",
+      "for"
+    ],
+    "answer": 2,
+    "explanation": "The standard collocation is interested in.",
+    "origin": "original"
+  },
+  {
+    "id": "eng-08",
+    "subject": "Inglês",
+    "topic": "Present perfect",
+    "prompt": "“She has finished the task.” The task is:",
+    "options": [
+      "still unfinished",
+      "completed with present relevance",
+      "future only",
+      "impossible"
+    ],
+    "answer": 1,
+    "explanation": "Present perfect links a past action to the present.",
+    "origin": "original"
+  },
+  {
+    "id": "eng-09",
+    "subject": "Inglês",
+    "topic": "Determiner",
+    "prompt": "“I saw ____ aircraft.”",
+    "options": [
+      "a",
+      "an",
+      "the an",
+      "many"
+    ],
+    "answer": 1,
+    "explanation": "Aircraft begins with a vowel sound, so an is used.",
+    "origin": "original"
+  },
+  {
+    "id": "eng-10",
+    "subject": "Inglês",
+    "topic": "Vocabulary",
+    "prompt": "“Reliable” is closest to:",
+    "options": [
+      "dependable",
+      "dangerous",
+      "temporary",
+      "unclear"
+    ],
+    "answer": 0,
+    "explanation": "Reliable means dependable or trustworthy.",
+    "origin": "original"
+  },
+  {
+    "id": "bib-01",
+    "subject": "Bíblia",
+    "topic": "Gênero",
+    "prompt": "Salmos é principalmente associado a:",
+    "options": [
+      "poesia/hinos",
+      "carta paulina",
+      "genealogia romana",
+      "lei militar"
+    ],
+    "answer": 0,
+    "explanation": "Salmos é uma coleção poética e litúrgica.",
+    "origin": "original"
+  },
+  {
+    "id": "bib-02",
+    "subject": "Bíblia",
+    "topic": "Pentateuco",
+    "prompt": "Qual é o primeiro livro do Pentateuco?",
+    "options": [
+      "Gênesis",
+      "Josué",
+      "Isaías",
+      "Mateus"
+    ],
+    "answer": 0,
+    "explanation": "Gênesis abre o Pentateuco.",
+    "origin": "original"
+  },
+  {
+    "id": "bib-03",
+    "subject": "Bíblia",
+    "topic": "Evangelhos",
+    "prompt": "Qual livro é um Evangelho?",
+    "options": [
+      "Mateus",
+      "Romanos",
+      "Atos",
+      "Hebreus"
+    ],
+    "answer": 0,
+    "explanation": "Mateus integra os quatro Evangelhos canônicos.",
+    "origin": "original"
+  },
+  {
+    "id": "bib-04",
+    "subject": "Bíblia",
+    "topic": "Cartas",
+    "prompt": "Romanos é classificado como:",
+    "options": [
+      "carta",
+      "Evangelho",
+      "livro sapiencial",
+      "apocalipse"
+    ],
+    "answer": 0,
+    "explanation": "Romanos é uma epístola paulina.",
+    "origin": "original"
+  },
+  {
+    "id": "bib-05",
+    "subject": "Bíblia",
+    "topic": "História",
+    "prompt": "Atos narra principalmente:",
+    "options": [
+      "a expansão inicial do movimento cristão",
+      "a monarquia de Judá",
+      "a filosofia de Platão",
+      "o Egito helenístico inteiro"
+    ],
+    "answer": 0,
+    "explanation": "Atos acompanha a expansão e comunidades cristãs iniciais.",
+    "origin": "original"
+  },
+  {
+    "id": "bib-06",
+    "subject": "Bíblia",
+    "topic": "Profetas",
+    "prompt": "Isaías pertence ao conjunto tradicional de:",
+    "options": [
+      "profetas",
+      "Evangelhos",
+      "cartas gerais",
+      "sapienciais gregos"
+    ],
+    "answer": 0,
+    "explanation": "Isaías é um dos profetas maiores na classificação cristã tradicional.",
+    "origin": "original"
+  },
+  {
+    "id": "bib-07",
+    "subject": "Bíblia",
+    "topic": "Sabedoria",
+    "prompt": "Provérbios é associado a:",
+    "options": [
+      "sabedoria",
+      "apocalipse",
+      "história romana",
+      "cartas de Paulo"
+    ],
+    "answer": 0,
+    "explanation": "Provérbios reúne literatura sapiencial.",
+    "origin": "original"
+  },
+  {
+    "id": "bib-08",
+    "subject": "Bíblia",
+    "topic": "Apocalipse",
+    "prompt": "Apocalipse está no:",
+    "options": [
+      "Novo Testamento",
+      "Pentateuco",
+      "livros históricos do AT",
+      "livros sapienciais"
+    ],
+    "answer": 0,
+    "explanation": "É o último livro do cânon cristão comum de 66 livros.",
+    "origin": "original"
+  },
+  {
+    "id": "bib-09",
+    "subject": "Bíblia",
+    "topic": "Contexto",
+    "prompt": "Gênesis contém narrativas sobre:",
+    "options": [
+      "criação e ancestrais",
+      "apenas o exílio babilônico",
+      "a vida de Paulo",
+      "a reforma protestante"
+    ],
+    "answer": 0,
+    "explanation": "O livro inclui narrativas de origens e ancestrais.",
+    "origin": "original"
+  },
+  {
+    "id": "bib-10",
+    "subject": "Bíblia",
+    "topic": "Cartas",
+    "prompt": "1 Coríntios é uma carta atribuída tradicionalmente a:",
+    "options": [
+      "Paulo",
+      "Pedro",
+      "João Batista",
+      "Moisés"
+    ],
+    "answer": 0,
+    "explanation": "A tradição canônica atribui 1 Coríntios a Paulo.",
+    "origin": "original"
+  }
+]
