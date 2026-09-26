@@ -1,9 +1,0 @@
-{
-  "version":"v18",
-  "storage":"localStorage-first; Supabase-ready",
-  "events":["viewed","started","progress","completed","saved"],
-  "entities":["questao","materia","livro","capitulo_biblico","versiculo","pessoa","lugar","conceito","jogo","laboratorio","curiosidade"],
-  "dashboard_metrics":["itens_vistos","itens_concluidos","itens_salvos","tempo_registrado","distribuicao_por_area","ultimos_itens"],
-  "mastery_note":"Índice interno de atividade e consolidação; não é probabilidade de aprovação.",
-  "next_backend":"users -> progress_events -> entity_mastery -> review_queue -> daily_mission"
-}

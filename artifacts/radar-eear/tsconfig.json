@@ -1,40 +1,20 @@
 {
-  "extends": "../../tsconfig.base.json",
-  "include": [
-    "src/**/*"
-  ],
-  "exclude": [
-    "node_modules",
-    "build",
-    "dist",
-    "**/*.test.ts",
-    "src/features/globe/KnowledgeGlobe.v15.tsx",
-    "src/features/globe/KnowledgeGlobe.v17.tsx",
-    "src/features/maps/GoogleKnowledgeMap3D.tsx",
-    "src/features/maps/HistoricalMapPage.tsx",
-    "src/features/subject-guides/SubjectExplainerDeck.tsx",
-    "src/features/v15/**/*",
-    "src/features/v17/**/*"
-  ],
   "compilerOptions": {
-    "noEmit": true,
-    "jsx": "preserve",
-    "lib": [
-      "esnext",
-      "dom",
-      "dom.iterable"
-    ],
+    "target": "ES2022",
+    "useDefineForClassFields": true,
+    "lib": ["ES2022", "DOM", "DOM.Iterable"],
+    "allowJs": false,
+    "skipLibCheck": true,
+    "esModuleInterop": true,
+    "allowSyntheticDefaultImports": true,
+    "strict": true,
+    "forceConsistentCasingInFileNames": true,
+    "module": "ESNext",
+    "moduleResolution": "Bundler",
     "resolveJsonModule": true,
-    "allowImportingTsExtensions": true,
-    "moduleResolution": "bundler",
-    "types": [
-      "node",
-      "vite/client"
-    ],
-    "paths": {
-      "@/*": [
-        "./src/*"
-      ]
-    }
-  }
+    "isolatedModules": true,
+    "noEmit": true,
+    "jsx": "react-jsx"
+  },
+  "include": ["src"]
 }

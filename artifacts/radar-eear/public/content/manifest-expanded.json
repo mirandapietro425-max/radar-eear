@@ -1,0 +1,39 @@
+{
+  "package": "Radar EEAR — conteúdo expandido em português",
+  "version": "content-2026-09-26-expanded",
+  "generated_at": "2026-09-26",
+  "question_count_new": 172,
+  "new_question_subjects": [
+    "Português",
+    "Matemática",
+    "Física",
+    "Inglês"
+  ],
+  "new_editorial_files": [
+    "editorial/language-capsules-pt.json",
+    "editorial/science-aviation-capsules-pt.json",
+    "editorial/thinkers-expanded-pt.json",
+    "editorial/books-expansion-pt.json",
+    "editorial/rights-policy.json",
+    "editorial/content-coverage-expansion-pt.json"
+  ],
+  "rights_note": "Não inclui PDFs ou traduções modernas protegidas; obras protegidas têm metadados, resumo autoral e links legítimos.",
+  "question_addition_round_2": 40,
+  "media_registry": "editorial/media-registry.json",
+  "media_total": 185,
+  "question_addition_round_3": 40,
+  "atlas_country_research": "editorial/atlas-country-research-v26.json",
+  "research_packs_v26": "editorial/research-packs-v26.json",
+  "curiosities_v26": "editorial/curiosities-v26.json",
+  "media_registry_v26": "editorial/media-registry-v26.json",
+  "country_count": 15,
+  "atlas_point_count": 31,
+  "atlas_route_count": 12,
+  "country_curiosity_count": 75,
+  "atlas_runtime_data": "src/data/atlas-country-research-v26.ts",
+  "atlas_public_runtime_data": "editorial/atlas-country-research-runtime-v26.json",
+  "v26_drive_status": "research/V26_SUPER_UX_FINAL_STATUS.md",
+  "v26_research_brief": "research/MANU_RESEARCH_MEDIA_BRIEF_V26.md",
+  "curiosities_route": "/curiosidades",
+  "source_merge": "V26_SUPER_UX_CONTENT_INTEGRADO_2026-09-26.zip"
+}

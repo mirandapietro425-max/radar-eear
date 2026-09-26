@@ -1,0 +1,79 @@
+[
+  {
+    "id": "pt-encontros",
+    "title": "Português: uma língua de encontros",
+    "summary": "O português se formou lentamente a partir do latim falado, do galego-português e de contatos linguísticos.",
+    "topic": "História da Língua Portuguesa",
+    "content": "O português não nasceu em uma data única. Variedades faladas do latim se regionalizaram no oeste da Península Ibérica; o galego-português foi uma etapa decisiva e contatos posteriores ampliaram o vocabulário.",
+    "source": "https://letras.ufg.br/n/1844-as-origens-da-lingua-portuguesa",
+    "image": "images/language-pt-encontros.svg",
+    "difficulty": "básica/intermediária",
+    "estimated_reading_time": 2
+  },
+  {
+    "id": "pt-periodizacao",
+    "title": "Nem toda mudança cabe numa régua",
+    "summary": "Períodos históricos são hipóteses analíticas testadas em documentos.",
+    "topic": "Periodização e linguística histórica",
+    "content": "Som, grafia, morfologia, sintaxe, semântica e léxico não mudam todos no mesmo dia. A linha do tempo é uma ferramenta de estudo, não uma fronteira natural.",
+    "source": "https://revistas.udc.es/index.php/rgf/article/view/rgf.2019.20.0.5916",
+    "image": "images/language-periodizacao.svg",
+    "difficulty": "avançada",
+    "estimated_reading_time": 3
+  },
+  {
+    "id": "etimologia-trilhas",
+    "title": "De onde vem uma palavra?",
+    "summary": "Etimologia exige forma, sentido, data e evidência documental.",
+    "topic": "Etimologia",
+    "content": "Uma origem responsável rastreia ocorrência antiga, etimologia, abonação e fonte. Semelhança entre palavras não é prova suficiente.",
+    "source": "https://www.livrosabertos.abcd.usp.br/portaldelivrosUSP/catalog/book/220",
+    "image": "images/language-etimologia.svg",
+    "difficulty": "intermediária",
+    "estimated_reading_time": 2
+  },
+  {
+    "id": "falsos-amigos",
+    "title": "Actually não é atualmente",
+    "summary": "O contexto desarma falsos cognatos entre inglês e português.",
+    "topic": "Falsos cognatos",
+    "content": "Actually pode significar “na verdade”; eventually, “finalmente”; library, “biblioteca”; college, “faculdade”. A frase completa orienta a escolha.",
+    "source": "https://redeetec.mec.gov.br/images/stories/pdf/eixo_amb_saude_seguranca/tec_seguranca/ingles/291012_ing_a04.pdf",
+    "image": "images/language-falsos-amigos.svg",
+    "difficulty": "básica",
+    "estimated_reading_time": 2
+  },
+  {
+    "id": "expressoes-proverbios",
+    "title": "Expressão idiomática ou provérbio?",
+    "summary": "Sentido figurado não basta: função e estrutura ajudam a classificar.",
+    "topic": "Expressões e provérbios",
+    "content": "Uma expressão idiomática não se entende pela soma literal de suas partes. Um provérbio formula uma avaliação ou ensinamento geral.",
+    "source": "https://ciberduvidas.iscte-iul.pt/consultorio/perguntas/a-diferenca-entre-proverbio-e-expressao-idiomatica/32210",
+    "image": "images/language-expressoes.svg",
+    "difficulty": "intermediária",
+    "estimated_reading_time": 2
+  },
+  {
+    "id": "variacao-brasil",
+    "title": "Português brasileiro: unidade sem uniformidade",
+    "summary": "Variações regionais e sociais fazem parte da história viva da língua.",
+    "topic": "Regionalismos e sociolinguística",
+    "content": "O português brasileiro mantém uma unidade sistêmica e apresenta diferenças de pronúncia, vocabulário e tratamento ligadas a território, contato e situação de uso.",
+    "source": "https://ppgl.ufc.br/pt/pesquisa/projetos-de-pesquisa/descricao-e-analise-linguistica/atlas-linguistico-do-brasil-fase-iv/",
+    "image": "images/language-variacao.svg",
+    "difficulty": "básica/intermediária",
+    "estimated_reading_time": 3
+  },
+  {
+    "id": "cantigas-medievais",
+    "title": "Cantigas galego-portuguesas",
+    "summary": "A literatura medieval também é fonte para língua, música, autoria e manuscritos.",
+    "topic": "Literatura medieval",
+    "content": "A base de Cantigas Medievais Galego-Portuguesas permite estudar textos editados, manuscritos, glossário, autores, lugares e formas poéticas.",
+    "source": "https://cantigas.fcsh.unl.pt/apresentacao.asp",
+    "image": "images/language-cantigas.svg",
+    "difficulty": "intermediária",
+    "estimated_reading_time": 3
+  }
+]

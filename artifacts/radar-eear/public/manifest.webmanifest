@@ -1,0 +1,11 @@
+{
+  "name":"Radar EEAR",
+  "short_name":"Radar EEAR",
+  "lang":"pt-BR",
+  "start_url":"/",
+  "scope":"/",
+  "display":"standalone",
+  "theme_color":"#071622",
+  "background_color":"#071622",
+  "icons":[{"src":"/favicon.svg","sizes":"any","type":"image/svg+xml","purpose":"any maskable"}]
+}
