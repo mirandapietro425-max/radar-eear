@@ -1,0 +1,4750 @@
+{
+  "version": "v14",
+  "days": [
+    {
+      "day": 1,
+      "place_id": "country-ao",
+      "curiosity_id": "hub-babylon-v14-1",
+      "title_pt": "Descoberta do mundo · Dia 1",
+      "focus_pt": "Angola: Angola: ponto de entrada para descobrir história, ciência, cultura, matemática, física e ecologia desta parte do mundo.",
+      "sequence": [
+        "ver o lugar",
+        "abrir curiosidade",
+        "aprofundar",
+        "seguir conexão"
+      ]
+    },
+    {
+      "day": 2,
+      "place_id": "country-dz",
+      "curiosity_id": "hub-babylon-v14-2",
+      "title_pt": "Descoberta do mundo · Dia 2",
+      "focus_pt": "Argélia: Argélia: ponto de entrada para descobrir história, ciência, cultura, matemática, física e ecologia desta parte do mundo.",
+      "sequence": [
+        "ver o lugar",
+        "abrir curiosidade",
+        "aprofundar",
+        "seguir conexão"
+      ]
+    },
+    {
+      "day": 3,
+      "place_id": "country-bj",
+      "curiosity_id": "hub-babylon-v14-3",
+      "title_pt": "Descoberta do mundo · Dia 3",
+      "focus_pt": "Benin: Benin: ponto de entrada para descobrir história, ciência, cultura, matemática, física e ecologia desta parte do mundo.",
+      "sequence": [
+        "ver o lugar",
+        "abrir curiosidade",
+        "aprofundar",
+        "seguir conexão"
+      ]
+    },
+    {
+      "day": 4,
+      "place_id": "country-bw",
+      "curiosity_id": "hub-babylon-v14-4",
+      "title_pt": "Descoberta do mundo · Dia 4",
+      "focus_pt": "Botsuana: Botsuana: ponto de entrada para descobrir história, ciência, cultura, matemática, física e ecologia desta parte do mundo.",
+      "sequence": [
+        "ver o lugar",
+        "abrir curiosidade",
+        "aprofundar",
+        "seguir conexão"
+      ]
+    },
+    {
+      "day": 5,
+      "place_id": "country-bf",
+      "curiosity_id": "hub-babylon-v14-5",
+      "title_pt": "Descoberta do mundo · Dia 5",
+      "focus_pt": "Burquina Faso: Burquina Faso: ponto de entrada para descobrir história, ciência, cultura, matemática, física e ecologia desta parte do mundo.",
+      "sequence": [
+        "ver o lugar",
+        "abrir curiosidade",
+        "aprofundar",
+        "seguir conexão"
+      ]
+    },
+    {
+      "day": 6,
+      "place_id": "country-bi",
+      "curiosity_id": "hub-uruk-v14-1",
+      "title_pt": "Descoberta do mundo · Dia 6",
+      "focus_pt": "Burundi: Burundi: ponto de entrada para descobrir história, ciência, cultura, matemática, física e ecologia desta parte do mundo.",
+      "sequence": [
+        "ver o lugar",
+        "abrir curiosidade",
+        "aprofundar",
+        "seguir conexão"
+      ]
+    },
+    {
+      "day": 7,
+      "place_id": "country-cv",
+      "curiosity_id": "hub-uruk-v14-2",
+      "title_pt": "Descoberta do mundo · Dia 7",
+      "focus_pt": "Cabo Verde: Cabo Verde: ponto de entrada para descobrir história, ciência, cultura, matemática, física e ecologia desta parte do mundo.",
+      "sequence": [
+        "ver o lugar",
+        "abrir curiosidade",
+        "aprofundar",
+        "seguir conexão"
+      ]
+    },
+    {
+      "day": 8,
+      "place_id": "country-cm",
+      "curiosity_id": "hub-uruk-v14-3",
+      "title_pt": "Descoberta do mundo · Dia 8",
+      "focus_pt": "Camarões: Camarões: ponto de entrada para descobrir história, ciência, cultura, matemática, física e ecologia desta parte do mundo.",
+      "sequence": [
+        "ver o lugar",
+        "abrir curiosidade",
+        "aprofundar",
+        "seguir conexão"
+      ]
+    },
+    {
+      "day": 9,
+      "place_id": "country-td",
+      "curiosity_id": "hub-uruk-v14-4",
+      "title_pt": "Descoberta do mundo · Dia 9",
+      "focus_pt": "Chade: Chade: ponto de entrada para descobrir história, ciência, cultura, matemática, física e ecologia desta parte do mundo.",
+      "sequence": [
+        "ver o lugar",
+        "abrir curiosidade",
+        "aprofundar",
+        "seguir conexão"
+      ]
+    },
+    {
+      "day": 10,
+      "place_id": "country-km",
+      "curiosity_id": "hub-uruk-v14-5",
+      "title_pt": "Descoberta do mundo · Dia 10",
+      "focus_pt": "Comores: Comores: ponto de entrada para descobrir história, ciência, cultura, matemática, física e ecologia desta parte do mundo.",
+      "sequence": [
+        "ver o lugar",
+        "abrir curiosidade",
+        "aprofundar",
+        "seguir conexão"
+      ]
+    },
+    {
+      "day": 11,
+      "place_id": "country-cd",
+      "curiosity_id": "hub-giza-v14-1",
+      "title_pt": "Descoberta do mundo · Dia 11",
+      "focus_pt": "Congo - Kinshasa: Congo - Kinshasa: ponto de entrada para descobrir história, ciência, cultura, matemática, física e ecologia desta parte do mundo.",
+      "sequence": [
+        "ver o lugar",
+        "abrir curiosidade",
+        "aprofundar",
+        "seguir conexão"
+      ]
+    },
+    {
+      "day": 12,
+      "place_id": "country-ci",
+      "curiosity_id": "hub-giza-v14-2",
+      "title_pt": "Descoberta do mundo · Dia 12",
+      "focus_pt": "Costa do Marfim: Costa do Marfim: ponto de entrada para descobrir história, ciência, cultura, matemática, física e ecologia desta parte do mundo.",
+      "sequence": [
+        "ver o lugar",
+        "abrir curiosidade",
+        "aprofundar",
+        "seguir conexão"
+      ]
+    },
+    {
+      "day": 13,
+      "place_id": "country-dj",
+      "curiosity_id": "hub-giza-v14-3",
+      "title_pt": "Descoberta do mundo · Dia 13",
+      "focus_pt": "Djibuti: Djibuti: ponto de entrada para descobrir história, ciência, cultura, matemática, física e ecologia desta parte do mundo.",
+      "sequence": [
+        "ver o lugar",
+        "abrir curiosidade",
+        "aprofundar",
+        "seguir conexão"
+      ]
+    },
+    {
+      "day": 14,
+      "place_id": "country-eg",
+      "curiosity_id": "hub-giza-v14-4",
+      "title_pt": "Descoberta do mundo · Dia 14",
+      "focus_pt": "Egito: Egito: ponto de entrada para descobrir história, ciência, cultura, matemática, física e ecologia desta parte do mundo.",
+      "sequence": [
+        "ver o lugar",
+        "abrir curiosidade",
+        "aprofundar",
+        "seguir conexão"
+      ]
+    },
+    {
+      "day": 15,
+      "place_id": "country-er",
+      "curiosity_id": "hub-giza-v14-5",
+      "title_pt": "Descoberta do mundo · Dia 15",
+      "focus_pt": "Eritreia: Eritreia: ponto de entrada para descobrir história, ciência, cultura, matemática, física e ecologia desta parte do mundo.",
+      "sequence": [
+        "ver o lugar",
+        "abrir curiosidade",
+        "aprofundar",
+        "seguir conexão"
+      ]
+    },
+    {
+      "day": 16,
+      "place_id": "country-sz",
+      "curiosity_id": "hub-alexandria-v14-1",
+      "title_pt": "Descoberta do mundo · Dia 16",
+      "focus_pt": "Essuatíni: Essuatíni: ponto de entrada para descobrir história, ciência, cultura, matemática, física e ecologia desta parte do mundo.",
+      "sequence": [
+        "ver o lugar",
+        "abrir curiosidade",
+        "aprofundar",
+        "seguir conexão"
+      ]
+    },
+    {
+      "day": 17,
+      "place_id": "country-et",
+      "curiosity_id": "hub-alexandria-v14-2",
+      "title_pt": "Descoberta do mundo · Dia 17",
+      "focus_pt": "Etiópia: Etiópia: ponto de entrada para descobrir história, ciência, cultura, matemática, física e ecologia desta parte do mundo.",
+      "sequence": [
+        "ver o lugar",
+        "abrir curiosidade",
+        "aprofundar",
+        "seguir conexão"
+      ]
+    },
+    {
+      "day": 18,
+      "place_id": "country-ga",
+      "curiosity_id": "hub-alexandria-v14-3",
+      "title_pt": "Descoberta do mundo · Dia 18",
+      "focus_pt": "Gabão: Gabão: ponto de entrada para descobrir história, ciência, cultura, matemática, física e ecologia desta parte do mundo.",
+      "sequence": [
+        "ver o lugar",
+        "abrir curiosidade",
+        "aprofundar",
+        "seguir conexão"
+      ]
+    },
+    {
+      "day": 19,
+      "place_id": "country-gh",
+      "curiosity_id": "hub-alexandria-v14-4",
+      "title_pt": "Descoberta do mundo · Dia 19",
+      "focus_pt": "Gana: Gana: ponto de entrada para descobrir história, ciência, cultura, matemática, física e ecologia desta parte do mundo.",
+      "sequence": [
+        "ver o lugar",
+        "abrir curiosidade",
+        "aprofundar",
+        "seguir conexão"
+      ]
+    },
+    {
+      "day": 20,
+      "place_id": "country-gn",
+      "curiosity_id": "hub-alexandria-v14-5",
+      "title_pt": "Descoberta do mundo · Dia 20",
+      "focus_pt": "Guiné: Guiné: ponto de entrada para descobrir história, ciência, cultura, matemática, física e ecologia desta parte do mundo.",
+      "sequence": [
+        "ver o lugar",
+        "abrir curiosidade",
+        "aprofundar",
+        "seguir conexão"
+      ]
+    },
+    {
+      "day": 21,
+      "place_id": "country-gq",
+      "curiosity_id": "hub-jerusalem-v14-1",
+      "title_pt": "Descoberta do mundo · Dia 21",
+      "focus_pt": "Guiné Equatorial: Guiné Equatorial: ponto de entrada para descobrir história, ciência, cultura, matemática, física e ecologia desta parte do mundo.",
+      "sequence": [
+        "ver o lugar",
+        "abrir curiosidade",
+        "aprofundar",
+        "seguir conexão"
+      ]
+    },
+    {
+      "day": 22,
+      "place_id": "country-gw",
+      "curiosity_id": "hub-jerusalem-v14-2",
+      "title_pt": "Descoberta do mundo · Dia 22",
+      "focus_pt": "Guiné-Bissau: Guiné-Bissau: ponto de entrada para descobrir história, ciência, cultura, matemática, física e ecologia desta parte do mundo.",
+      "sequence": [
+        "ver o lugar",
+        "abrir curiosidade",
+        "aprofundar",
+        "seguir conexão"
+      ]
+    },
+    {
+      "day": 23,
+      "place_id": "country-gm",
+      "curiosity_id": "hub-jerusalem-v14-3",
+      "title_pt": "Descoberta do mundo · Dia 23",
+      "focus_pt": "Gâmbia: Gâmbia: ponto de entrada para descobrir história, ciência, cultura, matemática, física e ecologia desta parte do mundo.",
+      "sequence": [
+        "ver o lugar",
+        "abrir curiosidade",
+        "aprofundar",
+        "seguir conexão"
+      ]
+    },
+    {
+      "day": 24,
+      "place_id": "country-ls",
+      "curiosity_id": "hub-jerusalem-v14-4",
+      "title_pt": "Descoberta do mundo · Dia 24",
+      "focus_pt": "Lesoto: Lesoto: ponto de entrada para descobrir história, ciência, cultura, matemática, física e ecologia desta parte do mundo.",
+      "sequence": [
+        "ver o lugar",
+        "abrir curiosidade",
+        "aprofundar",
+        "seguir conexão"
+      ]
+    },
+    {
+      "day": 25,
+      "place_id": "country-lr",
+      "curiosity_id": "hub-jerusalem-v14-5",
+      "title_pt": "Descoberta do mundo · Dia 25",
+      "focus_pt": "Libéria: Libéria: ponto de entrada para descobrir história, ciência, cultura, matemática, física e ecologia desta parte do mundo.",
+      "sequence": [
+        "ver o lugar",
+        "abrir curiosidade",
+        "aprofundar",
+        "seguir conexão"
+      ]
+    },
+    {
+      "day": 26,
+      "place_id": "country-ly",
+      "curiosity_id": "hub-qumran-v14-1",
+      "title_pt": "Descoberta do mundo · Dia 26",
+      "focus_pt": "Líbia: Líbia: ponto de entrada para descobrir história, ciência, cultura, matemática, física e ecologia desta parte do mundo.",
+      "sequence": [
+        "ver o lugar",
+        "abrir curiosidade",
+        "aprofundar",
+        "seguir conexão"
+      ]
+    },
+    {
+      "day": 27,
+      "place_id": "country-mg",
+      "curiosity_id": "hub-qumran-v14-2",
+      "title_pt": "Descoberta do mundo · Dia 27",
+      "focus_pt": "Madagascar: Madagascar: ponto de entrada para descobrir história, ciência, cultura, matemática, física e ecologia desta parte do mundo.",
+      "sequence": [
+        "ver o lugar",
+        "abrir curiosidade",
+        "aprofundar",
+        "seguir conexão"
+      ]
+    },
+    {
+      "day": 28,
+      "place_id": "country-mw",
+      "curiosity_id": "hub-qumran-v14-3",
+      "title_pt": "Descoberta do mundo · Dia 28",
+      "focus_pt": "Malaui: Malaui: ponto de entrada para descobrir história, ciência, cultura, matemática, física e ecologia desta parte do mundo.",
+      "sequence": [
+        "ver o lugar",
+        "abrir curiosidade",
+        "aprofundar",
+        "seguir conexão"
+      ]
+    },
+    {
+      "day": 29,
+      "place_id": "country-ml",
+      "curiosity_id": "hub-qumran-v14-4",
+      "title_pt": "Descoberta do mundo · Dia 29",
+      "focus_pt": "Mali: Mali: ponto de entrada para descobrir história, ciência, cultura, matemática, física e ecologia desta parte do mundo.",
+      "sequence": [
+        "ver o lugar",
+        "abrir curiosidade",
+        "aprofundar",
+        "seguir conexão"
+      ]
+    },
+    {
+      "day": 30,
+      "place_id": "country-ma",
+      "curiosity_id": "hub-qumran-v14-5",
+      "title_pt": "Descoberta do mundo · Dia 30",
+      "focus_pt": "Marrocos: Marrocos: ponto de entrada para descobrir história, ciência, cultura, matemática, física e ecologia desta parte do mundo.",
+      "sequence": [
+        "ver o lugar",
+        "abrir curiosidade",
+        "aprofundar",
+        "seguir conexão"
+      ]
+    },
+    {
+      "day": 31,
+      "place_id": "country-mr",
+      "curiosity_id": "hub-athens-v14-1",
+      "title_pt": "Descoberta do mundo · Dia 31",
+      "focus_pt": "Mauritânia: Mauritânia: ponto de entrada para descobrir história, ciência, cultura, matemática, física e ecologia desta parte do mundo.",
+      "sequence": [
+        "ver o lugar",
+        "abrir curiosidade",
+        "aprofundar",
+        "seguir conexão"
+      ]
+    },
+    {
+      "day": 32,
+      "place_id": "country-mu",
+      "curiosity_id": "hub-athens-v14-2",
+      "title_pt": "Descoberta do mundo · Dia 32",
+      "focus_pt": "Maurício: Maurício: ponto de entrada para descobrir história, ciência, cultura, matemática, física e ecologia desta parte do mundo.",
+      "sequence": [
+        "ver o lugar",
+        "abrir curiosidade",
+        "aprofundar",
+        "seguir conexão"
+      ]
+    },
+    {
+      "day": 33,
+      "place_id": "country-yt",
+      "curiosity_id": "hub-athens-v14-3",
+      "title_pt": "Descoberta do mundo · Dia 33",
+      "focus_pt": "Mayotte: Mayotte: ponto de entrada para descobrir história, ciência, cultura, matemática, física e ecologia desta parte do mundo.",
+      "sequence": [
+        "ver o lugar",
+        "abrir curiosidade",
+        "aprofundar",
+        "seguir conexão"
+      ]
+    },
+    {
+      "day": 34,
+      "place_id": "country-mz",
+      "curiosity_id": "hub-athens-v14-4",
+      "title_pt": "Descoberta do mundo · Dia 34",
+      "focus_pt": "Moçambique: Moçambique: ponto de entrada para descobrir história, ciência, cultura, matemática, física e ecologia desta parte do mundo.",
+      "sequence": [
+        "ver o lugar",
+        "abrir curiosidade",
+        "aprofundar",
+        "seguir conexão"
+      ]
+    },
+    {
+      "day": 35,
+      "place_id": "country-na",
+      "curiosity_id": "hub-athens-v14-5",
+      "title_pt": "Descoberta do mundo · Dia 35",
+      "focus_pt": "Namíbia: Namíbia: ponto de entrada para descobrir história, ciência, cultura, matemática, física e ecologia desta parte do mundo.",
+      "sequence": [
+        "ver o lugar",
+        "abrir curiosidade",
+        "aprofundar",
+        "seguir conexão"
+      ]
+    },
+    {
+      "day": 36,
+      "place_id": "country-ng",
+      "curiosity_id": "hub-rome-v14-1",
+      "title_pt": "Descoberta do mundo · Dia 36",
+      "focus_pt": "Nigéria: Nigéria: ponto de entrada para descobrir história, ciência, cultura, matemática, física e ecologia desta parte do mundo.",
+      "sequence": [
+        "ver o lugar",
+        "abrir curiosidade",
+        "aprofundar",
+        "seguir conexão"
+      ]
+    },
+    {
+      "day": 37,
+      "place_id": "country-ke",
+      "curiosity_id": "hub-rome-v14-2",
+      "title_pt": "Descoberta do mundo · Dia 37",
+      "focus_pt": "Quênia: Quênia: ponto de entrada para descobrir história, ciência, cultura, matemática, física e ecologia desta parte do mundo.",
+      "sequence": [
+        "ver o lugar",
+        "abrir curiosidade",
+        "aprofundar",
+        "seguir conexão"
+      ]
+    },
+    {
+      "day": 38,
+      "place_id": "country-cf",
+      "curiosity_id": "hub-rome-v14-3",
+      "title_pt": "Descoberta do mundo · Dia 38",
+      "focus_pt": "República Centro-Africana: República Centro-Africana: ponto de entrada para descobrir história, ciência, cultura, matemática, física e ecologia desta parte do mundo.",
+      "sequence": [
+        "ver o lugar",
+        "abrir curiosidade",
+        "aprofundar",
+        "seguir conexão"
+      ]
+    },
+    {
+      "day": 39,
+      "place_id": "country-cg",
+      "curiosity_id": "hub-rome-v14-4",
+      "title_pt": "Descoberta do mundo · Dia 39",
+      "focus_pt": "República do Congo: República do Congo: ponto de entrada para descobrir história, ciência, cultura, matemática, física e ecologia desta parte do mundo.",
+      "sequence": [
+        "ver o lugar",
+        "abrir curiosidade",
+        "aprofundar",
+        "seguir conexão"
+      ]
+    },
+    {
+      "day": 40,
+      "place_id": "country-re",
+      "curiosity_id": "hub-rome-v14-5",
+      "title_pt": "Descoberta do mundo · Dia 40",
+      "focus_pt": "Reunião: Reunião: ponto de entrada para descobrir história, ciência, cultura, matemática, física e ecologia desta parte do mundo.",
+      "sequence": [
+        "ver o lugar",
+        "abrir curiosidade",
+        "aprofundar",
+        "seguir conexão"
+      ]
+    },
+    {
+      "day": 41,
+      "place_id": "country-rw",
+      "curiosity_id": "hub-corinth-v14-1",
+      "title_pt": "Descoberta do mundo · Dia 41",
+      "focus_pt": "Ruanda: Ruanda: ponto de entrada para descobrir história, ciência, cultura, matemática, física e ecologia desta parte do mundo.",
+      "sequence": [
+        "ver o lugar",
+        "abrir curiosidade",
+        "aprofundar",
+        "seguir conexão"
+      ]
+    },
+    {
+      "day": 42,
+      "place_id": "country-eh",
+      "curiosity_id": "hub-corinth-v14-2",
+      "title_pt": "Descoberta do mundo · Dia 42",
+      "focus_pt": "Saara Ocidental: Saara Ocidental: ponto de entrada para descobrir história, ciência, cultura, matemática, física e ecologia desta parte do mundo.",
+      "sequence": [
+        "ver o lugar",
+        "abrir curiosidade",
+        "aprofundar",
+        "seguir conexão"
+      ]
+    },
+    {
+      "day": 43,
+      "place_id": "country-sh",
+      "curiosity_id": "hub-corinth-v14-3",
+      "title_pt": "Descoberta do mundo · Dia 43",
+      "focus_pt": "Santa Helena: Santa Helena: ponto de entrada para descobrir história, ciência, cultura, matemática, física e ecologia desta parte do mundo.",
+      "sequence": [
+        "ver o lugar",
+        "abrir curiosidade",
+        "aprofundar",
+        "seguir conexão"
+      ]
+    },
+    {
+      "day": 44,
+      "place_id": "country-sc",
+      "curiosity_id": "hub-corinth-v14-4",
+      "title_pt": "Descoberta do mundo · Dia 44",
+      "focus_pt": "Seicheles: Seicheles: ponto de entrada para descobrir história, ciência, cultura, matemática, física e ecologia desta parte do mundo.",
+      "sequence": [
+        "ver o lugar",
+        "abrir curiosidade",
+        "aprofundar",
+        "seguir conexão"
+      ]
+    },
+    {
+      "day": 45,
+      "place_id": "country-sn",
+      "curiosity_id": "hub-corinth-v14-5",
+      "title_pt": "Descoberta do mundo · Dia 45",
+      "focus_pt": "Senegal: Senegal: ponto de entrada para descobrir história, ciência, cultura, matemática, física e ecologia desta parte do mundo.",
+      "sequence": [
+        "ver o lugar",
+        "abrir curiosidade",
+        "aprofundar",
+        "seguir conexão"
+      ]
+    },
+    {
+      "day": 46,
+      "place_id": "country-sl",
+      "curiosity_id": "hub-ephesus-v14-1",
+      "title_pt": "Descoberta do mundo · Dia 46",
+      "focus_pt": "Serra Leoa: Serra Leoa: ponto de entrada para descobrir história, ciência, cultura, matemática, física e ecologia desta parte do mundo.",
+      "sequence": [
+        "ver o lugar",
+        "abrir curiosidade",
+        "aprofundar",
+        "seguir conexão"
+      ]
+    },
+    {
+      "day": 47,
+      "place_id": "country-so",
+      "curiosity_id": "hub-ephesus-v14-2",
+      "title_pt": "Descoberta do mundo · Dia 47",
+      "focus_pt": "Somália: Somália: ponto de entrada para descobrir história, ciência, cultura, matemática, física e ecologia desta parte do mundo.",
+      "sequence": [
+        "ver o lugar",
+        "abrir curiosidade",
+        "aprofundar",
+        "seguir conexão"
+      ]
+    },
+    {
+      "day": 48,
+      "place_id": "country-sd",
+      "curiosity_id": "hub-ephesus-v14-3",
+      "title_pt": "Descoberta do mundo · Dia 48",
+      "focus_pt": "Sudão: Sudão: ponto de entrada para descobrir história, ciência, cultura, matemática, física e ecologia desta parte do mundo.",
+      "sequence": [
+        "ver o lugar",
+        "abrir curiosidade",
+        "aprofundar",
+        "seguir conexão"
+      ]
+    },
+    {
+      "day": 49,
+      "place_id": "country-ss",
+      "curiosity_id": "hub-ephesus-v14-4",
+      "title_pt": "Descoberta do mundo · Dia 49",
+      "focus_pt": "Sudão do Sul: Sudão do Sul: ponto de entrada para descobrir história, ciência, cultura, matemática, física e ecologia desta parte do mundo.",
+      "sequence": [
+        "ver o lugar",
+        "abrir curiosidade",
+        "aprofundar",
+        "seguir conexão"
+      ]
+    },
+    {
+      "day": 50,
+      "place_id": "country-st",
+      "curiosity_id": "hub-ephesus-v14-5",
+      "title_pt": "Descoberta do mundo · Dia 50",
+      "focus_pt": "São Tomé e Príncipe: São Tomé e Príncipe: ponto de entrada para descobrir história, ciência, cultura, matemática, física e ecologia desta parte do mundo.",
+      "sequence": [
+        "ver o lugar",
+        "abrir curiosidade",
+        "aprofundar",
+        "seguir conexão"
+      ]
+    },
+    {
+      "day": 51,
+      "place_id": "country-tz",
+      "curiosity_id": "hub-tarsus-v14-1",
+      "title_pt": "Descoberta do mundo · Dia 51",
+      "focus_pt": "Tanzânia: Tanzânia: ponto de entrada para descobrir história, ciência, cultura, matemática, física e ecologia desta parte do mundo.",
+      "sequence": [
+        "ver o lugar",
+        "abrir curiosidade",
+        "aprofundar",
+        "seguir conexão"
+      ]
+    },
+    {
+      "day": 52,
+      "place_id": "country-io",
+      "curiosity_id": "hub-tarsus-v14-2",
+      "title_pt": "Descoberta do mundo · Dia 52",
+      "focus_pt": "Território Britânico do Oceano Índico: Território Britânico do Oceano Índico: ponto de entrada para descobrir história, ciência, cultura, matemática, física e ecologia desta parte do mundo.",
+      "sequence": [
+        "ver o lugar",
+        "abrir curiosidade",
+        "aprofundar",
+        "seguir conexão"
+      ]
+    },
+    {
+      "day": 53,
+      "place_id": "country-tg",
+      "curiosity_id": "hub-tarsus-v14-3",
+      "title_pt": "Descoberta do mundo · Dia 53",
+      "focus_pt": "Togo: Togo: ponto de entrada para descobrir história, ciência, cultura, matemática, física e ecologia desta parte do mundo.",
+      "sequence": [
+        "ver o lugar",
+        "abrir curiosidade",
+        "aprofundar",
+        "seguir conexão"
+      ]
+    },
+    {
+      "day": 54,
+      "place_id": "country-tn",
+      "curiosity_id": "hub-tarsus-v14-4",
+      "title_pt": "Descoberta do mundo · Dia 54",
+      "focus_pt": "Tunísia: Tunísia: ponto de entrada para descobrir história, ciência, cultura, matemática, física e ecologia desta parte do mundo.",
+      "sequence": [
+        "ver o lugar",
+        "abrir curiosidade",
+        "aprofundar",
+        "seguir conexão"
+      ]
+    },
+    {
+      "day": 55,
+      "place_id": "country-ug",
+      "curiosity_id": "hub-tarsus-v14-5",
+      "title_pt": "Descoberta do mundo · Dia 55",
+      "focus_pt": "Uganda: Uganda: ponto de entrada para descobrir história, ciência, cultura, matemática, física e ecologia desta parte do mundo.",
+      "sequence": [
+        "ver o lugar",
+        "abrir curiosidade",
+        "aprofundar",
+        "seguir conexão"
+      ]
+    },
+    {
+      "day": 56,
+      "place_id": "country-zw",
+      "curiosity_id": "hub-damascus-v14-1",
+      "title_pt": "Descoberta do mundo · Dia 56",
+      "focus_pt": "Zimbábue: Zimbábue: ponto de entrada para descobrir história, ciência, cultura, matemática, física e ecologia desta parte do mundo.",
+      "sequence": [
+        "ver o lugar",
+        "abrir curiosidade",
+        "aprofundar",
+        "seguir conexão"
+      ]
+    },
+    {
+      "day": 57,
+      "place_id": "country-zm",
+      "curiosity_id": "hub-damascus-v14-2",
+      "title_pt": "Descoberta do mundo · Dia 57",
+      "focus_pt": "Zâmbia: Zâmbia: ponto de entrada para descobrir história, ciência, cultura, matemática, física e ecologia desta parte do mundo.",
+      "sequence": [
+        "ver o lugar",
+        "abrir curiosidade",
+        "aprofundar",
+        "seguir conexão"
+      ]
+    },
+    {
+      "day": 58,
+      "place_id": "country-za",
+      "curiosity_id": "hub-damascus-v14-3",
+      "title_pt": "Descoberta do mundo · Dia 58",
+      "focus_pt": "África do Sul: África do Sul: ponto de entrada para descobrir história, ciência, cultura, matemática, física e ecologia desta parte do mundo.",
+      "sequence": [
+        "ver o lugar",
+        "abrir curiosidade",
+        "aprofundar",
+        "seguir conexão"
+      ]
+    },
+    {
+      "day": 59,
+      "place_id": "hub-cordoba",
+      "curiosity_id": "hub-damascus-v14-4",
+      "title_pt": "Descoberta do mundo · Dia 59",
+      "focus_pt": "Córdoba: Centro de intercâmbio intelectual onde tradições greco-romanas, judaicas e islâmicas entraram em contato.",
+      "sequence": [
+        "ver o lugar",
+        "abrir curiosidade",
+        "aprofundar",
+        "seguir conexão"
+      ]
+    },
+    {
+      "day": 60,
+      "place_id": "hub-berlin",
+      "curiosity_id": "hub-damascus-v14-5",
+      "title_pt": "Descoberta do mundo · Dia 60",
+      "focus_pt": "Berlim: História científica e intelectual, com conexões a Planck, Einstein e a cultura moderna.",
+      "sequence": [
+        "ver o lugar",
+        "abrir curiosidade",
+        "aprofundar",
+        "seguir conexão"
+      ]
+    },
+    {
+      "day": 61,
+      "place_id": "country-ai",
+      "curiosity_id": "hub-antioch-v14-1",
+      "title_pt": "Descoberta do mundo · Dia 61",
+      "focus_pt": "Anguila: Anguila: ponto de entrada para descobrir história, ciência, cultura, matemática, física e ecologia desta parte do mundo.",
+      "sequence": [
+        "ver o lugar",
+        "abrir curiosidade",
+        "aprofundar",
+        "seguir conexão"
+      ]
+    },
+    {
+      "day": 62,
+      "place_id": "country-ag",
+      "curiosity_id": "hub-antioch-v14-2",
+      "title_pt": "Descoberta do mundo · Dia 62",
+      "focus_pt": "Antígua e Barbuda: Antígua e Barbuda: ponto de entrada para descobrir história, ciência, cultura, matemática, física e ecologia desta parte do mundo.",
+      "sequence": [
+        "ver o lugar",
+        "abrir curiosidade",
+        "aprofundar",
+        "seguir conexão"
+      ]
+    },
+    {
+      "day": 63,
+      "place_id": "country-ar",
+      "curiosity_id": "hub-antioch-v14-3",
+      "title_pt": "Descoberta do mundo · Dia 63",
+      "focus_pt": "Argentina: Argentina: ponto de entrada para descobrir história, ciência, cultura, matemática, física e ecologia desta parte do mundo.",
+      "sequence": [
+        "ver o lugar",
+        "abrir curiosidade",
+        "aprofundar",
+        "seguir conexão"
+      ]
+    },
+    {
+      "day": 64,
+      "place_id": "country-aw",
+      "curiosity_id": "hub-antioch-v14-4",
+      "title_pt": "Descoberta do mundo · Dia 64",
+      "focus_pt": "Aruba: Aruba: ponto de entrada para descobrir história, ciência, cultura, matemática, física e ecologia desta parte do mundo.",
+      "sequence": [
+        "ver o lugar",
+        "abrir curiosidade",
+        "aprofundar",
+        "seguir conexão"
+      ]
+    },
+    {
+      "day": 65,
+      "place_id": "country-bs",
+      "curiosity_id": "hub-antioch-v14-5",
+      "title_pt": "Descoberta do mundo · Dia 65",
+      "focus_pt": "Bahamas: Bahamas: ponto de entrada para descobrir história, ciência, cultura, matemática, física e ecologia desta parte do mundo.",
+      "sequence": [
+        "ver o lugar",
+        "abrir curiosidade",
+        "aprofundar",
+        "seguir conexão"
+      ]
+    },
+    {
+      "day": 66,
+      "place_id": "country-bb",
+      "curiosity_id": "hub-baghdad-v14-1",
+      "title_pt": "Descoberta do mundo · Dia 66",
+      "focus_pt": "Barbados: Barbados: ponto de entrada para descobrir história, ciência, cultura, matemática, física e ecologia desta parte do mundo.",
+      "sequence": [
+        "ver o lugar",
+        "abrir curiosidade",
+        "aprofundar",
+        "seguir conexão"
+      ]
+    },
+    {
+      "day": 67,
+      "place_id": "country-bz",
+      "curiosity_id": "hub-baghdad-v14-2",
+      "title_pt": "Descoberta do mundo · Dia 67",
+      "focus_pt": "Belize: Belize: ponto de entrada para descobrir história, ciência, cultura, matemática, física e ecologia desta parte do mundo.",
+      "sequence": [
+        "ver o lugar",
+        "abrir curiosidade",
+        "aprofundar",
+        "seguir conexão"
+      ]
+    },
+    {
+      "day": 68,
+      "place_id": "country-bm",
+      "curiosity_id": "hub-baghdad-v14-3",
+      "title_pt": "Descoberta do mundo · Dia 68",
+      "focus_pt": "Bermudas: Bermudas: ponto de entrada para descobrir história, ciência, cultura, matemática, física e ecologia desta parte do mundo.",
+      "sequence": [
+        "ver o lugar",
+        "abrir curiosidade",
+        "aprofundar",
+        "seguir conexão"
+      ]
+    },
+    {
+      "day": 69,
+      "place_id": "country-bo",
+      "curiosity_id": "hub-baghdad-v14-4",
+      "title_pt": "Descoberta do mundo · Dia 69",
+      "focus_pt": "Bolívia: Bolívia: ponto de entrada para descobrir história, ciência, cultura, matemática, física e ecologia desta parte do mundo.",
+      "sequence": [
+        "ver o lugar",
+        "abrir curiosidade",
+        "aprofundar",
+        "seguir conexão"
+      ]
+    },
+    {
+      "day": 70,
+      "place_id": "country-br",
+      "curiosity_id": "hub-baghdad-v14-5",
+      "title_pt": "Descoberta do mundo · Dia 70",
+      "focus_pt": "Brasil: Brasil: ponto de entrada para descobrir história, ciência, cultura, matemática, física e ecologia desta parte do mundo.",
+      "sequence": [
+        "ver o lugar",
+        "abrir curiosidade",
+        "aprofundar",
+        "seguir conexão"
+      ]
+    },
+    {
+      "day": 71,
+      "place_id": "country-ca",
+      "curiosity_id": "hub-samarkand-v14-1",
+      "title_pt": "Descoberta do mundo · Dia 71",
+      "focus_pt": "Canadá: Canadá: ponto de entrada para descobrir história, ciência, cultura, matemática, física e ecologia desta parte do mundo.",
+      "sequence": [
+        "ver o lugar",
+        "abrir curiosidade",
+        "aprofundar",
+        "seguir conexão"
+      ]
+    },
+    {
+      "day": 72,
+      "place_id": "country-cl",
+      "curiosity_id": "hub-samarkand-v14-2",
+      "title_pt": "Descoberta do mundo · Dia 72",
+      "focus_pt": "Chile: Chile: ponto de entrada para descobrir história, ciência, cultura, matemática, física e ecologia desta parte do mundo.",
+      "sequence": [
+        "ver o lugar",
+        "abrir curiosidade",
+        "aprofundar",
+        "seguir conexão"
+      ]
+    },
+    {
+      "day": 73,
+      "place_id": "country-co",
+      "curiosity_id": "hub-samarkand-v14-3",
+      "title_pt": "Descoberta do mundo · Dia 73",
+      "focus_pt": "Colômbia: Colômbia: ponto de entrada para descobrir história, ciência, cultura, matemática, física e ecologia desta parte do mundo.",
+      "sequence": [
+        "ver o lugar",
+        "abrir curiosidade",
+        "aprofundar",
+        "seguir conexão"
+      ]
+    },
+    {
+      "day": 74,
+      "place_id": "country-cr",
+      "curiosity_id": "hub-samarkand-v14-4",
+      "title_pt": "Descoberta do mundo · Dia 74",
+      "focus_pt": "Costa Rica: Costa Rica: ponto de entrada para descobrir história, ciência, cultura, matemática, física e ecologia desta parte do mundo.",
+      "sequence": [
+        "ver o lugar",
+        "abrir curiosidade",
+        "aprofundar",
+        "seguir conexão"
+      ]
+    },
+    {
+      "day": 75,
+      "place_id": "country-cu",
+      "curiosity_id": "hub-samarkand-v14-5",
+      "title_pt": "Descoberta do mundo · Dia 75",
+      "focus_pt": "Cuba: Cuba: ponto de entrada para descobrir história, ciência, cultura, matemática, física e ecologia desta parte do mundo.",
+      "sequence": [
+        "ver o lugar",
+        "abrir curiosidade",
+        "aprofundar",
+        "seguir conexão"
+      ]
+    },
+    {
+      "day": 76,
+      "place_id": "country-dm",
+      "curiosity_id": "hub-cordoba-v14-1",
+      "title_pt": "Descoberta do mundo · Dia 76",
+      "focus_pt": "Dominica: Dominica: ponto de entrada para descobrir história, ciência, cultura, matemática, física e ecologia desta parte do mundo.",
+      "sequence": [
+        "ver o lugar",
+        "abrir curiosidade",
+        "aprofundar",
+        "seguir conexão"
+      ]
+    },
+    {
+      "day": 77,
+      "place_id": "country-sv",
+      "curiosity_id": "hub-cordoba-v14-2",
+      "title_pt": "Descoberta do mundo · Dia 77",
+      "focus_pt": "El Salvador: El Salvador: ponto de entrada para descobrir história, ciência, cultura, matemática, física e ecologia desta parte do mundo.",
+      "sequence": [
+        "ver o lugar",
+        "abrir curiosidade",
+        "aprofundar",
+        "seguir conexão"
+      ]
+    },
+    {
+      "day": 78,
+      "place_id": "country-ec",
+      "curiosity_id": "hub-cordoba-v14-3",
+      "title_pt": "Descoberta do mundo · Dia 78",
+      "focus_pt": "Equador: Equador: ponto de entrada para descobrir história, ciência, cultura, matemática, física e ecologia desta parte do mundo.",
+      "sequence": [
+        "ver o lugar",
+        "abrir curiosidade",
+        "aprofundar",
+        "seguir conexão"
+      ]
+    },
+    {
+      "day": 79,
+      "place_id": "country-us",
+      "curiosity_id": "hub-cordoba-v14-4",
+      "title_pt": "Descoberta do mundo · Dia 79",
+      "focus_pt": "Estados Unidos: Estados Unidos: ponto de entrada para descobrir história, ciência, cultura, matemática, física e ecologia desta parte do mundo.",
+      "sequence": [
+        "ver o lugar",
+        "abrir curiosidade",
+        "aprofundar",
+        "seguir conexão"
+      ]
+    },
+    {
+      "day": 80,
+      "place_id": "country-gd",
+      "curiosity_id": "hub-cordoba-v14-5",
+      "title_pt": "Descoberta do mundo · Dia 80",
+      "focus_pt": "Granada: Granada: ponto de entrada para descobrir história, ciência, cultura, matemática, física e ecologia desta parte do mundo.",
+      "sequence": [
+        "ver o lugar",
+        "abrir curiosidade",
+        "aprofundar",
+        "seguir conexão"
+      ]
+    },
+    {
+      "day": 81,
+      "place_id": "country-gl",
+      "curiosity_id": "hub-florence-v14-1",
+      "title_pt": "Descoberta do mundo · Dia 81",
+      "focus_pt": "Groenlândia: Groenlândia: ponto de entrada para descobrir história, ciência, cultura, matemática, física e ecologia desta parte do mundo.",
+      "sequence": [
+        "ver o lugar",
+        "abrir curiosidade",
+        "aprofundar",
+        "seguir conexão"
+      ]
+    },
+    {
+      "day": 82,
+      "place_id": "country-gp",
+      "curiosity_id": "hub-florence-v14-2",
+      "title_pt": "Descoberta do mundo · Dia 82",
+      "focus_pt": "Guadalupe: Guadalupe: ponto de entrada para descobrir história, ciência, cultura, matemática, física e ecologia desta parte do mundo.",
+      "sequence": [
+        "ver o lugar",
+        "abrir curiosidade",
+        "aprofundar",
+        "seguir conexão"
+      ]
+    },
+    {
+      "day": 83,
+      "place_id": "country-gt",
+      "curiosity_id": "hub-florence-v14-3",
+      "title_pt": "Descoberta do mundo · Dia 83",
+      "focus_pt": "Guatemala: Guatemala: ponto de entrada para descobrir história, ciência, cultura, matemática, física e ecologia desta parte do mundo.",
+      "sequence": [
+        "ver o lugar",
+        "abrir curiosidade",
+        "aprofundar",
+        "seguir conexão"
+      ]
+    },
+    {
+      "day": 84,
+      "place_id": "country-gy",
+      "curiosity_id": "hub-florence-v14-4",
+      "title_pt": "Descoberta do mundo · Dia 84",
+      "focus_pt": "Guiana: Guiana: ponto de entrada para descobrir história, ciência, cultura, matemática, física e ecologia desta parte do mundo.",
+      "sequence": [
+        "ver o lugar",
+        "abrir curiosidade",
+        "aprofundar",
+        "seguir conexão"
+      ]
+    },
+    {
+      "day": 85,
+      "place_id": "country-gf",
+      "curiosity_id": "hub-florence-v14-5",
+      "title_pt": "Descoberta do mundo · Dia 85",
+      "focus_pt": "Guiana Francesa: Guiana Francesa: ponto de entrada para descobrir história, ciência, cultura, matemática, física e ecologia desta parte do mundo.",
+      "sequence": [
+        "ver o lugar",
+        "abrir curiosidade",
+        "aprofundar",
+        "seguir conexão"
+      ]
+    },
+    {
+      "day": 86,
+      "place_id": "country-ht",
+      "curiosity_id": "hub-pisa-v14-1",
+      "title_pt": "Descoberta do mundo · Dia 86",
+      "focus_pt": "Haiti: Haiti: ponto de entrada para descobrir história, ciência, cultura, matemática, física e ecologia desta parte do mundo.",
+      "sequence": [
+        "ver o lugar",
+        "abrir curiosidade",
+        "aprofundar",
+        "seguir conexão"
+      ]
+    },
+    {
+      "day": 87,
+      "place_id": "country-hn",
+      "curiosity_id": "hub-pisa-v14-2",
+      "title_pt": "Descoberta do mundo · Dia 87",
+      "focus_pt": "Honduras: Honduras: ponto de entrada para descobrir história, ciência, cultura, matemática, física e ecologia desta parte do mundo.",
+      "sequence": [
+        "ver o lugar",
+        "abrir curiosidade",
+        "aprofundar",
+        "seguir conexão"
+      ]
+    },
+    {
+      "day": 88,
+      "place_id": "country-ky",
+      "curiosity_id": "hub-pisa-v14-3",
+      "title_pt": "Descoberta do mundo · Dia 88",
+      "focus_pt": "Ilhas Cayman: Ilhas Cayman: ponto de entrada para descobrir história, ciência, cultura, matemática, física e ecologia desta parte do mundo.",
+      "sequence": [
+        "ver o lugar",
+        "abrir curiosidade",
+        "aprofundar",
+        "seguir conexão"
+      ]
+    },
+    {
+      "day": 89,
+      "place_id": "country-gs",
+      "curiosity_id": "hub-pisa-v14-4",
+      "title_pt": "Descoberta do mundo · Dia 89",
+      "focus_pt": "Ilhas Geórgia do Sul e Sandwich do Sul: Ilhas Geórgia do Sul e Sandwich do Sul: ponto de entrada para descobrir história, ciência, cultura, matemática, física e ecologia desta parte do mundo.",
+      "sequence": [
+        "ver o lugar",
+        "abrir curiosidade",
+        "aprofundar",
+        "seguir conexão"
+      ]
+    },
+    {
+      "day": 90,
+      "place_id": "country-fk",
+      "curiosity_id": "hub-pisa-v14-5",
+      "title_pt": "Descoberta do mundo · Dia 90",
+      "focus_pt": "Ilhas Malvinas: Ilhas Malvinas: ponto de entrada para descobrir história, ciência, cultura, matemática, física e ecologia desta parte do mundo.",
+      "sequence": [
+        "ver o lugar",
+        "abrir curiosidade",
+        "aprofundar",
+        "seguir conexão"
+      ]
+    },
+    {
+      "day": 91,
+      "place_id": "country-jm",
+      "curiosity_id": "hub-padua-v14-1",
+      "title_pt": "Descoberta do mundo · Dia 91",
+      "focus_pt": "Jamaica: Jamaica: ponto de entrada para descobrir história, ciência, cultura, matemática, física e ecologia desta parte do mundo.",
+      "sequence": [
+        "ver o lugar",
+        "abrir curiosidade",
+        "aprofundar",
+        "seguir conexão"
+      ]
+    },
+    {
+      "day": 92,
+      "place_id": "country-mq",
+      "curiosity_id": "hub-padua-v14-2",
+      "title_pt": "Descoberta do mundo · Dia 92",
+      "focus_pt": "Martinica: Martinica: ponto de entrada para descobrir história, ciência, cultura, matemática, física e ecologia desta parte do mundo.",
+      "sequence": [
+        "ver o lugar",
+        "abrir curiosidade",
+        "aprofundar",
+        "seguir conexão"
+      ]
+    },
+    {
+      "day": 93,
+      "place_id": "country-ms",
+      "curiosity_id": "hub-padua-v14-3",
+      "title_pt": "Descoberta do mundo · Dia 93",
+      "focus_pt": "Montserrat: Montserrat: ponto de entrada para descobrir história, ciência, cultura, matemática, física e ecologia desta parte do mundo.",
+      "sequence": [
+        "ver o lugar",
+        "abrir curiosidade",
+        "aprofundar",
+        "seguir conexão"
+      ]
+    },
+    {
+      "day": 94,
+      "place_id": "country-mx",
+      "curiosity_id": "hub-padua-v14-4",
+      "title_pt": "Descoberta do mundo · Dia 94",
+      "focus_pt": "México: México: ponto de entrada para descobrir história, ciência, cultura, matemática, física e ecologia desta parte do mundo.",
+      "sequence": [
+        "ver o lugar",
+        "abrir curiosidade",
+        "aprofundar",
+        "seguir conexão"
+      ]
+    },
+    {
+      "day": 95,
+      "place_id": "country-ni",
+      "curiosity_id": "hub-padua-v14-5",
+      "title_pt": "Descoberta do mundo · Dia 95",
+      "focus_pt": "Nicarágua: Nicarágua: ponto de entrada para descobrir história, ciência, cultura, matemática, física e ecologia desta parte do mundo.",
+      "sequence": [
+        "ver o lugar",
+        "abrir curiosidade",
+        "aprofundar",
+        "seguir conexão"
+      ]
+    },
+    {
+      "day": 96,
+      "place_id": "country-pa",
+      "curiosity_id": "hub-paris-v14-1",
+      "title_pt": "Descoberta do mundo · Dia 96",
+      "focus_pt": "Panamá: Panamá: ponto de entrada para descobrir história, ciência, cultura, matemática, física e ecologia desta parte do mundo.",
+      "sequence": [
+        "ver o lugar",
+        "abrir curiosidade",
+        "aprofundar",
+        "seguir conexão"
+      ]
+    },
+    {
+      "day": 97,
+      "place_id": "country-py",
+      "curiosity_id": "hub-paris-v14-2",
+      "title_pt": "Descoberta do mundo · Dia 97",
+      "focus_pt": "Paraguai: Paraguai: ponto de entrada para descobrir história, ciência, cultura, matemática, física e ecologia desta parte do mundo.",
+      "sequence": [
+        "ver o lugar",
+        "abrir curiosidade",
+        "aprofundar",
+        "seguir conexão"
+      ]
+    },
+    {
+      "day": 98,
+      "place_id": "country-pe",
+      "curiosity_id": "hub-paris-v14-3",
+      "title_pt": "Descoberta do mundo · Dia 98",
+      "focus_pt": "Peru: Peru: ponto de entrada para descobrir história, ciência, cultura, matemática, física e ecologia desta parte do mundo.",
+      "sequence": [
+        "ver o lugar",
+        "abrir curiosidade",
+        "aprofundar",
+        "seguir conexão"
+      ]
+    },
+    {
+      "day": 99,
+      "place_id": "country-pr",
+      "curiosity_id": "hub-paris-v14-4",
+      "title_pt": "Descoberta do mundo · Dia 99",
+      "focus_pt": "Porto Rico: Porto Rico: ponto de entrada para descobrir história, ciência, cultura, matemática, física e ecologia desta parte do mundo.",
+      "sequence": [
+        "ver o lugar",
+        "abrir curiosidade",
+        "aprofundar",
+        "seguir conexão"
+      ]
+    },
+    {
+      "day": 100,
+      "place_id": "country-do",
+      "curiosity_id": "hub-paris-v14-5",
+      "title_pt": "Descoberta do mundo · Dia 100",
+      "focus_pt": "República Dominicana: República Dominicana: ponto de entrada para descobrir história, ciência, cultura, matemática, física e ecologia desta parte do mundo.",
+      "sequence": [
+        "ver o lugar",
+        "abrir curiosidade",
+        "aprofundar",
+        "seguir conexão"
+      ]
+    },
+    {
+      "day": 101,
+      "place_id": "country-lc",
+      "curiosity_id": "hub-london-v14-1",
+      "title_pt": "Descoberta do mundo · Dia 101",
+      "focus_pt": "Santa Lúcia: Santa Lúcia: ponto de entrada para descobrir história, ciência, cultura, matemática, física e ecologia desta parte do mundo.",
+      "sequence": [
+        "ver o lugar",
+        "abrir curiosidade",
+        "aprofundar",
+        "seguir conexão"
+      ]
+    },
+    {
+      "day": 102,
+      "place_id": "country-sr",
+      "curiosity_id": "hub-london-v14-2",
+      "title_pt": "Descoberta do mundo · Dia 102",
+      "focus_pt": "Suriname: Suriname: ponto de entrada para descobrir história, ciência, cultura, matemática, física e ecologia desta parte do mundo.",
+      "sequence": [
+        "ver o lugar",
+        "abrir curiosidade",
+        "aprofundar",
+        "seguir conexão"
+      ]
+    },
+    {
+      "day": 103,
+      "place_id": "country-kn",
+      "curiosity_id": "hub-london-v14-3",
+      "title_pt": "Descoberta do mundo · Dia 103",
+      "focus_pt": "São Cristóvão e Névis: São Cristóvão e Névis: ponto de entrada para descobrir história, ciência, cultura, matemática, física e ecologia desta parte do mundo.",
+      "sequence": [
+        "ver o lugar",
+        "abrir curiosidade",
+        "aprofundar",
+        "seguir conexão"
+      ]
+    },
+    {
+      "day": 104,
+      "place_id": "country-pm",
+      "curiosity_id": "hub-london-v14-4",
+      "title_pt": "Descoberta do mundo · Dia 104",
+      "focus_pt": "São Pedro e Miquelão: São Pedro e Miquelão: ponto de entrada para descobrir história, ciência, cultura, matemática, física e ecologia desta parte do mundo.",
+      "sequence": [
+        "ver o lugar",
+        "abrir curiosidade",
+        "aprofundar",
+        "seguir conexão"
+      ]
+    },
+    {
+      "day": 105,
+      "place_id": "country-vc",
+      "curiosity_id": "hub-london-v14-5",
+      "title_pt": "Descoberta do mundo · Dia 105",
+      "focus_pt": "São Vicente e Granadinas: São Vicente e Granadinas: ponto de entrada para descobrir história, ciência, cultura, matemática, física e ecologia desta parte do mundo.",
+      "sequence": [
+        "ver o lugar",
+        "abrir curiosidade",
+        "aprofundar",
+        "seguir conexão"
+      ]
+    },
+    {
+      "day": 106,
+      "place_id": "country-tt",
+      "curiosity_id": "hub-cambridge-v14-1",
+      "title_pt": "Descoberta do mundo · Dia 106",
+      "focus_pt": "Trinidad e Tobago: Trinidad e Tobago: ponto de entrada para descobrir história, ciência, cultura, matemática, física e ecologia desta parte do mundo.",
+      "sequence": [
+        "ver o lugar",
+        "abrir curiosidade",
+        "aprofundar",
+        "seguir conexão"
+      ]
+    },
+    {
+      "day": 107,
+      "place_id": "country-uy",
+      "curiosity_id": "hub-cambridge-v14-2",
+      "title_pt": "Descoberta do mundo · Dia 107",
+      "focus_pt": "Uruguai: Uruguai: ponto de entrada para descobrir história, ciência, cultura, matemática, física e ecologia desta parte do mundo.",
+      "sequence": [
+        "ver o lugar",
+        "abrir curiosidade",
+        "aprofundar",
+        "seguir conexão"
+      ]
+    },
+    {
+      "day": 108,
+      "place_id": "country-ve",
+      "curiosity_id": "hub-cambridge-v14-3",
+      "title_pt": "Descoberta do mundo · Dia 108",
+      "focus_pt": "Venezuela: Venezuela: ponto de entrada para descobrir história, ciência, cultura, matemática, física e ecologia desta parte do mundo.",
+      "sequence": [
+        "ver o lugar",
+        "abrir curiosidade",
+        "aprofundar",
+        "seguir conexão"
+      ]
+    },
+    {
+      "day": 109,
+      "place_id": "hub-amazon",
+      "curiosity_id": "hub-cambridge-v14-4",
+      "title_pt": "Descoberta do mundo · Dia 109",
+      "focus_pt": "Amazônia: Floresta, rios, biodiversidade e ciclos de água podem virar laboratório de ecologia.",
+      "sequence": [
+        "ver o lugar",
+        "abrir curiosidade",
+        "aprofundar",
+        "seguir conexão"
+      ]
+    },
+    {
+      "day": 110,
+      "place_id": "hub-andes",
+      "curiosity_id": "hub-cambridge-v14-5",
+      "title_pt": "Descoberta do mundo · Dia 110",
+      "focus_pt": "Andes Centrais: Altitude, água, agricultura e adaptação humana.",
+      "sequence": [
+        "ver o lugar",
+        "abrir curiosidade",
+        "aprofundar",
+        "seguir conexão"
+      ]
+    },
+    {
+      "day": 111,
+      "place_id": "hub-la-plata",
+      "curiosity_id": "hub-oxford-v14-1",
+      "title_pt": "Descoberta do mundo · Dia 111",
+      "focus_pt": "La Plata: Coleções paleontológicas e história natural sul-americana.",
+      "sequence": [
+        "ver o lugar",
+        "abrir curiosidade",
+        "aprofundar",
+        "seguir conexão"
+      ]
+    },
+    {
+      "day": 112,
+      "place_id": "hub-ushuaia",
+      "curiosity_id": "hub-oxford-v14-2",
+      "title_pt": "Descoberta do mundo · Dia 112",
+      "focus_pt": "Ushuaia: Clima, latitude e ecossistemas austrais.",
+      "sequence": [
+        "ver o lugar",
+        "abrir curiosidade",
+        "aprofundar",
+        "seguir conexão"
+      ]
+    },
+    {
+      "day": 113,
+      "place_id": "hub-mecca",
+      "curiosity_id": "hub-oxford-v14-3",
+      "title_pt": "Descoberta do mundo · Dia 113",
+      "focus_pt": "Meca: Centro religioso do islamismo; contexto de peregrinação e história do Hijaz.",
+      "sequence": [
+        "ver o lugar",
+        "abrir curiosidade",
+        "aprofundar",
+        "seguir conexão"
+      ]
+    },
+    {
+      "day": 114,
+      "place_id": "hub-medina",
+      "curiosity_id": "hub-oxford-v14-4",
+      "title_pt": "Descoberta do mundo · Dia 114",
+      "focus_pt": "Medina: Cidade-chave para a formação da primeira comunidade muçulmana.",
+      "sequence": [
+        "ver o lugar",
+        "abrir curiosidade",
+        "aprofundar",
+        "seguir conexão"
+      ]
+    },
+    {
+      "day": 115,
+      "place_id": "country-af",
+      "curiosity_id": "hub-oxford-v14-5",
+      "title_pt": "Descoberta do mundo · Dia 115",
+      "focus_pt": "Afeganistão: Afeganistão: ponto de entrada para descobrir história, ciência, cultura, matemática, física e ecologia desta parte do mundo.",
+      "sequence": [
+        "ver o lugar",
+        "abrir curiosidade",
+        "aprofundar",
+        "seguir conexão"
+      ]
+    },
+    {
+      "day": 116,
+      "place_id": "country-am",
+      "curiosity_id": "hub-lisbon-v14-1",
+      "title_pt": "Descoberta do mundo · Dia 116",
+      "focus_pt": "Armênia: Armênia: ponto de entrada para descobrir história, ciência, cultura, matemática, física e ecologia desta parte do mundo.",
+      "sequence": [
+        "ver o lugar",
+        "abrir curiosidade",
+        "aprofundar",
+        "seguir conexão"
+      ]
+    },
+    {
+      "day": 117,
+      "place_id": "country-sa",
+      "curiosity_id": "hub-lisbon-v14-2",
+      "title_pt": "Descoberta do mundo · Dia 117",
+      "focus_pt": "Arábia Saudita: Arábia Saudita: ponto de entrada para descobrir história, ciência, cultura, matemática, física e ecologia desta parte do mundo.",
+      "sequence": [
+        "ver o lugar",
+        "abrir curiosidade",
+        "aprofundar",
+        "seguir conexão"
+      ]
+    },
+    {
+      "day": 118,
+      "place_id": "country-az",
+      "curiosity_id": "hub-lisbon-v14-3",
+      "title_pt": "Descoberta do mundo · Dia 118",
+      "focus_pt": "Azerbaijão: Azerbaijão: ponto de entrada para descobrir história, ciência, cultura, matemática, física e ecologia desta parte do mundo.",
+      "sequence": [
+        "ver o lugar",
+        "abrir curiosidade",
+        "aprofundar",
+        "seguir conexão"
+      ]
+    },
+    {
+      "day": 119,
+      "place_id": "country-bd",
+      "curiosity_id": "hub-lisbon-v14-4",
+      "title_pt": "Descoberta do mundo · Dia 119",
+      "focus_pt": "Bangladesh: Bangladesh: ponto de entrada para descobrir história, ciência, cultura, matemática, física e ecologia desta parte do mundo.",
+      "sequence": [
+        "ver o lugar",
+        "abrir curiosidade",
+        "aprofundar",
+        "seguir conexão"
+      ]
+    },
+    {
+      "day": 120,
+      "place_id": "country-bh",
+      "curiosity_id": "hub-lisbon-v14-5",
+      "title_pt": "Descoberta do mundo · Dia 120",
+      "focus_pt": "Barein: Barein: ponto de entrada para descobrir história, ciência, cultura, matemática, física e ecologia desta parte do mundo.",
+      "sequence": [
+        "ver o lugar",
+        "abrir curiosidade",
+        "aprofundar",
+        "seguir conexão"
+      ]
+    },
+    {
+      "day": 121,
+      "place_id": "country-bn",
+      "curiosity_id": "hub-salamanca-v14-1",
+      "title_pt": "Descoberta do mundo · Dia 121",
+      "focus_pt": "Brunei: Brunei: ponto de entrada para descobrir história, ciência, cultura, matemática, física e ecologia desta parte do mundo.",
+      "sequence": [
+        "ver o lugar",
+        "abrir curiosidade",
+        "aprofundar",
+        "seguir conexão"
+      ]
+    },
+    {
+      "day": 122,
+      "place_id": "country-bt",
+      "curiosity_id": "hub-salamanca-v14-2",
+      "title_pt": "Descoberta do mundo · Dia 122",
+      "focus_pt": "Butão: Butão: ponto de entrada para descobrir história, ciência, cultura, matemática, física e ecologia desta parte do mundo.",
+      "sequence": [
+        "ver o lugar",
+        "abrir curiosidade",
+        "aprofundar",
+        "seguir conexão"
+      ]
+    },
+    {
+      "day": 123,
+      "place_id": "country-kh",
+      "curiosity_id": "hub-salamanca-v14-3",
+      "title_pt": "Descoberta do mundo · Dia 123",
+      "focus_pt": "Camboja: Camboja: ponto de entrada para descobrir história, ciência, cultura, matemática, física e ecologia desta parte do mundo.",
+      "sequence": [
+        "ver o lugar",
+        "abrir curiosidade",
+        "aprofundar",
+        "seguir conexão"
+      ]
+    },
+    {
+      "day": 124,
+      "place_id": "country-qa",
+      "curiosity_id": "hub-salamanca-v14-4",
+      "title_pt": "Descoberta do mundo · Dia 124",
+      "focus_pt": "Catar: Catar: ponto de entrada para descobrir história, ciência, cultura, matemática, física e ecologia desta parte do mundo.",
+      "sequence": [
+        "ver o lugar",
+        "abrir curiosidade",
+        "aprofundar",
+        "seguir conexão"
+      ]
+    },
+    {
+      "day": 125,
+      "place_id": "country-kz",
+      "curiosity_id": "hub-salamanca-v14-5",
+      "title_pt": "Descoberta do mundo · Dia 125",
+      "focus_pt": "Cazaquistão: Cazaquistão: ponto de entrada para descobrir história, ciência, cultura, matemática, física e ecologia desta parte do mundo.",
+      "sequence": [
+        "ver o lugar",
+        "abrir curiosidade",
+        "aprofundar",
+        "seguir conexão"
+      ]
+    },
+    {
+      "day": 126,
+      "place_id": "country-cn",
+      "curiosity_id": "hub-kathmandu-v14-1",
+      "title_pt": "Descoberta do mundo · Dia 126",
+      "focus_pt": "China: China: ponto de entrada para descobrir história, ciência, cultura, matemática, física e ecologia desta parte do mundo.",
+      "sequence": [
+        "ver o lugar",
+        "abrir curiosidade",
+        "aprofundar",
+        "seguir conexão"
+      ]
+    },
+    {
+      "day": 127,
+      "place_id": "country-kp",
+      "curiosity_id": "hub-kathmandu-v14-2",
+      "title_pt": "Descoberta do mundo · Dia 127",
+      "focus_pt": "Coreia do Norte: Coreia do Norte: ponto de entrada para descobrir história, ciência, cultura, matemática, física e ecologia desta parte do mundo.",
+      "sequence": [
+        "ver o lugar",
+        "abrir curiosidade",
+        "aprofundar",
+        "seguir conexão"
+      ]
+    },
+    {
+      "day": 128,
+      "place_id": "country-kr",
+      "curiosity_id": "hub-kathmandu-v14-3",
+      "title_pt": "Descoberta do mundo · Dia 128",
+      "focus_pt": "Coreia do Sul: Coreia do Sul: ponto de entrada para descobrir história, ciência, cultura, matemática, física e ecologia desta parte do mundo.",
+      "sequence": [
+        "ver o lugar",
+        "abrir curiosidade",
+        "aprofundar",
+        "seguir conexão"
+      ]
+    },
+    {
+      "day": 129,
+      "place_id": "country-ae",
+      "curiosity_id": "hub-kathmandu-v14-4",
+      "title_pt": "Descoberta do mundo · Dia 129",
+      "focus_pt": "Emirados Árabes Unidos: Emirados Árabes Unidos: ponto de entrada para descobrir história, ciência, cultura, matemática, física e ecologia desta parte do mundo.",
+      "sequence": [
+        "ver o lugar",
+        "abrir curiosidade",
+        "aprofundar",
+        "seguir conexão"
+      ]
+    },
+    {
+      "day": 130,
+      "place_id": "country-ph",
+      "curiosity_id": "hub-kathmandu-v14-5",
+      "title_pt": "Descoberta do mundo · Dia 130",
+      "focus_pt": "Filipinas: Filipinas: ponto de entrada para descobrir história, ciência, cultura, matemática, física e ecologia desta parte do mundo.",
+      "sequence": [
+        "ver o lugar",
+        "abrir curiosidade",
+        "aprofundar",
+        "seguir conexão"
+      ]
+    },
+    {
+      "day": 131,
+      "place_id": "country-ge",
+      "curiosity_id": "hub-varanasi-v14-1",
+      "title_pt": "Descoberta do mundo · Dia 131",
+      "focus_pt": "Geórgia: Geórgia: ponto de entrada para descobrir história, ciência, cultura, matemática, física e ecologia desta parte do mundo.",
+      "sequence": [
+        "ver o lugar",
+        "abrir curiosidade",
+        "aprofundar",
+        "seguir conexão"
+      ]
+    },
+    {
+      "day": 132,
+      "place_id": "country-hk",
+      "curiosity_id": "hub-varanasi-v14-2",
+      "title_pt": "Descoberta do mundo · Dia 132",
+      "focus_pt": "Hong Kong, RAE da China: Hong Kong, RAE da China: ponto de entrada para descobrir história, ciência, cultura, matemática, física e ecologia desta parte do mundo.",
+      "sequence": [
+        "ver o lugar",
+        "abrir curiosidade",
+        "aprofundar",
+        "seguir conexão"
+      ]
+    },
+    {
+      "day": 133,
+      "place_id": "country-id",
+      "curiosity_id": "hub-varanasi-v14-3",
+      "title_pt": "Descoberta do mundo · Dia 133",
+      "focus_pt": "Indonésia: Indonésia: ponto de entrada para descobrir história, ciência, cultura, matemática, física e ecologia desta parte do mundo.",
+      "sequence": [
+        "ver o lugar",
+        "abrir curiosidade",
+        "aprofundar",
+        "seguir conexão"
+      ]
+    },
+    {
+      "day": 134,
+      "place_id": "country-iq",
+      "curiosity_id": "hub-varanasi-v14-4",
+      "title_pt": "Descoberta do mundo · Dia 134",
+      "focus_pt": "Iraque: Iraque: ponto de entrada para descobrir história, ciência, cultura, matemática, física e ecologia desta parte do mundo.",
+      "sequence": [
+        "ver o lugar",
+        "abrir curiosidade",
+        "aprofundar",
+        "seguir conexão"
+      ]
+    },
+    {
+      "day": 135,
+      "place_id": "country-ir",
+      "curiosity_id": "hub-varanasi-v14-5",
+      "title_pt": "Descoberta do mundo · Dia 135",
+      "focus_pt": "Irã: Irã: ponto de entrada para descobrir história, ciência, cultura, matemática, física e ecologia desta parte do mundo.",
+      "sequence": [
+        "ver o lugar",
+        "abrir curiosidade",
+        "aprofundar",
+        "seguir conexão"
+      ]
+    },
+    {
+      "day": 136,
+      "place_id": "country-il",
+      "curiosity_id": "hub-pataliputra-v14-1",
+      "title_pt": "Descoberta do mundo · Dia 136",
+      "focus_pt": "Israel: Israel: ponto de entrada para descobrir história, ciência, cultura, matemática, física e ecologia desta parte do mundo.",
+      "sequence": [
+        "ver o lugar",
+        "abrir curiosidade",
+        "aprofundar",
+        "seguir conexão"
+      ]
+    },
+    {
+      "day": 137,
+      "place_id": "country-ye",
+      "curiosity_id": "hub-pataliputra-v14-2",
+      "title_pt": "Descoberta do mundo · Dia 137",
+      "focus_pt": "Iêmen: Iêmen: ponto de entrada para descobrir história, ciência, cultura, matemática, física e ecologia desta parte do mundo.",
+      "sequence": [
+        "ver o lugar",
+        "abrir curiosidade",
+        "aprofundar",
+        "seguir conexão"
+      ]
+    },
+    {
+      "day": 138,
+      "place_id": "country-jp",
+      "curiosity_id": "hub-pataliputra-v14-3",
+      "title_pt": "Descoberta do mundo · Dia 138",
+      "focus_pt": "Japão: Japão: ponto de entrada para descobrir história, ciência, cultura, matemática, física e ecologia desta parte do mundo.",
+      "sequence": [
+        "ver o lugar",
+        "abrir curiosidade",
+        "aprofundar",
+        "seguir conexão"
+      ]
+    },
+    {
+      "day": 139,
+      "place_id": "country-jo",
+      "curiosity_id": "hub-pataliputra-v14-4",
+      "title_pt": "Descoberta do mundo · Dia 139",
+      "focus_pt": "Jordânia: Jordânia: ponto de entrada para descobrir história, ciência, cultura, matemática, física e ecologia desta parte do mundo.",
+      "sequence": [
+        "ver o lugar",
+        "abrir curiosidade",
+        "aprofundar",
+        "seguir conexão"
+      ]
+    },
+    {
+      "day": 140,
+      "place_id": "country-kw",
+      "curiosity_id": "hub-pataliputra-v14-5",
+      "title_pt": "Descoberta do mundo · Dia 140",
+      "focus_pt": "Kuwait: Kuwait: ponto de entrada para descobrir história, ciência, cultura, matemática, física e ecologia desta parte do mundo.",
+      "sequence": [
+        "ver o lugar",
+        "abrir curiosidade",
+        "aprofundar",
+        "seguir conexão"
+      ]
+    },
+    {
+      "day": 141,
+      "place_id": "country-la",
+      "curiosity_id": "hub-delhi-v14-1",
+      "title_pt": "Descoberta do mundo · Dia 141",
+      "focus_pt": "Laos: Laos: ponto de entrada para descobrir história, ciência, cultura, matemática, física e ecologia desta parte do mundo.",
+      "sequence": [
+        "ver o lugar",
+        "abrir curiosidade",
+        "aprofundar",
+        "seguir conexão"
+      ]
+    },
+    {
+      "day": 142,
+      "place_id": "country-lb",
+      "curiosity_id": "hub-delhi-v14-2",
+      "title_pt": "Descoberta do mundo · Dia 142",
+      "focus_pt": "Líbano: Líbano: ponto de entrada para descobrir história, ciência, cultura, matemática, física e ecologia desta parte do mundo.",
+      "sequence": [
+        "ver o lugar",
+        "abrir curiosidade",
+        "aprofundar",
+        "seguir conexão"
+      ]
+    },
+    {
+      "day": 143,
+      "place_id": "country-mo",
+      "curiosity_id": "hub-delhi-v14-3",
+      "title_pt": "Descoberta do mundo · Dia 143",
+      "focus_pt": "Macau, RAE da China: Macau, RAE da China: ponto de entrada para descobrir história, ciência, cultura, matemática, física e ecologia desta parte do mundo.",
+      "sequence": [
+        "ver o lugar",
+        "abrir curiosidade",
+        "aprofundar",
+        "seguir conexão"
+      ]
+    },
+    {
+      "day": 144,
+      "place_id": "country-mv",
+      "curiosity_id": "hub-delhi-v14-4",
+      "title_pt": "Descoberta do mundo · Dia 144",
+      "focus_pt": "Maldivas: Maldivas: ponto de entrada para descobrir história, ciência, cultura, matemática, física e ecologia desta parte do mundo.",
+      "sequence": [
+        "ver o lugar",
+        "abrir curiosidade",
+        "aprofundar",
+        "seguir conexão"
+      ]
+    },
+    {
+      "day": 145,
+      "place_id": "country-my",
+      "curiosity_id": "hub-delhi-v14-5",
+      "title_pt": "Descoberta do mundo · Dia 145",
+      "focus_pt": "Malásia: Malásia: ponto de entrada para descobrir história, ciência, cultura, matemática, física e ecologia desta parte do mundo.",
+      "sequence": [
+        "ver o lugar",
+        "abrir curiosidade",
+        "aprofundar",
+        "seguir conexão"
+      ]
+    },
+    {
+      "day": 146,
+      "place_id": "country-mn",
+      "curiosity_id": "hub-beijing-v14-1",
+      "title_pt": "Descoberta do mundo · Dia 146",
+      "focus_pt": "Mongólia: Mongólia: ponto de entrada para descobrir história, ciência, cultura, matemática, física e ecologia desta parte do mundo.",
+      "sequence": [
+        "ver o lugar",
+        "abrir curiosidade",
+        "aprofundar",
+        "seguir conexão"
+      ]
+    },
+    {
+      "day": 147,
+      "place_id": "country-np",
+      "curiosity_id": "hub-beijing-v14-2",
+      "title_pt": "Descoberta do mundo · Dia 147",
+      "focus_pt": "Nepal: Nepal: ponto de entrada para descobrir história, ciência, cultura, matemática, física e ecologia desta parte do mundo.",
+      "sequence": [
+        "ver o lugar",
+        "abrir curiosidade",
+        "aprofundar",
+        "seguir conexão"
+      ]
+    },
+    {
+      "day": 148,
+      "place_id": "country-om",
+      "curiosity_id": "hub-beijing-v14-3",
+      "title_pt": "Descoberta do mundo · Dia 148",
+      "focus_pt": "Omã: Omã: ponto de entrada para descobrir história, ciência, cultura, matemática, física e ecologia desta parte do mundo.",
+      "sequence": [
+        "ver o lugar",
+        "abrir curiosidade",
+        "aprofundar",
+        "seguir conexão"
+      ]
+    },
+    {
+      "day": 149,
+      "place_id": "country-pk",
+      "curiosity_id": "hub-beijing-v14-4",
+      "title_pt": "Descoberta do mundo · Dia 149",
+      "focus_pt": "Paquistão: Paquistão: ponto de entrada para descobrir história, ciência, cultura, matemática, física e ecologia desta parte do mundo.",
+      "sequence": [
+        "ver o lugar",
+        "abrir curiosidade",
+        "aprofundar",
+        "seguir conexão"
+      ]
+    },
+    {
+      "day": 150,
+      "place_id": "country-kg",
+      "curiosity_id": "hub-beijing-v14-5",
+      "title_pt": "Descoberta do mundo · Dia 150",
+      "focus_pt": "Quirguistão: Quirguistão: ponto de entrada para descobrir história, ciência, cultura, matemática, física e ecologia desta parte do mundo.",
+      "sequence": [
+        "ver o lugar",
+        "abrir curiosidade",
+        "aprofundar",
+        "seguir conexão"
+      ]
+    },
+    {
+      "day": 151,
+      "place_id": "country-sg",
+      "curiosity_id": "hub-xi-an-v14-1",
+      "title_pt": "Descoberta do mundo · Dia 151",
+      "focus_pt": "Singapura: Singapura: ponto de entrada para descobrir história, ciência, cultura, matemática, física e ecologia desta parte do mundo.",
+      "sequence": [
+        "ver o lugar",
+        "abrir curiosidade",
+        "aprofundar",
+        "seguir conexão"
+      ]
+    },
+    {
+      "day": 152,
+      "place_id": "country-lk",
+      "curiosity_id": "hub-xi-an-v14-2",
+      "title_pt": "Descoberta do mundo · Dia 152",
+      "focus_pt": "Sri Lanka: Sri Lanka: ponto de entrada para descobrir história, ciência, cultura, matemática, física e ecologia desta parte do mundo.",
+      "sequence": [
+        "ver o lugar",
+        "abrir curiosidade",
+        "aprofundar",
+        "seguir conexão"
+      ]
+    },
+    {
+      "day": 153,
+      "place_id": "country-sy",
+      "curiosity_id": "hub-xi-an-v14-3",
+      "title_pt": "Descoberta do mundo · Dia 153",
+      "focus_pt": "Síria: Síria: ponto de entrada para descobrir história, ciência, cultura, matemática, física e ecologia desta parte do mundo.",
+      "sequence": [
+        "ver o lugar",
+        "abrir curiosidade",
+        "aprofundar",
+        "seguir conexão"
+      ]
+    },
+    {
+      "day": 154,
+      "place_id": "country-tj",
+      "curiosity_id": "hub-xi-an-v14-4",
+      "title_pt": "Descoberta do mundo · Dia 154",
+      "focus_pt": "Tadjiquistão: Tadjiquistão: ponto de entrada para descobrir história, ciência, cultura, matemática, física e ecologia desta parte do mundo.",
+      "sequence": [
+        "ver o lugar",
+        "abrir curiosidade",
+        "aprofundar",
+        "seguir conexão"
+      ]
+    },
+    {
+      "day": 155,
+      "place_id": "country-th",
+      "curiosity_id": "hub-xi-an-v14-5",
+      "title_pt": "Descoberta do mundo · Dia 155",
+      "focus_pt": "Tailândia: Tailândia: ponto de entrada para descobrir história, ciência, cultura, matemática, física e ecologia desta parte do mundo.",
+      "sequence": [
+        "ver o lugar",
+        "abrir curiosidade",
+        "aprofundar",
+        "seguir conexão"
+      ]
+    },
+    {
+      "day": 156,
+      "place_id": "country-tw",
+      "curiosity_id": "hub-nanjing-v14-1",
+      "title_pt": "Descoberta do mundo · Dia 156",
+      "focus_pt": "Taiwan: Taiwan: ponto de entrada para descobrir história, ciência, cultura, matemática, física e ecologia desta parte do mundo.",
+      "sequence": [
+        "ver o lugar",
+        "abrir curiosidade",
+        "aprofundar",
+        "seguir conexão"
+      ]
+    },
+    {
+      "day": 157,
+      "place_id": "country-tl",
+      "curiosity_id": "hub-nanjing-v14-2",
+      "title_pt": "Descoberta do mundo · Dia 157",
+      "focus_pt": "Timor-Leste: Timor-Leste: ponto de entrada para descobrir história, ciência, cultura, matemática, física e ecologia desta parte do mundo.",
+      "sequence": [
+        "ver o lugar",
+        "abrir curiosidade",
+        "aprofundar",
+        "seguir conexão"
+      ]
+    },
+    {
+      "day": 158,
+      "place_id": "country-tm",
+      "curiosity_id": "hub-nanjing-v14-3",
+      "title_pt": "Descoberta do mundo · Dia 158",
+      "focus_pt": "Turcomenistão: Turcomenistão: ponto de entrada para descobrir história, ciência, cultura, matemática, física e ecologia desta parte do mundo.",
+      "sequence": [
+        "ver o lugar",
+        "abrir curiosidade",
+        "aprofundar",
+        "seguir conexão"
+      ]
+    },
+    {
+      "day": 159,
+      "place_id": "country-tr",
+      "curiosity_id": "hub-nanjing-v14-4",
+      "title_pt": "Descoberta do mundo · Dia 159",
+      "focus_pt": "Turquia: Turquia: ponto de entrada para descobrir história, ciência, cultura, matemática, física e ecologia desta parte do mundo.",
+      "sequence": [
+        "ver o lugar",
+        "abrir curiosidade",
+        "aprofundar",
+        "seguir conexão"
+      ]
+    },
+    {
+      "day": 160,
+      "place_id": "country-uz",
+      "curiosity_id": "hub-nanjing-v14-5",
+      "title_pt": "Descoberta do mundo · Dia 160",
+      "focus_pt": "Uzbequistão: Uzbequistão: ponto de entrada para descobrir história, ciência, cultura, matemática, física e ecologia desta parte do mundo.",
+      "sequence": [
+        "ver o lugar",
+        "abrir curiosidade",
+        "aprofundar",
+        "seguir conexão"
+      ]
+    },
+    {
+      "day": 161,
+      "place_id": "country-vn",
+      "curiosity_id": "hub-kyoto-v14-1",
+      "title_pt": "Descoberta do mundo · Dia 161",
+      "focus_pt": "Vietnã: Vietnã: ponto de entrada para descobrir história, ciência, cultura, matemática, física e ecologia desta parte do mundo.",
+      "sequence": [
+        "ver o lugar",
+        "abrir curiosidade",
+        "aprofundar",
+        "seguir conexão"
+      ]
+    },
+    {
+      "day": 162,
+      "place_id": "country-in",
+      "curiosity_id": "hub-kyoto-v14-2",
+      "title_pt": "Descoberta do mundo · Dia 162",
+      "focus_pt": "Índia: Índia: ponto de entrada para descobrir história, ciência, cultura, matemática, física e ecologia desta parte do mundo.",
+      "sequence": [
+        "ver o lugar",
+        "abrir curiosidade",
+        "aprofundar",
+        "seguir conexão"
+      ]
+    },
+    {
+      "day": 163,
+      "place_id": "hub-great-barrier-reef",
+      "curiosity_id": "hub-kyoto-v14-3",
+      "title_pt": "Descoberta do mundo · Dia 163",
+      "focus_pt": "Grande Barreira de Corais: Recifes, simbiose, biodiversidade e impactos climáticos.",
+      "sequence": [
+        "ver o lugar",
+        "abrir curiosidade",
+        "aprofundar",
+        "seguir conexão"
+      ]
+    },
+    {
+      "day": 164,
+      "place_id": "hub-sydney",
+      "curiosity_id": "hub-kyoto-v14-4",
+      "title_pt": "Descoberta do mundo · Dia 164",
+      "focus_pt": "Sydney: Costa, biodiversidade urbana e ciência australiana.",
+      "sequence": [
+        "ver o lugar",
+        "abrir curiosidade",
+        "aprofundar",
+        "seguir conexão"
+      ]
+    },
+    {
+      "day": 165,
+      "place_id": "hub-uluru",
+      "curiosity_id": "hub-kyoto-v14-5",
+      "title_pt": "Descoberta do mundo · Dia 165",
+      "focus_pt": "Uluru: Geologia e relação cultural com o território; conteúdo deve respeitar perspectiva Anangu.",
+      "sequence": [
+        "ver o lugar",
+        "abrir curiosidade",
+        "aprofundar",
+        "seguir conexão"
+      ]
+    },
+    {
+      "day": 166,
+      "place_id": "hub-okavango",
+      "curiosity_id": "hub-tokyo-v14-1",
+      "title_pt": "Descoberta do mundo · Dia 166",
+      "focus_pt": "Delta do Okavango: Um sistema de águas interiores ideal para explorar cadeias alimentares e ciclos hidrológicos.",
+      "sequence": [
+        "ver o lugar",
+        "abrir curiosidade",
+        "aprofundar",
+        "seguir conexão"
+      ]
+    },
+    {
+      "day": 167,
+      "place_id": "hub-lagoa-santa",
+      "curiosity_id": "hub-tokyo-v14-2",
+      "title_pt": "Descoberta do mundo · Dia 167",
+      "focus_pt": "Lagoa Santa: Vestígios humanos e paleontológicos do Brasil central entram no Atlas.",
+      "sequence": [
+        "ver o lugar",
+        "abrir curiosidade",
+        "aprofundar",
+        "seguir conexão"
+      ]
+    },
+    {
+      "day": 168,
+      "place_id": "hub-ouro-preto",
+      "curiosity_id": "hub-tokyo-v14-3",
+      "title_pt": "Descoberta do mundo · Dia 168",
+      "focus_pt": "Ouro Preto: Barroco mineiro, arquitetura e circulação de ideias no período colonial.",
+      "sequence": [
+        "ver o lugar",
+        "abrir curiosidade",
+        "aprofundar",
+        "seguir conexão"
+      ]
+    },
+    {
+      "day": 169,
+      "place_id": "hub-recife",
+      "curiosity_id": "hub-tokyo-v14-4",
+      "title_pt": "Descoberta do mundo · Dia 169",
+      "focus_pt": "Recife: Circulação de ideias, engenharia urbana e história cultural nordestina.",
+      "sequence": [
+        "ver o lugar",
+        "abrir curiosidade",
+        "aprofundar",
+        "seguir conexão"
+      ]
+    },
+    {
+      "day": 170,
+      "place_id": "hub-salvador",
+      "curiosity_id": "hub-tokyo-v14-5",
+      "title_pt": "Descoberta do mundo · Dia 170",
+      "focus_pt": "Salvador: Formação do Brasil, culturas africanas e afro-brasileiras e história urbana.",
+      "sequence": [
+        "ver o lugar",
+        "abrir curiosidade",
+        "aprofundar",
+        "seguir conexão"
+      ]
+    },
+    {
+      "day": 171,
+      "place_id": "hub-serra-capivara",
+      "curiosity_id": "hub-seoul-v14-1",
+      "title_pt": "Descoberta do mundo · Dia 171",
+      "focus_pt": "Serra da Capivara: Pinturas rupestres e arqueologia ajudam a explorar ocupação humana antiga na América do Sul.",
+      "sequence": [
+        "ver o lugar",
+        "abrir curiosidade",
+        "aprofundar",
+        "seguir conexão"
+      ]
+    },
+    {
+      "day": 172,
+      "place_id": "hub-sao-paulo",
+      "curiosity_id": "hub-seoul-v14-2",
+      "title_pt": "Descoberta do mundo · Dia 172",
+      "focus_pt": "São Paulo: Urbanização, indústria, migrações e tecnologia como laboratório social.",
+      "sequence": [
+        "ver o lugar",
+        "abrir curiosidade",
+        "aprofundar",
+        "seguir conexão"
+      ]
+    },
+    {
+      "day": 173,
+      "place_id": "hub-cape-verde",
+      "curiosity_id": "hub-seoul-v14-3",
+      "title_pt": "Descoberta do mundo · Dia 173",
+      "focus_pt": "Praia: Cultura atlântica, história das rotas marítimas e formação do mundo lusófono.",
+      "sequence": [
+        "ver o lugar",
+        "abrir curiosidade",
+        "aprofundar",
+        "seguir conexão"
+      ]
+    },
+    {
+      "day": 174,
+      "place_id": "hub-angkor",
+      "curiosity_id": "hub-seoul-v14-4",
+      "title_pt": "Descoberta do mundo · Dia 174",
+      "focus_pt": "Angkor: Urbanismo hidráulico, arquitetura monumental e história Khmer.",
+      "sequence": [
+        "ver o lugar",
+        "abrir curiosidade",
+        "aprofundar",
+        "seguir conexão"
+      ]
+    },
+    {
+      "day": 175,
+      "place_id": "hub-atacama",
+      "curiosity_id": "hub-seoul-v14-5",
+      "title_pt": "Descoberta do mundo · Dia 175",
+      "focus_pt": "Deserto do Atacama: Céu extremamente seco, astronomia observacional e geologia desértica.",
+      "sequence": [
+        "ver o lugar",
+        "abrir curiosidade",
+        "aprofundar",
+        "seguir conexão"
+      ]
+    },
+    {
+      "day": 176,
+      "place_id": "hub-easter-island",
+      "curiosity_id": "hub-isfahan-v14-1",
+      "title_pt": "Descoberta do mundo · Dia 176",
+      "focus_pt": "Rapa Nui: Paisagem, cultura polinésia e perguntas sobre recursos e sociedade.",
+      "sequence": [
+        "ver o lugar",
+        "abrir curiosidade",
+        "aprofundar",
+        "seguir conexão"
+      ]
+    },
+    {
+      "day": 177,
+      "place_id": "hub-santiago",
+      "curiosity_id": "hub-isfahan-v14-2",
+      "title_pt": "Descoberta do mundo · Dia 177",
+      "focus_pt": "Santiago: Andes, terremotos e astronomia como laboratório de geociências.",
+      "sequence": [
+        "ver o lugar",
+        "abrir curiosidade",
+        "aprofundar",
+        "seguir conexão"
+      ]
+    },
+    {
+      "day": 178,
+      "place_id": "hub-nanjing",
+      "curiosity_id": "hub-isfahan-v14-3",
+      "title_pt": "Descoberta do mundo · Dia 178",
+      "focus_pt": "Nanjing: Observação astronômica e tradição acadêmica chinesa.",
+      "sequence": [
+        "ver o lugar",
+        "abrir curiosidade",
+        "aprofundar",
+        "seguir conexão"
+      ]
+    },
+    {
+      "day": 179,
+      "place_id": "hub-beijing",
+      "curiosity_id": "hub-isfahan-v14-4",
+      "title_pt": "Descoberta do mundo · Dia 179",
+      "focus_pt": "Pequim: Astronomia, calendários, tecnologia e história imperial.",
+      "sequence": [
+        "ver o lugar",
+        "abrir curiosidade",
+        "aprofundar",
+        "seguir conexão"
+      ]
+    },
+    {
+      "day": 180,
+      "place_id": "hub-xi-an",
+      "curiosity_id": "hub-isfahan-v14-5",
+      "title_pt": "Descoberta do mundo · Dia 180",
+      "focus_pt": "Xi’an: Rota da Seda e inovação em escrita, administração e tecnologia.",
+      "sequence": [
+        "ver o lugar",
+        "abrir curiosidade",
+        "aprofundar",
+        "seguir conexão"
+      ]
+    },
+    {
+      "day": 181,
+      "place_id": "hub-tarsus",
+      "curiosity_id": "hub-persepolis-v14-1",
+      "title_pt": "Descoberta do mundo · Dia 181",
+      "focus_pt": "Tarso: Cidade associada a Paulo e ao cruzamento cultural do Mediterrâneo oriental.",
+      "sequence": [
+        "ver o lugar",
+        "abrir curiosidade",
+        "aprofundar",
+        "seguir conexão"
+      ]
+    },
+    {
+      "day": 182,
+      "place_id": "hub-seoul",
+      "curiosity_id": "hub-persepolis-v14-2",
+      "title_pt": "Descoberta do mundo · Dia 182",
+      "focus_pt": "Seul: Ciência, tecnologia digital e memória histórica.",
+      "sequence": [
+        "ver o lugar",
+        "abrir curiosidade",
+        "aprofundar",
+        "seguir conexão"
+      ]
+    },
+    {
+      "day": 183,
+      "place_id": "hub-qumran",
+      "curiosity_id": "hub-persepolis-v14-3",
+      "title_pt": "Descoberta do mundo · Dia 183",
+      "focus_pt": "Qumran: Ligue manuscritos do Mar Morto, contexto do Segundo Templo e crítica textual.",
+      "sequence": [
+        "ver o lugar",
+        "abrir curiosidade",
+        "aprofundar",
+        "seguir conexão"
+      ]
+    },
+    {
+      "day": 184,
+      "place_id": "hub-cairo",
+      "curiosity_id": "hub-persepolis-v14-4",
+      "title_pt": "Descoberta do mundo · Dia 184",
+      "focus_pt": "Cairo: Matemática, astronomia, religião e urbanização em uma das grandes cidades do vale do Nilo.",
+      "sequence": [
+        "ver o lugar",
+        "abrir curiosidade",
+        "aprofundar",
+        "seguir conexão"
+      ]
+    },
+    {
+      "day": 185,
+      "place_id": "hub-giza",
+      "curiosity_id": "hub-persepolis-v14-5",
+      "title_pt": "Descoberta do mundo · Dia 185",
+      "focus_pt": "Gizé: Pirâmides, levantamento, medidas e organização do trabalho abrem uma experiência sobre geometria, engenharia e sociedade.",
+      "sequence": [
+        "ver o lugar",
+        "abrir curiosidade",
+        "aprofundar",
+        "seguir conexão"
+      ]
+    },
+    {
+      "day": 186,
+      "place_id": "hub-alexandria",
+      "curiosity_id": "hub-istanbul-v14-1",
+      "title_pt": "Descoberta do mundo · Dia 186",
+      "focus_pt": "Alexandria: Centro associado a Euclides, Arquimedes em sua tradição intelectual e à Biblioteca de Alexandria.",
+      "sequence": [
+        "ver o lugar",
+        "abrir curiosidade",
+        "aprofundar",
+        "seguir conexão"
+      ]
+    },
+    {
+      "day": 187,
+      "place_id": "hub-galapagos",
+      "curiosity_id": "hub-istanbul-v14-2",
+      "title_pt": "Descoberta do mundo · Dia 187",
+      "focus_pt": "Galápagos: Endemismo, seleção natural e ecologia insular.",
+      "sequence": [
+        "ver o lugar",
+        "abrir curiosidade",
+        "aprofundar",
+        "seguir conexão"
+      ]
+    },
+    {
+      "day": 188,
+      "place_id": "hub-quito",
+      "curiosity_id": "hub-istanbul-v14-3",
+      "title_pt": "Descoberta do mundo · Dia 188",
+      "focus_pt": "Quito: Latitude, altitude e proximidade do equador permitem experiências de geografia física.",
+      "sequence": [
+        "ver o lugar",
+        "abrir curiosidade",
+        "aprofundar",
+        "seguir conexão"
+      ]
+    },
+    {
+      "day": 189,
+      "place_id": "hub-salamanca",
+      "curiosity_id": "hub-istanbul-v14-4",
+      "title_pt": "Descoberta do mundo · Dia 189",
+      "focus_pt": "Salamanca: Universidade e debates sobre direito, moral, teologia e mundo moderno.",
+      "sequence": [
+        "ver o lugar",
+        "abrir curiosidade",
+        "aprofundar",
+        "seguir conexão"
+      ]
+    },
+    {
+      "day": 190,
+      "place_id": "hub-cape-canaveral",
+      "curiosity_id": "hub-istanbul-v14-5",
+      "title_pt": "Descoberta do mundo · Dia 190",
+      "focus_pt": "Cabo Canaveral: Lançamentos espaciais conectam gravidade, órbita, combustível e engenharia.",
+      "sequence": [
+        "ver o lugar",
+        "abrir curiosidade",
+        "aprofundar",
+        "seguir conexão"
+      ]
+    },
+    {
+      "day": 191,
+      "place_id": "hub-cambridge-ma",
+      "curiosity_id": "hub-cairo-v14-1",
+      "title_pt": "Descoberta do mundo · Dia 191",
+      "focus_pt": "Cambridge, Massachusetts: Universidades, matemática, computação e pesquisa interdisciplinar.",
+      "sequence": [
+        "ver o lugar",
+        "abrir curiosidade",
+        "aprofundar",
+        "seguir conexão"
+      ]
+    },
+    {
+      "day": 192,
+      "place_id": "hub-hawaii",
+      "curiosity_id": "hub-cairo-v14-2",
+      "title_pt": "Descoberta do mundo · Dia 192",
+      "focus_pt": "Havaí: Vulcões, oceanos, ecologia insular e observação astronômica.",
+      "sequence": [
+        "ver o lugar",
+        "abrir curiosidade",
+        "aprofundar",
+        "seguir conexão"
+      ]
+    },
+    {
+      "day": 193,
+      "place_id": "hub-new-york",
+      "curiosity_id": "hub-cairo-v14-3",
+      "title_pt": "Descoberta do mundo · Dia 193",
+      "focus_pt": "Nova York: NYSE, mercado, dados, urbanismo e redes globais.",
+      "sequence": [
+        "ver o lugar",
+        "abrir curiosidade",
+        "aprofundar",
+        "seguir conexão"
+      ]
+    },
+    {
+      "day": 194,
+      "place_id": "hub-silicon-valley",
+      "curiosity_id": "hub-cairo-v14-4",
+      "title_pt": "Descoberta do mundo · Dia 194",
+      "focus_pt": "Vale do Silício: Semicondutores, software, algoritmos e empreendedorismo tecnológico.",
+      "sequence": [
+        "ver o lugar",
+        "abrir curiosidade",
+        "aprofundar",
+        "seguir conexão"
+      ]
+    },
+    {
+      "day": 195,
+      "place_id": "hub-washington",
+      "curiosity_id": "hub-cairo-v14-5",
+      "title_pt": "Descoberta do mundo · Dia 195",
+      "focus_pt": "Washington D.C.: Instituições, museus e grandes acervos científicos.",
+      "sequence": [
+        "ver o lugar",
+        "abrir curiosidade",
+        "aprofundar",
+        "seguir conexão"
+      ]
+    },
+    {
+      "day": 196,
+      "place_id": "hub-axum",
+      "curiosity_id": "hub-timbuktu-v14-1",
+      "title_pt": "Descoberta do mundo · Dia 196",
+      "focus_pt": "Axum: Reino antigo e redes do Mar Vermelho, com tradição cristã muito antiga.",
+      "sequence": [
+        "ver o lugar",
+        "abrir curiosidade",
+        "aprofundar",
+        "seguir conexão"
+      ]
+    },
+    {
+      "day": 197,
+      "place_id": "hub-lalibela",
+      "curiosity_id": "hub-timbuktu-v14-2",
+      "title_pt": "Descoberta do mundo · Dia 197",
+      "focus_pt": "Lalibela: Igrejas escavadas na rocha e patrimônio religioso etíope.",
+      "sequence": [
+        "ver o lugar",
+        "abrir curiosidade",
+        "aprofundar",
+        "seguir conexão"
+      ]
+    },
+    {
+      "day": 198,
+      "place_id": "hub-kyiv",
+      "curiosity_id": "hub-timbuktu-v14-3",
+      "title_pt": "Descoberta do mundo · Dia 198",
+      "focus_pt": "Kyiv: Conexões históricas do leste europeu e produção cultural.",
+      "sequence": [
+        "ver o lugar",
+        "abrir curiosidade",
+        "aprofundar",
+        "seguir conexão"
+      ]
+    },
+    {
+      "day": 199,
+      "place_id": "country-al",
+      "curiosity_id": "hub-timbuktu-v14-4",
+      "title_pt": "Descoberta do mundo · Dia 199",
+      "focus_pt": "Albânia: Albânia: ponto de entrada para descobrir história, ciência, cultura, matemática, física e ecologia desta parte do mundo.",
+      "sequence": [
+        "ver o lugar",
+        "abrir curiosidade",
+        "aprofundar",
+        "seguir conexão"
+      ]
+    },
+    {
+      "day": 200,
+      "place_id": "country-de",
+      "curiosity_id": "hub-timbuktu-v14-5",
+      "title_pt": "Descoberta do mundo · Dia 200",
+      "focus_pt": "Alemanha: Alemanha: ponto de entrada para descobrir história, ciência, cultura, matemática, física e ecologia desta parte do mundo.",
+      "sequence": [
+        "ver o lugar",
+        "abrir curiosidade",
+        "aprofundar",
+        "seguir conexão"
+      ]
+    },
+    {
+      "day": 201,
+      "place_id": "country-by",
+      "curiosity_id": "hub-great-zimbabwe-v14-1",
+      "title_pt": "Descoberta do mundo · Dia 201",
+      "focus_pt": "Bielorrússia: Bielorrússia: ponto de entrada para descobrir história, ciência, cultura, matemática, física e ecologia desta parte do mundo.",
+      "sequence": [
+        "ver o lugar",
+        "abrir curiosidade",
+        "aprofundar",
+        "seguir conexão"
+      ]
+    },
+    {
+      "day": 202,
+      "place_id": "country-bg",
+      "curiosity_id": "hub-great-zimbabwe-v14-2",
+      "title_pt": "Descoberta do mundo · Dia 202",
+      "focus_pt": "Bulgária: Bulgária: ponto de entrada para descobrir história, ciência, cultura, matemática, física e ecologia desta parte do mundo.",
+      "sequence": [
+        "ver o lugar",
+        "abrir curiosidade",
+        "aprofundar",
+        "seguir conexão"
+      ]
+    },
+    {
+      "day": 203,
+      "place_id": "country-be",
+      "curiosity_id": "hub-great-zimbabwe-v14-3",
+      "title_pt": "Descoberta do mundo · Dia 203",
+      "focus_pt": "Bélgica: Bélgica: ponto de entrada para descobrir história, ciência, cultura, matemática, física e ecologia desta parte do mundo.",
+      "sequence": [
+        "ver o lugar",
+        "abrir curiosidade",
+        "aprofundar",
+        "seguir conexão"
+      ]
+    },
+    {
+      "day": 204,
+      "place_id": "country-ba",
+      "curiosity_id": "hub-great-zimbabwe-v14-4",
+      "title_pt": "Descoberta do mundo · Dia 204",
+      "focus_pt": "Bósnia e Herzegovina: Bósnia e Herzegovina: ponto de entrada para descobrir história, ciência, cultura, matemática, física e ecologia desta parte do mundo.",
+      "sequence": [
+        "ver o lugar",
+        "abrir curiosidade",
+        "aprofundar",
+        "seguir conexão"
+      ]
+    },
+    {
+      "day": 205,
+      "place_id": "country-cy",
+      "curiosity_id": "hub-great-zimbabwe-v14-5",
+      "title_pt": "Descoberta do mundo · Dia 205",
+      "focus_pt": "Chipre: Chipre: ponto de entrada para descobrir história, ciência, cultura, matemática, física e ecologia desta parte do mundo.",
+      "sequence": [
+        "ver o lugar",
+        "abrir curiosidade",
+        "aprofundar",
+        "seguir conexão"
+      ]
+    },
+    {
+      "day": 206,
+      "place_id": "country-hr",
+      "curiosity_id": "hub-lalibela-v14-1",
+      "title_pt": "Descoberta do mundo · Dia 206",
+      "focus_pt": "Croácia: Croácia: ponto de entrada para descobrir história, ciência, cultura, matemática, física e ecologia desta parte do mundo.",
+      "sequence": [
+        "ver o lugar",
+        "abrir curiosidade",
+        "aprofundar",
+        "seguir conexão"
+      ]
+    },
+    {
+      "day": 207,
+      "place_id": "country-dk",
+      "curiosity_id": "hub-lalibela-v14-2",
+      "title_pt": "Descoberta do mundo · Dia 207",
+      "focus_pt": "Dinamarca: Dinamarca: ponto de entrada para descobrir história, ciência, cultura, matemática, física e ecologia desta parte do mundo.",
+      "sequence": [
+        "ver o lugar",
+        "abrir curiosidade",
+        "aprofundar",
+        "seguir conexão"
+      ]
+    },
+    {
+      "day": 208,
+      "place_id": "country-sk",
+      "curiosity_id": "hub-lalibela-v14-3",
+      "title_pt": "Descoberta do mundo · Dia 208",
+      "focus_pt": "Eslováquia: Eslováquia: ponto de entrada para descobrir história, ciência, cultura, matemática, física e ecologia desta parte do mundo.",
+      "sequence": [
+        "ver o lugar",
+        "abrir curiosidade",
+        "aprofundar",
+        "seguir conexão"
+      ]
+    },
+    {
+      "day": 209,
+      "place_id": "country-si",
+      "curiosity_id": "hub-lalibela-v14-4",
+      "title_pt": "Descoberta do mundo · Dia 209",
+      "focus_pt": "Eslovênia: Eslovênia: ponto de entrada para descobrir história, ciência, cultura, matemática, física e ecologia desta parte do mundo.",
+      "sequence": [
+        "ver o lugar",
+        "abrir curiosidade",
+        "aprofundar",
+        "seguir conexão"
+      ]
+    },
+    {
+      "day": 210,
+      "place_id": "country-es",
+      "curiosity_id": "hub-lalibela-v14-5",
+      "title_pt": "Descoberta do mundo · Dia 210",
+      "focus_pt": "Espanha: Espanha: ponto de entrada para descobrir história, ciência, cultura, matemática, física e ecologia desta parte do mundo.",
+      "sequence": [
+        "ver o lugar",
+        "abrir curiosidade",
+        "aprofundar",
+        "seguir conexão"
+      ]
+    },
+    {
+      "day": 211,
+      "place_id": "country-ee",
+      "curiosity_id": "hub-axum-v14-1",
+      "title_pt": "Descoberta do mundo · Dia 211",
+      "focus_pt": "Estônia: Estônia: ponto de entrada para descobrir história, ciência, cultura, matemática, física e ecologia desta parte do mundo.",
+      "sequence": [
+        "ver o lugar",
+        "abrir curiosidade",
+        "aprofundar",
+        "seguir conexão"
+      ]
+    },
+    {
+      "day": 212,
+      "place_id": "country-fi",
+      "curiosity_id": "hub-axum-v14-2",
+      "title_pt": "Descoberta do mundo · Dia 212",
+      "focus_pt": "Finlândia: Finlândia: ponto de entrada para descobrir história, ciência, cultura, matemática, física e ecologia desta parte do mundo.",
+      "sequence": [
+        "ver o lugar",
+        "abrir curiosidade",
+        "aprofundar",
+        "seguir conexão"
+      ]
+    },
+    {
+      "day": 213,
+      "place_id": "country-fr",
+      "curiosity_id": "hub-axum-v14-3",
+      "title_pt": "Descoberta do mundo · Dia 213",
+      "focus_pt": "França: França: ponto de entrada para descobrir história, ciência, cultura, matemática, física e ecologia desta parte do mundo.",
+      "sequence": [
+        "ver o lugar",
+        "abrir curiosidade",
+        "aprofundar",
+        "seguir conexão"
+      ]
+    },
+    {
+      "day": 214,
+      "place_id": "country-gi",
+      "curiosity_id": "hub-axum-v14-4",
+      "title_pt": "Descoberta do mundo · Dia 214",
+      "focus_pt": "Gibraltar: Gibraltar: ponto de entrada para descobrir história, ciência, cultura, matemática, física e ecologia desta parte do mundo.",
+      "sequence": [
+        "ver o lugar",
+        "abrir curiosidade",
+        "aprofundar",
+        "seguir conexão"
+      ]
+    },
+    {
+      "day": 215,
+      "place_id": "country-gr",
+      "curiosity_id": "hub-axum-v14-5",
+      "title_pt": "Descoberta do mundo · Dia 215",
+      "focus_pt": "Grécia: Grécia: ponto de entrada para descobrir história, ciência, cultura, matemática, física e ecologia desta parte do mundo.",
+      "sequence": [
+        "ver o lugar",
+        "abrir curiosidade",
+        "aprofundar",
+        "seguir conexão"
+      ]
+    },
+    {
+      "day": 216,
+      "place_id": "country-gg",
+      "curiosity_id": "hub-benin-city-v14-1",
+      "title_pt": "Descoberta do mundo · Dia 216",
+      "focus_pt": "Guernsey: Guernsey: ponto de entrada para descobrir história, ciência, cultura, matemática, física e ecologia desta parte do mundo.",
+      "sequence": [
+        "ver o lugar",
+        "abrir curiosidade",
+        "aprofundar",
+        "seguir conexão"
+      ]
+    },
+    {
+      "day": 217,
+      "place_id": "country-hu",
+      "curiosity_id": "hub-benin-city-v14-2",
+      "title_pt": "Descoberta do mundo · Dia 217",
+      "focus_pt": "Hungria: Hungria: ponto de entrada para descobrir história, ciência, cultura, matemática, física e ecologia desta parte do mundo.",
+      "sequence": [
+        "ver o lugar",
+        "abrir curiosidade",
+        "aprofundar",
+        "seguir conexão"
+      ]
+    },
+    {
+      "day": 218,
+      "place_id": "country-im",
+      "curiosity_id": "hub-benin-city-v14-3",
+      "title_pt": "Descoberta do mundo · Dia 218",
+      "focus_pt": "Ilha de Man: Ilha de Man: ponto de entrada para descobrir história, ciência, cultura, matemática, física e ecologia desta parte do mundo.",
+      "sequence": [
+        "ver o lugar",
+        "abrir curiosidade",
+        "aprofundar",
+        "seguir conexão"
+      ]
+    },
+    {
+      "day": 219,
+      "place_id": "country-fo",
+      "curiosity_id": "hub-benin-city-v14-4",
+      "title_pt": "Descoberta do mundo · Dia 219",
+      "focus_pt": "Ilhas Faroé: Ilhas Faroé: ponto de entrada para descobrir história, ciência, cultura, matemática, física e ecologia desta parte do mundo.",
+      "sequence": [
+        "ver o lugar",
+        "abrir curiosidade",
+        "aprofundar",
+        "seguir conexão"
+      ]
+    },
+    {
+      "day": 220,
+      "place_id": "country-ie",
+      "curiosity_id": "hub-benin-city-v14-5",
+      "title_pt": "Descoberta do mundo · Dia 220",
+      "focus_pt": "Irlanda: Irlanda: ponto de entrada para descobrir história, ciência, cultura, matemática, física e ecologia desta parte do mundo.",
+      "sequence": [
+        "ver o lugar",
+        "abrir curiosidade",
+        "aprofundar",
+        "seguir conexão"
+      ]
+    },
+    {
+      "day": 221,
+      "place_id": "country-is",
+      "curiosity_id": "hub-kilimanjaro-v14-1",
+      "title_pt": "Descoberta do mundo · Dia 221",
+      "focus_pt": "Islândia: Islândia: ponto de entrada para descobrir história, ciência, cultura, matemática, física e ecologia desta parte do mundo.",
+      "sequence": [
+        "ver o lugar",
+        "abrir curiosidade",
+        "aprofundar",
+        "seguir conexão"
+      ]
+    },
+    {
+      "day": 222,
+      "place_id": "country-it",
+      "curiosity_id": "hub-kilimanjaro-v14-2",
+      "title_pt": "Descoberta do mundo · Dia 222",
+      "focus_pt": "Itália: Itália: ponto de entrada para descobrir história, ciência, cultura, matemática, física e ecologia desta parte do mundo.",
+      "sequence": [
+        "ver o lugar",
+        "abrir curiosidade",
+        "aprofundar",
+        "seguir conexão"
+      ]
+    },
+    {
+      "day": 223,
+      "place_id": "country-je",
+      "curiosity_id": "hub-kilimanjaro-v14-3",
+      "title_pt": "Descoberta do mundo · Dia 223",
+      "focus_pt": "Jersey: Jersey: ponto de entrada para descobrir história, ciência, cultura, matemática, física e ecologia desta parte do mundo.",
+      "sequence": [
+        "ver o lugar",
+        "abrir curiosidade",
+        "aprofundar",
+        "seguir conexão"
+      ]
+    },
+    {
+      "day": 224,
+      "place_id": "country-lv",
+      "curiosity_id": "hub-kilimanjaro-v14-4",
+      "title_pt": "Descoberta do mundo · Dia 224",
+      "focus_pt": "Letônia: Letônia: ponto de entrada para descobrir história, ciência, cultura, matemática, física e ecologia desta parte do mundo.",
+      "sequence": [
+        "ver o lugar",
+        "abrir curiosidade",
+        "aprofundar",
+        "seguir conexão"
+      ]
+    },
+    {
+      "day": 225,
+      "place_id": "country-li",
+      "curiosity_id": "hub-kilimanjaro-v14-5",
+      "title_pt": "Descoberta do mundo · Dia 225",
+      "focus_pt": "Liechtenstein: Liechtenstein: ponto de entrada para descobrir história, ciência, cultura, matemática, física e ecologia desta parte do mundo.",
+      "sequence": [
+        "ver o lugar",
+        "abrir curiosidade",
+        "aprofundar",
+        "seguir conexão"
+      ]
+    },
+    {
+      "day": 226,
+      "place_id": "country-lt",
+      "curiosity_id": "hub-serengeti-v14-1",
+      "title_pt": "Descoberta do mundo · Dia 226",
+      "focus_pt": "Lituânia: Lituânia: ponto de entrada para descobrir história, ciência, cultura, matemática, física e ecologia desta parte do mundo.",
+      "sequence": [
+        "ver o lugar",
+        "abrir curiosidade",
+        "aprofundar",
+        "seguir conexão"
+      ]
+    },
+    {
+      "day": 227,
+      "place_id": "country-lu",
+      "curiosity_id": "hub-serengeti-v14-2",
+      "title_pt": "Descoberta do mundo · Dia 227",
+      "focus_pt": "Luxemburgo: Luxemburgo: ponto de entrada para descobrir história, ciência, cultura, matemática, física e ecologia desta parte do mundo.",
+      "sequence": [
+        "ver o lugar",
+        "abrir curiosidade",
+        "aprofundar",
+        "seguir conexão"
+      ]
+    },
+    {
+      "day": 228,
+      "place_id": "country-mk",
+      "curiosity_id": "hub-serengeti-v14-3",
+      "title_pt": "Descoberta do mundo · Dia 228",
+      "focus_pt": "Macedônia do Norte: Macedônia do Norte: ponto de entrada para descobrir história, ciência, cultura, matemática, física e ecologia desta parte do mundo.",
+      "sequence": [
+        "ver o lugar",
+        "abrir curiosidade",
+        "aprofundar",
+        "seguir conexão"
+      ]
+    },
+    {
+      "day": 229,
+      "place_id": "country-mt",
+      "curiosity_id": "hub-serengeti-v14-4",
+      "title_pt": "Descoberta do mundo · Dia 229",
+      "focus_pt": "Malta: Malta: ponto de entrada para descobrir história, ciência, cultura, matemática, física e ecologia desta parte do mundo.",
+      "sequence": [
+        "ver o lugar",
+        "abrir curiosidade",
+        "aprofundar",
+        "seguir conexão"
+      ]
+    },
+    {
+      "day": 230,
+      "place_id": "country-md",
+      "curiosity_id": "hub-serengeti-v14-5",
+      "title_pt": "Descoberta do mundo · Dia 230",
+      "focus_pt": "Moldávia: Moldávia: ponto de entrada para descobrir história, ciência, cultura, matemática, física e ecologia desta parte do mundo.",
+      "sequence": [
+        "ver o lugar",
+        "abrir curiosidade",
+        "aprofundar",
+        "seguir conexão"
+      ]
+    },
+    {
+      "day": 231,
+      "place_id": "country-mc",
+      "curiosity_id": "hub-okavango-v14-1",
+      "title_pt": "Descoberta do mundo · Dia 231",
+      "focus_pt": "Mônaco: Mônaco: ponto de entrada para descobrir história, ciência, cultura, matemática, física e ecologia desta parte do mundo.",
+      "sequence": [
+        "ver o lugar",
+        "abrir curiosidade",
+        "aprofundar",
+        "seguir conexão"
+      ]
+    },
+    {
+      "day": 232,
+      "place_id": "country-no",
+      "curiosity_id": "hub-okavango-v14-2",
+      "title_pt": "Descoberta do mundo · Dia 232",
+      "focus_pt": "Noruega: Noruega: ponto de entrada para descobrir história, ciência, cultura, matemática, física e ecologia desta parte do mundo.",
+      "sequence": [
+        "ver o lugar",
+        "abrir curiosidade",
+        "aprofundar",
+        "seguir conexão"
+      ]
+    },
+    {
+      "day": 233,
+      "place_id": "country-nl",
+      "curiosity_id": "hub-okavango-v14-3",
+      "title_pt": "Descoberta do mundo · Dia 233",
+      "focus_pt": "Países Baixos: Países Baixos: ponto de entrada para descobrir história, ciência, cultura, matemática, física e ecologia desta parte do mundo.",
+      "sequence": [
+        "ver o lugar",
+        "abrir curiosidade",
+        "aprofundar",
+        "seguir conexão"
+      ]
+    },
+    {
+      "day": 234,
+      "place_id": "country-pl",
+      "curiosity_id": "hub-okavango-v14-4",
+      "title_pt": "Descoberta do mundo · Dia 234",
+      "focus_pt": "Polônia: Polônia: ponto de entrada para descobrir história, ciência, cultura, matemática, física e ecologia desta parte do mundo.",
+      "sequence": [
+        "ver o lugar",
+        "abrir curiosidade",
+        "aprofundar",
+        "seguir conexão"
+      ]
+    },
+    {
+      "day": 235,
+      "place_id": "country-pt",
+      "curiosity_id": "hub-okavango-v14-5",
+      "title_pt": "Descoberta do mundo · Dia 235",
+      "focus_pt": "Portugal: Portugal: ponto de entrada para descobrir história, ciência, cultura, matemática, física e ecologia desta parte do mundo.",
+      "sequence": [
+        "ver o lugar",
+        "abrir curiosidade",
+        "aprofundar",
+        "seguir conexão"
+      ]
+    },
+    {
+      "day": 236,
+      "place_id": "country-ro",
+      "curiosity_id": "hub-madagascar-v14-1",
+      "title_pt": "Descoberta do mundo · Dia 236",
+      "focus_pt": "Romênia: Romênia: ponto de entrada para descobrir história, ciência, cultura, matemática, física e ecologia desta parte do mundo.",
+      "sequence": [
+        "ver o lugar",
+        "abrir curiosidade",
+        "aprofundar",
+        "seguir conexão"
+      ]
+    },
+    {
+      "day": 237,
+      "place_id": "country-ru",
+      "curiosity_id": "hub-madagascar-v14-2",
+      "title_pt": "Descoberta do mundo · Dia 237",
+      "focus_pt": "Rússia: Rússia: ponto de entrada para descobrir história, ciência, cultura, matemática, física e ecologia desta parte do mundo.",
+      "sequence": [
+        "ver o lugar",
+        "abrir curiosidade",
+        "aprofundar",
+        "seguir conexão"
+      ]
+    },
+    {
+      "day": 238,
+      "place_id": "country-sm",
+      "curiosity_id": "hub-madagascar-v14-3",
+      "title_pt": "Descoberta do mundo · Dia 238",
+      "focus_pt": "San Marino: San Marino: ponto de entrada para descobrir história, ciência, cultura, matemática, física e ecologia desta parte do mundo.",
+      "sequence": [
+        "ver o lugar",
+        "abrir curiosidade",
+        "aprofundar",
+        "seguir conexão"
+      ]
+    },
+    {
+      "day": 239,
+      "place_id": "country-se",
+      "curiosity_id": "hub-madagascar-v14-4",
+      "title_pt": "Descoberta do mundo · Dia 239",
+      "focus_pt": "Suécia: Suécia: ponto de entrada para descobrir história, ciência, cultura, matemática, física e ecologia desta parte do mundo.",
+      "sequence": [
+        "ver o lugar",
+        "abrir curiosidade",
+        "aprofundar",
+        "seguir conexão"
+      ]
+    },
+    {
+      "day": 240,
+      "place_id": "country-ch",
+      "curiosity_id": "hub-madagascar-v14-5",
+      "title_pt": "Descoberta do mundo · Dia 240",
+      "focus_pt": "Suíça: Suíça: ponto de entrada para descobrir história, ciência, cultura, matemática, física e ecologia desta parte do mundo.",
+      "sequence": [
+        "ver o lugar",
+        "abrir curiosidade",
+        "aprofundar",
+        "seguir conexão"
+      ]
+    },
+    {
+      "day": 241,
+      "place_id": "country-sj",
+      "curiosity_id": "hub-cape-town-v14-1",
+      "title_pt": "Descoberta do mundo · Dia 241",
+      "focus_pt": "Svalbard e Jan Mayen: Svalbard e Jan Mayen: ponto de entrada para descobrir história, ciência, cultura, matemática, física e ecologia desta parte do mundo.",
+      "sequence": [
+        "ver o lugar",
+        "abrir curiosidade",
+        "aprofundar",
+        "seguir conexão"
+      ]
+    },
+    {
+      "day": 242,
+      "place_id": "country-rs",
+      "curiosity_id": "hub-cape-town-v14-2",
+      "title_pt": "Descoberta do mundo · Dia 242",
+      "focus_pt": "Sérvia: Sérvia: ponto de entrada para descobrir história, ciência, cultura, matemática, física e ecologia desta parte do mundo.",
+      "sequence": [
+        "ver o lugar",
+        "abrir curiosidade",
+        "aprofundar",
+        "seguir conexão"
+      ]
+    },
+    {
+      "day": 243,
+      "place_id": "country-cz",
+      "curiosity_id": "hub-cape-town-v14-3",
+      "title_pt": "Descoberta do mundo · Dia 243",
+      "focus_pt": "Tchéquia: Tchéquia: ponto de entrada para descobrir história, ciência, cultura, matemática, física e ecologia desta parte do mundo.",
+      "sequence": [
+        "ver o lugar",
+        "abrir curiosidade",
+        "aprofundar",
+        "seguir conexão"
+      ]
+    },
+    {
+      "day": 244,
+      "place_id": "country-ua",
+      "curiosity_id": "hub-cape-town-v14-4",
+      "title_pt": "Descoberta do mundo · Dia 244",
+      "focus_pt": "Ucrânia: Ucrânia: ponto de entrada para descobrir história, ciência, cultura, matemática, física e ecologia desta parte do mundo.",
+      "sequence": [
+        "ver o lugar",
+        "abrir curiosidade",
+        "aprofundar",
+        "seguir conexão"
+      ]
+    },
+    {
+      "day": 245,
+      "place_id": "country-at",
+      "curiosity_id": "hub-cape-town-v14-5",
+      "title_pt": "Descoberta do mundo · Dia 245",
+      "focus_pt": "Áustria: Áustria: ponto de entrada para descobrir história, ciência, cultura, matemática, física e ecologia desta parte do mundo.",
+      "sequence": [
+        "ver o lugar",
+        "abrir curiosidade",
+        "aprofundar",
+        "seguir conexão"
+      ]
+    },
+    {
+      "day": 246,
+      "place_id": "hub-paris",
+      "curiosity_id": "hub-amazon-v14-1",
+      "title_pt": "Descoberta do mundo · Dia 246",
+      "focus_pt": "Paris: Iluminismo, ciência, arte e universidades formam uma rede de ideias que atravessa séculos.",
+      "sequence": [
+        "ver o lugar",
+        "abrir curiosidade",
+        "aprofundar",
+        "seguir conexão"
+      ]
+    },
+    {
+      "day": 247,
+      "place_id": "hub-athens",
+      "curiosity_id": "hub-amazon-v14-2",
+      "title_pt": "Descoberta do mundo · Dia 247",
+      "focus_pt": "Atenas: Sócrates, Platão e Aristóteles ajudam a abrir uma trilha sobre ética, política, lógica e conhecimento.",
+      "sequence": [
+        "ver o lugar",
+        "abrir curiosidade",
+        "aprofundar",
+        "seguir conexão"
+      ]
+    },
+    {
+      "day": 248,
+      "place_id": "hub-corinth",
+      "curiosity_id": "hub-amazon-v14-3",
+      "title_pt": "Descoberta do mundo · Dia 248",
+      "focus_pt": "Corinto: Uma cidade portuária cosmopolita ligada às cartas de Paulo e à vida social das primeiras comunidades cristãs.",
+      "sequence": [
+        "ver o lugar",
+        "abrir curiosidade",
+        "aprofundar",
+        "seguir conexão"
+      ]
+    },
+    {
+      "day": 249,
+      "place_id": "hub-tikal",
+      "curiosity_id": "hub-amazon-v14-4",
+      "title_pt": "Descoberta do mundo · Dia 249",
+      "focus_pt": "Tikal: Astronomia Maia, calendários e urbanismo de floresta tropical.",
+      "sequence": [
+        "ver o lugar",
+        "abrir curiosidade",
+        "aprofundar",
+        "seguir conexão"
+      ]
+    },
+    {
+      "day": 250,
+      "place_id": "hub-constantinople",
+      "curiosity_id": "hub-amazon-v14-5",
+      "title_pt": "Descoberta do mundo · Dia 250",
+      "focus_pt": "Constantinopla: Ponte entre mundos romano, grego, cristão e oriental.",
+      "sequence": [
+        "ver o lugar",
+        "abrir curiosidade",
+        "aprofundar",
+        "seguir conexão"
+      ]
+    },
+    {
+      "day": 251,
+      "place_id": "hub-borobudur",
+      "curiosity_id": "hub-serra-capivara-v14-1",
+      "title_pt": "Descoberta do mundo · Dia 251",
+      "focus_pt": "Borobudur: Arquitetura, narrativa visual e tradição budista.",
+      "sequence": [
+        "ver o lugar",
+        "abrir curiosidade",
+        "aprofundar",
+        "seguir conexão"
+      ]
+    },
+    {
+      "day": 252,
+      "place_id": "hub-isfahan",
+      "curiosity_id": "hub-serra-capivara-v14-2",
+      "title_pt": "Descoberta do mundo · Dia 252",
+      "focus_pt": "Isfahan: Geometria, azulejaria, astronomia e arquitetura islâmica.",
+      "sequence": [
+        "ver o lugar",
+        "abrir curiosidade",
+        "aprofundar",
+        "seguir conexão"
+      ]
+    },
+    {
+      "day": 253,
+      "place_id": "hub-reykjavik",
+      "curiosity_id": "hub-serra-capivara-v14-3",
+      "title_pt": "Descoberta do mundo · Dia 253",
+      "focus_pt": "Reykjavík: Vulcanismo, geotermia e clima subártico.",
+      "sequence": [
+        "ver o lugar",
+        "abrir curiosidade",
+        "aprofundar",
+        "seguir conexão"
+      ]
+    },
+    {
+      "day": 254,
+      "place_id": "hub-florence",
+      "curiosity_id": "hub-serra-capivara-v14-4",
+      "title_pt": "Descoberta do mundo · Dia 254",
+      "focus_pt": "Florença: Renascimento, perspectiva, ateliês, proporção e mecenato como experiência integrada de arte e ciência.",
+      "sequence": [
+        "ver o lugar",
+        "abrir curiosidade",
+        "aprofundar",
+        "seguir conexão"
+      ]
+    },
+    {
+      "day": 255,
+      "place_id": "hub-pisa",
+      "curiosity_id": "hub-serra-capivara-v14-5",
+      "title_pt": "Descoberta do mundo · Dia 255",
+      "focus_pt": "Pisa: Galileu e a tradição experimental podem abrir uma experiência sobre queda, movimento e método científico.",
+      "sequence": [
+        "ver o lugar",
+        "abrir curiosidade",
+        "aprofundar",
+        "seguir conexão"
+      ]
+    },
+    {
+      "day": 256,
+      "place_id": "hub-padua",
+      "curiosity_id": "hub-lagoa-santa-v14-1",
+      "title_pt": "Descoberta do mundo · Dia 256",
+      "focus_pt": "Pádua: Universidade histórica e ambiente intelectual ligado a Galileu e à formação científica europeia.",
+      "sequence": [
+        "ver o lugar",
+        "abrir curiosidade",
+        "aprofundar",
+        "seguir conexão"
+      ]
+    },
+    {
+      "day": 257,
+      "place_id": "hub-rome",
+      "curiosity_id": "hub-lagoa-santa-v14-2",
+      "title_pt": "Descoberta do mundo · Dia 257",
+      "focus_pt": "Roma: Infraestrutura, direito, urbanismo e o contexto romano que molda o Novo Testamento.",
+      "sequence": [
+        "ver o lugar",
+        "abrir curiosidade",
+        "aprofundar",
+        "seguir conexão"
+      ]
+    },
+    {
+      "day": 258,
+      "place_id": "hub-kyoto",
+      "curiosity_id": "hub-lagoa-santa-v14-3",
+      "title_pt": "Descoberta do mundo · Dia 258",
+      "focus_pt": "Kyoto: Artes tradicionais, urbanismo histórico e história cultural japonesa.",
+      "sequence": [
+        "ver o lugar",
+        "abrir curiosidade",
+        "aprofundar",
+        "seguir conexão"
+      ]
+    },
+    {
+      "day": 259,
+      "place_id": "hub-tokyo",
+      "curiosity_id": "hub-lagoa-santa-v14-4",
+      "title_pt": "Descoberta do mundo · Dia 259",
+      "focus_pt": "Tóquio: Tecnologia, urbanismo, eletrônica e cultura pop contemporânea.",
+      "sequence": [
+        "ver o lugar",
+        "abrir curiosidade",
+        "aprofundar",
+        "seguir conexão"
+      ]
+    },
+    {
+      "day": 260,
+      "place_id": "hub-jerash",
+      "curiosity_id": "hub-lagoa-santa-v14-5",
+      "title_pt": "Descoberta do mundo · Dia 260",
+      "focus_pt": "Jerash: Urbanismo romano e infraestrutura urbana.",
+      "sequence": [
+        "ver o lugar",
+        "abrir curiosidade",
+        "aprofundar",
+        "seguir conexão"
+      ]
+    },
+    {
+      "day": 261,
+      "place_id": "hub-petra",
+      "curiosity_id": "hub-ouro-preto-v14-1",
+      "title_pt": "Descoberta do mundo · Dia 261",
+      "focus_pt": "Petra: Arquitetura escavada em rocha e gestão da água no deserto.",
+      "sequence": [
+        "ver o lugar",
+        "abrir curiosidade",
+        "aprofundar",
+        "seguir conexão"
+      ]
+    },
+    {
+      "day": 262,
+      "place_id": "hub-jericho",
+      "curiosity_id": "hub-ouro-preto-v14-2",
+      "title_pt": "Descoberta do mundo · Dia 262",
+      "focus_pt": "Jericó: Um dos sítios urbanos mais antigos conhecidos, com longas camadas arqueológicas.",
+      "sequence": [
+        "ver o lugar",
+        "abrir curiosidade",
+        "aprofundar",
+        "seguir conexão"
+      ]
+    },
+    {
+      "day": 263,
+      "place_id": "hub-jerusalem",
+      "curiosity_id": "hub-ouro-preto-v14-3",
+      "title_pt": "Descoberta do mundo · Dia 263",
+      "focus_pt": "Jerusalém: Ponto-chave para judaísmo, cristianismo e história do Segundo Templo e do cristianismo primitivo.",
+      "sequence": [
+        "ver o lugar",
+        "abrir curiosidade",
+        "aprofundar",
+        "seguir conexão"
+      ]
+    },
+    {
+      "day": 264,
+      "place_id": "hub-tombouctou",
+      "curiosity_id": "hub-ouro-preto-v14-4",
+      "title_pt": "Descoberta do mundo · Dia 264",
+      "focus_pt": "Região de Tombuctu: Manuscritos, comércio transaariano e redes de aprendizagem.",
+      "sequence": [
+        "ver o lugar",
+        "abrir curiosidade",
+        "aprofundar",
+        "seguir conexão"
+      ]
+    },
+    {
+      "day": 265,
+      "place_id": "hub-timbuktu",
+      "curiosity_id": "hub-ouro-preto-v14-5",
+      "title_pt": "Descoberta do mundo · Dia 265",
+      "focus_pt": "Tombuctu: Centros de aprendizagem, manuscritos e redes intelectuais da África Ocidental.",
+      "sequence": [
+        "ver o lugar",
+        "abrir curiosidade",
+        "aprofundar",
+        "seguir conexão"
+      ]
+    },
+    {
+      "day": 266,
+      "place_id": "hub-malacca",
+      "curiosity_id": "hub-salvador-v14-1",
+      "title_pt": "Descoberta do mundo · Dia 266",
+      "focus_pt": "Malaca: Porto de intercâmbio cultural e linguístico.",
+      "sequence": [
+        "ver o lugar",
+        "abrir curiosidade",
+        "aprofundar",
+        "seguir conexão"
+      ]
+    },
+    {
+      "day": 267,
+      "place_id": "hub-babylon",
+      "curiosity_id": "hub-salvador-v14-2",
+      "title_pt": "Descoberta do mundo · Dia 267",
+      "focus_pt": "Babilônia: Sistemas numéricos sexagesimais, astronomia e registros cuneiformes ajudam a visualizar como matemática e observação do céu caminharam juntas.",
+      "sequence": [
+        "ver o lugar",
+        "abrir curiosidade",
+        "aprofundar",
+        "seguir conexão"
+      ]
+    },
+    {
+      "day": 268,
+      "place_id": "hub-uruk",
+      "curiosity_id": "hub-salvador-v14-3",
+      "title_pt": "Descoberta do mundo · Dia 268",
+      "focus_pt": "Uruk: Um dos grandes centros urbanos da Mesopotâmia; a escrita administrativa e a contagem aparecem como tecnologias sociais.",
+      "sequence": [
+        "ver o lugar",
+        "abrir curiosidade",
+        "aprofundar",
+        "seguir conexão"
+      ]
+    },
+    {
+      "day": 269,
+      "place_id": "hub-baghdad",
+      "curiosity_id": "hub-salvador-v14-4",
+      "title_pt": "Descoberta do mundo · Dia 269",
+      "focus_pt": "Bagdá: Casa da Sabedoria e o florescimento de traduções, álgebra, astronomia e filosofia no período abássida.",
+      "sequence": [
+        "ver o lugar",
+        "abrir curiosidade",
+        "aprofundar",
+        "seguir conexão"
+      ]
+    },
+    {
+      "day": 270,
+      "place_id": "hub-chichen-itza",
+      "curiosity_id": "hub-salvador-v14-5",
+      "title_pt": "Descoberta do mundo · Dia 270",
+      "focus_pt": "Chichén Itzá: Arquitetura, calendários e observação astronômica Maia.",
+      "sequence": [
+        "ver o lugar",
+        "abrir curiosidade",
+        "aprofundar",
+        "seguir conexão"
+      ]
+    },
+    {
+      "day": 271,
+      "place_id": "hub-teotihuacan",
+      "curiosity_id": "hub-recife-v14-1",
+      "title_pt": "Descoberta do mundo · Dia 271",
+      "focus_pt": "Teotihuacan: Urbanismo monumental, geometria e organização espacial.",
+      "sequence": [
+        "ver o lugar",
+        "abrir curiosidade",
+        "aprofundar",
+        "seguir conexão"
+      ]
+    },
+    {
+      "day": 272,
+      "place_id": "hub-kathmandu",
+      "curiosity_id": "hub-recife-v14-2",
+      "title_pt": "Descoberta do mundo · Dia 272",
+      "focus_pt": "Katmandu: Encontro de tradições religiosas, calendários e arquitetura.",
+      "sequence": [
+        "ver o lugar",
+        "abrir curiosidade",
+        "aprofundar",
+        "seguir conexão"
+      ]
+    },
+    {
+      "day": 273,
+      "place_id": "hub-benin-city",
+      "curiosity_id": "hub-recife-v14-3",
+      "title_pt": "Descoberta do mundo · Dia 273",
+      "focus_pt": "Benin City: Bronzes do Benim e organização urbana como experiência de arte e tecnologia.",
+      "sequence": [
+        "ver o lugar",
+        "abrir curiosidade",
+        "aprofundar",
+        "seguir conexão"
+      ]
+    },
+    {
+      "day": 274,
+      "place_id": "country-au",
+      "curiosity_id": "hub-recife-v14-4",
+      "title_pt": "Descoberta do mundo · Dia 274",
+      "focus_pt": "Austrália: Austrália: ponto de entrada para descobrir história, ciência, cultura, matemática, física e ecologia desta parte do mundo.",
+      "sequence": [
+        "ver o lugar",
+        "abrir curiosidade",
+        "aprofundar",
+        "seguir conexão"
+      ]
+    },
+    {
+      "day": 275,
+      "place_id": "country-fj",
+      "curiosity_id": "hub-recife-v14-5",
+      "title_pt": "Descoberta do mundo · Dia 275",
+      "focus_pt": "Fiji: Fiji: ponto de entrada para descobrir história, ciência, cultura, matemática, física e ecologia desta parte do mundo.",
+      "sequence": [
+        "ver o lugar",
+        "abrir curiosidade",
+        "aprofundar",
+        "seguir conexão"
+      ]
+    },
+    {
+      "day": 276,
+      "place_id": "country-gu",
+      "curiosity_id": "hub-sao-paulo-v14-1",
+      "title_pt": "Descoberta do mundo · Dia 276",
+      "focus_pt": "Guam: Guam: ponto de entrada para descobrir história, ciência, cultura, matemática, física e ecologia desta parte do mundo.",
+      "sequence": [
+        "ver o lugar",
+        "abrir curiosidade",
+        "aprofundar",
+        "seguir conexão"
+      ]
+    },
+    {
+      "day": 277,
+      "place_id": "country-cx",
+      "curiosity_id": "hub-sao-paulo-v14-2",
+      "title_pt": "Descoberta do mundo · Dia 277",
+      "focus_pt": "Ilha Christmas: Ilha Christmas: ponto de entrada para descobrir história, ciência, cultura, matemática, física e ecologia desta parte do mundo.",
+      "sequence": [
+        "ver o lugar",
+        "abrir curiosidade",
+        "aprofundar",
+        "seguir conexão"
+      ]
+    },
+    {
+      "day": 278,
+      "place_id": "country-nf",
+      "curiosity_id": "hub-sao-paulo-v14-3",
+      "title_pt": "Descoberta do mundo · Dia 278",
+      "focus_pt": "Ilha Norfolk: Ilha Norfolk: ponto de entrada para descobrir história, ciência, cultura, matemática, física e ecologia desta parte do mundo.",
+      "sequence": [
+        "ver o lugar",
+        "abrir curiosidade",
+        "aprofundar",
+        "seguir conexão"
+      ]
+    },
+    {
+      "day": 279,
+      "place_id": "country-cc",
+      "curiosity_id": "hub-sao-paulo-v14-4",
+      "title_pt": "Descoberta do mundo · Dia 279",
+      "focus_pt": "Ilhas Cocos (Keeling): Ilhas Cocos (Keeling): ponto de entrada para descobrir história, ciência, cultura, matemática, física e ecologia desta parte do mundo.",
+      "sequence": [
+        "ver o lugar",
+        "abrir curiosidade",
+        "aprofundar",
+        "seguir conexão"
+      ]
+    },
+    {
+      "day": 280,
+      "place_id": "country-ck",
+      "curiosity_id": "hub-sao-paulo-v14-5",
+      "title_pt": "Descoberta do mundo · Dia 280",
+      "focus_pt": "Ilhas Cook: Ilhas Cook: ponto de entrada para descobrir história, ciência, cultura, matemática, física e ecologia desta parte do mundo.",
+      "sequence": [
+        "ver o lugar",
+        "abrir curiosidade",
+        "aprofundar",
+        "seguir conexão"
+      ]
+    },
+    {
+      "day": 281,
+      "place_id": "country-mp",
+      "curiosity_id": "hub-cusco-v14-1",
+      "title_pt": "Descoberta do mundo · Dia 281",
+      "focus_pt": "Ilhas Marianas do Norte: Ilhas Marianas do Norte: ponto de entrada para descobrir história, ciência, cultura, matemática, física e ecologia desta parte do mundo.",
+      "sequence": [
+        "ver o lugar",
+        "abrir curiosidade",
+        "aprofundar",
+        "seguir conexão"
+      ]
+    },
+    {
+      "day": 282,
+      "place_id": "country-mh",
+      "curiosity_id": "hub-cusco-v14-2",
+      "title_pt": "Descoberta do mundo · Dia 282",
+      "focus_pt": "Ilhas Marshall: Ilhas Marshall: ponto de entrada para descobrir história, ciência, cultura, matemática, física e ecologia desta parte do mundo.",
+      "sequence": [
+        "ver o lugar",
+        "abrir curiosidade",
+        "aprofundar",
+        "seguir conexão"
+      ]
+    },
+    {
+      "day": 283,
+      "place_id": "country-pn",
+      "curiosity_id": "hub-cusco-v14-3",
+      "title_pt": "Descoberta do mundo · Dia 283",
+      "focus_pt": "Ilhas Pitcairn: Ilhas Pitcairn: ponto de entrada para descobrir história, ciência, cultura, matemática, física e ecologia desta parte do mundo.",
+      "sequence": [
+        "ver o lugar",
+        "abrir curiosidade",
+        "aprofundar",
+        "seguir conexão"
+      ]
+    },
+    {
+      "day": 284,
+      "place_id": "country-sb",
+      "curiosity_id": "hub-cusco-v14-4",
+      "title_pt": "Descoberta do mundo · Dia 284",
+      "focus_pt": "Ilhas Salomão: Ilhas Salomão: ponto de entrada para descobrir história, ciência, cultura, matemática, física e ecologia desta parte do mundo.",
+      "sequence": [
+        "ver o lugar",
+        "abrir curiosidade",
+        "aprofundar",
+        "seguir conexão"
+      ]
+    },
+    {
+      "day": 285,
+      "place_id": "country-fm",
+      "curiosity_id": "hub-cusco-v14-5",
+      "title_pt": "Descoberta do mundo · Dia 285",
+      "focus_pt": "Micronésia: Micronésia: ponto de entrada para descobrir história, ciência, cultura, matemática, física e ecologia desta parte do mundo.",
+      "sequence": [
+        "ver o lugar",
+        "abrir curiosidade",
+        "aprofundar",
+        "seguir conexão"
+      ]
+    },
+    {
+      "day": 286,
+      "place_id": "country-nr",
+      "curiosity_id": "hub-machu-picchu-v14-1",
+      "title_pt": "Descoberta do mundo · Dia 286",
+      "focus_pt": "Nauru: Nauru: ponto de entrada para descobrir história, ciência, cultura, matemática, física e ecologia desta parte do mundo.",
+      "sequence": [
+        "ver o lugar",
+        "abrir curiosidade",
+        "aprofundar",
+        "seguir conexão"
+      ]
+    },
+    {
+      "day": 287,
+      "place_id": "country-nu",
+      "curiosity_id": "hub-machu-picchu-v14-2",
+      "title_pt": "Descoberta do mundo · Dia 287",
+      "focus_pt": "Niue: Niue: ponto de entrada para descobrir história, ciência, cultura, matemática, física e ecologia desta parte do mundo.",
+      "sequence": [
+        "ver o lugar",
+        "abrir curiosidade",
+        "aprofundar",
+        "seguir conexão"
+      ]
+    },
+    {
+      "day": 288,
+      "place_id": "country-nc",
+      "curiosity_id": "hub-machu-picchu-v14-3",
+      "title_pt": "Descoberta do mundo · Dia 288",
+      "focus_pt": "Nova Caledônia: Nova Caledônia: ponto de entrada para descobrir história, ciência, cultura, matemática, física e ecologia desta parte do mundo.",
+      "sequence": [
+        "ver o lugar",
+        "abrir curiosidade",
+        "aprofundar",
+        "seguir conexão"
+      ]
+    },
+    {
+      "day": 289,
+      "place_id": "country-nz",
+      "curiosity_id": "hub-machu-picchu-v14-4",
+      "title_pt": "Descoberta do mundo · Dia 289",
+      "focus_pt": "Nova Zelândia: Nova Zelândia: ponto de entrada para descobrir história, ciência, cultura, matemática, física e ecologia desta parte do mundo.",
+      "sequence": [
+        "ver o lugar",
+        "abrir curiosidade",
+        "aprofundar",
+        "seguir conexão"
+      ]
+    },
+    {
+      "day": 290,
+      "place_id": "country-pw",
+      "curiosity_id": "hub-machu-picchu-v14-5",
+      "title_pt": "Descoberta do mundo · Dia 290",
+      "focus_pt": "Palau: Palau: ponto de entrada para descobrir história, ciência, cultura, matemática, física e ecologia desta parte do mundo.",
+      "sequence": [
+        "ver o lugar",
+        "abrir curiosidade",
+        "aprofundar",
+        "seguir conexão"
+      ]
+    },
+    {
+      "day": 291,
+      "place_id": "country-pg",
+      "curiosity_id": "hub-nazca-v14-1",
+      "title_pt": "Descoberta do mundo · Dia 291",
+      "focus_pt": "Papua-Nova Guiné: Papua-Nova Guiné: ponto de entrada para descobrir história, ciência, cultura, matemática, física e ecologia desta parte do mundo.",
+      "sequence": [
+        "ver o lugar",
+        "abrir curiosidade",
+        "aprofundar",
+        "seguir conexão"
+      ]
+    },
+    {
+      "day": 292,
+      "place_id": "country-pf",
+      "curiosity_id": "hub-nazca-v14-2",
+      "title_pt": "Descoberta do mundo · Dia 292",
+      "focus_pt": "Polinésia Francesa: Polinésia Francesa: ponto de entrada para descobrir história, ciência, cultura, matemática, física e ecologia desta parte do mundo.",
+      "sequence": [
+        "ver o lugar",
+        "abrir curiosidade",
+        "aprofundar",
+        "seguir conexão"
+      ]
+    },
+    {
+      "day": 293,
+      "place_id": "country-ki",
+      "curiosity_id": "hub-nazca-v14-3",
+      "title_pt": "Descoberta do mundo · Dia 293",
+      "focus_pt": "Quiribati: Quiribati: ponto de entrada para descobrir história, ciência, cultura, matemática, física e ecologia desta parte do mundo.",
+      "sequence": [
+        "ver o lugar",
+        "abrir curiosidade",
+        "aprofundar",
+        "seguir conexão"
+      ]
+    },
+    {
+      "day": 294,
+      "place_id": "country-ws",
+      "curiosity_id": "hub-nazca-v14-4",
+      "title_pt": "Descoberta do mundo · Dia 294",
+      "focus_pt": "Samoa: Samoa: ponto de entrada para descobrir história, ciência, cultura, matemática, física e ecologia desta parte do mundo.",
+      "sequence": [
+        "ver o lugar",
+        "abrir curiosidade",
+        "aprofundar",
+        "seguir conexão"
+      ]
+    },
+    {
+      "day": 295,
+      "place_id": "country-as",
+      "curiosity_id": "hub-nazca-v14-5",
+      "title_pt": "Descoberta do mundo · Dia 295",
+      "focus_pt": "Samoa Americana: Samoa Americana: ponto de entrada para descobrir história, ciência, cultura, matemática, física e ecologia desta parte do mundo.",
+      "sequence": [
+        "ver o lugar",
+        "abrir curiosidade",
+        "aprofundar",
+        "seguir conexão"
+      ]
+    },
+    {
+      "day": 296,
+      "place_id": "country-tk",
+      "curiosity_id": "hub-la-plata-v14-1",
+      "title_pt": "Descoberta do mundo · Dia 296",
+      "focus_pt": "Tokelau: Tokelau: ponto de entrada para descobrir história, ciência, cultura, matemática, física e ecologia desta parte do mundo.",
+      "sequence": [
+        "ver o lugar",
+        "abrir curiosidade",
+        "aprofundar",
+        "seguir conexão"
+      ]
+    },
+    {
+      "day": 297,
+      "place_id": "country-to",
+      "curiosity_id": "hub-la-plata-v14-2",
+      "title_pt": "Descoberta do mundo · Dia 297",
+      "focus_pt": "Tonga: Tonga: ponto de entrada para descobrir história, ciência, cultura, matemática, física e ecologia desta parte do mundo.",
+      "sequence": [
+        "ver o lugar",
+        "abrir curiosidade",
+        "aprofundar",
+        "seguir conexão"
+      ]
+    },
+    {
+      "day": 298,
+      "place_id": "country-tv",
+      "curiosity_id": "hub-la-plata-v14-3",
+      "title_pt": "Descoberta do mundo · Dia 298",
+      "focus_pt": "Tuvalu: Tuvalu: ponto de entrada para descobrir história, ciência, cultura, matemática, física e ecologia desta parte do mundo.",
+      "sequence": [
+        "ver o lugar",
+        "abrir curiosidade",
+        "aprofundar",
+        "seguir conexão"
+      ]
+    },
+    {
+      "day": 299,
+      "place_id": "country-vu",
+      "curiosity_id": "hub-la-plata-v14-4",
+      "title_pt": "Descoberta do mundo · Dia 299",
+      "focus_pt": "Vanuatu: Vanuatu: ponto de entrada para descobrir história, ciência, cultura, matemática, física e ecologia desta parte do mundo.",
+      "sequence": [
+        "ver o lugar",
+        "abrir curiosidade",
+        "aprofundar",
+        "seguir conexão"
+      ]
+    },
+    {
+      "day": 300,
+      "place_id": "country-wf",
+      "curiosity_id": "hub-la-plata-v14-5",
+      "title_pt": "Descoberta do mundo · Dia 300",
+      "focus_pt": "Wallis e Futuna: Wallis e Futuna: ponto de entrada para descobrir história, ciência, cultura, matemática, física e ecologia desta parte do mundo.",
+      "sequence": [
+        "ver o lugar",
+        "abrir curiosidade",
+        "aprofundar",
+        "seguir conexão"
+      ]
+    },
+    {
+      "day": 301,
+      "place_id": "hub-madagascar",
+      "curiosity_id": "hub-ushuaia-v14-1",
+      "title_pt": "Descoberta do mundo · Dia 301",
+      "focus_pt": "Madagascar: Endemismo e evolução em uma ilha mostram como isolamento pode moldar a biodiversidade.",
+      "sequence": [
+        "ver o lugar",
+        "abrir curiosidade",
+        "aprofundar",
+        "seguir conexão"
+      ]
+    },
+    {
+      "day": 302,
+      "place_id": "hub-papua",
+      "curiosity_id": "hub-ushuaia-v14-2",
+      "title_pt": "Descoberta do mundo · Dia 302",
+      "focus_pt": "Port Moresby: Grande diversidade biológica e cultural na região da Melanésia.",
+      "sequence": [
+        "ver o lugar",
+        "abrir curiosidade",
+        "aprofundar",
+        "seguir conexão"
+      ]
+    },
+    {
+      "day": 303,
+      "place_id": "hub-cusco",
+      "curiosity_id": "hub-ushuaia-v14-3",
+      "title_pt": "Descoberta do mundo · Dia 303",
+      "focus_pt": "Cusco: Engenharia Inka, agricultura em terraços e organização espacial.",
+      "sequence": [
+        "ver o lugar",
+        "abrir curiosidade",
+        "aprofundar",
+        "seguir conexão"
+      ]
+    },
+    {
+      "day": 304,
+      "place_id": "hub-machu-picchu",
+      "curiosity_id": "hub-ushuaia-v14-4",
+      "title_pt": "Descoberta do mundo · Dia 304",
+      "focus_pt": "Machu Picchu: Arquitetura Inka, água, terraços e paisagem andina.",
+      "sequence": [
+        "ver o lugar",
+        "abrir curiosidade",
+        "aprofundar",
+        "seguir conexão"
+      ]
+    },
+    {
+      "day": 305,
+      "place_id": "hub-nazca",
+      "curiosity_id": "hub-ushuaia-v14-5",
+      "title_pt": "Descoberta do mundo · Dia 305",
+      "focus_pt": "Nazca: Linhas de Nazca permitem explorar escala, geometria e paisagem.",
+      "sequence": [
+        "ver o lugar",
+        "abrir curiosidade",
+        "aprofundar",
+        "seguir conexão"
+      ]
+    },
+    {
+      "day": 306,
+      "place_id": "hub-lisbon",
+      "curiosity_id": "hub-chichen-itza-v14-1",
+      "title_pt": "Descoberta do mundo · Dia 306",
+      "focus_pt": "Lisboa: Expansão marítima, circulação linguística e formação do mundo lusófono.",
+      "sequence": [
+        "ver o lugar",
+        "abrir curiosidade",
+        "aprofundar",
+        "seguir conexão"
+      ]
+    },
+    {
+      "day": 307,
+      "place_id": "hub-persepolis",
+      "curiosity_id": "hub-chichen-itza-v14-2",
+      "title_pt": "Descoberta do mundo · Dia 307",
+      "focus_pt": "Persépolis: Capital cerimonial aquemênida e experiência sobre impérios, arquitetura e intercâmbio.",
+      "sequence": [
+        "ver o lugar",
+        "abrir curiosidade",
+        "aprofundar",
+        "seguir conexão"
+      ]
+    },
+    {
+      "day": 308,
+      "place_id": "hub-cambridge",
+      "curiosity_id": "hub-chichen-itza-v14-3",
+      "title_pt": "Descoberta do mundo · Dia 308",
+      "focus_pt": "Cambridge: Universidade, matemática, física e história das ideias.",
+      "sequence": [
+        "ver o lugar",
+        "abrir curiosidade",
+        "aprofundar",
+        "seguir conexão"
+      ]
+    },
+    {
+      "day": 309,
+      "place_id": "hub-greenwich",
+      "curiosity_id": "hub-chichen-itza-v14-4",
+      "title_pt": "Descoberta do mundo · Dia 309",
+      "focus_pt": "Greenwich: Meridiano, navegação, longitude e história da medição do tempo.",
+      "sequence": [
+        "ver o lugar",
+        "abrir curiosidade",
+        "aprofundar",
+        "seguir conexão"
+      ]
+    },
+    {
+      "day": 310,
+      "place_id": "hub-london",
+      "curiosity_id": "hub-chichen-itza-v14-5",
+      "title_pt": "Descoberta do mundo · Dia 310",
+      "focus_pt": "Londres: Newton, Royal Society, literatura e ciência urbana.",
+      "sequence": [
+        "ver o lugar",
+        "abrir curiosidade",
+        "aprofundar",
+        "seguir conexão"
+      ]
+    },
+    {
+      "day": 311,
+      "place_id": "hub-oxford",
+      "curiosity_id": "hub-teotihuacan-v14-1",
+      "title_pt": "Descoberta do mundo · Dia 311",
+      "focus_pt": "Oxford: Centro universitário com tradição em filosofia, teologia e ciência; abriga projetos como o Newton Project.",
+      "sequence": [
+        "ver o lugar",
+        "abrir curiosidade",
+        "aprofundar",
+        "seguir conexão"
+      ]
+    },
+    {
+      "day": 312,
+      "place_id": "hub-stonehenge",
+      "curiosity_id": "hub-teotihuacan-v14-2",
+      "title_pt": "Descoberta do mundo · Dia 312",
+      "focus_pt": "Stonehenge: Alinhamentos, paisagem e arqueoastronomia.",
+      "sequence": [
+        "ver o lugar",
+        "abrir curiosidade",
+        "aprofundar",
+        "seguir conexão"
+      ]
+    },
+    {
+      "day": 313,
+      "place_id": "hub-york",
+      "curiosity_id": "hub-teotihuacan-v14-3",
+      "title_pt": "Descoberta do mundo · Dia 313",
+      "focus_pt": "York: Camadas romanas, medievais e modernas em uma cidade histórica.",
+      "sequence": [
+        "ver o lugar",
+        "abrir curiosidade",
+        "aprofundar",
+        "seguir conexão"
+      ]
+    },
+    {
+      "day": 314,
+      "place_id": "hub-prague",
+      "curiosity_id": "hub-teotihuacan-v14-4",
+      "title_pt": "Descoberta do mundo · Dia 314",
+      "focus_pt": "Praga: Relógio astronômico, ciência e arte em um mesmo ponto.",
+      "sequence": [
+        "ver o lugar",
+        "abrir curiosidade",
+        "aprofundar",
+        "seguir conexão"
+      ]
+    },
+    {
+      "day": 315,
+      "place_id": "hub-moscow",
+      "curiosity_id": "hub-teotihuacan-v14-5",
+      "title_pt": "Descoberta do mundo · Dia 315",
+      "focus_pt": "Moscou: Matemática, física e literatura em uma grande tradição científica e cultural.",
+      "sequence": [
+        "ver o lugar",
+        "abrir curiosidade",
+        "aprofundar",
+        "seguir conexão"
+      ]
+    },
+    {
+      "day": 316,
+      "place_id": "hub-st-petersburg",
+      "curiosity_id": "hub-tikal-v14-1",
+      "title_pt": "Descoberta do mundo · Dia 316",
+      "focus_pt": "São Petersburgo: Arte, literatura e ciência na história russa.",
+      "sequence": [
+        "ver o lugar",
+        "abrir curiosidade",
+        "aprofundar",
+        "seguir conexão"
+      ]
+    },
+    {
+      "day": 317,
+      "place_id": "hub-ceylon",
+      "curiosity_id": "hub-tikal-v14-2",
+      "title_pt": "Descoberta do mundo · Dia 317",
+      "focus_pt": "Sri Lanka: Paisagem insular, budismo, agricultura e astronomia histórica.",
+      "sequence": [
+        "ver o lugar",
+        "abrir curiosidade",
+        "aprofundar",
+        "seguir conexão"
+      ]
+    },
+    {
+      "day": 318,
+      "place_id": "hub-mekong",
+      "curiosity_id": "hub-tikal-v14-3",
+      "title_pt": "Descoberta do mundo · Dia 318",
+      "focus_pt": "Rio Mekong: Rio, pesca, agricultura e dinâmica socioecológica.",
+      "sequence": [
+        "ver o lugar",
+        "abrir curiosidade",
+        "aprofundar",
+        "seguir conexão"
+      ]
+    },
+    {
+      "day": 319,
+      "place_id": "hub-ganges",
+      "curiosity_id": "hub-tikal-v14-4",
+      "title_pt": "Descoberta do mundo · Dia 319",
+      "focus_pt": "Bacia do Ganges: Rio, monções, agricultura e cidades em um grande sistema socioecológico.",
+      "sequence": [
+        "ver o lugar",
+        "abrir curiosidade",
+        "aprofundar",
+        "seguir conexão"
+      ]
+    },
+    {
+      "day": 320,
+      "place_id": "hub-indus",
+      "curiosity_id": "hub-tikal-v14-5",
+      "title_pt": "Descoberta do mundo · Dia 320",
+      "focus_pt": "Vale do Indo: Urbanismo, medidas e redes comerciais da civilização do Indo.",
+      "sequence": [
+        "ver o lugar",
+        "abrir curiosidade",
+        "aprofundar",
+        "seguir conexão"
+      ]
+    },
+    {
+      "day": 321,
+      "place_id": "hub-stockholm",
+      "curiosity_id": "hub-york-v14-1",
+      "title_pt": "Descoberta do mundo · Dia 321",
+      "focus_pt": "Estocolmo: Nobel, ciência e história cultural.",
+      "sequence": [
+        "ver o lugar",
+        "abrir curiosidade",
+        "aprofundar",
+        "seguir conexão"
+      ]
+    },
+    {
+      "day": 322,
+      "place_id": "hub-geneva",
+      "curiosity_id": "hub-york-v14-2",
+      "title_pt": "Descoberta do mundo · Dia 322",
+      "focus_pt": "Genebra: CERN e física de partículas oferecem ponte entre ciência e computação.",
+      "sequence": [
+        "ver o lugar",
+        "abrir curiosidade",
+        "aprofundar",
+        "seguir conexão"
+      ]
+    },
+    {
+      "day": 323,
+      "place_id": "hub-damascus",
+      "curiosity_id": "hub-york-v14-3",
+      "title_pt": "Descoberta do mundo · Dia 323",
+      "focus_pt": "Damasco: Ponto associado à tradição da conversão de Paulo e a antigas rotas entre Levante e Mesopotâmia.",
+      "sequence": [
+        "ver o lugar",
+        "abrir curiosidade",
+        "aprofundar",
+        "seguir conexão"
+      ]
+    },
+    {
+      "day": 324,
+      "place_id": "hub-damascus-old",
+      "curiosity_id": "hub-york-v14-4",
+      "title_pt": "Descoberta do mundo · Dia 324",
+      "focus_pt": "Damasco histórica: Cidade histórica com camadas religiosas e urbanas.",
+      "sequence": [
+        "ver o lugar",
+        "abrir curiosidade",
+        "aprofundar",
+        "seguir conexão"
+      ]
+    },
+    {
+      "day": 325,
+      "place_id": "hub-palmyra",
+      "curiosity_id": "hub-york-v14-5",
+      "title_pt": "Descoberta do mundo · Dia 325",
+      "focus_pt": "Palmira: Cidade-oásis e ponte comercial entre Mediterrâneo e Ásia.",
+      "sequence": [
+        "ver o lugar",
+        "abrir curiosidade",
+        "aprofundar",
+        "seguir conexão"
+      ]
+    },
+    {
+      "day": 326,
+      "place_id": "hub-antioch",
+      "curiosity_id": "hub-stonehenge-v14-1",
+      "title_pt": "Descoberta do mundo · Dia 326",
+      "focus_pt": "Antioquia: Importante centro urbano e missionário das primeiras comunidades cristãs.",
+      "sequence": [
+        "ver o lugar",
+        "abrir curiosidade",
+        "aprofundar",
+        "seguir conexão"
+      ]
+    },
+    {
+      "day": 327,
+      "place_id": "hub-sukhothai",
+      "curiosity_id": "hub-stonehenge-v14-2",
+      "title_pt": "Descoberta do mundo · Dia 327",
+      "focus_pt": "Sukhothai: Urbanismo histórico e patrimônio religioso.",
+      "sequence": [
+        "ver o lugar",
+        "abrir curiosidade",
+        "aprofundar",
+        "seguir conexão"
+      ]
+    },
+    {
+      "day": 328,
+      "place_id": "hub-kilimanjaro",
+      "curiosity_id": "hub-stonehenge-v14-3",
+      "title_pt": "Descoberta do mundo · Dia 328",
+      "focus_pt": "Kilimanjaro: Gradientes altitudinais conectam clima, biodiversidade e geologia.",
+      "sequence": [
+        "ver o lugar",
+        "abrir curiosidade",
+        "aprofundar",
+        "seguir conexão"
+      ]
+    },
+    {
+      "day": 329,
+      "place_id": "hub-serengeti",
+      "curiosity_id": "hub-stonehenge-v14-4",
+      "title_pt": "Descoberta do mundo · Dia 329",
+      "focus_pt": "Serengeti: Migração de grandes herbívoros e dinâmica predador-presa formam um laboratório de ecologia.",
+      "sequence": [
+        "ver o lugar",
+        "abrir curiosidade",
+        "aprofundar",
+        "seguir conexão"
+      ]
+    },
+    {
+      "day": 330,
+      "place_id": "hub-zanzibar",
+      "curiosity_id": "hub-stonehenge-v14-5",
+      "title_pt": "Descoberta do mundo · Dia 330",
+      "focus_pt": "Zanzibar: Rotas do Índico, formação cultural suaíli e circulação de mercadorias.",
+      "sequence": [
+        "ver o lugar",
+        "abrir curiosidade",
+        "aprofundar",
+        "seguir conexão"
+      ]
+    },
+    {
+      "day": 331,
+      "place_id": "hub-istanbul",
+      "curiosity_id": "hub-geneva-v14-1",
+      "title_pt": "Descoberta do mundo · Dia 331",
+      "focus_pt": "Istambul: Encruzilhada entre Europa e Ásia, Impérios Romano, Bizantino e Otomano.",
+      "sequence": [
+        "ver o lugar",
+        "abrir curiosidade",
+        "aprofundar",
+        "seguir conexão"
+      ]
+    },
+    {
+      "day": 332,
+      "place_id": "country-hm",
+      "curiosity_id": "hub-geneva-v14-2",
+      "title_pt": "Descoberta do mundo · Dia 332",
+      "focus_pt": "Ilhas Heard e McDonald: Ilhas Heard e McDonald: ponto de entrada para descobrir história, ciência, cultura, matemática, física e ecologia desta parte do mundo.",
+      "sequence": [
+        "ver o lugar",
+        "abrir curiosidade",
+        "aprofundar",
+        "seguir conexão"
+      ]
+    },
+    {
+      "day": 333,
+      "place_id": "hub-great-zimbabwe",
+      "curiosity_id": "hub-geneva-v14-3",
+      "title_pt": "Descoberta do mundo · Dia 333",
+      "focus_pt": "Grande Zimbábue: Arquitetura de pedra e redes de comércio mostram complexidade urbana na África pré-colonial.",
+      "sequence": [
+        "ver o lugar",
+        "abrir curiosidade",
+        "aprofundar",
+        "seguir conexão"
+      ]
+    },
+    {
+      "day": 334,
+      "place_id": "hub-cape-town",
+      "curiosity_id": "hub-geneva-v14-4",
+      "title_pt": "Descoberta do mundo · Dia 334",
+      "focus_pt": "Cidade do Cabo: Fynbos, montanhas e oceanos formam um mosaico ecológico extraordinário.",
+      "sequence": [
+        "ver o lugar",
+        "abrir curiosidade",
+        "aprofundar",
+        "seguir conexão"
+      ]
+    },
+    {
+      "day": 335,
+      "place_id": "hub-himalaya",
+      "curiosity_id": "hub-geneva-v14-5",
+      "title_pt": "Descoberta do mundo · Dia 335",
+      "focus_pt": "Himalaia: Placas tectônicas, glaciares, clima e ecossistemas altitudinais.",
+      "sequence": [
+        "ver o lugar",
+        "abrir curiosidade",
+        "aprofundar",
+        "seguir conexão"
+      ]
+    },
+    {
+      "day": 336,
+      "place_id": "hub-samarkand",
+      "curiosity_id": "hub-berlin-v14-1",
+      "title_pt": "Descoberta do mundo · Dia 336",
+      "focus_pt": "Samarcanda: Observatório de Ulugh Beg e redes da Rota da Seda aproximam astronomia, matemática e intercâmbio cultural.",
+      "sequence": [
+        "ver o lugar",
+        "abrir curiosidade",
+        "aprofundar",
+        "seguir conexão"
+      ]
+    },
+    {
+      "day": 337,
+      "place_id": "hub-ephesus",
+      "curiosity_id": "hub-berlin-v14-2",
+      "title_pt": "Descoberta do mundo · Dia 337",
+      "focus_pt": "Éfeso: Uma grande cidade do mundo romano e um ponto de conexão com Atos e a tradição cristã primitiva.",
+      "sequence": [
+        "ver o lugar",
+        "abrir curiosidade",
+        "aprofundar",
+        "seguir conexão"
+      ]
+    },
+    {
+      "day": 338,
+      "place_id": "hub-vienna",
+      "curiosity_id": "hub-berlin-v14-3",
+      "title_pt": "Descoberta do mundo · Dia 338",
+      "focus_pt": "Viena: Filosofia, música e história intelectual centro-europeia.",
+      "sequence": [
+        "ver o lugar",
+        "abrir curiosidade",
+        "aprofundar",
+        "seguir conexão"
+      ]
+    },
+    {
+      "day": 339,
+      "place_id": "hub-delhi",
+      "curiosity_id": "hub-berlin-v14-4",
+      "title_pt": "Descoberta do mundo · Dia 339",
+      "focus_pt": "Delhi: Uma cidade que concentra camadas imperiais, científicas e arquitetônicas.",
+      "sequence": [
+        "ver o lugar",
+        "abrir curiosidade",
+        "aprofundar",
+        "seguir conexão"
+      ]
+    },
+    {
+      "day": 340,
+      "place_id": "hub-varanasi",
+      "curiosity_id": "hub-berlin-v14-5",
+      "title_pt": "Descoberta do mundo · Dia 340",
+      "focus_pt": "Varanasi: Tradições religiosas, calendários e longa história intelectual do subcontinente.",
+      "sequence": [
+        "ver o lugar",
+        "abrir curiosidade",
+        "aprofundar",
+        "seguir conexão"
+      ]
+    },
+    {
+      "day": 341,
+      "place_id": "hub-pataliputra",
+      "curiosity_id": "hub-vienna-v14-1",
+      "title_pt": "Descoberta do mundo · Dia 341",
+      "focus_pt": "Pataliputra: Centro político da Índia antiga e contexto de tradições administrativas e matemáticas.",
+      "sequence": [
+        "ver o lugar",
+        "abrir curiosidade",
+        "aprofundar",
+        "seguir conexão"
+      ]
+    },
+    {
+      "day": 342,
+      "place_id": "country-ao",
+      "curiosity_id": "hub-vienna-v14-2",
+      "title_pt": "Descoberta do mundo · Dia 342",
+      "focus_pt": "Angola: Angola: ponto de entrada para descobrir história, ciência, cultura, matemática, física e ecologia desta parte do mundo.",
+      "sequence": [
+        "ver o lugar",
+        "abrir curiosidade",
+        "aprofundar",
+        "seguir conexão"
+      ]
+    },
+    {
+      "day": 343,
+      "place_id": "country-dz",
+      "curiosity_id": "hub-vienna-v14-3",
+      "title_pt": "Descoberta do mundo · Dia 343",
+      "focus_pt": "Argélia: Argélia: ponto de entrada para descobrir história, ciência, cultura, matemática, física e ecologia desta parte do mundo.",
+      "sequence": [
+        "ver o lugar",
+        "abrir curiosidade",
+        "aprofundar",
+        "seguir conexão"
+      ]
+    },
+    {
+      "day": 344,
+      "place_id": "country-bj",
+      "curiosity_id": "hub-vienna-v14-4",
+      "title_pt": "Descoberta do mundo · Dia 344",
+      "focus_pt": "Benin: Benin: ponto de entrada para descobrir história, ciência, cultura, matemática, física e ecologia desta parte do mundo.",
+      "sequence": [
+        "ver o lugar",
+        "abrir curiosidade",
+        "aprofundar",
+        "seguir conexão"
+      ]
+    },
+    {
+      "day": 345,
+      "place_id": "country-bw",
+      "curiosity_id": "hub-vienna-v14-5",
+      "title_pt": "Descoberta do mundo · Dia 345",
+      "focus_pt": "Botsuana: Botsuana: ponto de entrada para descobrir história, ciência, cultura, matemática, física e ecologia desta parte do mundo.",
+      "sequence": [
+        "ver o lugar",
+        "abrir curiosidade",
+        "aprofundar",
+        "seguir conexão"
+      ]
+    },
+    {
+      "day": 346,
+      "place_id": "country-bf",
+      "curiosity_id": "hub-prague-v14-1",
+      "title_pt": "Descoberta do mundo · Dia 346",
+      "focus_pt": "Burquina Faso: Burquina Faso: ponto de entrada para descobrir história, ciência, cultura, matemática, física e ecologia desta parte do mundo.",
+      "sequence": [
+        "ver o lugar",
+        "abrir curiosidade",
+        "aprofundar",
+        "seguir conexão"
+      ]
+    },
+    {
+      "day": 347,
+      "place_id": "country-bi",
+      "curiosity_id": "hub-prague-v14-2",
+      "title_pt": "Descoberta do mundo · Dia 347",
+      "focus_pt": "Burundi: Burundi: ponto de entrada para descobrir história, ciência, cultura, matemática, física e ecologia desta parte do mundo.",
+      "sequence": [
+        "ver o lugar",
+        "abrir curiosidade",
+        "aprofundar",
+        "seguir conexão"
+      ]
+    },
+    {
+      "day": 348,
+      "place_id": "country-cv",
+      "curiosity_id": "hub-prague-v14-3",
+      "title_pt": "Descoberta do mundo · Dia 348",
+      "focus_pt": "Cabo Verde: Cabo Verde: ponto de entrada para descobrir história, ciência, cultura, matemática, física e ecologia desta parte do mundo.",
+      "sequence": [
+        "ver o lugar",
+        "abrir curiosidade",
+        "aprofundar",
+        "seguir conexão"
+      ]
+    },
+    {
+      "day": 349,
+      "place_id": "country-cm",
+      "curiosity_id": "hub-prague-v14-4",
+      "title_pt": "Descoberta do mundo · Dia 349",
+      "focus_pt": "Camarões: Camarões: ponto de entrada para descobrir história, ciência, cultura, matemática, física e ecologia desta parte do mundo.",
+      "sequence": [
+        "ver o lugar",
+        "abrir curiosidade",
+        "aprofundar",
+        "seguir conexão"
+      ]
+    },
+    {
+      "day": 350,
+      "place_id": "country-td",
+      "curiosity_id": "hub-prague-v14-5",
+      "title_pt": "Descoberta do mundo · Dia 350",
+      "focus_pt": "Chade: Chade: ponto de entrada para descobrir história, ciência, cultura, matemática, física e ecologia desta parte do mundo.",
+      "sequence": [
+        "ver o lugar",
+        "abrir curiosidade",
+        "aprofundar",
+        "seguir conexão"
+      ]
+    },
+    {
+      "day": 351,
+      "place_id": "country-km",
+      "curiosity_id": "hub-stockholm-v14-1",
+      "title_pt": "Descoberta do mundo · Dia 351",
+      "focus_pt": "Comores: Comores: ponto de entrada para descobrir história, ciência, cultura, matemática, física e ecologia desta parte do mundo.",
+      "sequence": [
+        "ver o lugar",
+        "abrir curiosidade",
+        "aprofundar",
+        "seguir conexão"
+      ]
+    },
+    {
+      "day": 352,
+      "place_id": "country-cd",
+      "curiosity_id": "hub-stockholm-v14-2",
+      "title_pt": "Descoberta do mundo · Dia 352",
+      "focus_pt": "Congo - Kinshasa: Congo - Kinshasa: ponto de entrada para descobrir história, ciência, cultura, matemática, física e ecologia desta parte do mundo.",
+      "sequence": [
+        "ver o lugar",
+        "abrir curiosidade",
+        "aprofundar",
+        "seguir conexão"
+      ]
+    },
+    {
+      "day": 353,
+      "place_id": "country-ci",
+      "curiosity_id": "hub-stockholm-v14-3",
+      "title_pt": "Descoberta do mundo · Dia 353",
+      "focus_pt": "Costa do Marfim: Costa do Marfim: ponto de entrada para descobrir história, ciência, cultura, matemática, física e ecologia desta parte do mundo.",
+      "sequence": [
+        "ver o lugar",
+        "abrir curiosidade",
+        "aprofundar",
+        "seguir conexão"
+      ]
+    },
+    {
+      "day": 354,
+      "place_id": "country-dj",
+      "curiosity_id": "hub-stockholm-v14-4",
+      "title_pt": "Descoberta do mundo · Dia 354",
+      "focus_pt": "Djibuti: Djibuti: ponto de entrada para descobrir história, ciência, cultura, matemática, física e ecologia desta parte do mundo.",
+      "sequence": [
+        "ver o lugar",
+        "abrir curiosidade",
+        "aprofundar",
+        "seguir conexão"
+      ]
+    },
+    {
+      "day": 355,
+      "place_id": "country-eg",
+      "curiosity_id": "hub-stockholm-v14-5",
+      "title_pt": "Descoberta do mundo · Dia 355",
+      "focus_pt": "Egito: Egito: ponto de entrada para descobrir história, ciência, cultura, matemática, física e ecologia desta parte do mundo.",
+      "sequence": [
+        "ver o lugar",
+        "abrir curiosidade",
+        "aprofundar",
+        "seguir conexão"
+      ]
+    },
+    {
+      "day": 356,
+      "place_id": "country-er",
+      "curiosity_id": "hub-reykjavik-v14-1",
+      "title_pt": "Descoberta do mundo · Dia 356",
+      "focus_pt": "Eritreia: Eritreia: ponto de entrada para descobrir história, ciência, cultura, matemática, física e ecologia desta parte do mundo.",
+      "sequence": [
+        "ver o lugar",
+        "abrir curiosidade",
+        "aprofundar",
+        "seguir conexão"
+      ]
+    },
+    {
+      "day": 357,
+      "place_id": "country-sz",
+      "curiosity_id": "hub-reykjavik-v14-2",
+      "title_pt": "Descoberta do mundo · Dia 357",
+      "focus_pt": "Essuatíni: Essuatíni: ponto de entrada para descobrir história, ciência, cultura, matemática, física e ecologia desta parte do mundo.",
+      "sequence": [
+        "ver o lugar",
+        "abrir curiosidade",
+        "aprofundar",
+        "seguir conexão"
+      ]
+    },
+    {
+      "day": 358,
+      "place_id": "country-et",
+      "curiosity_id": "hub-reykjavik-v14-3",
+      "title_pt": "Descoberta do mundo · Dia 358",
+      "focus_pt": "Etiópia: Etiópia: ponto de entrada para descobrir história, ciência, cultura, matemática, física e ecologia desta parte do mundo.",
+      "sequence": [
+        "ver o lugar",
+        "abrir curiosidade",
+        "aprofundar",
+        "seguir conexão"
+      ]
+    },
+    {
+      "day": 359,
+      "place_id": "country-ga",
+      "curiosity_id": "hub-reykjavik-v14-4",
+      "title_pt": "Descoberta do mundo · Dia 359",
+      "focus_pt": "Gabão: Gabão: ponto de entrada para descobrir história, ciência, cultura, matemática, física e ecologia desta parte do mundo.",
+      "sequence": [
+        "ver o lugar",
+        "abrir curiosidade",
+        "aprofundar",
+        "seguir conexão"
+      ]
+    },
+    {
+      "day": 360,
+      "place_id": "country-gh",
+      "curiosity_id": "hub-reykjavik-v14-5",
+      "title_pt": "Descoberta do mundo · Dia 360",
+      "focus_pt": "Gana: Gana: ponto de entrada para descobrir história, ciência, cultura, matemática, física e ecologia desta parte do mundo.",
+      "sequence": [
+        "ver o lugar",
+        "abrir curiosidade",
+        "aprofundar",
+        "seguir conexão"
+      ]
+    },
+    {
+      "day": 361,
+      "place_id": "country-gn",
+      "curiosity_id": "hub-greenwich-v14-1",
+      "title_pt": "Descoberta do mundo · Dia 361",
+      "focus_pt": "Guiné: Guiné: ponto de entrada para descobrir história, ciência, cultura, matemática, física e ecologia desta parte do mundo.",
+      "sequence": [
+        "ver o lugar",
+        "abrir curiosidade",
+        "aprofundar",
+        "seguir conexão"
+      ]
+    },
+    {
+      "day": 362,
+      "place_id": "country-gq",
+      "curiosity_id": "hub-greenwich-v14-2",
+      "title_pt": "Descoberta do mundo · Dia 362",
+      "focus_pt": "Guiné Equatorial: Guiné Equatorial: ponto de entrada para descobrir história, ciência, cultura, matemática, física e ecologia desta parte do mundo.",
+      "sequence": [
+        "ver o lugar",
+        "abrir curiosidade",
+        "aprofundar",
+        "seguir conexão"
+      ]
+    },
+    {
+      "day": 363,
+      "place_id": "country-gw",
+      "curiosity_id": "hub-greenwich-v14-3",
+      "title_pt": "Descoberta do mundo · Dia 363",
+      "focus_pt": "Guiné-Bissau: Guiné-Bissau: ponto de entrada para descobrir história, ciência, cultura, matemática, física e ecologia desta parte do mundo.",
+      "sequence": [
+        "ver o lugar",
+        "abrir curiosidade",
+        "aprofundar",
+        "seguir conexão"
+      ]
+    },
+    {
+      "day": 364,
+      "place_id": "country-gm",
+      "curiosity_id": "hub-greenwich-v14-4",
+      "title_pt": "Descoberta do mundo · Dia 364",
+      "focus_pt": "Gâmbia: Gâmbia: ponto de entrada para descobrir história, ciência, cultura, matemática, física e ecologia desta parte do mundo.",
+      "sequence": [
+        "ver o lugar",
+        "abrir curiosidade",
+        "aprofundar",
+        "seguir conexão"
+      ]
+    },
+    {
+      "day": 365,
+      "place_id": "country-ls",
+      "curiosity_id": "hub-greenwich-v14-5",
+      "title_pt": "Descoberta do mundo · Dia 365",
+      "focus_pt": "Lesoto: Lesoto: ponto de entrada para descobrir história, ciência, cultura, matemática, física e ecologia desta parte do mundo.",
+      "sequence": [
+        "ver o lugar",
+        "abrir curiosidade",
+        "aprofundar",
+        "seguir conexão"
+      ]
+    }
+  ]
+}

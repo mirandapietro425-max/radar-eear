@@ -1,0 +1,31 @@
+{
+  "version": "15.0",
+  "language": "pt-BR",
+  "new_files": [
+    "content/v15/accessibility-performance-v15.json",
+    "content/v15/curiosities-v15.json",
+    "content/v15/daily-composition-730-v15.json",
+    "content/v15/educational-games-v15.json",
+    "content/v15/globe-layers-v15.json",
+    "content/v15/information-architecture-v15.json",
+    "content/v15/knowledge-graph-contract-v15.json",
+    "content/v15/mastery-and-review-v15.json",
+    "content/v15/media-registry-v15.json",
+    "content/v15/pop-culture-connections-v15.json",
+    "content/v15/request-audit-v15.json",
+    "content/v15/research-claims-v15.json",
+    "content/v15/research-registry-v15.json",
+    "content/v15/ux-system-v15.json"
+  ],
+  "counts": {
+    "games": 120,
+    "pop_culture_connections": 61,
+    "curiosities": 64,
+    "daily_slots": 730,
+    "audit_items": 20,
+    "research_sources": 10,
+    "media_anchors": 6
+  },
+  "status": "master_consolidation_ready",
+  "honesty_note": "Este pacote adiciona conteúdo e arquitetura local; não representa commit no GitHub. Itens marcados partial/needs_hardening não devem ser apresentados como completos."
+}

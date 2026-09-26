@@ -1,0 +1,37 @@
+{
+  "principles": [
+    "descoberta progressiva",
+    "mapa como contexto",
+    "interação antes da explicação",
+    "fonte visível",
+    "imagem com proveniência",
+    "continuidade da trilha",
+    "mobile-first",
+    "movimento reduzido"
+  ],
+  "interaction_flow": [
+    "arrastar_globo",
+    "zoom",
+    "filtrar_tema",
+    "pesquisar_lugar",
+    "selecionar_ponto",
+    "abrir_cartao",
+    "abrir_experiencia",
+    "abrir_fontes"
+  ],
+  "states": [
+    "carregando",
+    "sem_chave_google",
+    "modo_offline",
+    "reduzido_movimento",
+    "erro_de_midia",
+    "sem_resultado"
+  ],
+  "performance": [
+    "não ler layout durante drag",
+    "usar transforms para marcadores",
+    "virtualizar listas laterais grandes",
+    "lazy-load de imagens",
+    "limitar auto-rotacao fora da viewport"
+  ]
+}

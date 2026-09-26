@@ -1,0 +1,85 @@
+{
+  "version": "10.0",
+  "requested_items": [
+    {
+      "request": "curiosidades bíblicas",
+      "status": "completed_seed",
+      "count": 95,
+      "asset": "bible-curiosities-v10.json"
+    },
+    {
+      "request": "habilidades bíblicas",
+      "status": "completed_seed",
+      "count": 24,
+      "asset": "bible-skills-v10.json"
+    },
+    {
+      "request": "mais informações sobre autores",
+      "status": "expanded_schema",
+      "count": 182,
+      "asset": "author-enrichment-v10.json",
+      "note": "padronização aprofundada adicionada; biografias individuais detalhadas adicionais continuam sendo uma fila editorial"
+    },
+    {
+      "request": "mais conceitos de matemática",
+      "status": "completed_seed",
+      "count": 104,
+      "asset": "math-concept-depth-v10.json"
+    },
+    {
+      "request": "mais conceitos de física",
+      "status": "completed_seed",
+      "count": 99,
+      "asset": "physics-concept-depth-v10.json"
+    },
+    {
+      "request": "mais curiosidades de português",
+      "status": "completed_seed",
+      "count": 52,
+      "asset": "portuguese-curiosities-v10.json"
+    },
+    {
+      "request": "jogos de português",
+      "status": "completed_seed",
+      "count": 16
+    },
+    {
+      "request": "jogos de inglês",
+      "status": "completed_seed",
+      "count": 16
+    },
+    {
+      "request": "jogos de matemática",
+      "status": "completed_seed",
+      "count": 16
+    },
+    {
+      "request": "jogos de física",
+      "status": "completed_seed",
+      "count": 16
+    },
+    {
+      "request": "melhorar entendimento",
+      "status": "completed_framework",
+      "asset": "learning-experience-system-v10.json"
+    },
+    {
+      "request": "imagens adicionais",
+      "status": "expanded_registry",
+      "count": 5,
+      "note": "registro de mídia + proveniência; não é correto assumir licença apenas pela existência de uma imagem"
+    },
+    {
+      "request": "diário integrado",
+      "status": "completed_seed",
+      "count": 365,
+      "asset": "daily-learning-365-v10.json"
+    }
+  ],
+  "known_remaining_gaps": [
+    "ingestão integral de todos os PDFs de provas antigas da EEAR ainda depende de download/processamento efetivo de cada documento; o status não foi inventado",
+    "perfis biográficos ainda precisam de enriquecimento individual com fontes primárias/biográficas para que cada pessoa tenha fatos específicos além do schema",
+    "nem todo jogo está implementado como componente React nesta etapa; o banco descreve mecânicas e rotas para implementação",
+    "as licenças de cada imagem externa devem ser verificadas por arquivo antes de embutir comercialmente"
+  ]
+}

@@ -1,0 +1,274 @@
+{
+  "schema_version": "7.0",
+  "language": "pt-BR",
+  "source_scope": "Anexo IV do edital CFS 2/2027",
+  "count": 4,
+  "items": [
+    {
+      "id": "portugues",
+      "title_pt": "Língua Portuguesa",
+      "overview_pt": "A prova trabalha interpretação de textos e gramática, incluindo fonética/fonologia, ortografia, acentuação, morfologia, formação de palavras, classes, verbos, pronomes, pontuação, sintaxe, concordância, regência, crase, colocação pronominal, discurso e estilística.",
+      "official_source_id": "eear_edital_2027",
+      "pillars_pt": [
+        "Interpretação de textos literários e não literários",
+        "Fonética, sílaba, encontros vocálicos/consonantais, tonicidade, acentuação e ortografia",
+        "Morfologia e formação de palavras",
+        "Classes de palavras, verbos e pronomes",
+        "Pontuação",
+        "Período simples e composto; coordenação e subordinação; orações reduzidas",
+        "Concordância verbal e nominal",
+        "Regência verbal e nominal",
+        "Crase",
+        "Colocação pronominal",
+        "Tipos de discurso",
+        "Figuras de linguagem"
+      ],
+      "study_strategy_pt": [
+        "Leia o texto antes das alternativas.",
+        "Marque relações entre termos, não apenas palavras isoladas.",
+        "Em gramática, justifique cada transformação pela regra aplicável.",
+        "Treine identificação + aplicação + revisão de erro."
+      ],
+      "experiences": [
+        "leitura_anotada",
+        "frase_em_camadas",
+        "comparador_gramatical",
+        "microtexto_com_perguntas"
+      ],
+      "summary_card": {
+        "sections": [
+          "O que cai",
+          "Como pensar",
+          "Fórmulas/estruturas-chave",
+          "Erros que mais custam pontos",
+          "Treino guiado",
+          "Revisão espaçada",
+          "Questões oficiais relacionadas"
+        ],
+        "interaction": "progressive-reveal",
+        "visual": "editorial + laboratório"
+      }
+    },
+    {
+      "id": "ingles",
+      "title_pt": "Língua Inglesa",
+      "overview_pt": "O edital divide Inglês por nível: básico para as demais especialidades e intermediário para BCT/Controle de Tráfego Aéreo. Em ambos, a prova combina gramática e compreensão de textos técnicos e gerais.",
+      "official_source_id": "eear_edital_2027",
+      "pillars_pt": [
+        "Nível básico (demais especialidades): substantivos, adjetivos, pronomes, interrogativos, advérbios, preposições, conjunções, verbos, tempos essenciais, modais, infinitivo/gerúndio, condicionais 0/1/2, voz passiva, phrasal verbs, question tags, quantificadores, prefixos/sufixos e artigos.",
+        "Nível intermediário (BCT): amplia estruturas do básico com pronomes e determinantes adicionais, tempos perfect, voz reflexiva, discurso direto/indireto, período composto, marcadores discursivos e formas enfáticas.",
+        "Compreensão de textos técnicos e gerais: ideia central, detalhes, relações entre frases, vocabulário em contexto e inferência.",
+        "Estrutura: use o contexto e os conectores para prever a função das palavras antes de traduzir literalmente."
+      ],
+      "study_strategy_pt": [
+        "Leia por sentido global antes de traduzir.",
+        "Use linha do tempo para os tempos verbais.",
+        "Marque conectores, pronomes e referências.",
+        "Converta erros recorrentes em cartões de estrutura."
+      ],
+      "experiences": [
+        "text_reveal",
+        "word_map",
+        "grammar_timeline",
+        "reading_probe"
+      ],
+      "summary_card": {
+        "sections": [
+          "Nível básico",
+          "Nível intermediário BCT",
+          "Compreensão de textos",
+          "Erros frequentes",
+          "Treino guiado",
+          "Revisão espaçada",
+          "Questões oficiais relacionadas"
+        ],
+        "interaction": "progressive-reveal",
+        "visual": "editorial + laboratório"
+      },
+      "levels": {
+        "basico": {
+          "id": "ingles_basico",
+          "title_pt": "Língua Inglesa — Básico",
+          "overview_pt": "Para as demais especialidades, o edital define nível básico. A experiência deve combinar gramática essencial com leitura de textos técnicos e gerais.",
+          "official_source_id": "eear_edital_2027",
+          "pillars_pt": [
+            "Substantivos, adjetivos e pronomes",
+            "Interrogativos, advérbios, preposições e conjunções",
+            "Verbos e auxiliares",
+            "Simple present, present progressive, simple past, past progressive, present perfect e future",
+            "Modal verbs; infinitivo e gerúndio",
+            "Imperativo e subjuntivo",
+            "Condicionais 0, 1 e 2",
+            "Voz passiva; phrasal verbs; question tags",
+            "Quantificadores; prefixos e sufixos; artigos",
+            "Compreensão de textos técnicos e gerais"
+          ],
+          "study_strategy_pt": [
+            "Comece pelo sentido global.",
+            "Use o verbo e os conectores como pistas estruturais.",
+            "Depois procure detalhes e inferências.",
+            "Converta erros em cartões de vocabulário/estrutura."
+          ],
+          "experiences": [
+            "text_reveal",
+            "word_map",
+            "grammar_timeline",
+            "reading_probe"
+          ],
+          "summary_card": {
+            "sections": [
+              "O que cai",
+              "Como pensar",
+              "Fórmulas/estruturas-chave",
+              "Erros que mais custam pontos",
+              "Treino guiado",
+              "Revisão espaçada",
+              "Questões oficiais relacionadas"
+            ],
+            "interaction": "progressive-reveal",
+            "visual": "editorial + laboratório"
+          }
+        },
+        "intermediario_bct": {
+          "id": "ingles_intermediario",
+          "title_pt": "Língua Inglesa — Intermediário (BCT)",
+          "overview_pt": "Para BCT/Controle de Tráfego Aéreo, o edital define nível intermediário, mantendo compreensão de textos e ampliando estruturas gramaticais.",
+          "official_source_id": "eear_edital_2027",
+          "pillars_pt": [
+            "Artigos e substantivos; gênero, número, compostos, contáveis/incontáveis e posse",
+            "Adjetivos, comparação e formação por -ing/-ed",
+            "Pronome pessoal, indefinido, relativo, demonstrativo, possessivo e reflexivo",
+            "Interrogativos, determinantes e quantificadores",
+            "Advérbios, numerais, preposições e conjunções",
+            "Verbos regulares, irregulares e auxiliares",
+            "Tempos simples, progressivos e perfect; future",
+            "Modal verbs; infinitivo e gerúndio; imperativo e subjuntivo",
+            "Voz ativa, passiva e reflexiva",
+            "Phrasal verbs, ênfase, question tags, discurso direto/indireto, período composto, prefixos/sufixos e marcadores discursivos",
+            "Compreensão de textos técnicos e gerais"
+          ],
+          "study_strategy_pt": [
+            "Treine leitura com contexto e estrutura.",
+            "Compare os tempos verbais por linha do tempo.",
+            "Observe conectores como sinais de intenção do autor.",
+            "Faça revisão cumulativa de estruturas confundidas."
+          ],
+          "experiences": [
+            "timeline_tenses",
+            "sentence_builder",
+            "connector_map",
+            "technical_reading"
+          ],
+          "summary_card": {
+            "sections": [
+              "O que cai",
+              "Como pensar",
+              "Fórmulas/estruturas-chave",
+              "Erros que mais custam pontos",
+              "Treino guiado",
+              "Revisão espaçada",
+              "Questões oficiais relacionadas"
+            ],
+            "interaction": "progressive-reveal",
+            "visual": "editorial + laboratório"
+          }
+        }
+      }
+    },
+    {
+      "id": "matematica",
+      "title_pt": "Matemática",
+      "overview_pt": "O conteúdo oficial é amplo e cobre Álgebra I–III, geometria, trigonometria, combinatória, probabilidade, estatística, geometria analítica e números complexos.",
+      "official_source_id": "eear_edital_2027",
+      "pillars_pt": [
+        "Álgebra I: funções; domínio, imagem e contradomínio; gráficos; injetora/sobrejetora/bijetora; monotonicidade; composição e inversa; funções de 1º grau, quadrática, modular, exponencial e logarítmica",
+        "Equações, inequações e sistemas; sequências; PA e PG",
+        "Geometria plana: ângulos; polígonos; triângulos; quadriláteros; circunferência e círculo",
+        "Trigonometria: razões; graus e radianos; ciclo; identidades; fórmulas; equações/inequações; leis dos senos e cossenos",
+        "Álgebra II: matrizes, determinantes, sistemas lineares, contagem e probabilidades",
+        "Estatística: população, amostra, variável, tabelas, gráficos, frequências, histograma, polígono, moda, média e mediana",
+        "Geometria espacial: poliedros, prismas, pirâmides, cilindros, cones, esfera; áreas e volumes",
+        "Geometria analítica: ponto, reta e circunferência",
+        "Álgebra III: números complexos, plano de Argand-Gauss, módulo, argumento, forma trigonométrica; polinômios e equações polinomiais; teorema fundamental da Álgebra; Girard"
+      ],
+      "study_strategy_pt": [
+        "Traduza o enunciado para variáveis antes de calcular.",
+        "Desenhe quando houver geometria, função ou vetor.",
+        "Cheque domínio, unidade e sinal.",
+        "Após resolver, faça uma estimativa para detectar erro de cálculo.",
+        "Use exercícios oficiais para mapear quais tópicos já domina."
+      ],
+      "experiences": [
+        "function_lab",
+        "geometry_canvas",
+        "trigonometry_circle",
+        "probability_table",
+        "statistics_lab",
+        "complex_plane",
+        "matrix_playground"
+      ],
+      "summary_card": {
+        "sections": [
+          "O que cai",
+          "Como pensar",
+          "Fórmulas/estruturas-chave",
+          "Erros que mais custam pontos",
+          "Treino guiado",
+          "Revisão espaçada",
+          "Questões oficiais relacionadas"
+        ],
+        "interaction": "progressive-reveal",
+        "visual": "editorial + laboratório"
+      }
+    },
+    {
+      "id": "fisica",
+      "title_pt": "Física",
+      "overview_pt": "O conteúdo oficial abrange mecânica, fluidos, energia, gravitação, eletricidade e magnetismo, ondas, óptica, termologia, gases, termodinâmica, matéria e radiação.",
+      "official_source_id": "eear_edital_2027",
+      "pillars_pt": [
+        "Conceitos básicos: ordem de grandeza, notação científica, mensuração, SI, gráficos, grandezas escalares/vetoriais, operações vetoriais",
+        "Movimento e equilíbrio: tempo, espaço, velocidade, aceleração, MRU, MRUV, queda livre, projéteis, MCU, referenciais, quantidade de movimento, Newton, Hooke, centro de massa, impulso, colisões, torque, equilíbrio, atrito, peso, normal, tração, diagramas de forças",
+        "Pressão, densidade, pressão atmosférica, Torricelli, Pascal, Arquimedes, Stevin e empuxo",
+        "Trabalho, energia, potência, rendimento, energia potencial/cinética, conservação e dissipação",
+        "Gravitação, aceleração gravitacional, gravitação universal, leis de Kepler e corpos celestes",
+        "Eletricidade/magnetismo: carga, corrente, eletrização, Coulomb, campo, trabalho/potencial, Gauss, capacitores, corrente CC/CA, Joule, Ohm, resistores, Wheatstone, circuitos, geradores/receptores, medições, ímãs, campos, Biot-Savart, Ampère, eletroímã, força magnética, indução, Faraday, Lenz e transformadores",
+        "Oscilações, ondas e óptica: frequência, período, v=λf, reflexão, refração, difração, polarização, interferência, Huygens, MHS, som, tubos, Doppler, espelhos, lentes e instrumentos ópticos",
+        "Calor e fenômenos térmicos: temperatura, escalas, equilíbrio, capacidade, calor específico, condução, dilatação, mudança de fase, gases ideais, máquinas térmicas, Carnot e leis da Termodinâmica",
+        "Matéria e radiação: modelos atômicos, propriedades dos materiais, espectro eletromagnético, aplicações, radiações, natureza corpuscular, transformações nucleares e radioatividade"
+      ],
+      "study_strategy_pt": [
+        "Faça primeiro um diagrama físico.",
+        "Defina o sistema e o referencial.",
+        "Escolha a lei antes de substituir números.",
+        "Mantenha unidades até a resposta final.",
+        "Use gráficos para ligar matemática e fenômeno físico."
+      ],
+      "experiences": [
+        "motion_lab",
+        "force_diagram",
+        "fluid_lab",
+        "energy_graph",
+        "orbit_lab",
+        "circuit_lab",
+        "wave_lab",
+        "lens_lab",
+        "thermo_lab",
+        "spectrum_lab"
+      ],
+      "summary_card": {
+        "sections": [
+          "O que cai",
+          "Como pensar",
+          "Fórmulas/estruturas-chave",
+          "Erros que mais custam pontos",
+          "Treino guiado",
+          "Revisão espaçada",
+          "Questões oficiais relacionadas"
+        ],
+        "interaction": "progressive-reveal",
+        "visual": "editorial + laboratório"
+      }
+    }
+  ]
+}

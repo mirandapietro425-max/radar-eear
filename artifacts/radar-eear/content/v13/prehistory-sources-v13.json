@@ -1,0 +1,132 @@
+[
+  {
+    "id": "smithsonian-human-origins-evidence",
+    "title": "Smithsonian Human Origins Program — Evidências da evolução humana",
+    "url": "https://humanorigins.si.edu/evidence",
+    "language": "en",
+    "use": "base factual source; editorial text translated to Portuguese",
+    "rights": "institutional educational source; verify media rights per asset",
+    "notes": "Fossils, tools, footprints, genetics and dating."
+  },
+  {
+    "id": "smithsonian-homo-sapiens",
+    "title": "Smithsonian Human Origins — Homo sapiens",
+    "url": "https://humanorigins.si.edu/evidence/human-fossils/species/homo-sapiens",
+    "language": "en",
+    "use": "human prehistory",
+    "rights": "text source; image rights per asset",
+    "notes": "Tools, food gathering, fishing, farming transition."
+  },
+  {
+    "id": "smithsonian-neanderthal",
+    "title": "Smithsonian Human Origins — Homo neanderthalensis",
+    "url": "https://humanorigins.si.edu/evidence/human-fossils/species/homo-neanderthalensis",
+    "language": "en",
+    "use": "Neanderthal ecology, technology and social behavior",
+    "rights": "text source; image rights per asset"
+  },
+  {
+    "id": "smithsonian-hearths",
+    "title": "Smithsonian Human Origins — Hearths & Shelters",
+    "url": "https://humanorigins.si.edu/evidence/behavior/hearths-shelters",
+    "language": "en",
+    "use": "fire, shelter, cooking and social life",
+    "rights": "text source; image rights per asset"
+  },
+  {
+    "id": "smithsonian-tools-food",
+    "title": "Smithsonian Human Origins — Tools & Food",
+    "url": "https://humanorigins.si.edu/human-characteristics/tools-food",
+    "language": "en",
+    "use": "stone tools, hunting, butchery and fire",
+    "rights": "text source; image rights per asset"
+  },
+  {
+    "id": "smithsonian-social-life",
+    "title": "Smithsonian Human Origins — Social Life",
+    "url": "https://humanorigins.si.edu/human-characteristics/social-life",
+    "language": "en",
+    "use": "resource sharing and early social networks",
+    "rights": "text source; image rights per asset"
+  },
+  {
+    "id": "smithsonian-paleo-records",
+    "title": "Smithsonian NMNH Paleobiology Specimen Records",
+    "url": "https://collections.nmnh.si.edu/ipt/resource?r=nmnh_paleo_dwc-a",
+    "language": "en",
+    "use": "specimen catalog and media discovery",
+    "rights": "CC0 1.0 data; individual media still checked per record"
+  },
+  {
+    "id": "smithsonian-open-access",
+    "title": "Smithsonian Open Access FAQ",
+    "url": "https://www.si.edu/openaccess/faq",
+    "language": "en",
+    "use": "media-rights policy",
+    "rights": "CC0 assets may be reused; verify record-specific status"
+  },
+  {
+    "id": "nhm-dinosaurs",
+    "title": "Natural History Museum London — Dinosaurs Gallery",
+    "url": "https://www.nhm.ac.uk/visit/galleries-and-museum-map/dinosaurs.html",
+    "language": "en",
+    "use": "museum exhibits, fossils, paleoeducation",
+    "rights": "institutional page; media rights per asset"
+  },
+  {
+    "id": "nhm-from-beginning",
+    "title": "Natural History Museum London — From the Beginning",
+    "url": "https://www.nhm.ac.uk/visit/galleries-and-museum-map/from-the-beginning.html",
+    "language": "en",
+    "use": "deep-time narrative",
+    "rights": "institutional page; media rights per asset"
+  },
+  {
+    "id": "amnh-primitive-mammals",
+    "title": "American Museum of Natural History — Hall of Primitive Mammals",
+    "url": "https://www.amnh.org/exhibitions/permanent/primitive-mammals",
+    "language": "en",
+    "use": "extinct mammals and adaptations",
+    "rights": "institutional page; media rights per asset"
+  },
+  {
+    "id": "amnh-fossil-mammals",
+    "title": "American Museum of Natural History — Fossil Mammals Collection",
+    "url": "https://www.amnh.org/research/paleontology/collections/fossil-mammals",
+    "language": "en",
+    "use": "collection scale and mammalian paleontology",
+    "rights": "institutional page; media rights per asset"
+  },
+  {
+    "id": "ufrj-paleo",
+    "title": "Museu Nacional/UFRJ — Coleção Paleontológica",
+    "url": "https://sae.museunacional.ufrj.br/colecao-paleontologica/",
+    "language": "pt-BR",
+    "use": "Brazilian paleontology and educational collection",
+    "rights": "institutional page; media rights per asset"
+  },
+  {
+    "id": "ufrj-paleo-vertebrates",
+    "title": "Museu Nacional/UFRJ — Coleção de Paleovertebrados",
+    "url": "https://dgp.museunacional.ufrj.br/setor_VER_colecao.html",
+    "language": "pt-BR",
+    "use": "Brazilian fossil vertebrates",
+    "rights": "institutional page; media rights per asset"
+  },
+  {
+    "id": "ufrj-museum",
+    "title": "Museu Nacional/UFRJ — O Museu",
+    "url": "https://museunacional.ufrj.br/dir/omuseu/omuseu.html",
+    "language": "pt-BR",
+    "use": "Luzia, Maxakalissaurus and collections context",
+    "rights": "institutional page; media rights per asset"
+  },
+  {
+    "id": "museum-la-plata-cenozoic",
+    "title": "Museo de La Plata — Paleontología Cenozoico",
+    "url": "https://www.museo.fcnym.unlp.edu.ar/paleontologia_cenozoico",
+    "language": "es",
+    "use": "South American Pleistocene megafauna",
+    "rights": "institutional page; media rights per asset"
+  }
+]

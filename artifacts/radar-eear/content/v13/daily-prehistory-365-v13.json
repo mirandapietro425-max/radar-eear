@@ -1,0 +1,3287 @@
+[
+  {
+    "day": 1,
+    "type": "fauna",
+    "title": "Smilodon: como ler dentes e ossos para inferir dieta?",
+    "target_id": "smilodon-populator",
+    "duration_min": 7,
+    "interaction": "map + image + food-web or evidence-card",
+    "reflection": "O que é evidência direta e o que é inferência?"
+  },
+  {
+    "day": 2,
+    "type": "humans",
+    "title": "Como o fogo mudou a alimentação e a vida social?",
+    "target_id": "fire-and-cooking",
+    "duration_min": 7,
+    "interaction": "map + image + food-web or evidence-card",
+    "reflection": "O que é evidência direta e o que é inferência?"
+  },
+  {
+    "day": 3,
+    "type": "fauna",
+    "title": "Mammute e a estepe-tundra: o que um molar pode revelar?",
+    "target_id": "mammuthus-primigenius",
+    "duration_min": 12,
+    "interaction": "map + image + food-web or evidence-card",
+    "reflection": "O que é evidência direta e o que é inferência?"
+  },
+  {
+    "day": 4,
+    "type": "archaeology",
+    "title": "Como marcas de corte revelam o uso de carcaças?",
+    "target_id": "hunting-and-risk",
+    "duration_min": 7,
+    "interaction": "map + image + food-web or evidence-card",
+    "reflection": "O que é evidência direta e o que é inferência?"
+  },
+  {
+    "day": 5,
+    "type": "brazil",
+    "title": "O que a megafauna sul-americana conta sobre o Pleistoceno?",
+    "target_id": "pleistocene-south-america",
+    "duration_min": 7,
+    "interaction": "map + image + food-web or evidence-card",
+    "reflection": "O que é evidência direta e o que é inferência?"
+  },
+  {
+    "day": 6,
+    "type": "evolution",
+    "title": "Neandertais, DNA e adaptação ao frio",
+    "target_id": "neanderthal-life",
+    "duration_min": 12,
+    "interaction": "map + image + food-web or evidence-card",
+    "reflection": "O que é evidência direta e o que é inferência?"
+  },
+  {
+    "day": 7,
+    "type": "ecosystem",
+    "title": "Monte uma teia alimentar do Pleistoceno",
+    "target_id": "pleistocene-south-america-pampas",
+    "duration_min": 7,
+    "interaction": "map + image + food-web or evidence-card",
+    "reflection": "O que é evidência direta e o que é inferência?"
+  },
+  {
+    "day": 8,
+    "type": "fauna",
+    "title": "Smilodon: como ler dentes e ossos para inferir dieta?",
+    "target_id": "smilodon-populator",
+    "duration_min": 7,
+    "interaction": "map + image + food-web or evidence-card",
+    "reflection": "O que é evidência direta e o que é inferência?"
+  },
+  {
+    "day": 9,
+    "type": "humans",
+    "title": "Como o fogo mudou a alimentação e a vida social?",
+    "target_id": "fire-and-cooking",
+    "duration_min": 12,
+    "interaction": "map + image + food-web or evidence-card",
+    "reflection": "O que é evidência direta e o que é inferência?"
+  },
+  {
+    "day": 10,
+    "type": "fauna",
+    "title": "Mammute e a estepe-tundra: o que um molar pode revelar?",
+    "target_id": "mammuthus-primigenius",
+    "duration_min": 7,
+    "interaction": "map + image + food-web or evidence-card",
+    "reflection": "O que é evidência direta e o que é inferência?"
+  },
+  {
+    "day": 11,
+    "type": "archaeology",
+    "title": "Como marcas de corte revelam o uso de carcaças?",
+    "target_id": "hunting-and-risk",
+    "duration_min": 7,
+    "interaction": "map + image + food-web or evidence-card",
+    "reflection": "O que é evidência direta e o que é inferência?"
+  },
+  {
+    "day": 12,
+    "type": "brazil",
+    "title": "O que a megafauna sul-americana conta sobre o Pleistoceno?",
+    "target_id": "pleistocene-south-america",
+    "duration_min": 12,
+    "interaction": "map + image + food-web or evidence-card",
+    "reflection": "O que é evidência direta e o que é inferência?"
+  },
+  {
+    "day": 13,
+    "type": "evolution",
+    "title": "Neandertais, DNA e adaptação ao frio",
+    "target_id": "neanderthal-life",
+    "duration_min": 7,
+    "interaction": "map + image + food-web or evidence-card",
+    "reflection": "O que é evidência direta e o que é inferência?"
+  },
+  {
+    "day": 14,
+    "type": "ecosystem",
+    "title": "Monte uma teia alimentar do Pleistoceno",
+    "target_id": "pleistocene-south-america-pampas",
+    "duration_min": 7,
+    "interaction": "map + image + food-web or evidence-card",
+    "reflection": "O que é evidência direta e o que é inferência?"
+  },
+  {
+    "day": 15,
+    "type": "fauna",
+    "title": "Smilodon: como ler dentes e ossos para inferir dieta?",
+    "target_id": "smilodon-populator",
+    "duration_min": 12,
+    "interaction": "map + image + food-web or evidence-card",
+    "reflection": "O que é evidência direta e o que é inferência?"
+  },
+  {
+    "day": 16,
+    "type": "humans",
+    "title": "Como o fogo mudou a alimentação e a vida social?",
+    "target_id": "fire-and-cooking",
+    "duration_min": 7,
+    "interaction": "map + image + food-web or evidence-card",
+    "reflection": "O que é evidência direta e o que é inferência?"
+  },
+  {
+    "day": 17,
+    "type": "fauna",
+    "title": "Mammute e a estepe-tundra: o que um molar pode revelar?",
+    "target_id": "mammuthus-primigenius",
+    "duration_min": 7,
+    "interaction": "map + image + food-web or evidence-card",
+    "reflection": "O que é evidência direta e o que é inferência?"
+  },
+  {
+    "day": 18,
+    "type": "archaeology",
+    "title": "Como marcas de corte revelam o uso de carcaças?",
+    "target_id": "hunting-and-risk",
+    "duration_min": 12,
+    "interaction": "map + image + food-web or evidence-card",
+    "reflection": "O que é evidência direta e o que é inferência?"
+  },
+  {
+    "day": 19,
+    "type": "brazil",
+    "title": "O que a megafauna sul-americana conta sobre o Pleistoceno?",
+    "target_id": "pleistocene-south-america",
+    "duration_min": 7,
+    "interaction": "map + image + food-web or evidence-card",
+    "reflection": "O que é evidência direta e o que é inferência?"
+  },
+  {
+    "day": 20,
+    "type": "evolution",
+    "title": "Neandertais, DNA e adaptação ao frio",
+    "target_id": "neanderthal-life",
+    "duration_min": 7,
+    "interaction": "map + image + food-web or evidence-card",
+    "reflection": "O que é evidência direta e o que é inferência?"
+  },
+  {
+    "day": 21,
+    "type": "ecosystem",
+    "title": "Monte uma teia alimentar do Pleistoceno",
+    "target_id": "pleistocene-south-america-pampas",
+    "duration_min": 12,
+    "interaction": "map + image + food-web or evidence-card",
+    "reflection": "O que é evidência direta e o que é inferência?"
+  },
+  {
+    "day": 22,
+    "type": "fauna",
+    "title": "Smilodon: como ler dentes e ossos para inferir dieta?",
+    "target_id": "smilodon-populator",
+    "duration_min": 7,
+    "interaction": "map + image + food-web or evidence-card",
+    "reflection": "O que é evidência direta e o que é inferência?"
+  },
+  {
+    "day": 23,
+    "type": "humans",
+    "title": "Como o fogo mudou a alimentação e a vida social?",
+    "target_id": "fire-and-cooking",
+    "duration_min": 7,
+    "interaction": "map + image + food-web or evidence-card",
+    "reflection": "O que é evidência direta e o que é inferência?"
+  },
+  {
+    "day": 24,
+    "type": "fauna",
+    "title": "Mammute e a estepe-tundra: o que um molar pode revelar?",
+    "target_id": "mammuthus-primigenius",
+    "duration_min": 12,
+    "interaction": "map + image + food-web or evidence-card",
+    "reflection": "O que é evidência direta e o que é inferência?"
+  },
+  {
+    "day": 25,
+    "type": "archaeology",
+    "title": "Como marcas de corte revelam o uso de carcaças?",
+    "target_id": "hunting-and-risk",
+    "duration_min": 7,
+    "interaction": "map + image + food-web or evidence-card",
+    "reflection": "O que é evidência direta e o que é inferência?"
+  },
+  {
+    "day": 26,
+    "type": "brazil",
+    "title": "O que a megafauna sul-americana conta sobre o Pleistoceno?",
+    "target_id": "pleistocene-south-america",
+    "duration_min": 7,
+    "interaction": "map + image + food-web or evidence-card",
+    "reflection": "O que é evidência direta e o que é inferência?"
+  },
+  {
+    "day": 27,
+    "type": "evolution",
+    "title": "Neandertais, DNA e adaptação ao frio",
+    "target_id": "neanderthal-life",
+    "duration_min": 12,
+    "interaction": "map + image + food-web or evidence-card",
+    "reflection": "O que é evidência direta e o que é inferência?"
+  },
+  {
+    "day": 28,
+    "type": "ecosystem",
+    "title": "Monte uma teia alimentar do Pleistoceno",
+    "target_id": "pleistocene-south-america-pampas",
+    "duration_min": 7,
+    "interaction": "map + image + food-web or evidence-card",
+    "reflection": "O que é evidência direta e o que é inferência?"
+  },
+  {
+    "day": 29,
+    "type": "fauna",
+    "title": "Smilodon: como ler dentes e ossos para inferir dieta?",
+    "target_id": "smilodon-populator",
+    "duration_min": 7,
+    "interaction": "map + image + food-web or evidence-card",
+    "reflection": "O que é evidência direta e o que é inferência?"
+  },
+  {
+    "day": 30,
+    "type": "humans",
+    "title": "Como o fogo mudou a alimentação e a vida social?",
+    "target_id": "fire-and-cooking",
+    "duration_min": 12,
+    "interaction": "map + image + food-web or evidence-card",
+    "reflection": "O que é evidência direta e o que é inferência?"
+  },
+  {
+    "day": 31,
+    "type": "fauna",
+    "title": "Mammute e a estepe-tundra: o que um molar pode revelar?",
+    "target_id": "mammuthus-primigenius",
+    "duration_min": 7,
+    "interaction": "map + image + food-web or evidence-card",
+    "reflection": "O que é evidência direta e o que é inferência?"
+  },
+  {
+    "day": 32,
+    "type": "archaeology",
+    "title": "Como marcas de corte revelam o uso de carcaças?",
+    "target_id": "hunting-and-risk",
+    "duration_min": 7,
+    "interaction": "map + image + food-web or evidence-card",
+    "reflection": "O que é evidência direta e o que é inferência?"
+  },
+  {
+    "day": 33,
+    "type": "brazil",
+    "title": "O que a megafauna sul-americana conta sobre o Pleistoceno?",
+    "target_id": "pleistocene-south-america",
+    "duration_min": 12,
+    "interaction": "map + image + food-web or evidence-card",
+    "reflection": "O que é evidência direta e o que é inferência?"
+  },
+  {
+    "day": 34,
+    "type": "evolution",
+    "title": "Neandertais, DNA e adaptação ao frio",
+    "target_id": "neanderthal-life",
+    "duration_min": 7,
+    "interaction": "map + image + food-web or evidence-card",
+    "reflection": "O que é evidência direta e o que é inferência?"
+  },
+  {
+    "day": 35,
+    "type": "ecosystem",
+    "title": "Monte uma teia alimentar do Pleistoceno",
+    "target_id": "pleistocene-south-america-pampas",
+    "duration_min": 7,
+    "interaction": "map + image + food-web or evidence-card",
+    "reflection": "O que é evidência direta e o que é inferência?"
+  },
+  {
+    "day": 36,
+    "type": "fauna",
+    "title": "Smilodon: como ler dentes e ossos para inferir dieta?",
+    "target_id": "smilodon-populator",
+    "duration_min": 12,
+    "interaction": "map + image + food-web or evidence-card",
+    "reflection": "O que é evidência direta e o que é inferência?"
+  },
+  {
+    "day": 37,
+    "type": "humans",
+    "title": "Como o fogo mudou a alimentação e a vida social?",
+    "target_id": "fire-and-cooking",
+    "duration_min": 7,
+    "interaction": "map + image + food-web or evidence-card",
+    "reflection": "O que é evidência direta e o que é inferência?"
+  },
+  {
+    "day": 38,
+    "type": "fauna",
+    "title": "Mammute e a estepe-tundra: o que um molar pode revelar?",
+    "target_id": "mammuthus-primigenius",
+    "duration_min": 7,
+    "interaction": "map + image + food-web or evidence-card",
+    "reflection": "O que é evidência direta e o que é inferência?"
+  },
+  {
+    "day": 39,
+    "type": "archaeology",
+    "title": "Como marcas de corte revelam o uso de carcaças?",
+    "target_id": "hunting-and-risk",
+    "duration_min": 12,
+    "interaction": "map + image + food-web or evidence-card",
+    "reflection": "O que é evidência direta e o que é inferência?"
+  },
+  {
+    "day": 40,
+    "type": "brazil",
+    "title": "O que a megafauna sul-americana conta sobre o Pleistoceno?",
+    "target_id": "pleistocene-south-america",
+    "duration_min": 7,
+    "interaction": "map + image + food-web or evidence-card",
+    "reflection": "O que é evidência direta e o que é inferência?"
+  },
+  {
+    "day": 41,
+    "type": "evolution",
+    "title": "Neandertais, DNA e adaptação ao frio",
+    "target_id": "neanderthal-life",
+    "duration_min": 7,
+    "interaction": "map + image + food-web or evidence-card",
+    "reflection": "O que é evidência direta e o que é inferência?"
+  },
+  {
+    "day": 42,
+    "type": "ecosystem",
+    "title": "Monte uma teia alimentar do Pleistoceno",
+    "target_id": "pleistocene-south-america-pampas",
+    "duration_min": 12,
+    "interaction": "map + image + food-web or evidence-card",
+    "reflection": "O que é evidência direta e o que é inferência?"
+  },
+  {
+    "day": 43,
+    "type": "fauna",
+    "title": "Smilodon: como ler dentes e ossos para inferir dieta?",
+    "target_id": "smilodon-populator",
+    "duration_min": 7,
+    "interaction": "map + image + food-web or evidence-card",
+    "reflection": "O que é evidência direta e o que é inferência?"
+  },
+  {
+    "day": 44,
+    "type": "humans",
+    "title": "Como o fogo mudou a alimentação e a vida social?",
+    "target_id": "fire-and-cooking",
+    "duration_min": 7,
+    "interaction": "map + image + food-web or evidence-card",
+    "reflection": "O que é evidência direta e o que é inferência?"
+  },
+  {
+    "day": 45,
+    "type": "fauna",
+    "title": "Mammute e a estepe-tundra: o que um molar pode revelar?",
+    "target_id": "mammuthus-primigenius",
+    "duration_min": 12,
+    "interaction": "map + image + food-web or evidence-card",
+    "reflection": "O que é evidência direta e o que é inferência?"
+  },
+  {
+    "day": 46,
+    "type": "archaeology",
+    "title": "Como marcas de corte revelam o uso de carcaças?",
+    "target_id": "hunting-and-risk",
+    "duration_min": 7,
+    "interaction": "map + image + food-web or evidence-card",
+    "reflection": "O que é evidência direta e o que é inferência?"
+  },
+  {
+    "day": 47,
+    "type": "brazil",
+    "title": "O que a megafauna sul-americana conta sobre o Pleistoceno?",
+    "target_id": "pleistocene-south-america",
+    "duration_min": 7,
+    "interaction": "map + image + food-web or evidence-card",
+    "reflection": "O que é evidência direta e o que é inferência?"
+  },
+  {
+    "day": 48,
+    "type": "evolution",
+    "title": "Neandertais, DNA e adaptação ao frio",
+    "target_id": "neanderthal-life",
+    "duration_min": 12,
+    "interaction": "map + image + food-web or evidence-card",
+    "reflection": "O que é evidência direta e o que é inferência?"
+  },
+  {
+    "day": 49,
+    "type": "ecosystem",
+    "title": "Monte uma teia alimentar do Pleistoceno",
+    "target_id": "pleistocene-south-america-pampas",
+    "duration_min": 7,
+    "interaction": "map + image + food-web or evidence-card",
+    "reflection": "O que é evidência direta e o que é inferência?"
+  },
+  {
+    "day": 50,
+    "type": "fauna",
+    "title": "Smilodon: como ler dentes e ossos para inferir dieta?",
+    "target_id": "smilodon-populator",
+    "duration_min": 7,
+    "interaction": "map + image + food-web or evidence-card",
+    "reflection": "O que é evidência direta e o que é inferência?"
+  },
+  {
+    "day": 51,
+    "type": "humans",
+    "title": "Como o fogo mudou a alimentação e a vida social?",
+    "target_id": "fire-and-cooking",
+    "duration_min": 12,
+    "interaction": "map + image + food-web or evidence-card",
+    "reflection": "O que é evidência direta e o que é inferência?"
+  },
+  {
+    "day": 52,
+    "type": "fauna",
+    "title": "Mammute e a estepe-tundra: o que um molar pode revelar?",
+    "target_id": "mammuthus-primigenius",
+    "duration_min": 7,
+    "interaction": "map + image + food-web or evidence-card",
+    "reflection": "O que é evidência direta e o que é inferência?"
+  },
+  {
+    "day": 53,
+    "type": "archaeology",
+    "title": "Como marcas de corte revelam o uso de carcaças?",
+    "target_id": "hunting-and-risk",
+    "duration_min": 7,
+    "interaction": "map + image + food-web or evidence-card",
+    "reflection": "O que é evidência direta e o que é inferência?"
+  },
+  {
+    "day": 54,
+    "type": "brazil",
+    "title": "O que a megafauna sul-americana conta sobre o Pleistoceno?",
+    "target_id": "pleistocene-south-america",
+    "duration_min": 12,
+    "interaction": "map + image + food-web or evidence-card",
+    "reflection": "O que é evidência direta e o que é inferência?"
+  },
+  {
+    "day": 55,
+    "type": "evolution",
+    "title": "Neandertais, DNA e adaptação ao frio",
+    "target_id": "neanderthal-life",
+    "duration_min": 7,
+    "interaction": "map + image + food-web or evidence-card",
+    "reflection": "O que é evidência direta e o que é inferência?"
+  },
+  {
+    "day": 56,
+    "type": "ecosystem",
+    "title": "Monte uma teia alimentar do Pleistoceno",
+    "target_id": "pleistocene-south-america-pampas",
+    "duration_min": 7,
+    "interaction": "map + image + food-web or evidence-card",
+    "reflection": "O que é evidência direta e o que é inferência?"
+  },
+  {
+    "day": 57,
+    "type": "fauna",
+    "title": "Smilodon: como ler dentes e ossos para inferir dieta?",
+    "target_id": "smilodon-populator",
+    "duration_min": 12,
+    "interaction": "map + image + food-web or evidence-card",
+    "reflection": "O que é evidência direta e o que é inferência?"
+  },
+  {
+    "day": 58,
+    "type": "humans",
+    "title": "Como o fogo mudou a alimentação e a vida social?",
+    "target_id": "fire-and-cooking",
+    "duration_min": 7,
+    "interaction": "map + image + food-web or evidence-card",
+    "reflection": "O que é evidência direta e o que é inferência?"
+  },
+  {
+    "day": 59,
+    "type": "fauna",
+    "title": "Mammute e a estepe-tundra: o que um molar pode revelar?",
+    "target_id": "mammuthus-primigenius",
+    "duration_min": 7,
+    "interaction": "map + image + food-web or evidence-card",
+    "reflection": "O que é evidência direta e o que é inferência?"
+  },
+  {
+    "day": 60,
+    "type": "archaeology",
+    "title": "Como marcas de corte revelam o uso de carcaças?",
+    "target_id": "hunting-and-risk",
+    "duration_min": 12,
+    "interaction": "map + image + food-web or evidence-card",
+    "reflection": "O que é evidência direta e o que é inferência?"
+  },
+  {
+    "day": 61,
+    "type": "brazil",
+    "title": "O que a megafauna sul-americana conta sobre o Pleistoceno?",
+    "target_id": "pleistocene-south-america",
+    "duration_min": 7,
+    "interaction": "map + image + food-web or evidence-card",
+    "reflection": "O que é evidência direta e o que é inferência?"
+  },
+  {
+    "day": 62,
+    "type": "evolution",
+    "title": "Neandertais, DNA e adaptação ao frio",
+    "target_id": "neanderthal-life",
+    "duration_min": 7,
+    "interaction": "map + image + food-web or evidence-card",
+    "reflection": "O que é evidência direta e o que é inferência?"
+  },
+  {
+    "day": 63,
+    "type": "ecosystem",
+    "title": "Monte uma teia alimentar do Pleistoceno",
+    "target_id": "pleistocene-south-america-pampas",
+    "duration_min": 12,
+    "interaction": "map + image + food-web or evidence-card",
+    "reflection": "O que é evidência direta e o que é inferência?"
+  },
+  {
+    "day": 64,
+    "type": "fauna",
+    "title": "Smilodon: como ler dentes e ossos para inferir dieta?",
+    "target_id": "smilodon-populator",
+    "duration_min": 7,
+    "interaction": "map + image + food-web or evidence-card",
+    "reflection": "O que é evidência direta e o que é inferência?"
+  },
+  {
+    "day": 65,
+    "type": "humans",
+    "title": "Como o fogo mudou a alimentação e a vida social?",
+    "target_id": "fire-and-cooking",
+    "duration_min": 7,
+    "interaction": "map + image + food-web or evidence-card",
+    "reflection": "O que é evidência direta e o que é inferência?"
+  },
+  {
+    "day": 66,
+    "type": "fauna",
+    "title": "Mammute e a estepe-tundra: o que um molar pode revelar?",
+    "target_id": "mammuthus-primigenius",
+    "duration_min": 12,
+    "interaction": "map + image + food-web or evidence-card",
+    "reflection": "O que é evidência direta e o que é inferência?"
+  },
+  {
+    "day": 67,
+    "type": "archaeology",
+    "title": "Como marcas de corte revelam o uso de carcaças?",
+    "target_id": "hunting-and-risk",
+    "duration_min": 7,
+    "interaction": "map + image + food-web or evidence-card",
+    "reflection": "O que é evidência direta e o que é inferência?"
+  },
+  {
+    "day": 68,
+    "type": "brazil",
+    "title": "O que a megafauna sul-americana conta sobre o Pleistoceno?",
+    "target_id": "pleistocene-south-america",
+    "duration_min": 7,
+    "interaction": "map + image + food-web or evidence-card",
+    "reflection": "O que é evidência direta e o que é inferência?"
+  },
+  {
+    "day": 69,
+    "type": "evolution",
+    "title": "Neandertais, DNA e adaptação ao frio",
+    "target_id": "neanderthal-life",
+    "duration_min": 12,
+    "interaction": "map + image + food-web or evidence-card",
+    "reflection": "O que é evidência direta e o que é inferência?"
+  },
+  {
+    "day": 70,
+    "type": "ecosystem",
+    "title": "Monte uma teia alimentar do Pleistoceno",
+    "target_id": "pleistocene-south-america-pampas",
+    "duration_min": 7,
+    "interaction": "map + image + food-web or evidence-card",
+    "reflection": "O que é evidência direta e o que é inferência?"
+  },
+  {
+    "day": 71,
+    "type": "fauna",
+    "title": "Smilodon: como ler dentes e ossos para inferir dieta?",
+    "target_id": "smilodon-populator",
+    "duration_min": 7,
+    "interaction": "map + image + food-web or evidence-card",
+    "reflection": "O que é evidência direta e o que é inferência?"
+  },
+  {
+    "day": 72,
+    "type": "humans",
+    "title": "Como o fogo mudou a alimentação e a vida social?",
+    "target_id": "fire-and-cooking",
+    "duration_min": 12,
+    "interaction": "map + image + food-web or evidence-card",
+    "reflection": "O que é evidência direta e o que é inferência?"
+  },
+  {
+    "day": 73,
+    "type": "fauna",
+    "title": "Mammute e a estepe-tundra: o que um molar pode revelar?",
+    "target_id": "mammuthus-primigenius",
+    "duration_min": 7,
+    "interaction": "map + image + food-web or evidence-card",
+    "reflection": "O que é evidência direta e o que é inferência?"
+  },
+  {
+    "day": 74,
+    "type": "archaeology",
+    "title": "Como marcas de corte revelam o uso de carcaças?",
+    "target_id": "hunting-and-risk",
+    "duration_min": 7,
+    "interaction": "map + image + food-web or evidence-card",
+    "reflection": "O que é evidência direta e o que é inferência?"
+  },
+  {
+    "day": 75,
+    "type": "brazil",
+    "title": "O que a megafauna sul-americana conta sobre o Pleistoceno?",
+    "target_id": "pleistocene-south-america",
+    "duration_min": 12,
+    "interaction": "map + image + food-web or evidence-card",
+    "reflection": "O que é evidência direta e o que é inferência?"
+  },
+  {
+    "day": 76,
+    "type": "evolution",
+    "title": "Neandertais, DNA e adaptação ao frio",
+    "target_id": "neanderthal-life",
+    "duration_min": 7,
+    "interaction": "map + image + food-web or evidence-card",
+    "reflection": "O que é evidência direta e o que é inferência?"
+  },
+  {
+    "day": 77,
+    "type": "ecosystem",
+    "title": "Monte uma teia alimentar do Pleistoceno",
+    "target_id": "pleistocene-south-america-pampas",
+    "duration_min": 7,
+    "interaction": "map + image + food-web or evidence-card",
+    "reflection": "O que é evidência direta e o que é inferência?"
+  },
+  {
+    "day": 78,
+    "type": "fauna",
+    "title": "Smilodon: como ler dentes e ossos para inferir dieta?",
+    "target_id": "smilodon-populator",
+    "duration_min": 12,
+    "interaction": "map + image + food-web or evidence-card",
+    "reflection": "O que é evidência direta e o que é inferência?"
+  },
+  {
+    "day": 79,
+    "type": "humans",
+    "title": "Como o fogo mudou a alimentação e a vida social?",
+    "target_id": "fire-and-cooking",
+    "duration_min": 7,
+    "interaction": "map + image + food-web or evidence-card",
+    "reflection": "O que é evidência direta e o que é inferência?"
+  },
+  {
+    "day": 80,
+    "type": "fauna",
+    "title": "Mammute e a estepe-tundra: o que um molar pode revelar?",
+    "target_id": "mammuthus-primigenius",
+    "duration_min": 7,
+    "interaction": "map + image + food-web or evidence-card",
+    "reflection": "O que é evidência direta e o que é inferência?"
+  },
+  {
+    "day": 81,
+    "type": "archaeology",
+    "title": "Como marcas de corte revelam o uso de carcaças?",
+    "target_id": "hunting-and-risk",
+    "duration_min": 12,
+    "interaction": "map + image + food-web or evidence-card",
+    "reflection": "O que é evidência direta e o que é inferência?"
+  },
+  {
+    "day": 82,
+    "type": "brazil",
+    "title": "O que a megafauna sul-americana conta sobre o Pleistoceno?",
+    "target_id": "pleistocene-south-america",
+    "duration_min": 7,
+    "interaction": "map + image + food-web or evidence-card",
+    "reflection": "O que é evidência direta e o que é inferência?"
+  },
+  {
+    "day": 83,
+    "type": "evolution",
+    "title": "Neandertais, DNA e adaptação ao frio",
+    "target_id": "neanderthal-life",
+    "duration_min": 7,
+    "interaction": "map + image + food-web or evidence-card",
+    "reflection": "O que é evidência direta e o que é inferência?"
+  },
+  {
+    "day": 84,
+    "type": "ecosystem",
+    "title": "Monte uma teia alimentar do Pleistoceno",
+    "target_id": "pleistocene-south-america-pampas",
+    "duration_min": 12,
+    "interaction": "map + image + food-web or evidence-card",
+    "reflection": "O que é evidência direta e o que é inferência?"
+  },
+  {
+    "day": 85,
+    "type": "fauna",
+    "title": "Smilodon: como ler dentes e ossos para inferir dieta?",
+    "target_id": "smilodon-populator",
+    "duration_min": 7,
+    "interaction": "map + image + food-web or evidence-card",
+    "reflection": "O que é evidência direta e o que é inferência?"
+  },
+  {
+    "day": 86,
+    "type": "humans",
+    "title": "Como o fogo mudou a alimentação e a vida social?",
+    "target_id": "fire-and-cooking",
+    "duration_min": 7,
+    "interaction": "map + image + food-web or evidence-card",
+    "reflection": "O que é evidência direta e o que é inferência?"
+  },
+  {
+    "day": 87,
+    "type": "fauna",
+    "title": "Mammute e a estepe-tundra: o que um molar pode revelar?",
+    "target_id": "mammuthus-primigenius",
+    "duration_min": 12,
+    "interaction": "map + image + food-web or evidence-card",
+    "reflection": "O que é evidência direta e o que é inferência?"
+  },
+  {
+    "day": 88,
+    "type": "archaeology",
+    "title": "Como marcas de corte revelam o uso de carcaças?",
+    "target_id": "hunting-and-risk",
+    "duration_min": 7,
+    "interaction": "map + image + food-web or evidence-card",
+    "reflection": "O que é evidência direta e o que é inferência?"
+  },
+  {
+    "day": 89,
+    "type": "brazil",
+    "title": "O que a megafauna sul-americana conta sobre o Pleistoceno?",
+    "target_id": "pleistocene-south-america",
+    "duration_min": 7,
+    "interaction": "map + image + food-web or evidence-card",
+    "reflection": "O que é evidência direta e o que é inferência?"
+  },
+  {
+    "day": 90,
+    "type": "evolution",
+    "title": "Neandertais, DNA e adaptação ao frio",
+    "target_id": "neanderthal-life",
+    "duration_min": 12,
+    "interaction": "map + image + food-web or evidence-card",
+    "reflection": "O que é evidência direta e o que é inferência?"
+  },
+  {
+    "day": 91,
+    "type": "ecosystem",
+    "title": "Monte uma teia alimentar do Pleistoceno",
+    "target_id": "pleistocene-south-america-pampas",
+    "duration_min": 7,
+    "interaction": "map + image + food-web or evidence-card",
+    "reflection": "O que é evidência direta e o que é inferência?"
+  },
+  {
+    "day": 92,
+    "type": "fauna",
+    "title": "Smilodon: como ler dentes e ossos para inferir dieta?",
+    "target_id": "smilodon-populator",
+    "duration_min": 7,
+    "interaction": "map + image + food-web or evidence-card",
+    "reflection": "O que é evidência direta e o que é inferência?"
+  },
+  {
+    "day": 93,
+    "type": "humans",
+    "title": "Como o fogo mudou a alimentação e a vida social?",
+    "target_id": "fire-and-cooking",
+    "duration_min": 12,
+    "interaction": "map + image + food-web or evidence-card",
+    "reflection": "O que é evidência direta e o que é inferência?"
+  },
+  {
+    "day": 94,
+    "type": "fauna",
+    "title": "Mammute e a estepe-tundra: o que um molar pode revelar?",
+    "target_id": "mammuthus-primigenius",
+    "duration_min": 7,
+    "interaction": "map + image + food-web or evidence-card",
+    "reflection": "O que é evidência direta e o que é inferência?"
+  },
+  {
+    "day": 95,
+    "type": "archaeology",
+    "title": "Como marcas de corte revelam o uso de carcaças?",
+    "target_id": "hunting-and-risk",
+    "duration_min": 7,
+    "interaction": "map + image + food-web or evidence-card",
+    "reflection": "O que é evidência direta e o que é inferência?"
+  },
+  {
+    "day": 96,
+    "type": "brazil",
+    "title": "O que a megafauna sul-americana conta sobre o Pleistoceno?",
+    "target_id": "pleistocene-south-america",
+    "duration_min": 12,
+    "interaction": "map + image + food-web or evidence-card",
+    "reflection": "O que é evidência direta e o que é inferência?"
+  },
+  {
+    "day": 97,
+    "type": "evolution",
+    "title": "Neandertais, DNA e adaptação ao frio",
+    "target_id": "neanderthal-life",
+    "duration_min": 7,
+    "interaction": "map + image + food-web or evidence-card",
+    "reflection": "O que é evidência direta e o que é inferência?"
+  },
+  {
+    "day": 98,
+    "type": "ecosystem",
+    "title": "Monte uma teia alimentar do Pleistoceno",
+    "target_id": "pleistocene-south-america-pampas",
+    "duration_min": 7,
+    "interaction": "map + image + food-web or evidence-card",
+    "reflection": "O que é evidência direta e o que é inferência?"
+  },
+  {
+    "day": 99,
+    "type": "fauna",
+    "title": "Smilodon: como ler dentes e ossos para inferir dieta?",
+    "target_id": "smilodon-populator",
+    "duration_min": 12,
+    "interaction": "map + image + food-web or evidence-card",
+    "reflection": "O que é evidência direta e o que é inferência?"
+  },
+  {
+    "day": 100,
+    "type": "humans",
+    "title": "Como o fogo mudou a alimentação e a vida social?",
+    "target_id": "fire-and-cooking",
+    "duration_min": 7,
+    "interaction": "map + image + food-web or evidence-card",
+    "reflection": "O que é evidência direta e o que é inferência?"
+  },
+  {
+    "day": 101,
+    "type": "fauna",
+    "title": "Mammute e a estepe-tundra: o que um molar pode revelar?",
+    "target_id": "mammuthus-primigenius",
+    "duration_min": 7,
+    "interaction": "map + image + food-web or evidence-card",
+    "reflection": "O que é evidência direta e o que é inferência?"
+  },
+  {
+    "day": 102,
+    "type": "archaeology",
+    "title": "Como marcas de corte revelam o uso de carcaças?",
+    "target_id": "hunting-and-risk",
+    "duration_min": 12,
+    "interaction": "map + image + food-web or evidence-card",
+    "reflection": "O que é evidência direta e o que é inferência?"
+  },
+  {
+    "day": 103,
+    "type": "brazil",
+    "title": "O que a megafauna sul-americana conta sobre o Pleistoceno?",
+    "target_id": "pleistocene-south-america",
+    "duration_min": 7,
+    "interaction": "map + image + food-web or evidence-card",
+    "reflection": "O que é evidência direta e o que é inferência?"
+  },
+  {
+    "day": 104,
+    "type": "evolution",
+    "title": "Neandertais, DNA e adaptação ao frio",
+    "target_id": "neanderthal-life",
+    "duration_min": 7,
+    "interaction": "map + image + food-web or evidence-card",
+    "reflection": "O que é evidência direta e o que é inferência?"
+  },
+  {
+    "day": 105,
+    "type": "ecosystem",
+    "title": "Monte uma teia alimentar do Pleistoceno",
+    "target_id": "pleistocene-south-america-pampas",
+    "duration_min": 12,
+    "interaction": "map + image + food-web or evidence-card",
+    "reflection": "O que é evidência direta e o que é inferência?"
+  },
+  {
+    "day": 106,
+    "type": "fauna",
+    "title": "Smilodon: como ler dentes e ossos para inferir dieta?",
+    "target_id": "smilodon-populator",
+    "duration_min": 7,
+    "interaction": "map + image + food-web or evidence-card",
+    "reflection": "O que é evidência direta e o que é inferência?"
+  },
+  {
+    "day": 107,
+    "type": "humans",
+    "title": "Como o fogo mudou a alimentação e a vida social?",
+    "target_id": "fire-and-cooking",
+    "duration_min": 7,
+    "interaction": "map + image + food-web or evidence-card",
+    "reflection": "O que é evidência direta e o que é inferência?"
+  },
+  {
+    "day": 108,
+    "type": "fauna",
+    "title": "Mammute e a estepe-tundra: o que um molar pode revelar?",
+    "target_id": "mammuthus-primigenius",
+    "duration_min": 12,
+    "interaction": "map + image + food-web or evidence-card",
+    "reflection": "O que é evidência direta e o que é inferência?"
+  },
+  {
+    "day": 109,
+    "type": "archaeology",
+    "title": "Como marcas de corte revelam o uso de carcaças?",
+    "target_id": "hunting-and-risk",
+    "duration_min": 7,
+    "interaction": "map + image + food-web or evidence-card",
+    "reflection": "O que é evidência direta e o que é inferência?"
+  },
+  {
+    "day": 110,
+    "type": "brazil",
+    "title": "O que a megafauna sul-americana conta sobre o Pleistoceno?",
+    "target_id": "pleistocene-south-america",
+    "duration_min": 7,
+    "interaction": "map + image + food-web or evidence-card",
+    "reflection": "O que é evidência direta e o que é inferência?"
+  },
+  {
+    "day": 111,
+    "type": "evolution",
+    "title": "Neandertais, DNA e adaptação ao frio",
+    "target_id": "neanderthal-life",
+    "duration_min": 12,
+    "interaction": "map + image + food-web or evidence-card",
+    "reflection": "O que é evidência direta e o que é inferência?"
+  },
+  {
+    "day": 112,
+    "type": "ecosystem",
+    "title": "Monte uma teia alimentar do Pleistoceno",
+    "target_id": "pleistocene-south-america-pampas",
+    "duration_min": 7,
+    "interaction": "map + image + food-web or evidence-card",
+    "reflection": "O que é evidência direta e o que é inferência?"
+  },
+  {
+    "day": 113,
+    "type": "fauna",
+    "title": "Smilodon: como ler dentes e ossos para inferir dieta?",
+    "target_id": "smilodon-populator",
+    "duration_min": 7,
+    "interaction": "map + image + food-web or evidence-card",
+    "reflection": "O que é evidência direta e o que é inferência?"
+  },
+  {
+    "day": 114,
+    "type": "humans",
+    "title": "Como o fogo mudou a alimentação e a vida social?",
+    "target_id": "fire-and-cooking",
+    "duration_min": 12,
+    "interaction": "map + image + food-web or evidence-card",
+    "reflection": "O que é evidência direta e o que é inferência?"
+  },
+  {
+    "day": 115,
+    "type": "fauna",
+    "title": "Mammute e a estepe-tundra: o que um molar pode revelar?",
+    "target_id": "mammuthus-primigenius",
+    "duration_min": 7,
+    "interaction": "map + image + food-web or evidence-card",
+    "reflection": "O que é evidência direta e o que é inferência?"
+  },
+  {
+    "day": 116,
+    "type": "archaeology",
+    "title": "Como marcas de corte revelam o uso de carcaças?",
+    "target_id": "hunting-and-risk",
+    "duration_min": 7,
+    "interaction": "map + image + food-web or evidence-card",
+    "reflection": "O que é evidência direta e o que é inferência?"
+  },
+  {
+    "day": 117,
+    "type": "brazil",
+    "title": "O que a megafauna sul-americana conta sobre o Pleistoceno?",
+    "target_id": "pleistocene-south-america",
+    "duration_min": 12,
+    "interaction": "map + image + food-web or evidence-card",
+    "reflection": "O que é evidência direta e o que é inferência?"
+  },
+  {
+    "day": 118,
+    "type": "evolution",
+    "title": "Neandertais, DNA e adaptação ao frio",
+    "target_id": "neanderthal-life",
+    "duration_min": 7,
+    "interaction": "map + image + food-web or evidence-card",
+    "reflection": "O que é evidência direta e o que é inferência?"
+  },
+  {
+    "day": 119,
+    "type": "ecosystem",
+    "title": "Monte uma teia alimentar do Pleistoceno",
+    "target_id": "pleistocene-south-america-pampas",
+    "duration_min": 7,
+    "interaction": "map + image + food-web or evidence-card",
+    "reflection": "O que é evidência direta e o que é inferência?"
+  },
+  {
+    "day": 120,
+    "type": "fauna",
+    "title": "Smilodon: como ler dentes e ossos para inferir dieta?",
+    "target_id": "smilodon-populator",
+    "duration_min": 12,
+    "interaction": "map + image + food-web or evidence-card",
+    "reflection": "O que é evidência direta e o que é inferência?"
+  },
+  {
+    "day": 121,
+    "type": "humans",
+    "title": "Como o fogo mudou a alimentação e a vida social?",
+    "target_id": "fire-and-cooking",
+    "duration_min": 7,
+    "interaction": "map + image + food-web or evidence-card",
+    "reflection": "O que é evidência direta e o que é inferência?"
+  },
+  {
+    "day": 122,
+    "type": "fauna",
+    "title": "Mammute e a estepe-tundra: o que um molar pode revelar?",
+    "target_id": "mammuthus-primigenius",
+    "duration_min": 7,
+    "interaction": "map + image + food-web or evidence-card",
+    "reflection": "O que é evidência direta e o que é inferência?"
+  },
+  {
+    "day": 123,
+    "type": "archaeology",
+    "title": "Como marcas de corte revelam o uso de carcaças?",
+    "target_id": "hunting-and-risk",
+    "duration_min": 12,
+    "interaction": "map + image + food-web or evidence-card",
+    "reflection": "O que é evidência direta e o que é inferência?"
+  },
+  {
+    "day": 124,
+    "type": "brazil",
+    "title": "O que a megafauna sul-americana conta sobre o Pleistoceno?",
+    "target_id": "pleistocene-south-america",
+    "duration_min": 7,
+    "interaction": "map + image + food-web or evidence-card",
+    "reflection": "O que é evidência direta e o que é inferência?"
+  },
+  {
+    "day": 125,
+    "type": "evolution",
+    "title": "Neandertais, DNA e adaptação ao frio",
+    "target_id": "neanderthal-life",
+    "duration_min": 7,
+    "interaction": "map + image + food-web or evidence-card",
+    "reflection": "O que é evidência direta e o que é inferência?"
+  },
+  {
+    "day": 126,
+    "type": "ecosystem",
+    "title": "Monte uma teia alimentar do Pleistoceno",
+    "target_id": "pleistocene-south-america-pampas",
+    "duration_min": 12,
+    "interaction": "map + image + food-web or evidence-card",
+    "reflection": "O que é evidência direta e o que é inferência?"
+  },
+  {
+    "day": 127,
+    "type": "fauna",
+    "title": "Smilodon: como ler dentes e ossos para inferir dieta?",
+    "target_id": "smilodon-populator",
+    "duration_min": 7,
+    "interaction": "map + image + food-web or evidence-card",
+    "reflection": "O que é evidência direta e o que é inferência?"
+  },
+  {
+    "day": 128,
+    "type": "humans",
+    "title": "Como o fogo mudou a alimentação e a vida social?",
+    "target_id": "fire-and-cooking",
+    "duration_min": 7,
+    "interaction": "map + image + food-web or evidence-card",
+    "reflection": "O que é evidência direta e o que é inferência?"
+  },
+  {
+    "day": 129,
+    "type": "fauna",
+    "title": "Mammute e a estepe-tundra: o que um molar pode revelar?",
+    "target_id": "mammuthus-primigenius",
+    "duration_min": 12,
+    "interaction": "map + image + food-web or evidence-card",
+    "reflection": "O que é evidência direta e o que é inferência?"
+  },
+  {
+    "day": 130,
+    "type": "archaeology",
+    "title": "Como marcas de corte revelam o uso de carcaças?",
+    "target_id": "hunting-and-risk",
+    "duration_min": 7,
+    "interaction": "map + image + food-web or evidence-card",
+    "reflection": "O que é evidência direta e o que é inferência?"
+  },
+  {
+    "day": 131,
+    "type": "brazil",
+    "title": "O que a megafauna sul-americana conta sobre o Pleistoceno?",
+    "target_id": "pleistocene-south-america",
+    "duration_min": 7,
+    "interaction": "map + image + food-web or evidence-card",
+    "reflection": "O que é evidência direta e o que é inferência?"
+  },
+  {
+    "day": 132,
+    "type": "evolution",
+    "title": "Neandertais, DNA e adaptação ao frio",
+    "target_id": "neanderthal-life",
+    "duration_min": 12,
+    "interaction": "map + image + food-web or evidence-card",
+    "reflection": "O que é evidência direta e o que é inferência?"
+  },
+  {
+    "day": 133,
+    "type": "ecosystem",
+    "title": "Monte uma teia alimentar do Pleistoceno",
+    "target_id": "pleistocene-south-america-pampas",
+    "duration_min": 7,
+    "interaction": "map + image + food-web or evidence-card",
+    "reflection": "O que é evidência direta e o que é inferência?"
+  },
+  {
+    "day": 134,
+    "type": "fauna",
+    "title": "Smilodon: como ler dentes e ossos para inferir dieta?",
+    "target_id": "smilodon-populator",
+    "duration_min": 7,
+    "interaction": "map + image + food-web or evidence-card",
+    "reflection": "O que é evidência direta e o que é inferência?"
+  },
+  {
+    "day": 135,
+    "type": "humans",
+    "title": "Como o fogo mudou a alimentação e a vida social?",
+    "target_id": "fire-and-cooking",
+    "duration_min": 12,
+    "interaction": "map + image + food-web or evidence-card",
+    "reflection": "O que é evidência direta e o que é inferência?"
+  },
+  {
+    "day": 136,
+    "type": "fauna",
+    "title": "Mammute e a estepe-tundra: o que um molar pode revelar?",
+    "target_id": "mammuthus-primigenius",
+    "duration_min": 7,
+    "interaction": "map + image + food-web or evidence-card",
+    "reflection": "O que é evidência direta e o que é inferência?"
+  },
+  {
+    "day": 137,
+    "type": "archaeology",
+    "title": "Como marcas de corte revelam o uso de carcaças?",
+    "target_id": "hunting-and-risk",
+    "duration_min": 7,
+    "interaction": "map + image + food-web or evidence-card",
+    "reflection": "O que é evidência direta e o que é inferência?"
+  },
+  {
+    "day": 138,
+    "type": "brazil",
+    "title": "O que a megafauna sul-americana conta sobre o Pleistoceno?",
+    "target_id": "pleistocene-south-america",
+    "duration_min": 12,
+    "interaction": "map + image + food-web or evidence-card",
+    "reflection": "O que é evidência direta e o que é inferência?"
+  },
+  {
+    "day": 139,
+    "type": "evolution",
+    "title": "Neandertais, DNA e adaptação ao frio",
+    "target_id": "neanderthal-life",
+    "duration_min": 7,
+    "interaction": "map + image + food-web or evidence-card",
+    "reflection": "O que é evidência direta e o que é inferência?"
+  },
+  {
+    "day": 140,
+    "type": "ecosystem",
+    "title": "Monte uma teia alimentar do Pleistoceno",
+    "target_id": "pleistocene-south-america-pampas",
+    "duration_min": 7,
+    "interaction": "map + image + food-web or evidence-card",
+    "reflection": "O que é evidência direta e o que é inferência?"
+  },
+  {
+    "day": 141,
+    "type": "fauna",
+    "title": "Smilodon: como ler dentes e ossos para inferir dieta?",
+    "target_id": "smilodon-populator",
+    "duration_min": 12,
+    "interaction": "map + image + food-web or evidence-card",
+    "reflection": "O que é evidência direta e o que é inferência?"
+  },
+  {
+    "day": 142,
+    "type": "humans",
+    "title": "Como o fogo mudou a alimentação e a vida social?",
+    "target_id": "fire-and-cooking",
+    "duration_min": 7,
+    "interaction": "map + image + food-web or evidence-card",
+    "reflection": "O que é evidência direta e o que é inferência?"
+  },
+  {
+    "day": 143,
+    "type": "fauna",
+    "title": "Mammute e a estepe-tundra: o que um molar pode revelar?",
+    "target_id": "mammuthus-primigenius",
+    "duration_min": 7,
+    "interaction": "map + image + food-web or evidence-card",
+    "reflection": "O que é evidência direta e o que é inferência?"
+  },
+  {
+    "day": 144,
+    "type": "archaeology",
+    "title": "Como marcas de corte revelam o uso de carcaças?",
+    "target_id": "hunting-and-risk",
+    "duration_min": 12,
+    "interaction": "map + image + food-web or evidence-card",
+    "reflection": "O que é evidência direta e o que é inferência?"
+  },
+  {
+    "day": 145,
+    "type": "brazil",
+    "title": "O que a megafauna sul-americana conta sobre o Pleistoceno?",
+    "target_id": "pleistocene-south-america",
+    "duration_min": 7,
+    "interaction": "map + image + food-web or evidence-card",
+    "reflection": "O que é evidência direta e o que é inferência?"
+  },
+  {
+    "day": 146,
+    "type": "evolution",
+    "title": "Neandertais, DNA e adaptação ao frio",
+    "target_id": "neanderthal-life",
+    "duration_min": 7,
+    "interaction": "map + image + food-web or evidence-card",
+    "reflection": "O que é evidência direta e o que é inferência?"
+  },
+  {
+    "day": 147,
+    "type": "ecosystem",
+    "title": "Monte uma teia alimentar do Pleistoceno",
+    "target_id": "pleistocene-south-america-pampas",
+    "duration_min": 12,
+    "interaction": "map + image + food-web or evidence-card",
+    "reflection": "O que é evidência direta e o que é inferência?"
+  },
+  {
+    "day": 148,
+    "type": "fauna",
+    "title": "Smilodon: como ler dentes e ossos para inferir dieta?",
+    "target_id": "smilodon-populator",
+    "duration_min": 7,
+    "interaction": "map + image + food-web or evidence-card",
+    "reflection": "O que é evidência direta e o que é inferência?"
+  },
+  {
+    "day": 149,
+    "type": "humans",
+    "title": "Como o fogo mudou a alimentação e a vida social?",
+    "target_id": "fire-and-cooking",
+    "duration_min": 7,
+    "interaction": "map + image + food-web or evidence-card",
+    "reflection": "O que é evidência direta e o que é inferência?"
+  },
+  {
+    "day": 150,
+    "type": "fauna",
+    "title": "Mammute e a estepe-tundra: o que um molar pode revelar?",
+    "target_id": "mammuthus-primigenius",
+    "duration_min": 12,
+    "interaction": "map + image + food-web or evidence-card",
+    "reflection": "O que é evidência direta e o que é inferência?"
+  },
+  {
+    "day": 151,
+    "type": "archaeology",
+    "title": "Como marcas de corte revelam o uso de carcaças?",
+    "target_id": "hunting-and-risk",
+    "duration_min": 7,
+    "interaction": "map + image + food-web or evidence-card",
+    "reflection": "O que é evidência direta e o que é inferência?"
+  },
+  {
+    "day": 152,
+    "type": "brazil",
+    "title": "O que a megafauna sul-americana conta sobre o Pleistoceno?",
+    "target_id": "pleistocene-south-america",
+    "duration_min": 7,
+    "interaction": "map + image + food-web or evidence-card",
+    "reflection": "O que é evidência direta e o que é inferência?"
+  },
+  {
+    "day": 153,
+    "type": "evolution",
+    "title": "Neandertais, DNA e adaptação ao frio",
+    "target_id": "neanderthal-life",
+    "duration_min": 12,
+    "interaction": "map + image + food-web or evidence-card",
+    "reflection": "O que é evidência direta e o que é inferência?"
+  },
+  {
+    "day": 154,
+    "type": "ecosystem",
+    "title": "Monte uma teia alimentar do Pleistoceno",
+    "target_id": "pleistocene-south-america-pampas",
+    "duration_min": 7,
+    "interaction": "map + image + food-web or evidence-card",
+    "reflection": "O que é evidência direta e o que é inferência?"
+  },
+  {
+    "day": 155,
+    "type": "fauna",
+    "title": "Smilodon: como ler dentes e ossos para inferir dieta?",
+    "target_id": "smilodon-populator",
+    "duration_min": 7,
+    "interaction": "map + image + food-web or evidence-card",
+    "reflection": "O que é evidência direta e o que é inferência?"
+  },
+  {
+    "day": 156,
+    "type": "humans",
+    "title": "Como o fogo mudou a alimentação e a vida social?",
+    "target_id": "fire-and-cooking",
+    "duration_min": 12,
+    "interaction": "map + image + food-web or evidence-card",
+    "reflection": "O que é evidência direta e o que é inferência?"
+  },
+  {
+    "day": 157,
+    "type": "fauna",
+    "title": "Mammute e a estepe-tundra: o que um molar pode revelar?",
+    "target_id": "mammuthus-primigenius",
+    "duration_min": 7,
+    "interaction": "map + image + food-web or evidence-card",
+    "reflection": "O que é evidência direta e o que é inferência?"
+  },
+  {
+    "day": 158,
+    "type": "archaeology",
+    "title": "Como marcas de corte revelam o uso de carcaças?",
+    "target_id": "hunting-and-risk",
+    "duration_min": 7,
+    "interaction": "map + image + food-web or evidence-card",
+    "reflection": "O que é evidência direta e o que é inferência?"
+  },
+  {
+    "day": 159,
+    "type": "brazil",
+    "title": "O que a megafauna sul-americana conta sobre o Pleistoceno?",
+    "target_id": "pleistocene-south-america",
+    "duration_min": 12,
+    "interaction": "map + image + food-web or evidence-card",
+    "reflection": "O que é evidência direta e o que é inferência?"
+  },
+  {
+    "day": 160,
+    "type": "evolution",
+    "title": "Neandertais, DNA e adaptação ao frio",
+    "target_id": "neanderthal-life",
+    "duration_min": 7,
+    "interaction": "map + image + food-web or evidence-card",
+    "reflection": "O que é evidência direta e o que é inferência?"
+  },
+  {
+    "day": 161,
+    "type": "ecosystem",
+    "title": "Monte uma teia alimentar do Pleistoceno",
+    "target_id": "pleistocene-south-america-pampas",
+    "duration_min": 7,
+    "interaction": "map + image + food-web or evidence-card",
+    "reflection": "O que é evidência direta e o que é inferência?"
+  },
+  {
+    "day": 162,
+    "type": "fauna",
+    "title": "Smilodon: como ler dentes e ossos para inferir dieta?",
+    "target_id": "smilodon-populator",
+    "duration_min": 12,
+    "interaction": "map + image + food-web or evidence-card",
+    "reflection": "O que é evidência direta e o que é inferência?"
+  },
+  {
+    "day": 163,
+    "type": "humans",
+    "title": "Como o fogo mudou a alimentação e a vida social?",
+    "target_id": "fire-and-cooking",
+    "duration_min": 7,
+    "interaction": "map + image + food-web or evidence-card",
+    "reflection": "O que é evidência direta e o que é inferência?"
+  },
+  {
+    "day": 164,
+    "type": "fauna",
+    "title": "Mammute e a estepe-tundra: o que um molar pode revelar?",
+    "target_id": "mammuthus-primigenius",
+    "duration_min": 7,
+    "interaction": "map + image + food-web or evidence-card",
+    "reflection": "O que é evidência direta e o que é inferência?"
+  },
+  {
+    "day": 165,
+    "type": "archaeology",
+    "title": "Como marcas de corte revelam o uso de carcaças?",
+    "target_id": "hunting-and-risk",
+    "duration_min": 12,
+    "interaction": "map + image + food-web or evidence-card",
+    "reflection": "O que é evidência direta e o que é inferência?"
+  },
+  {
+    "day": 166,
+    "type": "brazil",
+    "title": "O que a megafauna sul-americana conta sobre o Pleistoceno?",
+    "target_id": "pleistocene-south-america",
+    "duration_min": 7,
+    "interaction": "map + image + food-web or evidence-card",
+    "reflection": "O que é evidência direta e o que é inferência?"
+  },
+  {
+    "day": 167,
+    "type": "evolution",
+    "title": "Neandertais, DNA e adaptação ao frio",
+    "target_id": "neanderthal-life",
+    "duration_min": 7,
+    "interaction": "map + image + food-web or evidence-card",
+    "reflection": "O que é evidência direta e o que é inferência?"
+  },
+  {
+    "day": 168,
+    "type": "ecosystem",
+    "title": "Monte uma teia alimentar do Pleistoceno",
+    "target_id": "pleistocene-south-america-pampas",
+    "duration_min": 12,
+    "interaction": "map + image + food-web or evidence-card",
+    "reflection": "O que é evidência direta e o que é inferência?"
+  },
+  {
+    "day": 169,
+    "type": "fauna",
+    "title": "Smilodon: como ler dentes e ossos para inferir dieta?",
+    "target_id": "smilodon-populator",
+    "duration_min": 7,
+    "interaction": "map + image + food-web or evidence-card",
+    "reflection": "O que é evidência direta e o que é inferência?"
+  },
+  {
+    "day": 170,
+    "type": "humans",
+    "title": "Como o fogo mudou a alimentação e a vida social?",
+    "target_id": "fire-and-cooking",
+    "duration_min": 7,
+    "interaction": "map + image + food-web or evidence-card",
+    "reflection": "O que é evidência direta e o que é inferência?"
+  },
+  {
+    "day": 171,
+    "type": "fauna",
+    "title": "Mammute e a estepe-tundra: o que um molar pode revelar?",
+    "target_id": "mammuthus-primigenius",
+    "duration_min": 12,
+    "interaction": "map + image + food-web or evidence-card",
+    "reflection": "O que é evidência direta e o que é inferência?"
+  },
+  {
+    "day": 172,
+    "type": "archaeology",
+    "title": "Como marcas de corte revelam o uso de carcaças?",
+    "target_id": "hunting-and-risk",
+    "duration_min": 7,
+    "interaction": "map + image + food-web or evidence-card",
+    "reflection": "O que é evidência direta e o que é inferência?"
+  },
+  {
+    "day": 173,
+    "type": "brazil",
+    "title": "O que a megafauna sul-americana conta sobre o Pleistoceno?",
+    "target_id": "pleistocene-south-america",
+    "duration_min": 7,
+    "interaction": "map + image + food-web or evidence-card",
+    "reflection": "O que é evidência direta e o que é inferência?"
+  },
+  {
+    "day": 174,
+    "type": "evolution",
+    "title": "Neandertais, DNA e adaptação ao frio",
+    "target_id": "neanderthal-life",
+    "duration_min": 12,
+    "interaction": "map + image + food-web or evidence-card",
+    "reflection": "O que é evidência direta e o que é inferência?"
+  },
+  {
+    "day": 175,
+    "type": "ecosystem",
+    "title": "Monte uma teia alimentar do Pleistoceno",
+    "target_id": "pleistocene-south-america-pampas",
+    "duration_min": 7,
+    "interaction": "map + image + food-web or evidence-card",
+    "reflection": "O que é evidência direta e o que é inferência?"
+  },
+  {
+    "day": 176,
+    "type": "fauna",
+    "title": "Smilodon: como ler dentes e ossos para inferir dieta?",
+    "target_id": "smilodon-populator",
+    "duration_min": 7,
+    "interaction": "map + image + food-web or evidence-card",
+    "reflection": "O que é evidência direta e o que é inferência?"
+  },
+  {
+    "day": 177,
+    "type": "humans",
+    "title": "Como o fogo mudou a alimentação e a vida social?",
+    "target_id": "fire-and-cooking",
+    "duration_min": 12,
+    "interaction": "map + image + food-web or evidence-card",
+    "reflection": "O que é evidência direta e o que é inferência?"
+  },
+  {
+    "day": 178,
+    "type": "fauna",
+    "title": "Mammute e a estepe-tundra: o que um molar pode revelar?",
+    "target_id": "mammuthus-primigenius",
+    "duration_min": 7,
+    "interaction": "map + image + food-web or evidence-card",
+    "reflection": "O que é evidência direta e o que é inferência?"
+  },
+  {
+    "day": 179,
+    "type": "archaeology",
+    "title": "Como marcas de corte revelam o uso de carcaças?",
+    "target_id": "hunting-and-risk",
+    "duration_min": 7,
+    "interaction": "map + image + food-web or evidence-card",
+    "reflection": "O que é evidência direta e o que é inferência?"
+  },
+  {
+    "day": 180,
+    "type": "brazil",
+    "title": "O que a megafauna sul-americana conta sobre o Pleistoceno?",
+    "target_id": "pleistocene-south-america",
+    "duration_min": 12,
+    "interaction": "map + image + food-web or evidence-card",
+    "reflection": "O que é evidência direta e o que é inferência?"
+  },
+  {
+    "day": 181,
+    "type": "evolution",
+    "title": "Neandertais, DNA e adaptação ao frio",
+    "target_id": "neanderthal-life",
+    "duration_min": 7,
+    "interaction": "map + image + food-web or evidence-card",
+    "reflection": "O que é evidência direta e o que é inferência?"
+  },
+  {
+    "day": 182,
+    "type": "ecosystem",
+    "title": "Monte uma teia alimentar do Pleistoceno",
+    "target_id": "pleistocene-south-america-pampas",
+    "duration_min": 7,
+    "interaction": "map + image + food-web or evidence-card",
+    "reflection": "O que é evidência direta e o que é inferência?"
+  },
+  {
+    "day": 183,
+    "type": "fauna",
+    "title": "Smilodon: como ler dentes e ossos para inferir dieta?",
+    "target_id": "smilodon-populator",
+    "duration_min": 12,
+    "interaction": "map + image + food-web or evidence-card",
+    "reflection": "O que é evidência direta e o que é inferência?"
+  },
+  {
+    "day": 184,
+    "type": "humans",
+    "title": "Como o fogo mudou a alimentação e a vida social?",
+    "target_id": "fire-and-cooking",
+    "duration_min": 7,
+    "interaction": "map + image + food-web or evidence-card",
+    "reflection": "O que é evidência direta e o que é inferência?"
+  },
+  {
+    "day": 185,
+    "type": "fauna",
+    "title": "Mammute e a estepe-tundra: o que um molar pode revelar?",
+    "target_id": "mammuthus-primigenius",
+    "duration_min": 7,
+    "interaction": "map + image + food-web or evidence-card",
+    "reflection": "O que é evidência direta e o que é inferência?"
+  },
+  {
+    "day": 186,
+    "type": "archaeology",
+    "title": "Como marcas de corte revelam o uso de carcaças?",
+    "target_id": "hunting-and-risk",
+    "duration_min": 12,
+    "interaction": "map + image + food-web or evidence-card",
+    "reflection": "O que é evidência direta e o que é inferência?"
+  },
+  {
+    "day": 187,
+    "type": "brazil",
+    "title": "O que a megafauna sul-americana conta sobre o Pleistoceno?",
+    "target_id": "pleistocene-south-america",
+    "duration_min": 7,
+    "interaction": "map + image + food-web or evidence-card",
+    "reflection": "O que é evidência direta e o que é inferência?"
+  },
+  {
+    "day": 188,
+    "type": "evolution",
+    "title": "Neandertais, DNA e adaptação ao frio",
+    "target_id": "neanderthal-life",
+    "duration_min": 7,
+    "interaction": "map + image + food-web or evidence-card",
+    "reflection": "O que é evidência direta e o que é inferência?"
+  },
+  {
+    "day": 189,
+    "type": "ecosystem",
+    "title": "Monte uma teia alimentar do Pleistoceno",
+    "target_id": "pleistocene-south-america-pampas",
+    "duration_min": 12,
+    "interaction": "map + image + food-web or evidence-card",
+    "reflection": "O que é evidência direta e o que é inferência?"
+  },
+  {
+    "day": 190,
+    "type": "fauna",
+    "title": "Smilodon: como ler dentes e ossos para inferir dieta?",
+    "target_id": "smilodon-populator",
+    "duration_min": 7,
+    "interaction": "map + image + food-web or evidence-card",
+    "reflection": "O que é evidência direta e o que é inferência?"
+  },
+  {
+    "day": 191,
+    "type": "humans",
+    "title": "Como o fogo mudou a alimentação e a vida social?",
+    "target_id": "fire-and-cooking",
+    "duration_min": 7,
+    "interaction": "map + image + food-web or evidence-card",
+    "reflection": "O que é evidência direta e o que é inferência?"
+  },
+  {
+    "day": 192,
+    "type": "fauna",
+    "title": "Mammute e a estepe-tundra: o que um molar pode revelar?",
+    "target_id": "mammuthus-primigenius",
+    "duration_min": 12,
+    "interaction": "map + image + food-web or evidence-card",
+    "reflection": "O que é evidência direta e o que é inferência?"
+  },
+  {
+    "day": 193,
+    "type": "archaeology",
+    "title": "Como marcas de corte revelam o uso de carcaças?",
+    "target_id": "hunting-and-risk",
+    "duration_min": 7,
+    "interaction": "map + image + food-web or evidence-card",
+    "reflection": "O que é evidência direta e o que é inferência?"
+  },
+  {
+    "day": 194,
+    "type": "brazil",
+    "title": "O que a megafauna sul-americana conta sobre o Pleistoceno?",
+    "target_id": "pleistocene-south-america",
+    "duration_min": 7,
+    "interaction": "map + image + food-web or evidence-card",
+    "reflection": "O que é evidência direta e o que é inferência?"
+  },
+  {
+    "day": 195,
+    "type": "evolution",
+    "title": "Neandertais, DNA e adaptação ao frio",
+    "target_id": "neanderthal-life",
+    "duration_min": 12,
+    "interaction": "map + image + food-web or evidence-card",
+    "reflection": "O que é evidência direta e o que é inferência?"
+  },
+  {
+    "day": 196,
+    "type": "ecosystem",
+    "title": "Monte uma teia alimentar do Pleistoceno",
+    "target_id": "pleistocene-south-america-pampas",
+    "duration_min": 7,
+    "interaction": "map + image + food-web or evidence-card",
+    "reflection": "O que é evidência direta e o que é inferência?"
+  },
+  {
+    "day": 197,
+    "type": "fauna",
+    "title": "Smilodon: como ler dentes e ossos para inferir dieta?",
+    "target_id": "smilodon-populator",
+    "duration_min": 7,
+    "interaction": "map + image + food-web or evidence-card",
+    "reflection": "O que é evidência direta e o que é inferência?"
+  },
+  {
+    "day": 198,
+    "type": "humans",
+    "title": "Como o fogo mudou a alimentação e a vida social?",
+    "target_id": "fire-and-cooking",
+    "duration_min": 12,
+    "interaction": "map + image + food-web or evidence-card",
+    "reflection": "O que é evidência direta e o que é inferência?"
+  },
+  {
+    "day": 199,
+    "type": "fauna",
+    "title": "Mammute e a estepe-tundra: o que um molar pode revelar?",
+    "target_id": "mammuthus-primigenius",
+    "duration_min": 7,
+    "interaction": "map + image + food-web or evidence-card",
+    "reflection": "O que é evidência direta e o que é inferência?"
+  },
+  {
+    "day": 200,
+    "type": "archaeology",
+    "title": "Como marcas de corte revelam o uso de carcaças?",
+    "target_id": "hunting-and-risk",
+    "duration_min": 7,
+    "interaction": "map + image + food-web or evidence-card",
+    "reflection": "O que é evidência direta e o que é inferência?"
+  },
+  {
+    "day": 201,
+    "type": "brazil",
+    "title": "O que a megafauna sul-americana conta sobre o Pleistoceno?",
+    "target_id": "pleistocene-south-america",
+    "duration_min": 12,
+    "interaction": "map + image + food-web or evidence-card",
+    "reflection": "O que é evidência direta e o que é inferência?"
+  },
+  {
+    "day": 202,
+    "type": "evolution",
+    "title": "Neandertais, DNA e adaptação ao frio",
+    "target_id": "neanderthal-life",
+    "duration_min": 7,
+    "interaction": "map + image + food-web or evidence-card",
+    "reflection": "O que é evidência direta e o que é inferência?"
+  },
+  {
+    "day": 203,
+    "type": "ecosystem",
+    "title": "Monte uma teia alimentar do Pleistoceno",
+    "target_id": "pleistocene-south-america-pampas",
+    "duration_min": 7,
+    "interaction": "map + image + food-web or evidence-card",
+    "reflection": "O que é evidência direta e o que é inferência?"
+  },
+  {
+    "day": 204,
+    "type": "fauna",
+    "title": "Smilodon: como ler dentes e ossos para inferir dieta?",
+    "target_id": "smilodon-populator",
+    "duration_min": 12,
+    "interaction": "map + image + food-web or evidence-card",
+    "reflection": "O que é evidência direta e o que é inferência?"
+  },
+  {
+    "day": 205,
+    "type": "humans",
+    "title": "Como o fogo mudou a alimentação e a vida social?",
+    "target_id": "fire-and-cooking",
+    "duration_min": 7,
+    "interaction": "map + image + food-web or evidence-card",
+    "reflection": "O que é evidência direta e o que é inferência?"
+  },
+  {
+    "day": 206,
+    "type": "fauna",
+    "title": "Mammute e a estepe-tundra: o que um molar pode revelar?",
+    "target_id": "mammuthus-primigenius",
+    "duration_min": 7,
+    "interaction": "map + image + food-web or evidence-card",
+    "reflection": "O que é evidência direta e o que é inferência?"
+  },
+  {
+    "day": 207,
+    "type": "archaeology",
+    "title": "Como marcas de corte revelam o uso de carcaças?",
+    "target_id": "hunting-and-risk",
+    "duration_min": 12,
+    "interaction": "map + image + food-web or evidence-card",
+    "reflection": "O que é evidência direta e o que é inferência?"
+  },
+  {
+    "day": 208,
+    "type": "brazil",
+    "title": "O que a megafauna sul-americana conta sobre o Pleistoceno?",
+    "target_id": "pleistocene-south-america",
+    "duration_min": 7,
+    "interaction": "map + image + food-web or evidence-card",
+    "reflection": "O que é evidência direta e o que é inferência?"
+  },
+  {
+    "day": 209,
+    "type": "evolution",
+    "title": "Neandertais, DNA e adaptação ao frio",
+    "target_id": "neanderthal-life",
+    "duration_min": 7,
+    "interaction": "map + image + food-web or evidence-card",
+    "reflection": "O que é evidência direta e o que é inferência?"
+  },
+  {
+    "day": 210,
+    "type": "ecosystem",
+    "title": "Monte uma teia alimentar do Pleistoceno",
+    "target_id": "pleistocene-south-america-pampas",
+    "duration_min": 12,
+    "interaction": "map + image + food-web or evidence-card",
+    "reflection": "O que é evidência direta e o que é inferência?"
+  },
+  {
+    "day": 211,
+    "type": "fauna",
+    "title": "Smilodon: como ler dentes e ossos para inferir dieta?",
+    "target_id": "smilodon-populator",
+    "duration_min": 7,
+    "interaction": "map + image + food-web or evidence-card",
+    "reflection": "O que é evidência direta e o que é inferência?"
+  },
+  {
+    "day": 212,
+    "type": "humans",
+    "title": "Como o fogo mudou a alimentação e a vida social?",
+    "target_id": "fire-and-cooking",
+    "duration_min": 7,
+    "interaction": "map + image + food-web or evidence-card",
+    "reflection": "O que é evidência direta e o que é inferência?"
+  },
+  {
+    "day": 213,
+    "type": "fauna",
+    "title": "Mammute e a estepe-tundra: o que um molar pode revelar?",
+    "target_id": "mammuthus-primigenius",
+    "duration_min": 12,
+    "interaction": "map + image + food-web or evidence-card",
+    "reflection": "O que é evidência direta e o que é inferência?"
+  },
+  {
+    "day": 214,
+    "type": "archaeology",
+    "title": "Como marcas de corte revelam o uso de carcaças?",
+    "target_id": "hunting-and-risk",
+    "duration_min": 7,
+    "interaction": "map + image + food-web or evidence-card",
+    "reflection": "O que é evidência direta e o que é inferência?"
+  },
+  {
+    "day": 215,
+    "type": "brazil",
+    "title": "O que a megafauna sul-americana conta sobre o Pleistoceno?",
+    "target_id": "pleistocene-south-america",
+    "duration_min": 7,
+    "interaction": "map + image + food-web or evidence-card",
+    "reflection": "O que é evidência direta e o que é inferência?"
+  },
+  {
+    "day": 216,
+    "type": "evolution",
+    "title": "Neandertais, DNA e adaptação ao frio",
+    "target_id": "neanderthal-life",
+    "duration_min": 12,
+    "interaction": "map + image + food-web or evidence-card",
+    "reflection": "O que é evidência direta e o que é inferência?"
+  },
+  {
+    "day": 217,
+    "type": "ecosystem",
+    "title": "Monte uma teia alimentar do Pleistoceno",
+    "target_id": "pleistocene-south-america-pampas",
+    "duration_min": 7,
+    "interaction": "map + image + food-web or evidence-card",
+    "reflection": "O que é evidência direta e o que é inferência?"
+  },
+  {
+    "day": 218,
+    "type": "fauna",
+    "title": "Smilodon: como ler dentes e ossos para inferir dieta?",
+    "target_id": "smilodon-populator",
+    "duration_min": 7,
+    "interaction": "map + image + food-web or evidence-card",
+    "reflection": "O que é evidência direta e o que é inferência?"
+  },
+  {
+    "day": 219,
+    "type": "humans",
+    "title": "Como o fogo mudou a alimentação e a vida social?",
+    "target_id": "fire-and-cooking",
+    "duration_min": 12,
+    "interaction": "map + image + food-web or evidence-card",
+    "reflection": "O que é evidência direta e o que é inferência?"
+  },
+  {
+    "day": 220,
+    "type": "fauna",
+    "title": "Mammute e a estepe-tundra: o que um molar pode revelar?",
+    "target_id": "mammuthus-primigenius",
+    "duration_min": 7,
+    "interaction": "map + image + food-web or evidence-card",
+    "reflection": "O que é evidência direta e o que é inferência?"
+  },
+  {
+    "day": 221,
+    "type": "archaeology",
+    "title": "Como marcas de corte revelam o uso de carcaças?",
+    "target_id": "hunting-and-risk",
+    "duration_min": 7,
+    "interaction": "map + image + food-web or evidence-card",
+    "reflection": "O que é evidência direta e o que é inferência?"
+  },
+  {
+    "day": 222,
+    "type": "brazil",
+    "title": "O que a megafauna sul-americana conta sobre o Pleistoceno?",
+    "target_id": "pleistocene-south-america",
+    "duration_min": 12,
+    "interaction": "map + image + food-web or evidence-card",
+    "reflection": "O que é evidência direta e o que é inferência?"
+  },
+  {
+    "day": 223,
+    "type": "evolution",
+    "title": "Neandertais, DNA e adaptação ao frio",
+    "target_id": "neanderthal-life",
+    "duration_min": 7,
+    "interaction": "map + image + food-web or evidence-card",
+    "reflection": "O que é evidência direta e o que é inferência?"
+  },
+  {
+    "day": 224,
+    "type": "ecosystem",
+    "title": "Monte uma teia alimentar do Pleistoceno",
+    "target_id": "pleistocene-south-america-pampas",
+    "duration_min": 7,
+    "interaction": "map + image + food-web or evidence-card",
+    "reflection": "O que é evidência direta e o que é inferência?"
+  },
+  {
+    "day": 225,
+    "type": "fauna",
+    "title": "Smilodon: como ler dentes e ossos para inferir dieta?",
+    "target_id": "smilodon-populator",
+    "duration_min": 12,
+    "interaction": "map + image + food-web or evidence-card",
+    "reflection": "O que é evidência direta e o que é inferência?"
+  },
+  {
+    "day": 226,
+    "type": "humans",
+    "title": "Como o fogo mudou a alimentação e a vida social?",
+    "target_id": "fire-and-cooking",
+    "duration_min": 7,
+    "interaction": "map + image + food-web or evidence-card",
+    "reflection": "O que é evidência direta e o que é inferência?"
+  },
+  {
+    "day": 227,
+    "type": "fauna",
+    "title": "Mammute e a estepe-tundra: o que um molar pode revelar?",
+    "target_id": "mammuthus-primigenius",
+    "duration_min": 7,
+    "interaction": "map + image + food-web or evidence-card",
+    "reflection": "O que é evidência direta e o que é inferência?"
+  },
+  {
+    "day": 228,
+    "type": "archaeology",
+    "title": "Como marcas de corte revelam o uso de carcaças?",
+    "target_id": "hunting-and-risk",
+    "duration_min": 12,
+    "interaction": "map + image + food-web or evidence-card",
+    "reflection": "O que é evidência direta e o que é inferência?"
+  },
+  {
+    "day": 229,
+    "type": "brazil",
+    "title": "O que a megafauna sul-americana conta sobre o Pleistoceno?",
+    "target_id": "pleistocene-south-america",
+    "duration_min": 7,
+    "interaction": "map + image + food-web or evidence-card",
+    "reflection": "O que é evidência direta e o que é inferência?"
+  },
+  {
+    "day": 230,
+    "type": "evolution",
+    "title": "Neandertais, DNA e adaptação ao frio",
+    "target_id": "neanderthal-life",
+    "duration_min": 7,
+    "interaction": "map + image + food-web or evidence-card",
+    "reflection": "O que é evidência direta e o que é inferência?"
+  },
+  {
+    "day": 231,
+    "type": "ecosystem",
+    "title": "Monte uma teia alimentar do Pleistoceno",
+    "target_id": "pleistocene-south-america-pampas",
+    "duration_min": 12,
+    "interaction": "map + image + food-web or evidence-card",
+    "reflection": "O que é evidência direta e o que é inferência?"
+  },
+  {
+    "day": 232,
+    "type": "fauna",
+    "title": "Smilodon: como ler dentes e ossos para inferir dieta?",
+    "target_id": "smilodon-populator",
+    "duration_min": 7,
+    "interaction": "map + image + food-web or evidence-card",
+    "reflection": "O que é evidência direta e o que é inferência?"
+  },
+  {
+    "day": 233,
+    "type": "humans",
+    "title": "Como o fogo mudou a alimentação e a vida social?",
+    "target_id": "fire-and-cooking",
+    "duration_min": 7,
+    "interaction": "map + image + food-web or evidence-card",
+    "reflection": "O que é evidência direta e o que é inferência?"
+  },
+  {
+    "day": 234,
+    "type": "fauna",
+    "title": "Mammute e a estepe-tundra: o que um molar pode revelar?",
+    "target_id": "mammuthus-primigenius",
+    "duration_min": 12,
+    "interaction": "map + image + food-web or evidence-card",
+    "reflection": "O que é evidência direta e o que é inferência?"
+  },
+  {
+    "day": 235,
+    "type": "archaeology",
+    "title": "Como marcas de corte revelam o uso de carcaças?",
+    "target_id": "hunting-and-risk",
+    "duration_min": 7,
+    "interaction": "map + image + food-web or evidence-card",
+    "reflection": "O que é evidência direta e o que é inferência?"
+  },
+  {
+    "day": 236,
+    "type": "brazil",
+    "title": "O que a megafauna sul-americana conta sobre o Pleistoceno?",
+    "target_id": "pleistocene-south-america",
+    "duration_min": 7,
+    "interaction": "map + image + food-web or evidence-card",
+    "reflection": "O que é evidência direta e o que é inferência?"
+  },
+  {
+    "day": 237,
+    "type": "evolution",
+    "title": "Neandertais, DNA e adaptação ao frio",
+    "target_id": "neanderthal-life",
+    "duration_min": 12,
+    "interaction": "map + image + food-web or evidence-card",
+    "reflection": "O que é evidência direta e o que é inferência?"
+  },
+  {
+    "day": 238,
+    "type": "ecosystem",
+    "title": "Monte uma teia alimentar do Pleistoceno",
+    "target_id": "pleistocene-south-america-pampas",
+    "duration_min": 7,
+    "interaction": "map + image + food-web or evidence-card",
+    "reflection": "O que é evidência direta e o que é inferência?"
+  },
+  {
+    "day": 239,
+    "type": "fauna",
+    "title": "Smilodon: como ler dentes e ossos para inferir dieta?",
+    "target_id": "smilodon-populator",
+    "duration_min": 7,
+    "interaction": "map + image + food-web or evidence-card",
+    "reflection": "O que é evidência direta e o que é inferência?"
+  },
+  {
+    "day": 240,
+    "type": "humans",
+    "title": "Como o fogo mudou a alimentação e a vida social?",
+    "target_id": "fire-and-cooking",
+    "duration_min": 12,
+    "interaction": "map + image + food-web or evidence-card",
+    "reflection": "O que é evidência direta e o que é inferência?"
+  },
+  {
+    "day": 241,
+    "type": "fauna",
+    "title": "Mammute e a estepe-tundra: o que um molar pode revelar?",
+    "target_id": "mammuthus-primigenius",
+    "duration_min": 7,
+    "interaction": "map + image + food-web or evidence-card",
+    "reflection": "O que é evidência direta e o que é inferência?"
+  },
+  {
+    "day": 242,
+    "type": "archaeology",
+    "title": "Como marcas de corte revelam o uso de carcaças?",
+    "target_id": "hunting-and-risk",
+    "duration_min": 7,
+    "interaction": "map + image + food-web or evidence-card",
+    "reflection": "O que é evidência direta e o que é inferência?"
+  },
+  {
+    "day": 243,
+    "type": "brazil",
+    "title": "O que a megafauna sul-americana conta sobre o Pleistoceno?",
+    "target_id": "pleistocene-south-america",
+    "duration_min": 12,
+    "interaction": "map + image + food-web or evidence-card",
+    "reflection": "O que é evidência direta e o que é inferência?"
+  },
+  {
+    "day": 244,
+    "type": "evolution",
+    "title": "Neandertais, DNA e adaptação ao frio",
+    "target_id": "neanderthal-life",
+    "duration_min": 7,
+    "interaction": "map + image + food-web or evidence-card",
+    "reflection": "O que é evidência direta e o que é inferência?"
+  },
+  {
+    "day": 245,
+    "type": "ecosystem",
+    "title": "Monte uma teia alimentar do Pleistoceno",
+    "target_id": "pleistocene-south-america-pampas",
+    "duration_min": 7,
+    "interaction": "map + image + food-web or evidence-card",
+    "reflection": "O que é evidência direta e o que é inferência?"
+  },
+  {
+    "day": 246,
+    "type": "fauna",
+    "title": "Smilodon: como ler dentes e ossos para inferir dieta?",
+    "target_id": "smilodon-populator",
+    "duration_min": 12,
+    "interaction": "map + image + food-web or evidence-card",
+    "reflection": "O que é evidência direta e o que é inferência?"
+  },
+  {
+    "day": 247,
+    "type": "humans",
+    "title": "Como o fogo mudou a alimentação e a vida social?",
+    "target_id": "fire-and-cooking",
+    "duration_min": 7,
+    "interaction": "map + image + food-web or evidence-card",
+    "reflection": "O que é evidência direta e o que é inferência?"
+  },
+  {
+    "day": 248,
+    "type": "fauna",
+    "title": "Mammute e a estepe-tundra: o que um molar pode revelar?",
+    "target_id": "mammuthus-primigenius",
+    "duration_min": 7,
+    "interaction": "map + image + food-web or evidence-card",
+    "reflection": "O que é evidência direta e o que é inferência?"
+  },
+  {
+    "day": 249,
+    "type": "archaeology",
+    "title": "Como marcas de corte revelam o uso de carcaças?",
+    "target_id": "hunting-and-risk",
+    "duration_min": 12,
+    "interaction": "map + image + food-web or evidence-card",
+    "reflection": "O que é evidência direta e o que é inferência?"
+  },
+  {
+    "day": 250,
+    "type": "brazil",
+    "title": "O que a megafauna sul-americana conta sobre o Pleistoceno?",
+    "target_id": "pleistocene-south-america",
+    "duration_min": 7,
+    "interaction": "map + image + food-web or evidence-card",
+    "reflection": "O que é evidência direta e o que é inferência?"
+  },
+  {
+    "day": 251,
+    "type": "evolution",
+    "title": "Neandertais, DNA e adaptação ao frio",
+    "target_id": "neanderthal-life",
+    "duration_min": 7,
+    "interaction": "map + image + food-web or evidence-card",
+    "reflection": "O que é evidência direta e o que é inferência?"
+  },
+  {
+    "day": 252,
+    "type": "ecosystem",
+    "title": "Monte uma teia alimentar do Pleistoceno",
+    "target_id": "pleistocene-south-america-pampas",
+    "duration_min": 12,
+    "interaction": "map + image + food-web or evidence-card",
+    "reflection": "O que é evidência direta e o que é inferência?"
+  },
+  {
+    "day": 253,
+    "type": "fauna",
+    "title": "Smilodon: como ler dentes e ossos para inferir dieta?",
+    "target_id": "smilodon-populator",
+    "duration_min": 7,
+    "interaction": "map + image + food-web or evidence-card",
+    "reflection": "O que é evidência direta e o que é inferência?"
+  },
+  {
+    "day": 254,
+    "type": "humans",
+    "title": "Como o fogo mudou a alimentação e a vida social?",
+    "target_id": "fire-and-cooking",
+    "duration_min": 7,
+    "interaction": "map + image + food-web or evidence-card",
+    "reflection": "O que é evidência direta e o que é inferência?"
+  },
+  {
+    "day": 255,
+    "type": "fauna",
+    "title": "Mammute e a estepe-tundra: o que um molar pode revelar?",
+    "target_id": "mammuthus-primigenius",
+    "duration_min": 12,
+    "interaction": "map + image + food-web or evidence-card",
+    "reflection": "O que é evidência direta e o que é inferência?"
+  },
+  {
+    "day": 256,
+    "type": "archaeology",
+    "title": "Como marcas de corte revelam o uso de carcaças?",
+    "target_id": "hunting-and-risk",
+    "duration_min": 7,
+    "interaction": "map + image + food-web or evidence-card",
+    "reflection": "O que é evidência direta e o que é inferência?"
+  },
+  {
+    "day": 257,
+    "type": "brazil",
+    "title": "O que a megafauna sul-americana conta sobre o Pleistoceno?",
+    "target_id": "pleistocene-south-america",
+    "duration_min": 7,
+    "interaction": "map + image + food-web or evidence-card",
+    "reflection": "O que é evidência direta e o que é inferência?"
+  },
+  {
+    "day": 258,
+    "type": "evolution",
+    "title": "Neandertais, DNA e adaptação ao frio",
+    "target_id": "neanderthal-life",
+    "duration_min": 12,
+    "interaction": "map + image + food-web or evidence-card",
+    "reflection": "O que é evidência direta e o que é inferência?"
+  },
+  {
+    "day": 259,
+    "type": "ecosystem",
+    "title": "Monte uma teia alimentar do Pleistoceno",
+    "target_id": "pleistocene-south-america-pampas",
+    "duration_min": 7,
+    "interaction": "map + image + food-web or evidence-card",
+    "reflection": "O que é evidência direta e o que é inferência?"
+  },
+  {
+    "day": 260,
+    "type": "fauna",
+    "title": "Smilodon: como ler dentes e ossos para inferir dieta?",
+    "target_id": "smilodon-populator",
+    "duration_min": 7,
+    "interaction": "map + image + food-web or evidence-card",
+    "reflection": "O que é evidência direta e o que é inferência?"
+  },
+  {
+    "day": 261,
+    "type": "humans",
+    "title": "Como o fogo mudou a alimentação e a vida social?",
+    "target_id": "fire-and-cooking",
+    "duration_min": 12,
+    "interaction": "map + image + food-web or evidence-card",
+    "reflection": "O que é evidência direta e o que é inferência?"
+  },
+  {
+    "day": 262,
+    "type": "fauna",
+    "title": "Mammute e a estepe-tundra: o que um molar pode revelar?",
+    "target_id": "mammuthus-primigenius",
+    "duration_min": 7,
+    "interaction": "map + image + food-web or evidence-card",
+    "reflection": "O que é evidência direta e o que é inferência?"
+  },
+  {
+    "day": 263,
+    "type": "archaeology",
+    "title": "Como marcas de corte revelam o uso de carcaças?",
+    "target_id": "hunting-and-risk",
+    "duration_min": 7,
+    "interaction": "map + image + food-web or evidence-card",
+    "reflection": "O que é evidência direta e o que é inferência?"
+  },
+  {
+    "day": 264,
+    "type": "brazil",
+    "title": "O que a megafauna sul-americana conta sobre o Pleistoceno?",
+    "target_id": "pleistocene-south-america",
+    "duration_min": 12,
+    "interaction": "map + image + food-web or evidence-card",
+    "reflection": "O que é evidência direta e o que é inferência?"
+  },
+  {
+    "day": 265,
+    "type": "evolution",
+    "title": "Neandertais, DNA e adaptação ao frio",
+    "target_id": "neanderthal-life",
+    "duration_min": 7,
+    "interaction": "map + image + food-web or evidence-card",
+    "reflection": "O que é evidência direta e o que é inferência?"
+  },
+  {
+    "day": 266,
+    "type": "ecosystem",
+    "title": "Monte uma teia alimentar do Pleistoceno",
+    "target_id": "pleistocene-south-america-pampas",
+    "duration_min": 7,
+    "interaction": "map + image + food-web or evidence-card",
+    "reflection": "O que é evidência direta e o que é inferência?"
+  },
+  {
+    "day": 267,
+    "type": "fauna",
+    "title": "Smilodon: como ler dentes e ossos para inferir dieta?",
+    "target_id": "smilodon-populator",
+    "duration_min": 12,
+    "interaction": "map + image + food-web or evidence-card",
+    "reflection": "O que é evidência direta e o que é inferência?"
+  },
+  {
+    "day": 268,
+    "type": "humans",
+    "title": "Como o fogo mudou a alimentação e a vida social?",
+    "target_id": "fire-and-cooking",
+    "duration_min": 7,
+    "interaction": "map + image + food-web or evidence-card",
+    "reflection": "O que é evidência direta e o que é inferência?"
+  },
+  {
+    "day": 269,
+    "type": "fauna",
+    "title": "Mammute e a estepe-tundra: o que um molar pode revelar?",
+    "target_id": "mammuthus-primigenius",
+    "duration_min": 7,
+    "interaction": "map + image + food-web or evidence-card",
+    "reflection": "O que é evidência direta e o que é inferência?"
+  },
+  {
+    "day": 270,
+    "type": "archaeology",
+    "title": "Como marcas de corte revelam o uso de carcaças?",
+    "target_id": "hunting-and-risk",
+    "duration_min": 12,
+    "interaction": "map + image + food-web or evidence-card",
+    "reflection": "O que é evidência direta e o que é inferência?"
+  },
+  {
+    "day": 271,
+    "type": "brazil",
+    "title": "O que a megafauna sul-americana conta sobre o Pleistoceno?",
+    "target_id": "pleistocene-south-america",
+    "duration_min": 7,
+    "interaction": "map + image + food-web or evidence-card",
+    "reflection": "O que é evidência direta e o que é inferência?"
+  },
+  {
+    "day": 272,
+    "type": "evolution",
+    "title": "Neandertais, DNA e adaptação ao frio",
+    "target_id": "neanderthal-life",
+    "duration_min": 7,
+    "interaction": "map + image + food-web or evidence-card",
+    "reflection": "O que é evidência direta e o que é inferência?"
+  },
+  {
+    "day": 273,
+    "type": "ecosystem",
+    "title": "Monte uma teia alimentar do Pleistoceno",
+    "target_id": "pleistocene-south-america-pampas",
+    "duration_min": 12,
+    "interaction": "map + image + food-web or evidence-card",
+    "reflection": "O que é evidência direta e o que é inferência?"
+  },
+  {
+    "day": 274,
+    "type": "fauna",
+    "title": "Smilodon: como ler dentes e ossos para inferir dieta?",
+    "target_id": "smilodon-populator",
+    "duration_min": 7,
+    "interaction": "map + image + food-web or evidence-card",
+    "reflection": "O que é evidência direta e o que é inferência?"
+  },
+  {
+    "day": 275,
+    "type": "humans",
+    "title": "Como o fogo mudou a alimentação e a vida social?",
+    "target_id": "fire-and-cooking",
+    "duration_min": 7,
+    "interaction": "map + image + food-web or evidence-card",
+    "reflection": "O que é evidência direta e o que é inferência?"
+  },
+  {
+    "day": 276,
+    "type": "fauna",
+    "title": "Mammute e a estepe-tundra: o que um molar pode revelar?",
+    "target_id": "mammuthus-primigenius",
+    "duration_min": 12,
+    "interaction": "map + image + food-web or evidence-card",
+    "reflection": "O que é evidência direta e o que é inferência?"
+  },
+  {
+    "day": 277,
+    "type": "archaeology",
+    "title": "Como marcas de corte revelam o uso de carcaças?",
+    "target_id": "hunting-and-risk",
+    "duration_min": 7,
+    "interaction": "map + image + food-web or evidence-card",
+    "reflection": "O que é evidência direta e o que é inferência?"
+  },
+  {
+    "day": 278,
+    "type": "brazil",
+    "title": "O que a megafauna sul-americana conta sobre o Pleistoceno?",
+    "target_id": "pleistocene-south-america",
+    "duration_min": 7,
+    "interaction": "map + image + food-web or evidence-card",
+    "reflection": "O que é evidência direta e o que é inferência?"
+  },
+  {
+    "day": 279,
+    "type": "evolution",
+    "title": "Neandertais, DNA e adaptação ao frio",
+    "target_id": "neanderthal-life",
+    "duration_min": 12,
+    "interaction": "map + image + food-web or evidence-card",
+    "reflection": "O que é evidência direta e o que é inferência?"
+  },
+  {
+    "day": 280,
+    "type": "ecosystem",
+    "title": "Monte uma teia alimentar do Pleistoceno",
+    "target_id": "pleistocene-south-america-pampas",
+    "duration_min": 7,
+    "interaction": "map + image + food-web or evidence-card",
+    "reflection": "O que é evidência direta e o que é inferência?"
+  },
+  {
+    "day": 281,
+    "type": "fauna",
+    "title": "Smilodon: como ler dentes e ossos para inferir dieta?",
+    "target_id": "smilodon-populator",
+    "duration_min": 7,
+    "interaction": "map + image + food-web or evidence-card",
+    "reflection": "O que é evidência direta e o que é inferência?"
+  },
+  {
+    "day": 282,
+    "type": "humans",
+    "title": "Como o fogo mudou a alimentação e a vida social?",
+    "target_id": "fire-and-cooking",
+    "duration_min": 12,
+    "interaction": "map + image + food-web or evidence-card",
+    "reflection": "O que é evidência direta e o que é inferência?"
+  },
+  {
+    "day": 283,
+    "type": "fauna",
+    "title": "Mammute e a estepe-tundra: o que um molar pode revelar?",
+    "target_id": "mammuthus-primigenius",
+    "duration_min": 7,
+    "interaction": "map + image + food-web or evidence-card",
+    "reflection": "O que é evidência direta e o que é inferência?"
+  },
+  {
+    "day": 284,
+    "type": "archaeology",
+    "title": "Como marcas de corte revelam o uso de carcaças?",
+    "target_id": "hunting-and-risk",
+    "duration_min": 7,
+    "interaction": "map + image + food-web or evidence-card",
+    "reflection": "O que é evidência direta e o que é inferência?"
+  },
+  {
+    "day": 285,
+    "type": "brazil",
+    "title": "O que a megafauna sul-americana conta sobre o Pleistoceno?",
+    "target_id": "pleistocene-south-america",
+    "duration_min": 12,
+    "interaction": "map + image + food-web or evidence-card",
+    "reflection": "O que é evidência direta e o que é inferência?"
+  },
+  {
+    "day": 286,
+    "type": "evolution",
+    "title": "Neandertais, DNA e adaptação ao frio",
+    "target_id": "neanderthal-life",
+    "duration_min": 7,
+    "interaction": "map + image + food-web or evidence-card",
+    "reflection": "O que é evidência direta e o que é inferência?"
+  },
+  {
+    "day": 287,
+    "type": "ecosystem",
+    "title": "Monte uma teia alimentar do Pleistoceno",
+    "target_id": "pleistocene-south-america-pampas",
+    "duration_min": 7,
+    "interaction": "map + image + food-web or evidence-card",
+    "reflection": "O que é evidência direta e o que é inferência?"
+  },
+  {
+    "day": 288,
+    "type": "fauna",
+    "title": "Smilodon: como ler dentes e ossos para inferir dieta?",
+    "target_id": "smilodon-populator",
+    "duration_min": 12,
+    "interaction": "map + image + food-web or evidence-card",
+    "reflection": "O que é evidência direta e o que é inferência?"
+  },
+  {
+    "day": 289,
+    "type": "humans",
+    "title": "Como o fogo mudou a alimentação e a vida social?",
+    "target_id": "fire-and-cooking",
+    "duration_min": 7,
+    "interaction": "map + image + food-web or evidence-card",
+    "reflection": "O que é evidência direta e o que é inferência?"
+  },
+  {
+    "day": 290,
+    "type": "fauna",
+    "title": "Mammute e a estepe-tundra: o que um molar pode revelar?",
+    "target_id": "mammuthus-primigenius",
+    "duration_min": 7,
+    "interaction": "map + image + food-web or evidence-card",
+    "reflection": "O que é evidência direta e o que é inferência?"
+  },
+  {
+    "day": 291,
+    "type": "archaeology",
+    "title": "Como marcas de corte revelam o uso de carcaças?",
+    "target_id": "hunting-and-risk",
+    "duration_min": 12,
+    "interaction": "map + image + food-web or evidence-card",
+    "reflection": "O que é evidência direta e o que é inferência?"
+  },
+  {
+    "day": 292,
+    "type": "brazil",
+    "title": "O que a megafauna sul-americana conta sobre o Pleistoceno?",
+    "target_id": "pleistocene-south-america",
+    "duration_min": 7,
+    "interaction": "map + image + food-web or evidence-card",
+    "reflection": "O que é evidência direta e o que é inferência?"
+  },
+  {
+    "day": 293,
+    "type": "evolution",
+    "title": "Neandertais, DNA e adaptação ao frio",
+    "target_id": "neanderthal-life",
+    "duration_min": 7,
+    "interaction": "map + image + food-web or evidence-card",
+    "reflection": "O que é evidência direta e o que é inferência?"
+  },
+  {
+    "day": 294,
+    "type": "ecosystem",
+    "title": "Monte uma teia alimentar do Pleistoceno",
+    "target_id": "pleistocene-south-america-pampas",
+    "duration_min": 12,
+    "interaction": "map + image + food-web or evidence-card",
+    "reflection": "O que é evidência direta e o que é inferência?"
+  },
+  {
+    "day": 295,
+    "type": "fauna",
+    "title": "Smilodon: como ler dentes e ossos para inferir dieta?",
+    "target_id": "smilodon-populator",
+    "duration_min": 7,
+    "interaction": "map + image + food-web or evidence-card",
+    "reflection": "O que é evidência direta e o que é inferência?"
+  },
+  {
+    "day": 296,
+    "type": "humans",
+    "title": "Como o fogo mudou a alimentação e a vida social?",
+    "target_id": "fire-and-cooking",
+    "duration_min": 7,
+    "interaction": "map + image + food-web or evidence-card",
+    "reflection": "O que é evidência direta e o que é inferência?"
+  },
+  {
+    "day": 297,
+    "type": "fauna",
+    "title": "Mammute e a estepe-tundra: o que um molar pode revelar?",
+    "target_id": "mammuthus-primigenius",
+    "duration_min": 12,
+    "interaction": "map + image + food-web or evidence-card",
+    "reflection": "O que é evidência direta e o que é inferência?"
+  },
+  {
+    "day": 298,
+    "type": "archaeology",
+    "title": "Como marcas de corte revelam o uso de carcaças?",
+    "target_id": "hunting-and-risk",
+    "duration_min": 7,
+    "interaction": "map + image + food-web or evidence-card",
+    "reflection": "O que é evidência direta e o que é inferência?"
+  },
+  {
+    "day": 299,
+    "type": "brazil",
+    "title": "O que a megafauna sul-americana conta sobre o Pleistoceno?",
+    "target_id": "pleistocene-south-america",
+    "duration_min": 7,
+    "interaction": "map + image + food-web or evidence-card",
+    "reflection": "O que é evidência direta e o que é inferência?"
+  },
+  {
+    "day": 300,
+    "type": "evolution",
+    "title": "Neandertais, DNA e adaptação ao frio",
+    "target_id": "neanderthal-life",
+    "duration_min": 12,
+    "interaction": "map + image + food-web or evidence-card",
+    "reflection": "O que é evidência direta e o que é inferência?"
+  },
+  {
+    "day": 301,
+    "type": "ecosystem",
+    "title": "Monte uma teia alimentar do Pleistoceno",
+    "target_id": "pleistocene-south-america-pampas",
+    "duration_min": 7,
+    "interaction": "map + image + food-web or evidence-card",
+    "reflection": "O que é evidência direta e o que é inferência?"
+  },
+  {
+    "day": 302,
+    "type": "fauna",
+    "title": "Smilodon: como ler dentes e ossos para inferir dieta?",
+    "target_id": "smilodon-populator",
+    "duration_min": 7,
+    "interaction": "map + image + food-web or evidence-card",
+    "reflection": "O que é evidência direta e o que é inferência?"
+  },
+  {
+    "day": 303,
+    "type": "humans",
+    "title": "Como o fogo mudou a alimentação e a vida social?",
+    "target_id": "fire-and-cooking",
+    "duration_min": 12,
+    "interaction": "map + image + food-web or evidence-card",
+    "reflection": "O que é evidência direta e o que é inferência?"
+  },
+  {
+    "day": 304,
+    "type": "fauna",
+    "title": "Mammute e a estepe-tundra: o que um molar pode revelar?",
+    "target_id": "mammuthus-primigenius",
+    "duration_min": 7,
+    "interaction": "map + image + food-web or evidence-card",
+    "reflection": "O que é evidência direta e o que é inferência?"
+  },
+  {
+    "day": 305,
+    "type": "archaeology",
+    "title": "Como marcas de corte revelam o uso de carcaças?",
+    "target_id": "hunting-and-risk",
+    "duration_min": 7,
+    "interaction": "map + image + food-web or evidence-card",
+    "reflection": "O que é evidência direta e o que é inferência?"
+  },
+  {
+    "day": 306,
+    "type": "brazil",
+    "title": "O que a megafauna sul-americana conta sobre o Pleistoceno?",
+    "target_id": "pleistocene-south-america",
+    "duration_min": 12,
+    "interaction": "map + image + food-web or evidence-card",
+    "reflection": "O que é evidência direta e o que é inferência?"
+  },
+  {
+    "day": 307,
+    "type": "evolution",
+    "title": "Neandertais, DNA e adaptação ao frio",
+    "target_id": "neanderthal-life",
+    "duration_min": 7,
+    "interaction": "map + image + food-web or evidence-card",
+    "reflection": "O que é evidência direta e o que é inferência?"
+  },
+  {
+    "day": 308,
+    "type": "ecosystem",
+    "title": "Monte uma teia alimentar do Pleistoceno",
+    "target_id": "pleistocene-south-america-pampas",
+    "duration_min": 7,
+    "interaction": "map + image + food-web or evidence-card",
+    "reflection": "O que é evidência direta e o que é inferência?"
+  },
+  {
+    "day": 309,
+    "type": "fauna",
+    "title": "Smilodon: como ler dentes e ossos para inferir dieta?",
+    "target_id": "smilodon-populator",
+    "duration_min": 12,
+    "interaction": "map + image + food-web or evidence-card",
+    "reflection": "O que é evidência direta e o que é inferência?"
+  },
+  {
+    "day": 310,
+    "type": "humans",
+    "title": "Como o fogo mudou a alimentação e a vida social?",
+    "target_id": "fire-and-cooking",
+    "duration_min": 7,
+    "interaction": "map + image + food-web or evidence-card",
+    "reflection": "O que é evidência direta e o que é inferência?"
+  },
+  {
+    "day": 311,
+    "type": "fauna",
+    "title": "Mammute e a estepe-tundra: o que um molar pode revelar?",
+    "target_id": "mammuthus-primigenius",
+    "duration_min": 7,
+    "interaction": "map + image + food-web or evidence-card",
+    "reflection": "O que é evidência direta e o que é inferência?"
+  },
+  {
+    "day": 312,
+    "type": "archaeology",
+    "title": "Como marcas de corte revelam o uso de carcaças?",
+    "target_id": "hunting-and-risk",
+    "duration_min": 12,
+    "interaction": "map + image + food-web or evidence-card",
+    "reflection": "O que é evidência direta e o que é inferência?"
+  },
+  {
+    "day": 313,
+    "type": "brazil",
+    "title": "O que a megafauna sul-americana conta sobre o Pleistoceno?",
+    "target_id": "pleistocene-south-america",
+    "duration_min": 7,
+    "interaction": "map + image + food-web or evidence-card",
+    "reflection": "O que é evidência direta e o que é inferência?"
+  },
+  {
+    "day": 314,
+    "type": "evolution",
+    "title": "Neandertais, DNA e adaptação ao frio",
+    "target_id": "neanderthal-life",
+    "duration_min": 7,
+    "interaction": "map + image + food-web or evidence-card",
+    "reflection": "O que é evidência direta e o que é inferência?"
+  },
+  {
+    "day": 315,
+    "type": "ecosystem",
+    "title": "Monte uma teia alimentar do Pleistoceno",
+    "target_id": "pleistocene-south-america-pampas",
+    "duration_min": 12,
+    "interaction": "map + image + food-web or evidence-card",
+    "reflection": "O que é evidência direta e o que é inferência?"
+  },
+  {
+    "day": 316,
+    "type": "fauna",
+    "title": "Smilodon: como ler dentes e ossos para inferir dieta?",
+    "target_id": "smilodon-populator",
+    "duration_min": 7,
+    "interaction": "map + image + food-web or evidence-card",
+    "reflection": "O que é evidência direta e o que é inferência?"
+  },
+  {
+    "day": 317,
+    "type": "humans",
+    "title": "Como o fogo mudou a alimentação e a vida social?",
+    "target_id": "fire-and-cooking",
+    "duration_min": 7,
+    "interaction": "map + image + food-web or evidence-card",
+    "reflection": "O que é evidência direta e o que é inferência?"
+  },
+  {
+    "day": 318,
+    "type": "fauna",
+    "title": "Mammute e a estepe-tundra: o que um molar pode revelar?",
+    "target_id": "mammuthus-primigenius",
+    "duration_min": 12,
+    "interaction": "map + image + food-web or evidence-card",
+    "reflection": "O que é evidência direta e o que é inferência?"
+  },
+  {
+    "day": 319,
+    "type": "archaeology",
+    "title": "Como marcas de corte revelam o uso de carcaças?",
+    "target_id": "hunting-and-risk",
+    "duration_min": 7,
+    "interaction": "map + image + food-web or evidence-card",
+    "reflection": "O que é evidência direta e o que é inferência?"
+  },
+  {
+    "day": 320,
+    "type": "brazil",
+    "title": "O que a megafauna sul-americana conta sobre o Pleistoceno?",
+    "target_id": "pleistocene-south-america",
+    "duration_min": 7,
+    "interaction": "map + image + food-web or evidence-card",
+    "reflection": "O que é evidência direta e o que é inferência?"
+  },
+  {
+    "day": 321,
+    "type": "evolution",
+    "title": "Neandertais, DNA e adaptação ao frio",
+    "target_id": "neanderthal-life",
+    "duration_min": 12,
+    "interaction": "map + image + food-web or evidence-card",
+    "reflection": "O que é evidência direta e o que é inferência?"
+  },
+  {
+    "day": 322,
+    "type": "ecosystem",
+    "title": "Monte uma teia alimentar do Pleistoceno",
+    "target_id": "pleistocene-south-america-pampas",
+    "duration_min": 7,
+    "interaction": "map + image + food-web or evidence-card",
+    "reflection": "O que é evidência direta e o que é inferência?"
+  },
+  {
+    "day": 323,
+    "type": "fauna",
+    "title": "Smilodon: como ler dentes e ossos para inferir dieta?",
+    "target_id": "smilodon-populator",
+    "duration_min": 7,
+    "interaction": "map + image + food-web or evidence-card",
+    "reflection": "O que é evidência direta e o que é inferência?"
+  },
+  {
+    "day": 324,
+    "type": "humans",
+    "title": "Como o fogo mudou a alimentação e a vida social?",
+    "target_id": "fire-and-cooking",
+    "duration_min": 12,
+    "interaction": "map + image + food-web or evidence-card",
+    "reflection": "O que é evidência direta e o que é inferência?"
+  },
+  {
+    "day": 325,
+    "type": "fauna",
+    "title": "Mammute e a estepe-tundra: o que um molar pode revelar?",
+    "target_id": "mammuthus-primigenius",
+    "duration_min": 7,
+    "interaction": "map + image + food-web or evidence-card",
+    "reflection": "O que é evidência direta e o que é inferência?"
+  },
+  {
+    "day": 326,
+    "type": "archaeology",
+    "title": "Como marcas de corte revelam o uso de carcaças?",
+    "target_id": "hunting-and-risk",
+    "duration_min": 7,
+    "interaction": "map + image + food-web or evidence-card",
+    "reflection": "O que é evidência direta e o que é inferência?"
+  },
+  {
+    "day": 327,
+    "type": "brazil",
+    "title": "O que a megafauna sul-americana conta sobre o Pleistoceno?",
+    "target_id": "pleistocene-south-america",
+    "duration_min": 12,
+    "interaction": "map + image + food-web or evidence-card",
+    "reflection": "O que é evidência direta e o que é inferência?"
+  },
+  {
+    "day": 328,
+    "type": "evolution",
+    "title": "Neandertais, DNA e adaptação ao frio",
+    "target_id": "neanderthal-life",
+    "duration_min": 7,
+    "interaction": "map + image + food-web or evidence-card",
+    "reflection": "O que é evidência direta e o que é inferência?"
+  },
+  {
+    "day": 329,
+    "type": "ecosystem",
+    "title": "Monte uma teia alimentar do Pleistoceno",
+    "target_id": "pleistocene-south-america-pampas",
+    "duration_min": 7,
+    "interaction": "map + image + food-web or evidence-card",
+    "reflection": "O que é evidência direta e o que é inferência?"
+  },
+  {
+    "day": 330,
+    "type": "fauna",
+    "title": "Smilodon: como ler dentes e ossos para inferir dieta?",
+    "target_id": "smilodon-populator",
+    "duration_min": 12,
+    "interaction": "map + image + food-web or evidence-card",
+    "reflection": "O que é evidência direta e o que é inferência?"
+  },
+  {
+    "day": 331,
+    "type": "humans",
+    "title": "Como o fogo mudou a alimentação e a vida social?",
+    "target_id": "fire-and-cooking",
+    "duration_min": 7,
+    "interaction": "map + image + food-web or evidence-card",
+    "reflection": "O que é evidência direta e o que é inferência?"
+  },
+  {
+    "day": 332,
+    "type": "fauna",
+    "title": "Mammute e a estepe-tundra: o que um molar pode revelar?",
+    "target_id": "mammuthus-primigenius",
+    "duration_min": 7,
+    "interaction": "map + image + food-web or evidence-card",
+    "reflection": "O que é evidência direta e o que é inferência?"
+  },
+  {
+    "day": 333,
+    "type": "archaeology",
+    "title": "Como marcas de corte revelam o uso de carcaças?",
+    "target_id": "hunting-and-risk",
+    "duration_min": 12,
+    "interaction": "map + image + food-web or evidence-card",
+    "reflection": "O que é evidência direta e o que é inferência?"
+  },
+  {
+    "day": 334,
+    "type": "brazil",
+    "title": "O que a megafauna sul-americana conta sobre o Pleistoceno?",
+    "target_id": "pleistocene-south-america",
+    "duration_min": 7,
+    "interaction": "map + image + food-web or evidence-card",
+    "reflection": "O que é evidência direta e o que é inferência?"
+  },
+  {
+    "day": 335,
+    "type": "evolution",
+    "title": "Neandertais, DNA e adaptação ao frio",
+    "target_id": "neanderthal-life",
+    "duration_min": 7,
+    "interaction": "map + image + food-web or evidence-card",
+    "reflection": "O que é evidência direta e o que é inferência?"
+  },
+  {
+    "day": 336,
+    "type": "ecosystem",
+    "title": "Monte uma teia alimentar do Pleistoceno",
+    "target_id": "pleistocene-south-america-pampas",
+    "duration_min": 12,
+    "interaction": "map + image + food-web or evidence-card",
+    "reflection": "O que é evidência direta e o que é inferência?"
+  },
+  {
+    "day": 337,
+    "type": "fauna",
+    "title": "Smilodon: como ler dentes e ossos para inferir dieta?",
+    "target_id": "smilodon-populator",
+    "duration_min": 7,
+    "interaction": "map + image + food-web or evidence-card",
+    "reflection": "O que é evidência direta e o que é inferência?"
+  },
+  {
+    "day": 338,
+    "type": "humans",
+    "title": "Como o fogo mudou a alimentação e a vida social?",
+    "target_id": "fire-and-cooking",
+    "duration_min": 7,
+    "interaction": "map + image + food-web or evidence-card",
+    "reflection": "O que é evidência direta e o que é inferência?"
+  },
+  {
+    "day": 339,
+    "type": "fauna",
+    "title": "Mammute e a estepe-tundra: o que um molar pode revelar?",
+    "target_id": "mammuthus-primigenius",
+    "duration_min": 12,
+    "interaction": "map + image + food-web or evidence-card",
+    "reflection": "O que é evidência direta e o que é inferência?"
+  },
+  {
+    "day": 340,
+    "type": "archaeology",
+    "title": "Como marcas de corte revelam o uso de carcaças?",
+    "target_id": "hunting-and-risk",
+    "duration_min": 7,
+    "interaction": "map + image + food-web or evidence-card",
+    "reflection": "O que é evidência direta e o que é inferência?"
+  },
+  {
+    "day": 341,
+    "type": "brazil",
+    "title": "O que a megafauna sul-americana conta sobre o Pleistoceno?",
+    "target_id": "pleistocene-south-america",
+    "duration_min": 7,
+    "interaction": "map + image + food-web or evidence-card",
+    "reflection": "O que é evidência direta e o que é inferência?"
+  },
+  {
+    "day": 342,
+    "type": "evolution",
+    "title": "Neandertais, DNA e adaptação ao frio",
+    "target_id": "neanderthal-life",
+    "duration_min": 12,
+    "interaction": "map + image + food-web or evidence-card",
+    "reflection": "O que é evidência direta e o que é inferência?"
+  },
+  {
+    "day": 343,
+    "type": "ecosystem",
+    "title": "Monte uma teia alimentar do Pleistoceno",
+    "target_id": "pleistocene-south-america-pampas",
+    "duration_min": 7,
+    "interaction": "map + image + food-web or evidence-card",
+    "reflection": "O que é evidência direta e o que é inferência?"
+  },
+  {
+    "day": 344,
+    "type": "fauna",
+    "title": "Smilodon: como ler dentes e ossos para inferir dieta?",
+    "target_id": "smilodon-populator",
+    "duration_min": 7,
+    "interaction": "map + image + food-web or evidence-card",
+    "reflection": "O que é evidência direta e o que é inferência?"
+  },
+  {
+    "day": 345,
+    "type": "humans",
+    "title": "Como o fogo mudou a alimentação e a vida social?",
+    "target_id": "fire-and-cooking",
+    "duration_min": 12,
+    "interaction": "map + image + food-web or evidence-card",
+    "reflection": "O que é evidência direta e o que é inferência?"
+  },
+  {
+    "day": 346,
+    "type": "fauna",
+    "title": "Mammute e a estepe-tundra: o que um molar pode revelar?",
+    "target_id": "mammuthus-primigenius",
+    "duration_min": 7,
+    "interaction": "map + image + food-web or evidence-card",
+    "reflection": "O que é evidência direta e o que é inferência?"
+  },
+  {
+    "day": 347,
+    "type": "archaeology",
+    "title": "Como marcas de corte revelam o uso de carcaças?",
+    "target_id": "hunting-and-risk",
+    "duration_min": 7,
+    "interaction": "map + image + food-web or evidence-card",
+    "reflection": "O que é evidência direta e o que é inferência?"
+  },
+  {
+    "day": 348,
+    "type": "brazil",
+    "title": "O que a megafauna sul-americana conta sobre o Pleistoceno?",
+    "target_id": "pleistocene-south-america",
+    "duration_min": 12,
+    "interaction": "map + image + food-web or evidence-card",
+    "reflection": "O que é evidência direta e o que é inferência?"
+  },
+  {
+    "day": 349,
+    "type": "evolution",
+    "title": "Neandertais, DNA e adaptação ao frio",
+    "target_id": "neanderthal-life",
+    "duration_min": 7,
+    "interaction": "map + image + food-web or evidence-card",
+    "reflection": "O que é evidência direta e o que é inferência?"
+  },
+  {
+    "day": 350,
+    "type": "ecosystem",
+    "title": "Monte uma teia alimentar do Pleistoceno",
+    "target_id": "pleistocene-south-america-pampas",
+    "duration_min": 7,
+    "interaction": "map + image + food-web or evidence-card",
+    "reflection": "O que é evidência direta e o que é inferência?"
+  },
+  {
+    "day": 351,
+    "type": "fauna",
+    "title": "Smilodon: como ler dentes e ossos para inferir dieta?",
+    "target_id": "smilodon-populator",
+    "duration_min": 12,
+    "interaction": "map + image + food-web or evidence-card",
+    "reflection": "O que é evidência direta e o que é inferência?"
+  },
+  {
+    "day": 352,
+    "type": "humans",
+    "title": "Como o fogo mudou a alimentação e a vida social?",
+    "target_id": "fire-and-cooking",
+    "duration_min": 7,
+    "interaction": "map + image + food-web or evidence-card",
+    "reflection": "O que é evidência direta e o que é inferência?"
+  },
+  {
+    "day": 353,
+    "type": "fauna",
+    "title": "Mammute e a estepe-tundra: o que um molar pode revelar?",
+    "target_id": "mammuthus-primigenius",
+    "duration_min": 7,
+    "interaction": "map + image + food-web or evidence-card",
+    "reflection": "O que é evidência direta e o que é inferência?"
+  },
+  {
+    "day": 354,
+    "type": "archaeology",
+    "title": "Como marcas de corte revelam o uso de carcaças?",
+    "target_id": "hunting-and-risk",
+    "duration_min": 12,
+    "interaction": "map + image + food-web or evidence-card",
+    "reflection": "O que é evidência direta e o que é inferência?"
+  },
+  {
+    "day": 355,
+    "type": "brazil",
+    "title": "O que a megafauna sul-americana conta sobre o Pleistoceno?",
+    "target_id": "pleistocene-south-america",
+    "duration_min": 7,
+    "interaction": "map + image + food-web or evidence-card",
+    "reflection": "O que é evidência direta e o que é inferência?"
+  },
+  {
+    "day": 356,
+    "type": "evolution",
+    "title": "Neandertais, DNA e adaptação ao frio",
+    "target_id": "neanderthal-life",
+    "duration_min": 7,
+    "interaction": "map + image + food-web or evidence-card",
+    "reflection": "O que é evidência direta e o que é inferência?"
+  },
+  {
+    "day": 357,
+    "type": "ecosystem",
+    "title": "Monte uma teia alimentar do Pleistoceno",
+    "target_id": "pleistocene-south-america-pampas",
+    "duration_min": 12,
+    "interaction": "map + image + food-web or evidence-card",
+    "reflection": "O que é evidência direta e o que é inferência?"
+  },
+  {
+    "day": 358,
+    "type": "fauna",
+    "title": "Smilodon: como ler dentes e ossos para inferir dieta?",
+    "target_id": "smilodon-populator",
+    "duration_min": 7,
+    "interaction": "map + image + food-web or evidence-card",
+    "reflection": "O que é evidência direta e o que é inferência?"
+  },
+  {
+    "day": 359,
+    "type": "humans",
+    "title": "Como o fogo mudou a alimentação e a vida social?",
+    "target_id": "fire-and-cooking",
+    "duration_min": 7,
+    "interaction": "map + image + food-web or evidence-card",
+    "reflection": "O que é evidência direta e o que é inferência?"
+  },
+  {
+    "day": 360,
+    "type": "fauna",
+    "title": "Mammute e a estepe-tundra: o que um molar pode revelar?",
+    "target_id": "mammuthus-primigenius",
+    "duration_min": 12,
+    "interaction": "map + image + food-web or evidence-card",
+    "reflection": "O que é evidência direta e o que é inferência?"
+  },
+  {
+    "day": 361,
+    "type": "archaeology",
+    "title": "Como marcas de corte revelam o uso de carcaças?",
+    "target_id": "hunting-and-risk",
+    "duration_min": 7,
+    "interaction": "map + image + food-web or evidence-card",
+    "reflection": "O que é evidência direta e o que é inferência?"
+  },
+  {
+    "day": 362,
+    "type": "brazil",
+    "title": "O que a megafauna sul-americana conta sobre o Pleistoceno?",
+    "target_id": "pleistocene-south-america",
+    "duration_min": 7,
+    "interaction": "map + image + food-web or evidence-card",
+    "reflection": "O que é evidência direta e o que é inferência?"
+  },
+  {
+    "day": 363,
+    "type": "evolution",
+    "title": "Neandertais, DNA e adaptação ao frio",
+    "target_id": "neanderthal-life",
+    "duration_min": 12,
+    "interaction": "map + image + food-web or evidence-card",
+    "reflection": "O que é evidência direta e o que é inferência?"
+  },
+  {
+    "day": 364,
+    "type": "ecosystem",
+    "title": "Monte uma teia alimentar do Pleistoceno",
+    "target_id": "pleistocene-south-america-pampas",
+    "duration_min": 7,
+    "interaction": "map + image + food-web or evidence-card",
+    "reflection": "O que é evidência direta e o que é inferência?"
+  },
+  {
+    "day": 365,
+    "type": "fauna",
+    "title": "Smilodon: como ler dentes e ossos para inferir dieta?",
+    "target_id": "smilodon-populator",
+    "duration_min": 7,
+    "interaction": "map + image + food-web or evidence-card",
+    "reflection": "O que é evidência direta e o que é inferência?"
+  }
+]

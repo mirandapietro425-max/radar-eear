@@ -1,0 +1,50 @@
+[
+  {
+    "id": "media_newton_commons_1689",
+    "person_id": "newton",
+    "title_pt": "Retrato de Isaac Newton, 1689",
+    "provider": "Wikimedia Commons",
+    "page_url": "https://commons.wikimedia.org/wiki/File:Portrait_of_Sir_Isaac_Newton,_1689.jpg",
+    "license_status": "domínio público indicado na página; verificar jurisdição antes de distribuição",
+    "use": "perfil Newton",
+    "alt_pt": "Retrato histórico de Isaac Newton"
+  },
+  {
+    "id": "media_newton_cervantes",
+    "person_id": "newton",
+    "title_pt": "Retrato de Isaac Newton por Godfrey Kneller",
+    "provider": "Biblioteca Virtual Miguel de Cervantes",
+    "page_url": "https://www.cervantesvirtual.com/portales/barroco_y_neoclasicismo_la_literatura_hispanica_novatores/cronologia/",
+    "image_url": "https://www.cervantesvirtual.com/images/portales/barroco_y_neoclasicismo_la_literatura_hispanica_novatores/graf/cronologia/1651-isaac_newton_por_godfrey_kneller_fisico_autor_de_la_ley_de_la_gravitacion_universal_bases_de_la_mecanica_clasica_l.jpg",
+    "license_status": "verificar termos da instituição",
+    "use": "hero de linha do tempo",
+    "alt_pt": "Retrato de Isaac Newton em pintura a óleo"
+  },
+  {
+    "id": "media_enoch_aramaic_langlois",
+    "title_pt": "Fragmento aramaico relacionado a 1 Enoque",
+    "provider": "Michael Langlois",
+    "page_url": "https://michaellanglois.org/publications/an-unpublished-aramaic-manuscript-of-the-book-of-enoch_un-manuscrit-arameen-inedit-du-livre-dhenoch/",
+    "license_status": "uso por link/fonte até verificação",
+    "use": "apócrifos",
+    "alt_pt": "Fragmento manuscrito em aramaico"
+  },
+  {
+    "id": "media_mlp_exhibit",
+    "title_pt": "Exposição do Museu da Língua Portuguesa",
+    "provider": "Museu da Língua Portuguesa / notícia de cobertura",
+    "page_url": "https://acervo.museudalinguaportuguesa.org.br/exposicoes",
+    "license_status": "usar asset do próprio acervo quando permitido; caso contrário apenas link",
+    "use": "Português",
+    "alt_pt": "Exposição sobre a história da língua portuguesa"
+  },
+  {
+    "id": "media_smithsonian_adaptations",
+    "title_pt": "Adaptações animais — Smithsonian",
+    "provider": "Smithsonian National Museum of Natural History",
+    "page_url": "https://naturalhistory.si.edu/education/teaching-resources/life-science/explore-animal-adaptations",
+    "license_status": "usar mídias conforme crédito e termos do asset específico",
+    "use": "Biologia/ecologia",
+    "alt_pt": "Animais e adaptações ao ambiente"
+  }
+]

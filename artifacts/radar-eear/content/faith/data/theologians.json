@@ -1,0 +1,276 @@
+{
+  "theologians": [
+    {
+      "id": "clement-rome",
+      "name": "Clemente de Roma",
+      "dates": "séc. I",
+      "tradition": "Padres Apostólicos",
+      "themes": "ordem; unidade; liderança",
+      "overview": "Carta aos Coríntios e testemunho da vida da igreja antiga."
+    },
+    {
+      "id": "ignatius",
+      "name": "Inácio de Antioquia",
+      "dates": "c. 35–108",
+      "tradition": "Padres Apostólicos",
+      "themes": "igreja; encarnação; eucaristia",
+      "overview": "Cartas às igrejas e ênfase na unidade e identidade cristã."
+    },
+    {
+      "id": "polycarp",
+      "name": "Policarpo de Esmirna",
+      "dates": "c. 69–155",
+      "tradition": "Padres Apostólicos",
+      "themes": "martírio; tradição",
+      "overview": "Figura de transição entre geração apostólica e igreja do século II."
+    },
+    {
+      "id": "justin",
+      "name": "Justino Mártir",
+      "dates": "c. 100–165",
+      "tradition": "Apologistas",
+      "themes": "logos; fé e filosofia",
+      "overview": "Apologista que dialogou com filosofia grega e cultura romana."
+    },
+    {
+      "id": "irenaeus",
+      "name": "Irineu de Lião",
+      "dates": "c. 130–202",
+      "tradition": "Patrística",
+      "themes": "tradição; recapitulação",
+      "overview": "Defesa da regra de fé e visão de Cristo como recapitulação da humanidade."
+    },
+    {
+      "id": "tertullian",
+      "name": "Tertuliano",
+      "dates": "c. 155–220",
+      "tradition": "Patrística latina",
+      "themes": "doutrina; linguagem trinitária",
+      "overview": "Contribuiu para a linguagem teológica latina e para apologética cristã."
+    },
+    {
+      "id": "origen",
+      "name": "Orígenes",
+      "dates": "c. 185–254",
+      "tradition": "Patrística alexandrina",
+      "themes": "exegese; alegoria; ascese",
+      "overview": "Uma das figuras mais influentes da exegese cristã antiga, com debates posteriores sobre suas proposições."
+    },
+    {
+      "id": "athanasius",
+      "name": "Atanásio de Alexandria",
+      "dates": "c. 296–373",
+      "tradition": "Patrística grega",
+      "themes": "Trindade; cristologia",
+      "overview": "Defesa da divindade do Filho e papel decisivo nas controvérsias nicenas."
+    },
+    {
+      "id": "basil-caesarea",
+      "name": "Basílio de Cesareia",
+      "dates": "c. 329–379",
+      "tradition": "Padres Capadócios",
+      "themes": "Trindade; vida monástica",
+      "overview": "Teólogo e bispo ligado à formulação trinitária e à vida comunitária."
+    },
+    {
+      "id": "gregory-nazianzus",
+      "name": "Gregório de Nazianzo",
+      "dates": "329–390",
+      "tradition": "Padres Capadócios",
+      "themes": "Trindade; cristologia",
+      "overview": "Conhecido por discursos teológicos e formulações sobre a Trindade."
+    },
+    {
+      "id": "gregory-nyssa",
+      "name": "Gregório de Nissa",
+      "dates": "c. 335–395",
+      "tradition": "Padres Capadócios",
+      "themes": "antropologia; espiritualidade",
+      "overview": "Explora crescimento espiritual, linguagem sobre Deus e natureza humana."
+    },
+    {
+      "id": "john-chrysostom",
+      "name": "João Crisóstomo",
+      "dates": "c. 349–407",
+      "tradition": "Patrística grega",
+      "themes": "pregação; ética",
+      "overview": "Pregador e intérprete das Escrituras, com forte ênfase moral e pastoral."
+    },
+    {
+      "id": "ambrose",
+      "name": "Ambrósio de Milão",
+      "dates": "c. 339–397",
+      "tradition": "Patrística latina",
+      "themes": "pastoral; ética",
+      "overview": "Bispo de Milão e influência importante na formação cristã de Agostinho."
+    },
+    {
+      "id": "jerome",
+      "name": "Jerônimo",
+      "dates": "c. 347–420",
+      "tradition": "Patrística latina",
+      "themes": "Bíblia; tradução; ascese",
+      "overview": "Estudioso das línguas bíblicas e tradutor associado à Vulgata latina."
+    },
+    {
+      "id": "augustine-theologian",
+      "name": "Agostinho de Hipona",
+      "dates": "354–430",
+      "tradition": "Patrística latina",
+      "themes": "graça; pecado; vontade; igreja",
+      "overview": "Teólogo cristão e filósofo de enorme influência; articula exegese bíblica, filosofia e doutrina da graça."
+    },
+    {
+      "id": "anselm-theologian",
+      "name": "Anselmo de Cantuária",
+      "dates": "1033–1109",
+      "tradition": "Escolástica",
+      "themes": "fé e razão; expiação",
+      "overview": "Relaciona investigação racional e teologia e formula argumentos influentes sobre Deus e expiação."
+    },
+    {
+      "id": "bernard-clairvaux",
+      "name": "Bernardo de Claraval",
+      "dates": "1090–1153",
+      "tradition": "Teologia monástica",
+      "themes": "mística; amor",
+      "overview": "Escritos espirituais e influência na tradição monástica medieval."
+    },
+    {
+      "id": "aquinas-theologian",
+      "name": "Tomás de Aquino",
+      "dates": "1225–1274",
+      "tradition": "Escolástica",
+      "themes": "Deus; Cristo; virtudes; sacramentos",
+      "overview": "Síntese sistemática de filosofia aristotélica e teologia cristã."
+    },
+    {
+      "id": "bonaventure-theologian",
+      "name": "Boaventura",
+      "dates": "1221–1274",
+      "tradition": "Franciscano",
+      "themes": "teologia; espiritualidade",
+      "overview": "Integra contemplação, metafísica e espiritualidade franciscana."
+    },
+    {
+      "id": "erasmus-theologian",
+      "name": "Erasmo de Roterdã",
+      "dates": "1466–1536",
+      "tradition": "Humanismo cristão",
+      "themes": "educação; crítica textual",
+      "overview": "Defesa de reforma moral e estudo filológico das Escrituras."
+    },
+    {
+      "id": "luther-theologian",
+      "name": "Martinho Lutero",
+      "dates": "1483–1546",
+      "tradition": "Luteranismo",
+      "themes": "justificação; Escritura; graça",
+      "overview": "Teólogo central da Reforma e da tradição luterana."
+    },
+    {
+      "id": "zwingli",
+      "name": "Ulrich Zwingli",
+      "dates": "1484–1531",
+      "tradition": "Reforma suíça",
+      "themes": "Escritura; culto",
+      "overview": "Líder da Reforma em Zurique e formulador de teologia reformada própria."
+    },
+    {
+      "id": "calvin-theologian",
+      "name": "João Calvino",
+      "dates": "1509–1564",
+      "tradition": "Tradição reformada",
+      "themes": "soberania; graça; igreja",
+      "overview": "Formulou uma teologia reformada sistemática e altamente influente."
+    },
+    {
+      "id": "john-owen",
+      "name": "John Owen",
+      "dates": "1616–1683",
+      "tradition": "Puritanismo reformado",
+      "themes": "santificação; Espírito",
+      "overview": "Teólogo puritano conhecido por obras sobre pecado, graça e vida no Espírito."
+    },
+    {
+      "id": "jonathan-edwards",
+      "name": "Jonathan Edwards",
+      "dates": "1703–1758",
+      "tradition": "Reformado",
+      "themes": "afeto; avivamento; teologia",
+      "overview": "Teólogo e pregador colonial norte-americano com reflexão sobre experiência religiosa e afetos."
+    },
+    {
+      "id": "john-wesley",
+      "name": "John Wesley",
+      "dates": "1703–1791",
+      "tradition": "Metodismo",
+      "themes": "santidade; graça; disciplina",
+      "overview": "Fundador do movimento metodista, enfatizando santidade prática e disciplina espiritual."
+    },
+    {
+      "id": "charles-hodge",
+      "name": "Charles Hodge",
+      "dates": "1797–1878",
+      "tradition": "Reformado presbiteriano",
+      "themes": "teologia sistemática; Bíblia",
+      "overview": "Importante sistematizador da tradição reformada norte-americana."
+    },
+    {
+      "id": "spurgeon",
+      "name": "Charles Spurgeon",
+      "dates": "1834–1892",
+      "tradition": "Batista",
+      "themes": "pregação; evangelho",
+      "overview": "Pregador batista associado à centralidade de Cristo e ao ensino bíblico popular."
+    },
+    {
+      "id": "b-b-warfield",
+      "name": "B. B. Warfield",
+      "dates": "1851–1921",
+      "tradition": "Reformado",
+      "themes": "doutrina da Escritura; cristologia",
+      "overview": "Teólogo presbiteriano associado ao Princeton Seminary e à doutrina da inspiração bíblica."
+    },
+    {
+      "id": "karl-barth",
+      "name": "Karl Barth",
+      "dates": "1886–1968",
+      "tradition": "Reformado suíço",
+      "themes": "revelação; Cristo; Palavra",
+      "overview": "Um dos teólogos protestantes mais influentes do século XX, crítico do liberalismo teológico."
+    },
+    {
+      "id": "bonhoeffer",
+      "name": "Dietrich Bonhoeffer",
+      "dates": "1906–1945",
+      "tradition": "Luteranismo",
+      "themes": "discipulado; ética; igreja",
+      "overview": "Teólogo luterano conhecido por textos sobre discipulado, ética e responsabilidade cristã."
+    },
+    {
+      "id": "c-s-lewis-theologian",
+      "name": "C. S. Lewis",
+      "dates": "1898–1963",
+      "tradition": "Apologética cristã",
+      "themes": "apologética; imaginação",
+      "overview": "Autor cristão leigo que articulou fé, razão, moral e imaginação em literatura e ensaios."
+    },
+    {
+      "id": "john-stott",
+      "name": "John Stott",
+      "dates": "1921–2011",
+      "tradition": "Anglicanismo evangélico",
+      "themes": "missão; Bíblia; ética",
+      "overview": "Teólogo e líder evangélico com forte influência na missão global e na teologia bíblica."
+    },
+    {
+      "id": "n-t-wright",
+      "name": "N. T. Wright",
+      "dates": "1948–",
+      "tradition": "Anglicanismo; Novo Testamento",
+      "themes": "Jesus histórico; ressurreição; Paulo",
+      "overview": "Estudioso do Novo Testamento que enfatiza contexto histórico e narrativas do cristianismo primitivo."
+    }
+  ]
+}

@@ -1,0 +1,117 @@
+{
+  "schema_version": "5.1",
+  "language_policy": {
+    "ui": "pt-BR",
+    "source_language_allowed": "qualquer; a ficha do app deve ser em português"
+  },
+  "sources": [
+    {
+      "id": "eear-official-archive",
+      "type": "official-exam-archive",
+      "title": "EEAR — Provas Anteriores",
+      "publisher": "Escola de Especialistas de Aeronáutica / FAB",
+      "url": "https://ingresso.eear.fab.mil.br/SOO/home/provas_anteriores.php?sigla_conc=%25",
+      "language": "pt-BR",
+      "rights_notes": "Fonte oficial para referência e catalogação; cada documento e questão deve manter origem."
+    },
+    {
+      "id": "sesi-rs-literatura",
+      "type": "authorized-public-literature-catalog",
+      "title": "Acervo Literário — SESI-RS",
+      "publisher": "SESI-RS",
+      "url": "https://www.sesirs.org.br/acervo-literario",
+      "language": "pt-BR",
+      "rights_notes": "A própria página informa que reúne obras em domínio público ou autorizadas; verificar obra/arquivo específico antes de redistribuir."
+    },
+    {
+      "id": "project-gutenberg-portuguese",
+      "type": "public-domain-digital-library",
+      "title": "Project Gutenberg — obras em português",
+      "publisher": "Project Gutenberg",
+      "url": "https://www.gutenberg.org/",
+      "language": "pt-BR",
+      "rights_notes": "O status de domínio público é jurisdicional e depende da obra/edição; confirmar a situação local e da tradução."
+    },
+    {
+      "id": "newton-project",
+      "type": "primary-digital-archive",
+      "title": "Newton Project",
+      "publisher": "University of Oxford",
+      "url": "https://www.newtonproject.ox.ac.uk/",
+      "language": "en",
+      "rights_notes": "Fonte primária digital; transcrições e imagens têm regras de reutilização próprias."
+    },
+    {
+      "id": "sep-marx",
+      "type": "academic-reference",
+      "title": "Karl Marx — Stanford Encyclopedia of Philosophy",
+      "publisher": "Stanford University",
+      "url": "https://plato.stanford.edu/entries/marx/",
+      "language": "en",
+      "rights_notes": "Usar como referência acadêmica; resumo autoral em português."
+    },
+    {
+      "id": "sep-weber",
+      "type": "academic-reference",
+      "title": "Max Weber — Stanford Encyclopedia of Philosophy",
+      "publisher": "Stanford University",
+      "url": "https://plato.stanford.edu/entries/weber/",
+      "language": "en",
+      "rights_notes": "Usar como referência acadêmica; resumo autoral em português."
+    },
+    {
+      "id": "sep-plato",
+      "type": "academic-reference",
+      "title": "Plato — Stanford Encyclopedia of Philosophy",
+      "publisher": "Stanford University",
+      "url": "https://plato.stanford.edu/entries/plato/",
+      "language": "en",
+      "rights_notes": "Referência acadêmica; ficha em português."
+    },
+    {
+      "id": "sep-aristotle",
+      "type": "academic-reference",
+      "title": "Aristotle — Stanford Encyclopedia of Philosophy",
+      "publisher": "Stanford University",
+      "url": "https://plato.stanford.edu/entries/aristotle/",
+      "language": "en",
+      "rights_notes": "Referência acadêmica; ficha em português."
+    },
+    {
+      "id": "sep-augustine",
+      "type": "academic-reference",
+      "title": "Augustine — Stanford Encyclopedia of Philosophy",
+      "publisher": "Stanford University",
+      "url": "https://plato.stanford.edu/entries/augustine/",
+      "language": "en",
+      "rights_notes": "Referência acadêmica; ficha em português."
+    },
+    {
+      "id": "sep-aquinas",
+      "type": "academic-reference",
+      "title": "Thomas Aquinas — Stanford Encyclopedia of Philosophy",
+      "publisher": "Stanford University",
+      "url": "https://plato.stanford.edu/entries/aquinas/",
+      "language": "en",
+      "rights_notes": "Referência acadêmica; ficha em português."
+    },
+    {
+      "id": "wikimedia-commons-newton",
+      "type": "media-repository",
+      "title": "Wikimedia Commons — Isaac Newton",
+      "publisher": "Wikimedia Foundation",
+      "url": "https://commons.wikimedia.org/wiki/Isaac_Newton",
+      "language": "multilingual",
+      "rights_notes": "Verificar a licença do arquivo individual."
+    },
+    {
+      "id": "wikimedia-commons-marx",
+      "type": "media-repository",
+      "title": "Wikimedia Commons — Karl Marx",
+      "publisher": "Wikimedia Foundation",
+      "url": "https://commons.wikimedia.org/wiki/Karl_Marx",
+      "language": "multilingual",
+      "rights_notes": "Verificar a licença do arquivo individual."
+    }
+  ]
+}

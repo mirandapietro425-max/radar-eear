@@ -1,0 +1,120 @@
+{
+  "schema_version": "6.0",
+  "language": "pt-BR",
+  "sources": [
+    {
+      "id": "sep-marx",
+      "name": "Stanford Encyclopedia of Philosophy — Karl Marx",
+      "url": "https://plato.stanford.edu/entries/marx/",
+      "use_pt": "Contexto e conceitos de Marx."
+    },
+    {
+      "id": "sep-weber",
+      "name": "Stanford Encyclopedia of Philosophy — Max Weber",
+      "url": "https://plato.stanford.edu/entries/weber/",
+      "use_pt": "Contexto, vida e conceitos de Weber."
+    },
+    {
+      "id": "sep-newton",
+      "name": "Stanford Encyclopedia of Philosophy — Newton",
+      "url": "https://plato.stanford.edu/entries/newton-philosophy/",
+      "use_pt": "Newton e filosofia natural."
+    },
+    {
+      "id": "newton-project",
+      "name": "Newton Project, University of Oxford",
+      "url": "https://www.newtonproject.ox.ac.uk/",
+      "use_pt": "Escritos científicos, matemáticos e religiosos de Newton."
+    },
+    {
+      "id": "smithsonian-animals",
+      "name": "Smithsonian — Animals",
+      "url": "https://naturalhistory.si.edu/explore/animals",
+      "use_pt": "Animais, adaptações e histórias de ciência."
+    },
+    {
+      "id": "smithsonian-ecosystems",
+      "name": "Smithsonian — Animals and Ecosystems",
+      "url": "https://www.si.edu/explore/science/animals-and-environment",
+      "use_pt": "Ecossistemas, biodiversidade e conservação."
+    },
+    {
+      "id": "smithsonian-life",
+      "name": "Smithsonian — Life Science Resources",
+      "url": "https://naturalhistory.si.edu/education/teaching-resources/life-science",
+      "use_pt": "Recursos educativos de biologia."
+    },
+    {
+      "id": "mma-biodiversidade",
+      "name": "Ministério do Meio Ambiente — Biodiversidade e Biomas",
+      "url": "https://www.gov.br/mma/pt-br/assuntos/biodiversidade-e-biomas/biodiversidade",
+      "use_pt": "Biodiversidade e biomas brasileiros."
+    },
+    {
+      "id": "ibama-educacao",
+      "name": "Ibama — Educação Ambiental",
+      "url": "https://www.gov.br/ibama/pt-br/assuntos/educacao-ambiental/educacao-ambiental-no-ibama",
+      "use_pt": "Educação ambiental e conservação."
+    },
+    {
+      "id": "cvm-bolsa",
+      "name": "Portal do Investidor/CVM — Como funciona a bolsa",
+      "url": "https://www.gov.br/investidor/pt-br/investir/como-investir/como-funciona-a-bolsa",
+      "use_pt": "Mercado de bolsa, mercado secundário e funcionamento institucional."
+    },
+    {
+      "id": "cvm-book",
+      "name": "Portal do Investidor/CVM — Ordens e book",
+      "url": "https://www.gov.br/investidor/pt-br/investir/como-investir/como-funciona-a-bolsa/ordens-e-book-de-ofertas",
+      "use_pt": "Tipos de ordens e livro de ofertas."
+    },
+    {
+      "id": "nyse-equities",
+      "name": "NYSE — Equities",
+      "url": "https://www.nyse.com/trade/equities",
+      "use_pt": "Estrutura de mercados, DMMs e leilões."
+    },
+    {
+      "id": "nyse-hours",
+      "name": "NYSE — Trading Information",
+      "url": "https://www.nyse.com/trade/trading-information",
+      "use_pt": "Horários e sessões de negociação; validar em produção, pois podem mudar."
+    },
+    {
+      "id": "nyse-history",
+      "name": "NYSE — History of NYSE",
+      "url": "https://www.nyse.com/history-of-nyse",
+      "use_pt": "História do NYSE e acordo de Buttonwood."
+    },
+    {
+      "id": "breakthrough",
+      "name": "Breakthrough Prize",
+      "url": "https://breakthroughprize.org/about",
+      "use_pt": "Referência editorial para narrativa de descobertas e perfis de laureados; não copiar identidade visual."
+    },
+    {
+      "id": "nobel",
+      "name": "Nobel Prize",
+      "url": "https://www.nobelprize.org/",
+      "use_pt": "Perfis biográficos, trabalhos e material de ciência."
+    },
+    {
+      "id": "machado-mec",
+      "name": "Machado de Assis — Vida e Obra (MEC/NUPILL)",
+      "url": "https://machado.mec.gov.br/",
+      "use_pt": "Obras completas, cronologia e materiais gratuitos do projeto."
+    },
+    {
+      "id": "commons-newton",
+      "name": "Wikimedia Commons — Portrait of Newton 1689",
+      "url": "https://commons.wikimedia.org/wiki/File:Portrait_of_Sir_Isaac_Newton,_1689.jpg",
+      "use_pt": "Imagem de referência; conferir status específico."
+    },
+    {
+      "id": "nasa-images",
+      "name": "NASA Image and Video Library",
+      "url": "https://images.nasa.gov/",
+      "use_pt": "Biblioteca de imagens e vídeos para exploração espacial; conferir direitos por asset."
+    }
+  ]
+}

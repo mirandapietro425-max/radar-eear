@@ -1,0 +1,14 @@
+{
+  "version":"v18",
+  "experience_contract":["contexto","acao_principal","feedback","aprofundamento","conexao","fonte","revisao"],
+  "breakpoints":[
+    {"name":"small-mobile","max":399,"behavior":"single-column; bottom-nav; no horizontal page overflow"},
+    {"name":"mobile","max":767,"behavior":"single-column or stacked panels; touch-first"},
+    {"name":"tablet","min":768,"max":1099,"behavior":"two-column where useful"},
+    {"name":"desktop","min":1100,"behavior":"sidebar + multi-column editorial layouts"}
+  ],
+  "touch_target_min_css_px":44,
+  "content_min_viewport_css_px":320,
+  "animation_rule":"animation must explain state, causality or navigation; otherwise remove",
+  "fallbacks":["static image","editorial globe","2D map link","external reading source","text-only explanation"]
+}

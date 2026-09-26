@@ -1,0 +1,94 @@
+{
+  "version": "v15",
+  "language": "pt-BR",
+  "primary_nav": [
+    {
+      "id": "radar",
+      "label": "Radar de Hoje",
+      "purpose": "Mistura diária curta e adaptativa; 10–25 min, com revisão e descoberta."
+    },
+    {
+      "id": "study",
+      "label": "Estudar",
+      "children": [
+        "Português",
+        "Inglês",
+        "Matemática",
+        "Física"
+      ],
+      "purpose": "Conteúdo e mapas do edital EEAR."
+    },
+    {
+      "id": "practice",
+      "label": "Praticar",
+      "children": [
+        "Questões",
+        "Meus Erros",
+        "Simulados",
+        "Jogos",
+        "Laboratórios"
+      ],
+      "purpose": "Recuperação, aplicação e feedback."
+    },
+    {
+      "id": "explore",
+      "label": "Explorar",
+      "children": [
+        "Atlas",
+        "História",
+        "Bíblia e Teologia",
+        "Apócrifos",
+        "Pessoas",
+        "Livros",
+        "Ciência e Natureza",
+        "Cultura Pop"
+      ],
+      "purpose": "Conhecimento interdisciplinar e descoberta."
+    },
+    {
+      "id": "library",
+      "label": "Biblioteca",
+      "children": [
+        "Livros",
+        "Salvos",
+        "Notas",
+        "Fontes"
+      ],
+      "purpose": "Leitura integral quando permitida + links externos + anotações."
+    },
+    {
+      "id": "profile",
+      "label": "Meu Radar",
+      "children": [
+        "Progresso",
+        "Plano",
+        "Revisões",
+        "Configurações"
+      ],
+      "purpose": "Continuidade pessoal sem transformar estudo em competição."
+    }
+  ],
+  "home_layout": [
+    "hero_radar_do_dia",
+    "missao_10_minutos",
+    "continuar_de_onde_parou",
+    "proximo_assunto",
+    "uma_curiosidade",
+    "uma_experiencia",
+    "um_lugar_no_mapa",
+    "um_livro",
+    "revisao_de_erro",
+    "fechamento"
+  ],
+  "detail_shell": [
+    "hero_visual",
+    "contexto",
+    "ideia_central",
+    "interacao",
+    "explicacao_em_camadas",
+    "conexoes",
+    "fontes",
+    "mini_retomada",
+    "salvar"
+  ]
+}

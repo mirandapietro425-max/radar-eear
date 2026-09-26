@@ -1,0 +1,1888 @@
+{
+  "schema_version": "10.0",
+  "language": "pt-BR",
+  "count": 99,
+  "items": [
+    {
+      "id": "phys-depth-001",
+      "title_pt": "Grandezas e unidades",
+      "intuitive_pt": "Veja grandezas e unidades primeiro como fenômeno observável e só depois transforme-o em equações.",
+      "key_question_pt": "Que quantidade muda? O que permanece? Qual interação causa a mudança?",
+      "equation_pt": "Escolher a equação mínima necessária e explicar todas as grandezas e unidades.",
+      "experiment_pt": "Permitir alterar um parâmetro e ver o efeito no gráfico/diagrama.",
+      "common_errors_pt": [
+        "usar fórmula sem conferir unidades",
+        "confundir vetor e módulo",
+        "ignorar condições iniciais ou sinais"
+      ],
+      "micro_challenge_pt": "Faça uma previsão, altere um parâmetro e compare sua previsão com o modelo.",
+      "sources": [
+        "src_eear_edital_2027",
+        "src_phet_pt",
+        "src_geogebra"
+      ]
+    },
+    {
+      "id": "phys-depth-002",
+      "title_pt": "Análise dimensional",
+      "intuitive_pt": "Veja análise dimensional primeiro como fenômeno observável e só depois transforme-o em equações.",
+      "key_question_pt": "Que quantidade muda? O que permanece? Qual interação causa a mudança?",
+      "equation_pt": "Escolher a equação mínima necessária e explicar todas as grandezas e unidades.",
+      "experiment_pt": "Permitir alterar um parâmetro e ver o efeito no gráfico/diagrama.",
+      "common_errors_pt": [
+        "usar fórmula sem conferir unidades",
+        "confundir vetor e módulo",
+        "ignorar condições iniciais ou sinais"
+      ],
+      "micro_challenge_pt": "Faça uma previsão, altere um parâmetro e compare sua previsão com o modelo.",
+      "sources": [
+        "src_eear_edital_2027",
+        "src_phet_pt",
+        "src_geogebra"
+      ]
+    },
+    {
+      "id": "phys-depth-003",
+      "title_pt": "Vetores",
+      "intuitive_pt": "Veja vetores primeiro como fenômeno observável e só depois transforme-o em equações.",
+      "key_question_pt": "Que quantidade muda? O que permanece? Qual interação causa a mudança?",
+      "equation_pt": "Escolher a equação mínima necessária e explicar todas as grandezas e unidades.",
+      "experiment_pt": "Permitir alterar um parâmetro e ver o efeito no gráfico/diagrama.",
+      "common_errors_pt": [
+        "usar fórmula sem conferir unidades",
+        "confundir vetor e módulo",
+        "ignorar condições iniciais ou sinais"
+      ],
+      "micro_challenge_pt": "Faça uma previsão, altere um parâmetro e compare sua previsão com o modelo.",
+      "sources": [
+        "src_eear_edital_2027",
+        "src_phet_pt",
+        "src_geogebra"
+      ]
+    },
+    {
+      "id": "phys-depth-004",
+      "title_pt": "Cinemática",
+      "intuitive_pt": "Veja cinemática primeiro como fenômeno observável e só depois transforme-o em equações.",
+      "key_question_pt": "Que quantidade muda? O que permanece? Qual interação causa a mudança?",
+      "equation_pt": "Escolher a equação mínima necessária e explicar todas as grandezas e unidades.",
+      "experiment_pt": "Permitir alterar um parâmetro e ver o efeito no gráfico/diagrama.",
+      "common_errors_pt": [
+        "usar fórmula sem conferir unidades",
+        "confundir vetor e módulo",
+        "ignorar condições iniciais ou sinais"
+      ],
+      "micro_challenge_pt": "Faça uma previsão, altere um parâmetro e compare sua previsão com o modelo.",
+      "sources": [
+        "src_eear_edital_2027",
+        "src_phet_pt",
+        "src_geogebra"
+      ]
+    },
+    {
+      "id": "phys-depth-005",
+      "title_pt": "Movimento uniforme",
+      "intuitive_pt": "Veja movimento uniforme primeiro como fenômeno observável e só depois transforme-o em equações.",
+      "key_question_pt": "Que quantidade muda? O que permanece? Qual interação causa a mudança?",
+      "equation_pt": "Escolher a equação mínima necessária e explicar todas as grandezas e unidades.",
+      "experiment_pt": "Permitir alterar um parâmetro e ver o efeito no gráfico/diagrama.",
+      "common_errors_pt": [
+        "usar fórmula sem conferir unidades",
+        "confundir vetor e módulo",
+        "ignorar condições iniciais ou sinais"
+      ],
+      "micro_challenge_pt": "Faça uma previsão, altere um parâmetro e compare sua previsão com o modelo.",
+      "sources": [
+        "src_eear_edital_2027",
+        "src_phet_pt",
+        "src_geogebra"
+      ]
+    },
+    {
+      "id": "phys-depth-006",
+      "title_pt": "Movimento uniformemente variado",
+      "intuitive_pt": "Veja movimento uniformemente variado primeiro como fenômeno observável e só depois transforme-o em equações.",
+      "key_question_pt": "Que quantidade muda? O que permanece? Qual interação causa a mudança?",
+      "equation_pt": "Escolher a equação mínima necessária e explicar todas as grandezas e unidades.",
+      "experiment_pt": "Permitir alterar um parâmetro e ver o efeito no gráfico/diagrama.",
+      "common_errors_pt": [
+        "usar fórmula sem conferir unidades",
+        "confundir vetor e módulo",
+        "ignorar condições iniciais ou sinais"
+      ],
+      "micro_challenge_pt": "Faça uma previsão, altere um parâmetro e compare sua previsão com o modelo.",
+      "sources": [
+        "src_eear_edital_2027",
+        "src_phet_pt",
+        "src_geogebra"
+      ]
+    },
+    {
+      "id": "phys-depth-007",
+      "title_pt": "Queda livre",
+      "intuitive_pt": "Veja queda livre primeiro como fenômeno observável e só depois transforme-o em equações.",
+      "key_question_pt": "Que quantidade muda? O que permanece? Qual interação causa a mudança?",
+      "equation_pt": "Escolher a equação mínima necessária e explicar todas as grandezas e unidades.",
+      "experiment_pt": "Permitir alterar um parâmetro e ver o efeito no gráfico/diagrama.",
+      "common_errors_pt": [
+        "usar fórmula sem conferir unidades",
+        "confundir vetor e módulo",
+        "ignorar condições iniciais ou sinais"
+      ],
+      "micro_challenge_pt": "Faça uma previsão, altere um parâmetro e compare sua previsão com o modelo.",
+      "sources": [
+        "src_eear_edital_2027",
+        "src_phet_pt",
+        "src_geogebra"
+      ]
+    },
+    {
+      "id": "phys-depth-008",
+      "title_pt": "Lançamento vertical",
+      "intuitive_pt": "Veja lançamento vertical primeiro como fenômeno observável e só depois transforme-o em equações.",
+      "key_question_pt": "Que quantidade muda? O que permanece? Qual interação causa a mudança?",
+      "equation_pt": "Escolher a equação mínima necessária e explicar todas as grandezas e unidades.",
+      "experiment_pt": "Permitir alterar um parâmetro e ver o efeito no gráfico/diagrama.",
+      "common_errors_pt": [
+        "usar fórmula sem conferir unidades",
+        "confundir vetor e módulo",
+        "ignorar condições iniciais ou sinais"
+      ],
+      "micro_challenge_pt": "Faça uma previsão, altere um parâmetro e compare sua previsão com o modelo.",
+      "sources": [
+        "src_eear_edital_2027",
+        "src_phet_pt",
+        "src_geogebra"
+      ]
+    },
+    {
+      "id": "phys-depth-009",
+      "title_pt": "Lançamento oblíquo",
+      "intuitive_pt": "Veja lançamento oblíquo primeiro como fenômeno observável e só depois transforme-o em equações.",
+      "key_question_pt": "Que quantidade muda? O que permanece? Qual interação causa a mudança?",
+      "equation_pt": "Escolher a equação mínima necessária e explicar todas as grandezas e unidades.",
+      "experiment_pt": "Permitir alterar um parâmetro e ver o efeito no gráfico/diagrama.",
+      "common_errors_pt": [
+        "usar fórmula sem conferir unidades",
+        "confundir vetor e módulo",
+        "ignorar condições iniciais ou sinais"
+      ],
+      "micro_challenge_pt": "Faça uma previsão, altere um parâmetro e compare sua previsão com o modelo.",
+      "sources": [
+        "src_eear_edital_2027",
+        "src_phet_pt",
+        "src_geogebra"
+      ]
+    },
+    {
+      "id": "phys-depth-010",
+      "title_pt": "Gráficos de posição e velocidade",
+      "intuitive_pt": "Veja gráficos de posição e velocidade primeiro como fenômeno observável e só depois transforme-o em equações.",
+      "key_question_pt": "Que quantidade muda? O que permanece? Qual interação causa a mudança?",
+      "equation_pt": "Escolher a equação mínima necessária e explicar todas as grandezas e unidades.",
+      "experiment_pt": "Permitir alterar um parâmetro e ver o efeito no gráfico/diagrama.",
+      "common_errors_pt": [
+        "usar fórmula sem conferir unidades",
+        "confundir vetor e módulo",
+        "ignorar condições iniciais ou sinais"
+      ],
+      "micro_challenge_pt": "Faça uma previsão, altere um parâmetro e compare sua previsão com o modelo.",
+      "sources": [
+        "src_eear_edital_2027",
+        "src_phet_pt",
+        "src_geogebra"
+      ]
+    },
+    {
+      "id": "phys-depth-011",
+      "title_pt": "Velocidade média",
+      "intuitive_pt": "Veja velocidade média primeiro como fenômeno observável e só depois transforme-o em equações.",
+      "key_question_pt": "Que quantidade muda? O que permanece? Qual interação causa a mudança?",
+      "equation_pt": "Escolher a equação mínima necessária e explicar todas as grandezas e unidades.",
+      "experiment_pt": "Permitir alterar um parâmetro e ver o efeito no gráfico/diagrama.",
+      "common_errors_pt": [
+        "usar fórmula sem conferir unidades",
+        "confundir vetor e módulo",
+        "ignorar condições iniciais ou sinais"
+      ],
+      "micro_challenge_pt": "Faça uma previsão, altere um parâmetro e compare sua previsão com o modelo.",
+      "sources": [
+        "src_eear_edital_2027",
+        "src_phet_pt",
+        "src_geogebra"
+      ]
+    },
+    {
+      "id": "phys-depth-012",
+      "title_pt": "Aceleração",
+      "intuitive_pt": "Veja aceleração primeiro como fenômeno observável e só depois transforme-o em equações.",
+      "key_question_pt": "Que quantidade muda? O que permanece? Qual interação causa a mudança?",
+      "equation_pt": "Escolher a equação mínima necessária e explicar todas as grandezas e unidades.",
+      "experiment_pt": "Permitir alterar um parâmetro e ver o efeito no gráfico/diagrama.",
+      "common_errors_pt": [
+        "usar fórmula sem conferir unidades",
+        "confundir vetor e módulo",
+        "ignorar condições iniciais ou sinais"
+      ],
+      "micro_challenge_pt": "Faça uma previsão, altere um parâmetro e compare sua previsão com o modelo.",
+      "sources": [
+        "src_eear_edital_2027",
+        "src_phet_pt",
+        "src_geogebra"
+      ]
+    },
+    {
+      "id": "phys-depth-013",
+      "title_pt": "Leis de Newton",
+      "intuitive_pt": "Veja leis de newton primeiro como fenômeno observável e só depois transforme-o em equações.",
+      "key_question_pt": "Que quantidade muda? O que permanece? Qual interação causa a mudança?",
+      "equation_pt": "Escolher a equação mínima necessária e explicar todas as grandezas e unidades.",
+      "experiment_pt": "Permitir alterar um parâmetro e ver o efeito no gráfico/diagrama.",
+      "common_errors_pt": [
+        "usar fórmula sem conferir unidades",
+        "confundir vetor e módulo",
+        "ignorar condições iniciais ou sinais"
+      ],
+      "micro_challenge_pt": "Faça uma previsão, altere um parâmetro e compare sua previsão com o modelo.",
+      "sources": [
+        "src_eear_edital_2027",
+        "src_phet_pt",
+        "src_geogebra"
+      ]
+    },
+    {
+      "id": "phys-depth-014",
+      "title_pt": "Força peso",
+      "intuitive_pt": "Veja força peso primeiro como fenômeno observável e só depois transforme-o em equações.",
+      "key_question_pt": "Que quantidade muda? O que permanece? Qual interação causa a mudança?",
+      "equation_pt": "Escolher a equação mínima necessária e explicar todas as grandezas e unidades.",
+      "experiment_pt": "Permitir alterar um parâmetro e ver o efeito no gráfico/diagrama.",
+      "common_errors_pt": [
+        "usar fórmula sem conferir unidades",
+        "confundir vetor e módulo",
+        "ignorar condições iniciais ou sinais"
+      ],
+      "micro_challenge_pt": "Faça uma previsão, altere um parâmetro e compare sua previsão com o modelo.",
+      "sources": [
+        "src_eear_edital_2027",
+        "src_phet_pt",
+        "src_geogebra"
+      ]
+    },
+    {
+      "id": "phys-depth-015",
+      "title_pt": "Força normal",
+      "intuitive_pt": "Veja força normal primeiro como fenômeno observável e só depois transforme-o em equações.",
+      "key_question_pt": "Que quantidade muda? O que permanece? Qual interação causa a mudança?",
+      "equation_pt": "Escolher a equação mínima necessária e explicar todas as grandezas e unidades.",
+      "experiment_pt": "Permitir alterar um parâmetro e ver o efeito no gráfico/diagrama.",
+      "common_errors_pt": [
+        "usar fórmula sem conferir unidades",
+        "confundir vetor e módulo",
+        "ignorar condições iniciais ou sinais"
+      ],
+      "micro_challenge_pt": "Faça uma previsão, altere um parâmetro e compare sua previsão com o modelo.",
+      "sources": [
+        "src_eear_edital_2027",
+        "src_phet_pt",
+        "src_geogebra"
+      ]
+    },
+    {
+      "id": "phys-depth-016",
+      "title_pt": "Atrito",
+      "intuitive_pt": "Veja atrito primeiro como fenômeno observável e só depois transforme-o em equações.",
+      "key_question_pt": "Que quantidade muda? O que permanece? Qual interação causa a mudança?",
+      "equation_pt": "Escolher a equação mínima necessária e explicar todas as grandezas e unidades.",
+      "experiment_pt": "Permitir alterar um parâmetro e ver o efeito no gráfico/diagrama.",
+      "common_errors_pt": [
+        "usar fórmula sem conferir unidades",
+        "confundir vetor e módulo",
+        "ignorar condições iniciais ou sinais"
+      ],
+      "micro_challenge_pt": "Faça uma previsão, altere um parâmetro e compare sua previsão com o modelo.",
+      "sources": [
+        "src_eear_edital_2027",
+        "src_phet_pt",
+        "src_geogebra"
+      ]
+    },
+    {
+      "id": "phys-depth-017",
+      "title_pt": "Tração",
+      "intuitive_pt": "Veja tração primeiro como fenômeno observável e só depois transforme-o em equações.",
+      "key_question_pt": "Que quantidade muda? O que permanece? Qual interação causa a mudança?",
+      "equation_pt": "Escolher a equação mínima necessária e explicar todas as grandezas e unidades.",
+      "experiment_pt": "Permitir alterar um parâmetro e ver o efeito no gráfico/diagrama.",
+      "common_errors_pt": [
+        "usar fórmula sem conferir unidades",
+        "confundir vetor e módulo",
+        "ignorar condições iniciais ou sinais"
+      ],
+      "micro_challenge_pt": "Faça uma previsão, altere um parâmetro e compare sua previsão com o modelo.",
+      "sources": [
+        "src_eear_edital_2027",
+        "src_phet_pt",
+        "src_geogebra"
+      ]
+    },
+    {
+      "id": "phys-depth-018",
+      "title_pt": "Plano inclinado",
+      "intuitive_pt": "Veja plano inclinado primeiro como fenômeno observável e só depois transforme-o em equações.",
+      "key_question_pt": "Que quantidade muda? O que permanece? Qual interação causa a mudança?",
+      "equation_pt": "Escolher a equação mínima necessária e explicar todas as grandezas e unidades.",
+      "experiment_pt": "Permitir alterar um parâmetro e ver o efeito no gráfico/diagrama.",
+      "common_errors_pt": [
+        "usar fórmula sem conferir unidades",
+        "confundir vetor e módulo",
+        "ignorar condições iniciais ou sinais"
+      ],
+      "micro_challenge_pt": "Faça uma previsão, altere um parâmetro e compare sua previsão com o modelo.",
+      "sources": [
+        "src_eear_edital_2027",
+        "src_phet_pt",
+        "src_geogebra"
+      ]
+    },
+    {
+      "id": "phys-depth-019",
+      "title_pt": "Movimento circular",
+      "intuitive_pt": "Veja movimento circular primeiro como fenômeno observável e só depois transforme-o em equações.",
+      "key_question_pt": "Que quantidade muda? O que permanece? Qual interação causa a mudança?",
+      "equation_pt": "Escolher a equação mínima necessária e explicar todas as grandezas e unidades.",
+      "experiment_pt": "Permitir alterar um parâmetro e ver o efeito no gráfico/diagrama.",
+      "common_errors_pt": [
+        "usar fórmula sem conferir unidades",
+        "confundir vetor e módulo",
+        "ignorar condições iniciais ou sinais"
+      ],
+      "micro_challenge_pt": "Faça uma previsão, altere um parâmetro e compare sua previsão com o modelo.",
+      "sources": [
+        "src_eear_edital_2027",
+        "src_phet_pt",
+        "src_geogebra"
+      ]
+    },
+    {
+      "id": "phys-depth-020",
+      "title_pt": "Centrípeta",
+      "intuitive_pt": "Veja centrípeta primeiro como fenômeno observável e só depois transforme-o em equações.",
+      "key_question_pt": "Que quantidade muda? O que permanece? Qual interação causa a mudança?",
+      "equation_pt": "Escolher a equação mínima necessária e explicar todas as grandezas e unidades.",
+      "experiment_pt": "Permitir alterar um parâmetro e ver o efeito no gráfico/diagrama.",
+      "common_errors_pt": [
+        "usar fórmula sem conferir unidades",
+        "confundir vetor e módulo",
+        "ignorar condições iniciais ou sinais"
+      ],
+      "micro_challenge_pt": "Faça uma previsão, altere um parâmetro e compare sua previsão com o modelo.",
+      "sources": [
+        "src_eear_edital_2027",
+        "src_phet_pt",
+        "src_geogebra"
+      ]
+    },
+    {
+      "id": "phys-depth-021",
+      "title_pt": "Trabalho",
+      "intuitive_pt": "Veja trabalho primeiro como fenômeno observável e só depois transforme-o em equações.",
+      "key_question_pt": "Que quantidade muda? O que permanece? Qual interação causa a mudança?",
+      "equation_pt": "Escolher a equação mínima necessária e explicar todas as grandezas e unidades.",
+      "experiment_pt": "Permitir alterar um parâmetro e ver o efeito no gráfico/diagrama.",
+      "common_errors_pt": [
+        "usar fórmula sem conferir unidades",
+        "confundir vetor e módulo",
+        "ignorar condições iniciais ou sinais"
+      ],
+      "micro_challenge_pt": "Faça uma previsão, altere um parâmetro e compare sua previsão com o modelo.",
+      "sources": [
+        "src_eear_edital_2027",
+        "src_phet_pt",
+        "src_geogebra"
+      ]
+    },
+    {
+      "id": "phys-depth-022",
+      "title_pt": "Potência",
+      "intuitive_pt": "Veja potência primeiro como fenômeno observável e só depois transforme-o em equações.",
+      "key_question_pt": "Que quantidade muda? O que permanece? Qual interação causa a mudança?",
+      "equation_pt": "Escolher a equação mínima necessária e explicar todas as grandezas e unidades.",
+      "experiment_pt": "Permitir alterar um parâmetro e ver o efeito no gráfico/diagrama.",
+      "common_errors_pt": [
+        "usar fórmula sem conferir unidades",
+        "confundir vetor e módulo",
+        "ignorar condições iniciais ou sinais"
+      ],
+      "micro_challenge_pt": "Faça uma previsão, altere um parâmetro e compare sua previsão com o modelo.",
+      "sources": [
+        "src_eear_edital_2027",
+        "src_phet_pt",
+        "src_geogebra"
+      ]
+    },
+    {
+      "id": "phys-depth-023",
+      "title_pt": "Energia cinética",
+      "intuitive_pt": "Veja energia cinética primeiro como fenômeno observável e só depois transforme-o em equações.",
+      "key_question_pt": "Que quantidade muda? O que permanece? Qual interação causa a mudança?",
+      "equation_pt": "Escolher a equação mínima necessária e explicar todas as grandezas e unidades.",
+      "experiment_pt": "Permitir alterar um parâmetro e ver o efeito no gráfico/diagrama.",
+      "common_errors_pt": [
+        "usar fórmula sem conferir unidades",
+        "confundir vetor e módulo",
+        "ignorar condições iniciais ou sinais"
+      ],
+      "micro_challenge_pt": "Faça uma previsão, altere um parâmetro e compare sua previsão com o modelo.",
+      "sources": [
+        "src_eear_edital_2027",
+        "src_phet_pt",
+        "src_geogebra"
+      ]
+    },
+    {
+      "id": "phys-depth-024",
+      "title_pt": "Energia potencial gravitacional",
+      "intuitive_pt": "Veja energia potencial gravitacional primeiro como fenômeno observável e só depois transforme-o em equações.",
+      "key_question_pt": "Que quantidade muda? O que permanece? Qual interação causa a mudança?",
+      "equation_pt": "Escolher a equação mínima necessária e explicar todas as grandezas e unidades.",
+      "experiment_pt": "Permitir alterar um parâmetro e ver o efeito no gráfico/diagrama.",
+      "common_errors_pt": [
+        "usar fórmula sem conferir unidades",
+        "confundir vetor e módulo",
+        "ignorar condições iniciais ou sinais"
+      ],
+      "micro_challenge_pt": "Faça uma previsão, altere um parâmetro e compare sua previsão com o modelo.",
+      "sources": [
+        "src_eear_edital_2027",
+        "src_phet_pt",
+        "src_geogebra"
+      ]
+    },
+    {
+      "id": "phys-depth-025",
+      "title_pt": "Energia potencial elástica",
+      "intuitive_pt": "Veja energia potencial elástica primeiro como fenômeno observável e só depois transforme-o em equações.",
+      "key_question_pt": "Que quantidade muda? O que permanece? Qual interação causa a mudança?",
+      "equation_pt": "Escolher a equação mínima necessária e explicar todas as grandezas e unidades.",
+      "experiment_pt": "Permitir alterar um parâmetro e ver o efeito no gráfico/diagrama.",
+      "common_errors_pt": [
+        "usar fórmula sem conferir unidades",
+        "confundir vetor e módulo",
+        "ignorar condições iniciais ou sinais"
+      ],
+      "micro_challenge_pt": "Faça uma previsão, altere um parâmetro e compare sua previsão com o modelo.",
+      "sources": [
+        "src_eear_edital_2027",
+        "src_phet_pt",
+        "src_geogebra"
+      ]
+    },
+    {
+      "id": "phys-depth-026",
+      "title_pt": "Conservação da energia",
+      "intuitive_pt": "Veja conservação da energia primeiro como fenômeno observável e só depois transforme-o em equações.",
+      "key_question_pt": "Que quantidade muda? O que permanece? Qual interação causa a mudança?",
+      "equation_pt": "Escolher a equação mínima necessária e explicar todas as grandezas e unidades.",
+      "experiment_pt": "Permitir alterar um parâmetro e ver o efeito no gráfico/diagrama.",
+      "common_errors_pt": [
+        "usar fórmula sem conferir unidades",
+        "confundir vetor e módulo",
+        "ignorar condições iniciais ou sinais"
+      ],
+      "micro_challenge_pt": "Faça uma previsão, altere um parâmetro e compare sua previsão com o modelo.",
+      "sources": [
+        "src_eear_edital_2027",
+        "src_phet_pt",
+        "src_geogebra"
+      ]
+    },
+    {
+      "id": "phys-depth-027",
+      "title_pt": "Impulso",
+      "intuitive_pt": "Veja impulso primeiro como fenômeno observável e só depois transforme-o em equações.",
+      "key_question_pt": "Que quantidade muda? O que permanece? Qual interação causa a mudança?",
+      "equation_pt": "Escolher a equação mínima necessária e explicar todas as grandezas e unidades.",
+      "experiment_pt": "Permitir alterar um parâmetro e ver o efeito no gráfico/diagrama.",
+      "common_errors_pt": [
+        "usar fórmula sem conferir unidades",
+        "confundir vetor e módulo",
+        "ignorar condições iniciais ou sinais"
+      ],
+      "micro_challenge_pt": "Faça uma previsão, altere um parâmetro e compare sua previsão com o modelo.",
+      "sources": [
+        "src_eear_edital_2027",
+        "src_phet_pt",
+        "src_geogebra"
+      ]
+    },
+    {
+      "id": "phys-depth-028",
+      "title_pt": "Quantidade de movimento",
+      "intuitive_pt": "Veja quantidade de movimento primeiro como fenômeno observável e só depois transforme-o em equações.",
+      "key_question_pt": "Que quantidade muda? O que permanece? Qual interação causa a mudança?",
+      "equation_pt": "Escolher a equação mínima necessária e explicar todas as grandezas e unidades.",
+      "experiment_pt": "Permitir alterar um parâmetro e ver o efeito no gráfico/diagrama.",
+      "common_errors_pt": [
+        "usar fórmula sem conferir unidades",
+        "confundir vetor e módulo",
+        "ignorar condições iniciais ou sinais"
+      ],
+      "micro_challenge_pt": "Faça uma previsão, altere um parâmetro e compare sua previsão com o modelo.",
+      "sources": [
+        "src_eear_edital_2027",
+        "src_phet_pt",
+        "src_geogebra"
+      ]
+    },
+    {
+      "id": "phys-depth-029",
+      "title_pt": "Colisões",
+      "intuitive_pt": "Veja colisões primeiro como fenômeno observável e só depois transforme-o em equações.",
+      "key_question_pt": "Que quantidade muda? O que permanece? Qual interação causa a mudança?",
+      "equation_pt": "Escolher a equação mínima necessária e explicar todas as grandezas e unidades.",
+      "experiment_pt": "Permitir alterar um parâmetro e ver o efeito no gráfico/diagrama.",
+      "common_errors_pt": [
+        "usar fórmula sem conferir unidades",
+        "confundir vetor e módulo",
+        "ignorar condições iniciais ou sinais"
+      ],
+      "micro_challenge_pt": "Faça uma previsão, altere um parâmetro e compare sua previsão com o modelo.",
+      "sources": [
+        "src_eear_edital_2027",
+        "src_phet_pt",
+        "src_geogebra"
+      ]
+    },
+    {
+      "id": "phys-depth-030",
+      "title_pt": "Gravitação universal",
+      "intuitive_pt": "Veja gravitação universal primeiro como fenômeno observável e só depois transforme-o em equações.",
+      "key_question_pt": "Que quantidade muda? O que permanece? Qual interação causa a mudança?",
+      "equation_pt": "Escolher a equação mínima necessária e explicar todas as grandezas e unidades.",
+      "experiment_pt": "Permitir alterar um parâmetro e ver o efeito no gráfico/diagrama.",
+      "common_errors_pt": [
+        "usar fórmula sem conferir unidades",
+        "confundir vetor e módulo",
+        "ignorar condições iniciais ou sinais"
+      ],
+      "micro_challenge_pt": "Faça uma previsão, altere um parâmetro e compare sua previsão com o modelo.",
+      "sources": [
+        "src_eear_edital_2027",
+        "src_phet_pt",
+        "src_geogebra"
+      ]
+    },
+    {
+      "id": "phys-depth-031",
+      "title_pt": "Pressão",
+      "intuitive_pt": "Veja pressão primeiro como fenômeno observável e só depois transforme-o em equações.",
+      "key_question_pt": "Que quantidade muda? O que permanece? Qual interação causa a mudança?",
+      "equation_pt": "Escolher a equação mínima necessária e explicar todas as grandezas e unidades.",
+      "experiment_pt": "Permitir alterar um parâmetro e ver o efeito no gráfico/diagrama.",
+      "common_errors_pt": [
+        "usar fórmula sem conferir unidades",
+        "confundir vetor e módulo",
+        "ignorar condições iniciais ou sinais"
+      ],
+      "micro_challenge_pt": "Faça uma previsão, altere um parâmetro e compare sua previsão com o modelo.",
+      "sources": [
+        "src_eear_edital_2027",
+        "src_phet_pt",
+        "src_geogebra"
+      ]
+    },
+    {
+      "id": "phys-depth-032",
+      "title_pt": "Densidade",
+      "intuitive_pt": "Veja densidade primeiro como fenômeno observável e só depois transforme-o em equações.",
+      "key_question_pt": "Que quantidade muda? O que permanece? Qual interação causa a mudança?",
+      "equation_pt": "Escolher a equação mínima necessária e explicar todas as grandezas e unidades.",
+      "experiment_pt": "Permitir alterar um parâmetro e ver o efeito no gráfico/diagrama.",
+      "common_errors_pt": [
+        "usar fórmula sem conferir unidades",
+        "confundir vetor e módulo",
+        "ignorar condições iniciais ou sinais"
+      ],
+      "micro_challenge_pt": "Faça uma previsão, altere um parâmetro e compare sua previsão com o modelo.",
+      "sources": [
+        "src_eear_edital_2027",
+        "src_phet_pt",
+        "src_geogebra"
+      ]
+    },
+    {
+      "id": "phys-depth-033",
+      "title_pt": "Vasos comunicantes",
+      "intuitive_pt": "Veja vasos comunicantes primeiro como fenômeno observável e só depois transforme-o em equações.",
+      "key_question_pt": "Que quantidade muda? O que permanece? Qual interação causa a mudança?",
+      "equation_pt": "Escolher a equação mínima necessária e explicar todas as grandezas e unidades.",
+      "experiment_pt": "Permitir alterar um parâmetro e ver o efeito no gráfico/diagrama.",
+      "common_errors_pt": [
+        "usar fórmula sem conferir unidades",
+        "confundir vetor e módulo",
+        "ignorar condições iniciais ou sinais"
+      ],
+      "micro_challenge_pt": "Faça uma previsão, altere um parâmetro e compare sua previsão com o modelo.",
+      "sources": [
+        "src_eear_edital_2027",
+        "src_phet_pt",
+        "src_geogebra"
+      ]
+    },
+    {
+      "id": "phys-depth-034",
+      "title_pt": "Princípio de Pascal",
+      "intuitive_pt": "Veja princípio de pascal primeiro como fenômeno observável e só depois transforme-o em equações.",
+      "key_question_pt": "Que quantidade muda? O que permanece? Qual interação causa a mudança?",
+      "equation_pt": "Escolher a equação mínima necessária e explicar todas as grandezas e unidades.",
+      "experiment_pt": "Permitir alterar um parâmetro e ver o efeito no gráfico/diagrama.",
+      "common_errors_pt": [
+        "usar fórmula sem conferir unidades",
+        "confundir vetor e módulo",
+        "ignorar condições iniciais ou sinais"
+      ],
+      "micro_challenge_pt": "Faça uma previsão, altere um parâmetro e compare sua previsão com o modelo.",
+      "sources": [
+        "src_eear_edital_2027",
+        "src_phet_pt",
+        "src_geogebra"
+      ]
+    },
+    {
+      "id": "phys-depth-035",
+      "title_pt": "Empuxo",
+      "intuitive_pt": "Veja empuxo primeiro como fenômeno observável e só depois transforme-o em equações.",
+      "key_question_pt": "Que quantidade muda? O que permanece? Qual interação causa a mudança?",
+      "equation_pt": "Escolher a equação mínima necessária e explicar todas as grandezas e unidades.",
+      "experiment_pt": "Permitir alterar um parâmetro e ver o efeito no gráfico/diagrama.",
+      "common_errors_pt": [
+        "usar fórmula sem conferir unidades",
+        "confundir vetor e módulo",
+        "ignorar condições iniciais ou sinais"
+      ],
+      "micro_challenge_pt": "Faça uma previsão, altere um parâmetro e compare sua previsão com o modelo.",
+      "sources": [
+        "src_eear_edital_2027",
+        "src_phet_pt",
+        "src_geogebra"
+      ]
+    },
+    {
+      "id": "phys-depth-036",
+      "title_pt": "Hidrostática",
+      "intuitive_pt": "Veja hidrostática primeiro como fenômeno observável e só depois transforme-o em equações.",
+      "key_question_pt": "Que quantidade muda? O que permanece? Qual interação causa a mudança?",
+      "equation_pt": "Escolher a equação mínima necessária e explicar todas as grandezas e unidades.",
+      "experiment_pt": "Permitir alterar um parâmetro e ver o efeito no gráfico/diagrama.",
+      "common_errors_pt": [
+        "usar fórmula sem conferir unidades",
+        "confundir vetor e módulo",
+        "ignorar condições iniciais ou sinais"
+      ],
+      "micro_challenge_pt": "Faça uma previsão, altere um parâmetro e compare sua previsão com o modelo.",
+      "sources": [
+        "src_eear_edital_2027",
+        "src_phet_pt",
+        "src_geogebra"
+      ]
+    },
+    {
+      "id": "phys-depth-037",
+      "title_pt": "Vazão",
+      "intuitive_pt": "Veja vazão primeiro como fenômeno observável e só depois transforme-o em equações.",
+      "key_question_pt": "Que quantidade muda? O que permanece? Qual interação causa a mudança?",
+      "equation_pt": "Escolher a equação mínima necessária e explicar todas as grandezas e unidades.",
+      "experiment_pt": "Permitir alterar um parâmetro e ver o efeito no gráfico/diagrama.",
+      "common_errors_pt": [
+        "usar fórmula sem conferir unidades",
+        "confundir vetor e módulo",
+        "ignorar condições iniciais ou sinais"
+      ],
+      "micro_challenge_pt": "Faça uma previsão, altere um parâmetro e compare sua previsão com o modelo.",
+      "sources": [
+        "src_eear_edital_2027",
+        "src_phet_pt",
+        "src_geogebra"
+      ]
+    },
+    {
+      "id": "phys-depth-038",
+      "title_pt": "Calor",
+      "intuitive_pt": "Veja calor primeiro como fenômeno observável e só depois transforme-o em equações.",
+      "key_question_pt": "Que quantidade muda? O que permanece? Qual interação causa a mudança?",
+      "equation_pt": "Escolher a equação mínima necessária e explicar todas as grandezas e unidades.",
+      "experiment_pt": "Permitir alterar um parâmetro e ver o efeito no gráfico/diagrama.",
+      "common_errors_pt": [
+        "usar fórmula sem conferir unidades",
+        "confundir vetor e módulo",
+        "ignorar condições iniciais ou sinais"
+      ],
+      "micro_challenge_pt": "Faça uma previsão, altere um parâmetro e compare sua previsão com o modelo.",
+      "sources": [
+        "src_eear_edital_2027",
+        "src_phet_pt",
+        "src_geogebra"
+      ]
+    },
+    {
+      "id": "phys-depth-039",
+      "title_pt": "Temperatura",
+      "intuitive_pt": "Veja temperatura primeiro como fenômeno observável e só depois transforme-o em equações.",
+      "key_question_pt": "Que quantidade muda? O que permanece? Qual interação causa a mudança?",
+      "equation_pt": "Escolher a equação mínima necessária e explicar todas as grandezas e unidades.",
+      "experiment_pt": "Permitir alterar um parâmetro e ver o efeito no gráfico/diagrama.",
+      "common_errors_pt": [
+        "usar fórmula sem conferir unidades",
+        "confundir vetor e módulo",
+        "ignorar condições iniciais ou sinais"
+      ],
+      "micro_challenge_pt": "Faça uma previsão, altere um parâmetro e compare sua previsão com o modelo.",
+      "sources": [
+        "src_eear_edital_2027",
+        "src_phet_pt",
+        "src_geogebra"
+      ]
+    },
+    {
+      "id": "phys-depth-040",
+      "title_pt": "Dilatação térmica",
+      "intuitive_pt": "Veja dilatação térmica primeiro como fenômeno observável e só depois transforme-o em equações.",
+      "key_question_pt": "Que quantidade muda? O que permanece? Qual interação causa a mudança?",
+      "equation_pt": "Escolher a equação mínima necessária e explicar todas as grandezas e unidades.",
+      "experiment_pt": "Permitir alterar um parâmetro e ver o efeito no gráfico/diagrama.",
+      "common_errors_pt": [
+        "usar fórmula sem conferir unidades",
+        "confundir vetor e módulo",
+        "ignorar condições iniciais ou sinais"
+      ],
+      "micro_challenge_pt": "Faça uma previsão, altere um parâmetro e compare sua previsão com o modelo.",
+      "sources": [
+        "src_eear_edital_2027",
+        "src_phet_pt",
+        "src_geogebra"
+      ]
+    },
+    {
+      "id": "phys-depth-041",
+      "title_pt": "Calorimetria",
+      "intuitive_pt": "Veja calorimetria primeiro como fenômeno observável e só depois transforme-o em equações.",
+      "key_question_pt": "Que quantidade muda? O que permanece? Qual interação causa a mudança?",
+      "equation_pt": "Escolher a equação mínima necessária e explicar todas as grandezas e unidades.",
+      "experiment_pt": "Permitir alterar um parâmetro e ver o efeito no gráfico/diagrama.",
+      "common_errors_pt": [
+        "usar fórmula sem conferir unidades",
+        "confundir vetor e módulo",
+        "ignorar condições iniciais ou sinais"
+      ],
+      "micro_challenge_pt": "Faça uma previsão, altere um parâmetro e compare sua previsão com o modelo.",
+      "sources": [
+        "src_eear_edital_2027",
+        "src_phet_pt",
+        "src_geogebra"
+      ]
+    },
+    {
+      "id": "phys-depth-042",
+      "title_pt": "Mudanças de estado",
+      "intuitive_pt": "Veja mudanças de estado primeiro como fenômeno observável e só depois transforme-o em equações.",
+      "key_question_pt": "Que quantidade muda? O que permanece? Qual interação causa a mudança?",
+      "equation_pt": "Escolher a equação mínima necessária e explicar todas as grandezas e unidades.",
+      "experiment_pt": "Permitir alterar um parâmetro e ver o efeito no gráfico/diagrama.",
+      "common_errors_pt": [
+        "usar fórmula sem conferir unidades",
+        "confundir vetor e módulo",
+        "ignorar condições iniciais ou sinais"
+      ],
+      "micro_challenge_pt": "Faça uma previsão, altere um parâmetro e compare sua previsão com o modelo.",
+      "sources": [
+        "src_eear_edital_2027",
+        "src_phet_pt",
+        "src_geogebra"
+      ]
+    },
+    {
+      "id": "phys-depth-043",
+      "title_pt": "Gases",
+      "intuitive_pt": "Veja gases primeiro como fenômeno observável e só depois transforme-o em equações.",
+      "key_question_pt": "Que quantidade muda? O que permanece? Qual interação causa a mudança?",
+      "equation_pt": "Escolher a equação mínima necessária e explicar todas as grandezas e unidades.",
+      "experiment_pt": "Permitir alterar um parâmetro e ver o efeito no gráfico/diagrama.",
+      "common_errors_pt": [
+        "usar fórmula sem conferir unidades",
+        "confundir vetor e módulo",
+        "ignorar condições iniciais ou sinais"
+      ],
+      "micro_challenge_pt": "Faça uma previsão, altere um parâmetro e compare sua previsão com o modelo.",
+      "sources": [
+        "src_eear_edital_2027",
+        "src_phet_pt",
+        "src_geogebra"
+      ]
+    },
+    {
+      "id": "phys-depth-044",
+      "title_pt": "Lei geral dos gases",
+      "intuitive_pt": "Veja lei geral dos gases primeiro como fenômeno observável e só depois transforme-o em equações.",
+      "key_question_pt": "Que quantidade muda? O que permanece? Qual interação causa a mudança?",
+      "equation_pt": "Escolher a equação mínima necessária e explicar todas as grandezas e unidades.",
+      "experiment_pt": "Permitir alterar um parâmetro e ver o efeito no gráfico/diagrama.",
+      "common_errors_pt": [
+        "usar fórmula sem conferir unidades",
+        "confundir vetor e módulo",
+        "ignorar condições iniciais ou sinais"
+      ],
+      "micro_challenge_pt": "Faça uma previsão, altere um parâmetro e compare sua previsão com o modelo.",
+      "sources": [
+        "src_eear_edital_2027",
+        "src_phet_pt",
+        "src_geogebra"
+      ]
+    },
+    {
+      "id": "phys-depth-045",
+      "title_pt": "Termodinâmica",
+      "intuitive_pt": "Veja termodinâmica primeiro como fenômeno observável e só depois transforme-o em equações.",
+      "key_question_pt": "Que quantidade muda? O que permanece? Qual interação causa a mudança?",
+      "equation_pt": "Escolher a equação mínima necessária e explicar todas as grandezas e unidades.",
+      "experiment_pt": "Permitir alterar um parâmetro e ver o efeito no gráfico/diagrama.",
+      "common_errors_pt": [
+        "usar fórmula sem conferir unidades",
+        "confundir vetor e módulo",
+        "ignorar condições iniciais ou sinais"
+      ],
+      "micro_challenge_pt": "Faça uma previsão, altere um parâmetro e compare sua previsão com o modelo.",
+      "sources": [
+        "src_eear_edital_2027",
+        "src_phet_pt",
+        "src_geogebra"
+      ]
+    },
+    {
+      "id": "phys-depth-046",
+      "title_pt": "Ondas",
+      "intuitive_pt": "Veja ondas primeiro como fenômeno observável e só depois transforme-o em equações.",
+      "key_question_pt": "Que quantidade muda? O que permanece? Qual interação causa a mudança?",
+      "equation_pt": "Escolher a equação mínima necessária e explicar todas as grandezas e unidades.",
+      "experiment_pt": "Permitir alterar um parâmetro e ver o efeito no gráfico/diagrama.",
+      "common_errors_pt": [
+        "usar fórmula sem conferir unidades",
+        "confundir vetor e módulo",
+        "ignorar condições iniciais ou sinais"
+      ],
+      "micro_challenge_pt": "Faça uma previsão, altere um parâmetro e compare sua previsão com o modelo.",
+      "sources": [
+        "src_eear_edital_2027",
+        "src_phet_pt",
+        "src_geogebra"
+      ]
+    },
+    {
+      "id": "phys-depth-047",
+      "title_pt": "Frequência",
+      "intuitive_pt": "Veja frequência primeiro como fenômeno observável e só depois transforme-o em equações.",
+      "key_question_pt": "Que quantidade muda? O que permanece? Qual interação causa a mudança?",
+      "equation_pt": "Escolher a equação mínima necessária e explicar todas as grandezas e unidades.",
+      "experiment_pt": "Permitir alterar um parâmetro e ver o efeito no gráfico/diagrama.",
+      "common_errors_pt": [
+        "usar fórmula sem conferir unidades",
+        "confundir vetor e módulo",
+        "ignorar condições iniciais ou sinais"
+      ],
+      "micro_challenge_pt": "Faça uma previsão, altere um parâmetro e compare sua previsão com o modelo.",
+      "sources": [
+        "src_eear_edital_2027",
+        "src_phet_pt",
+        "src_geogebra"
+      ]
+    },
+    {
+      "id": "phys-depth-048",
+      "title_pt": "Período",
+      "intuitive_pt": "Veja período primeiro como fenômeno observável e só depois transforme-o em equações.",
+      "key_question_pt": "Que quantidade muda? O que permanece? Qual interação causa a mudança?",
+      "equation_pt": "Escolher a equação mínima necessária e explicar todas as grandezas e unidades.",
+      "experiment_pt": "Permitir alterar um parâmetro e ver o efeito no gráfico/diagrama.",
+      "common_errors_pt": [
+        "usar fórmula sem conferir unidades",
+        "confundir vetor e módulo",
+        "ignorar condições iniciais ou sinais"
+      ],
+      "micro_challenge_pt": "Faça uma previsão, altere um parâmetro e compare sua previsão com o modelo.",
+      "sources": [
+        "src_eear_edital_2027",
+        "src_phet_pt",
+        "src_geogebra"
+      ]
+    },
+    {
+      "id": "phys-depth-049",
+      "title_pt": "Comprimento de onda",
+      "intuitive_pt": "Veja comprimento de onda primeiro como fenômeno observável e só depois transforme-o em equações.",
+      "key_question_pt": "Que quantidade muda? O que permanece? Qual interação causa a mudança?",
+      "equation_pt": "Escolher a equação mínima necessária e explicar todas as grandezas e unidades.",
+      "experiment_pt": "Permitir alterar um parâmetro e ver o efeito no gráfico/diagrama.",
+      "common_errors_pt": [
+        "usar fórmula sem conferir unidades",
+        "confundir vetor e módulo",
+        "ignorar condições iniciais ou sinais"
+      ],
+      "micro_challenge_pt": "Faça uma previsão, altere um parâmetro e compare sua previsão com o modelo.",
+      "sources": [
+        "src_eear_edital_2027",
+        "src_phet_pt",
+        "src_geogebra"
+      ]
+    },
+    {
+      "id": "phys-depth-050",
+      "title_pt": "Velocidade de onda",
+      "intuitive_pt": "Veja velocidade de onda primeiro como fenômeno observável e só depois transforme-o em equações.",
+      "key_question_pt": "Que quantidade muda? O que permanece? Qual interação causa a mudança?",
+      "equation_pt": "Escolher a equação mínima necessária e explicar todas as grandezas e unidades.",
+      "experiment_pt": "Permitir alterar um parâmetro e ver o efeito no gráfico/diagrama.",
+      "common_errors_pt": [
+        "usar fórmula sem conferir unidades",
+        "confundir vetor e módulo",
+        "ignorar condições iniciais ou sinais"
+      ],
+      "micro_challenge_pt": "Faça uma previsão, altere um parâmetro e compare sua previsão com o modelo.",
+      "sources": [
+        "src_eear_edital_2027",
+        "src_phet_pt",
+        "src_geogebra"
+      ]
+    },
+    {
+      "id": "phys-depth-051",
+      "title_pt": "Interferência",
+      "intuitive_pt": "Veja interferência primeiro como fenômeno observável e só depois transforme-o em equações.",
+      "key_question_pt": "Que quantidade muda? O que permanece? Qual interação causa a mudança?",
+      "equation_pt": "Escolher a equação mínima necessária e explicar todas as grandezas e unidades.",
+      "experiment_pt": "Permitir alterar um parâmetro e ver o efeito no gráfico/diagrama.",
+      "common_errors_pt": [
+        "usar fórmula sem conferir unidades",
+        "confundir vetor e módulo",
+        "ignorar condições iniciais ou sinais"
+      ],
+      "micro_challenge_pt": "Faça uma previsão, altere um parâmetro e compare sua previsão com o modelo.",
+      "sources": [
+        "src_eear_edital_2027",
+        "src_phet_pt",
+        "src_geogebra"
+      ]
+    },
+    {
+      "id": "phys-depth-052",
+      "title_pt": "Ressonância",
+      "intuitive_pt": "Veja ressonância primeiro como fenômeno observável e só depois transforme-o em equações.",
+      "key_question_pt": "Que quantidade muda? O que permanece? Qual interação causa a mudança?",
+      "equation_pt": "Escolher a equação mínima necessária e explicar todas as grandezas e unidades.",
+      "experiment_pt": "Permitir alterar um parâmetro e ver o efeito no gráfico/diagrama.",
+      "common_errors_pt": [
+        "usar fórmula sem conferir unidades",
+        "confundir vetor e módulo",
+        "ignorar condições iniciais ou sinais"
+      ],
+      "micro_challenge_pt": "Faça uma previsão, altere um parâmetro e compare sua previsão com o modelo.",
+      "sources": [
+        "src_eear_edital_2027",
+        "src_phet_pt",
+        "src_geogebra"
+      ]
+    },
+    {
+      "id": "phys-depth-053",
+      "title_pt": "Som",
+      "intuitive_pt": "Veja som primeiro como fenômeno observável e só depois transforme-o em equações.",
+      "key_question_pt": "Que quantidade muda? O que permanece? Qual interação causa a mudança?",
+      "equation_pt": "Escolher a equação mínima necessária e explicar todas as grandezas e unidades.",
+      "experiment_pt": "Permitir alterar um parâmetro e ver o efeito no gráfico/diagrama.",
+      "common_errors_pt": [
+        "usar fórmula sem conferir unidades",
+        "confundir vetor e módulo",
+        "ignorar condições iniciais ou sinais"
+      ],
+      "micro_challenge_pt": "Faça uma previsão, altere um parâmetro e compare sua previsão com o modelo.",
+      "sources": [
+        "src_eear_edital_2027",
+        "src_phet_pt",
+        "src_geogebra"
+      ]
+    },
+    {
+      "id": "phys-depth-054",
+      "title_pt": "Efeito Doppler",
+      "intuitive_pt": "Veja efeito doppler primeiro como fenômeno observável e só depois transforme-o em equações.",
+      "key_question_pt": "Que quantidade muda? O que permanece? Qual interação causa a mudança?",
+      "equation_pt": "Escolher a equação mínima necessária e explicar todas as grandezas e unidades.",
+      "experiment_pt": "Permitir alterar um parâmetro e ver o efeito no gráfico/diagrama.",
+      "common_errors_pt": [
+        "usar fórmula sem conferir unidades",
+        "confundir vetor e módulo",
+        "ignorar condições iniciais ou sinais"
+      ],
+      "micro_challenge_pt": "Faça uma previsão, altere um parâmetro e compare sua previsão com o modelo.",
+      "sources": [
+        "src_eear_edital_2027",
+        "src_phet_pt",
+        "src_geogebra"
+      ]
+    },
+    {
+      "id": "phys-depth-055",
+      "title_pt": "Óptica geométrica",
+      "intuitive_pt": "Veja óptica geométrica primeiro como fenômeno observável e só depois transforme-o em equações.",
+      "key_question_pt": "Que quantidade muda? O que permanece? Qual interação causa a mudança?",
+      "equation_pt": "Escolher a equação mínima necessária e explicar todas as grandezas e unidades.",
+      "experiment_pt": "Permitir alterar um parâmetro e ver o efeito no gráfico/diagrama.",
+      "common_errors_pt": [
+        "usar fórmula sem conferir unidades",
+        "confundir vetor e módulo",
+        "ignorar condições iniciais ou sinais"
+      ],
+      "micro_challenge_pt": "Faça uma previsão, altere um parâmetro e compare sua previsão com o modelo.",
+      "sources": [
+        "src_eear_edital_2027",
+        "src_phet_pt",
+        "src_geogebra"
+      ]
+    },
+    {
+      "id": "phys-depth-056",
+      "title_pt": "Reflexão",
+      "intuitive_pt": "Veja reflexão primeiro como fenômeno observável e só depois transforme-o em equações.",
+      "key_question_pt": "Que quantidade muda? O que permanece? Qual interação causa a mudança?",
+      "equation_pt": "Escolher a equação mínima necessária e explicar todas as grandezas e unidades.",
+      "experiment_pt": "Permitir alterar um parâmetro e ver o efeito no gráfico/diagrama.",
+      "common_errors_pt": [
+        "usar fórmula sem conferir unidades",
+        "confundir vetor e módulo",
+        "ignorar condições iniciais ou sinais"
+      ],
+      "micro_challenge_pt": "Faça uma previsão, altere um parâmetro e compare sua previsão com o modelo.",
+      "sources": [
+        "src_eear_edital_2027",
+        "src_phet_pt",
+        "src_geogebra"
+      ]
+    },
+    {
+      "id": "phys-depth-057",
+      "title_pt": "Refração",
+      "intuitive_pt": "Veja refração primeiro como fenômeno observável e só depois transforme-o em equações.",
+      "key_question_pt": "Que quantidade muda? O que permanece? Qual interação causa a mudança?",
+      "equation_pt": "Escolher a equação mínima necessária e explicar todas as grandezas e unidades.",
+      "experiment_pt": "Permitir alterar um parâmetro e ver o efeito no gráfico/diagrama.",
+      "common_errors_pt": [
+        "usar fórmula sem conferir unidades",
+        "confundir vetor e módulo",
+        "ignorar condições iniciais ou sinais"
+      ],
+      "micro_challenge_pt": "Faça uma previsão, altere um parâmetro e compare sua previsão com o modelo.",
+      "sources": [
+        "src_eear_edital_2027",
+        "src_phet_pt",
+        "src_geogebra"
+      ]
+    },
+    {
+      "id": "phys-depth-058",
+      "title_pt": "Lentes",
+      "intuitive_pt": "Veja lentes primeiro como fenômeno observável e só depois transforme-o em equações.",
+      "key_question_pt": "Que quantidade muda? O que permanece? Qual interação causa a mudança?",
+      "equation_pt": "Escolher a equação mínima necessária e explicar todas as grandezas e unidades.",
+      "experiment_pt": "Permitir alterar um parâmetro e ver o efeito no gráfico/diagrama.",
+      "common_errors_pt": [
+        "usar fórmula sem conferir unidades",
+        "confundir vetor e módulo",
+        "ignorar condições iniciais ou sinais"
+      ],
+      "micro_challenge_pt": "Faça uma previsão, altere um parâmetro e compare sua previsão com o modelo.",
+      "sources": [
+        "src_eear_edital_2027",
+        "src_phet_pt",
+        "src_geogebra"
+      ]
+    },
+    {
+      "id": "phys-depth-059",
+      "title_pt": "Espelhos",
+      "intuitive_pt": "Veja espelhos primeiro como fenômeno observável e só depois transforme-o em equações.",
+      "key_question_pt": "Que quantidade muda? O que permanece? Qual interação causa a mudança?",
+      "equation_pt": "Escolher a equação mínima necessária e explicar todas as grandezas e unidades.",
+      "experiment_pt": "Permitir alterar um parâmetro e ver o efeito no gráfico/diagrama.",
+      "common_errors_pt": [
+        "usar fórmula sem conferir unidades",
+        "confundir vetor e módulo",
+        "ignorar condições iniciais ou sinais"
+      ],
+      "micro_challenge_pt": "Faça uma previsão, altere um parâmetro e compare sua previsão com o modelo.",
+      "sources": [
+        "src_eear_edital_2027",
+        "src_phet_pt",
+        "src_geogebra"
+      ]
+    },
+    {
+      "id": "phys-depth-060",
+      "title_pt": "Cargas elétricas",
+      "intuitive_pt": "Veja cargas elétricas primeiro como fenômeno observável e só depois transforme-o em equações.",
+      "key_question_pt": "Que quantidade muda? O que permanece? Qual interação causa a mudança?",
+      "equation_pt": "Escolher a equação mínima necessária e explicar todas as grandezas e unidades.",
+      "experiment_pt": "Permitir alterar um parâmetro e ver o efeito no gráfico/diagrama.",
+      "common_errors_pt": [
+        "usar fórmula sem conferir unidades",
+        "confundir vetor e módulo",
+        "ignorar condições iniciais ou sinais"
+      ],
+      "micro_challenge_pt": "Faça uma previsão, altere um parâmetro e compare sua previsão com o modelo.",
+      "sources": [
+        "src_eear_edital_2027",
+        "src_phet_pt",
+        "src_geogebra"
+      ]
+    },
+    {
+      "id": "phys-depth-061",
+      "title_pt": "Campo elétrico",
+      "intuitive_pt": "Veja campo elétrico primeiro como fenômeno observável e só depois transforme-o em equações.",
+      "key_question_pt": "Que quantidade muda? O que permanece? Qual interação causa a mudança?",
+      "equation_pt": "Escolher a equação mínima necessária e explicar todas as grandezas e unidades.",
+      "experiment_pt": "Permitir alterar um parâmetro e ver o efeito no gráfico/diagrama.",
+      "common_errors_pt": [
+        "usar fórmula sem conferir unidades",
+        "confundir vetor e módulo",
+        "ignorar condições iniciais ou sinais"
+      ],
+      "micro_challenge_pt": "Faça uma previsão, altere um parâmetro e compare sua previsão com o modelo.",
+      "sources": [
+        "src_eear_edital_2027",
+        "src_phet_pt",
+        "src_geogebra"
+      ]
+    },
+    {
+      "id": "phys-depth-062",
+      "title_pt": "Potencial elétrico",
+      "intuitive_pt": "Veja potencial elétrico primeiro como fenômeno observável e só depois transforme-o em equações.",
+      "key_question_pt": "Que quantidade muda? O que permanece? Qual interação causa a mudança?",
+      "equation_pt": "Escolher a equação mínima necessária e explicar todas as grandezas e unidades.",
+      "experiment_pt": "Permitir alterar um parâmetro e ver o efeito no gráfico/diagrama.",
+      "common_errors_pt": [
+        "usar fórmula sem conferir unidades",
+        "confundir vetor e módulo",
+        "ignorar condições iniciais ou sinais"
+      ],
+      "micro_challenge_pt": "Faça uma previsão, altere um parâmetro e compare sua previsão com o modelo.",
+      "sources": [
+        "src_eear_edital_2027",
+        "src_phet_pt",
+        "src_geogebra"
+      ]
+    },
+    {
+      "id": "phys-depth-063",
+      "title_pt": "Corrente",
+      "intuitive_pt": "Veja corrente primeiro como fenômeno observável e só depois transforme-o em equações.",
+      "key_question_pt": "Que quantidade muda? O que permanece? Qual interação causa a mudança?",
+      "equation_pt": "Escolher a equação mínima necessária e explicar todas as grandezas e unidades.",
+      "experiment_pt": "Permitir alterar um parâmetro e ver o efeito no gráfico/diagrama.",
+      "common_errors_pt": [
+        "usar fórmula sem conferir unidades",
+        "confundir vetor e módulo",
+        "ignorar condições iniciais ou sinais"
+      ],
+      "micro_challenge_pt": "Faça uma previsão, altere um parâmetro e compare sua previsão com o modelo.",
+      "sources": [
+        "src_eear_edital_2027",
+        "src_phet_pt",
+        "src_geogebra"
+      ]
+    },
+    {
+      "id": "phys-depth-064",
+      "title_pt": "Resistência",
+      "intuitive_pt": "Veja resistência primeiro como fenômeno observável e só depois transforme-o em equações.",
+      "key_question_pt": "Que quantidade muda? O que permanece? Qual interação causa a mudança?",
+      "equation_pt": "Escolher a equação mínima necessária e explicar todas as grandezas e unidades.",
+      "experiment_pt": "Permitir alterar um parâmetro e ver o efeito no gráfico/diagrama.",
+      "common_errors_pt": [
+        "usar fórmula sem conferir unidades",
+        "confundir vetor e módulo",
+        "ignorar condições iniciais ou sinais"
+      ],
+      "micro_challenge_pt": "Faça uma previsão, altere um parâmetro e compare sua previsão com o modelo.",
+      "sources": [
+        "src_eear_edital_2027",
+        "src_phet_pt",
+        "src_geogebra"
+      ]
+    },
+    {
+      "id": "phys-depth-065",
+      "title_pt": "Lei de Ohm",
+      "intuitive_pt": "Veja lei de ohm primeiro como fenômeno observável e só depois transforme-o em equações.",
+      "key_question_pt": "Que quantidade muda? O que permanece? Qual interação causa a mudança?",
+      "equation_pt": "Escolher a equação mínima necessária e explicar todas as grandezas e unidades.",
+      "experiment_pt": "Permitir alterar um parâmetro e ver o efeito no gráfico/diagrama.",
+      "common_errors_pt": [
+        "usar fórmula sem conferir unidades",
+        "confundir vetor e módulo",
+        "ignorar condições iniciais ou sinais"
+      ],
+      "micro_challenge_pt": "Faça uma previsão, altere um parâmetro e compare sua previsão com o modelo.",
+      "sources": [
+        "src_eear_edital_2027",
+        "src_phet_pt",
+        "src_geogebra"
+      ]
+    },
+    {
+      "id": "phys-depth-066",
+      "title_pt": "Potência elétrica",
+      "intuitive_pt": "Veja potência elétrica primeiro como fenômeno observável e só depois transforme-o em equações.",
+      "key_question_pt": "Que quantidade muda? O que permanece? Qual interação causa a mudança?",
+      "equation_pt": "Escolher a equação mínima necessária e explicar todas as grandezas e unidades.",
+      "experiment_pt": "Permitir alterar um parâmetro e ver o efeito no gráfico/diagrama.",
+      "common_errors_pt": [
+        "usar fórmula sem conferir unidades",
+        "confundir vetor e módulo",
+        "ignorar condições iniciais ou sinais"
+      ],
+      "micro_challenge_pt": "Faça uma previsão, altere um parâmetro e compare sua previsão com o modelo.",
+      "sources": [
+        "src_eear_edital_2027",
+        "src_phet_pt",
+        "src_geogebra"
+      ]
+    },
+    {
+      "id": "phys-depth-067",
+      "title_pt": "Associação de resistores",
+      "intuitive_pt": "Veja associação de resistores primeiro como fenômeno observável e só depois transforme-o em equações.",
+      "key_question_pt": "Que quantidade muda? O que permanece? Qual interação causa a mudança?",
+      "equation_pt": "Escolher a equação mínima necessária e explicar todas as grandezas e unidades.",
+      "experiment_pt": "Permitir alterar um parâmetro e ver o efeito no gráfico/diagrama.",
+      "common_errors_pt": [
+        "usar fórmula sem conferir unidades",
+        "confundir vetor e módulo",
+        "ignorar condições iniciais ou sinais"
+      ],
+      "micro_challenge_pt": "Faça uma previsão, altere um parâmetro e compare sua previsão com o modelo.",
+      "sources": [
+        "src_eear_edital_2027",
+        "src_phet_pt",
+        "src_geogebra"
+      ]
+    },
+    {
+      "id": "phys-depth-068",
+      "title_pt": "Circuitos",
+      "intuitive_pt": "Veja circuitos primeiro como fenômeno observável e só depois transforme-o em equações.",
+      "key_question_pt": "Que quantidade muda? O que permanece? Qual interação causa a mudança?",
+      "equation_pt": "Escolher a equação mínima necessária e explicar todas as grandezas e unidades.",
+      "experiment_pt": "Permitir alterar um parâmetro e ver o efeito no gráfico/diagrama.",
+      "common_errors_pt": [
+        "usar fórmula sem conferir unidades",
+        "confundir vetor e módulo",
+        "ignorar condições iniciais ou sinais"
+      ],
+      "micro_challenge_pt": "Faça uma previsão, altere um parâmetro e compare sua previsão com o modelo.",
+      "sources": [
+        "src_eear_edital_2027",
+        "src_phet_pt",
+        "src_geogebra"
+      ]
+    },
+    {
+      "id": "phys-depth-069",
+      "title_pt": "Magnetismo",
+      "intuitive_pt": "Veja magnetismo primeiro como fenômeno observável e só depois transforme-o em equações.",
+      "key_question_pt": "Que quantidade muda? O que permanece? Qual interação causa a mudança?",
+      "equation_pt": "Escolher a equação mínima necessária e explicar todas as grandezas e unidades.",
+      "experiment_pt": "Permitir alterar um parâmetro e ver o efeito no gráfico/diagrama.",
+      "common_errors_pt": [
+        "usar fórmula sem conferir unidades",
+        "confundir vetor e módulo",
+        "ignorar condições iniciais ou sinais"
+      ],
+      "micro_challenge_pt": "Faça uma previsão, altere um parâmetro e compare sua previsão com o modelo.",
+      "sources": [
+        "src_eear_edital_2027",
+        "src_phet_pt",
+        "src_geogebra"
+      ]
+    },
+    {
+      "id": "phys-depth-070",
+      "title_pt": "Força magnética",
+      "intuitive_pt": "Veja força magnética primeiro como fenômeno observável e só depois transforme-o em equações.",
+      "key_question_pt": "Que quantidade muda? O que permanece? Qual interação causa a mudança?",
+      "equation_pt": "Escolher a equação mínima necessária e explicar todas as grandezas e unidades.",
+      "experiment_pt": "Permitir alterar um parâmetro e ver o efeito no gráfico/diagrama.",
+      "common_errors_pt": [
+        "usar fórmula sem conferir unidades",
+        "confundir vetor e módulo",
+        "ignorar condições iniciais ou sinais"
+      ],
+      "micro_challenge_pt": "Faça uma previsão, altere um parâmetro e compare sua previsão com o modelo.",
+      "sources": [
+        "src_eear_edital_2027",
+        "src_phet_pt",
+        "src_geogebra"
+      ]
+    },
+    {
+      "id": "phys-depth-071",
+      "title_pt": "Indução eletromagnética",
+      "intuitive_pt": "Veja indução eletromagnética primeiro como fenômeno observável e só depois transforme-o em equações.",
+      "key_question_pt": "Que quantidade muda? O que permanece? Qual interação causa a mudança?",
+      "equation_pt": "Escolher a equação mínima necessária e explicar todas as grandezas e unidades.",
+      "experiment_pt": "Permitir alterar um parâmetro e ver o efeito no gráfico/diagrama.",
+      "common_errors_pt": [
+        "usar fórmula sem conferir unidades",
+        "confundir vetor e módulo",
+        "ignorar condições iniciais ou sinais"
+      ],
+      "micro_challenge_pt": "Faça uma previsão, altere um parâmetro e compare sua previsão com o modelo.",
+      "sources": [
+        "src_eear_edital_2027",
+        "src_phet_pt",
+        "src_geogebra"
+      ]
+    },
+    {
+      "id": "phys-depth-072",
+      "title_pt": "Transformadores",
+      "intuitive_pt": "Veja transformadores primeiro como fenômeno observável e só depois transforme-o em equações.",
+      "key_question_pt": "Que quantidade muda? O que permanece? Qual interação causa a mudança?",
+      "equation_pt": "Escolher a equação mínima necessária e explicar todas as grandezas e unidades.",
+      "experiment_pt": "Permitir alterar um parâmetro e ver o efeito no gráfico/diagrama.",
+      "common_errors_pt": [
+        "usar fórmula sem conferir unidades",
+        "confundir vetor e módulo",
+        "ignorar condições iniciais ou sinais"
+      ],
+      "micro_challenge_pt": "Faça uma previsão, altere um parâmetro e compare sua previsão com o modelo.",
+      "sources": [
+        "src_eear_edital_2027",
+        "src_phet_pt",
+        "src_geogebra"
+      ]
+    },
+    {
+      "id": "phys-depth-073",
+      "title_pt": "Espectro eletromagnético",
+      "intuitive_pt": "Veja espectro eletromagnético primeiro como fenômeno observável e só depois transforme-o em equações.",
+      "key_question_pt": "Que quantidade muda? O que permanece? Qual interação causa a mudança?",
+      "equation_pt": "Escolher a equação mínima necessária e explicar todas as grandezas e unidades.",
+      "experiment_pt": "Permitir alterar um parâmetro e ver o efeito no gráfico/diagrama.",
+      "common_errors_pt": [
+        "usar fórmula sem conferir unidades",
+        "confundir vetor e módulo",
+        "ignorar condições iniciais ou sinais"
+      ],
+      "micro_challenge_pt": "Faça uma previsão, altere um parâmetro e compare sua previsão com o modelo.",
+      "sources": [
+        "src_eear_edital_2027",
+        "src_phet_pt",
+        "src_geogebra"
+      ]
+    },
+    {
+      "id": "phys-depth-074",
+      "title_pt": "Radioatividade",
+      "intuitive_pt": "Veja radioatividade primeiro como fenômeno observável e só depois transforme-o em equações.",
+      "key_question_pt": "Que quantidade muda? O que permanece? Qual interação causa a mudança?",
+      "equation_pt": "Escolher a equação mínima necessária e explicar todas as grandezas e unidades.",
+      "experiment_pt": "Permitir alterar um parâmetro e ver o efeito no gráfico/diagrama.",
+      "common_errors_pt": [
+        "usar fórmula sem conferir unidades",
+        "confundir vetor e módulo",
+        "ignorar condições iniciais ou sinais"
+      ],
+      "micro_challenge_pt": "Faça uma previsão, altere um parâmetro e compare sua previsão com o modelo.",
+      "sources": [
+        "src_eear_edital_2027",
+        "src_phet_pt",
+        "src_geogebra"
+      ]
+    },
+    {
+      "id": "phys-depth-075",
+      "title_pt": "Decaimento",
+      "intuitive_pt": "Veja decaimento primeiro como fenômeno observável e só depois transforme-o em equações.",
+      "key_question_pt": "Que quantidade muda? O que permanece? Qual interação causa a mudança?",
+      "equation_pt": "Escolher a equação mínima necessária e explicar todas as grandezas e unidades.",
+      "experiment_pt": "Permitir alterar um parâmetro e ver o efeito no gráfico/diagrama.",
+      "common_errors_pt": [
+        "usar fórmula sem conferir unidades",
+        "confundir vetor e módulo",
+        "ignorar condições iniciais ou sinais"
+      ],
+      "micro_challenge_pt": "Faça uma previsão, altere um parâmetro e compare sua previsão com o modelo.",
+      "sources": [
+        "src_eear_edital_2027",
+        "src_phet_pt",
+        "src_geogebra"
+      ]
+    },
+    {
+      "id": "phys-depth-076",
+      "title_pt": "Meia-vida",
+      "intuitive_pt": "Veja meia-vida primeiro como fenômeno observável e só depois transforme-o em equações.",
+      "key_question_pt": "Que quantidade muda? O que permanece? Qual interação causa a mudança?",
+      "equation_pt": "Escolher a equação mínima necessária e explicar todas as grandezas e unidades.",
+      "experiment_pt": "Permitir alterar um parâmetro e ver o efeito no gráfico/diagrama.",
+      "common_errors_pt": [
+        "usar fórmula sem conferir unidades",
+        "confundir vetor e módulo",
+        "ignorar condições iniciais ou sinais"
+      ],
+      "micro_challenge_pt": "Faça uma previsão, altere um parâmetro e compare sua previsão com o modelo.",
+      "sources": [
+        "src_eear_edital_2027",
+        "src_phet_pt",
+        "src_geogebra"
+      ]
+    },
+    {
+      "id": "phys-depth-077",
+      "title_pt": "Física moderna",
+      "intuitive_pt": "Veja física moderna primeiro como fenômeno observável e só depois transforme-o em equações.",
+      "key_question_pt": "Que quantidade muda? O que permanece? Qual interação causa a mudança?",
+      "equation_pt": "Escolher a equação mínima necessária e explicar todas as grandezas e unidades.",
+      "experiment_pt": "Permitir alterar um parâmetro e ver o efeito no gráfico/diagrama.",
+      "common_errors_pt": [
+        "usar fórmula sem conferir unidades",
+        "confundir vetor e módulo",
+        "ignorar condições iniciais ou sinais"
+      ],
+      "micro_challenge_pt": "Faça uma previsão, altere um parâmetro e compare sua previsão com o modelo.",
+      "sources": [
+        "src_eear_edital_2027",
+        "src_phet_pt",
+        "src_geogebra"
+      ]
+    },
+    {
+      "id": "phys-depth-078",
+      "title_pt": "Efeito fotoelétrico",
+      "intuitive_pt": "Veja efeito fotoelétrico primeiro como fenômeno observável e só depois transforme-o em equações.",
+      "key_question_pt": "Que quantidade muda? O que permanece? Qual interação causa a mudança?",
+      "equation_pt": "Escolher a equação mínima necessária e explicar todas as grandezas e unidades.",
+      "experiment_pt": "Permitir alterar um parâmetro e ver o efeito no gráfico/diagrama.",
+      "common_errors_pt": [
+        "usar fórmula sem conferir unidades",
+        "confundir vetor e módulo",
+        "ignorar condições iniciais ou sinais"
+      ],
+      "micro_challenge_pt": "Faça uma previsão, altere um parâmetro e compare sua previsão com o modelo.",
+      "sources": [
+        "src_eear_edital_2027",
+        "src_phet_pt",
+        "src_geogebra"
+      ]
+    },
+    {
+      "id": "phys-depth-079",
+      "title_pt": "Dualidade onda-partícula",
+      "intuitive_pt": "Veja dualidade onda-partícula primeiro como fenômeno observável e só depois transforme-o em equações.",
+      "key_question_pt": "Que quantidade muda? O que permanece? Qual interação causa a mudança?",
+      "equation_pt": "Escolher a equação mínima necessária e explicar todas as grandezas e unidades.",
+      "experiment_pt": "Permitir alterar um parâmetro e ver o efeito no gráfico/diagrama.",
+      "common_errors_pt": [
+        "usar fórmula sem conferir unidades",
+        "confundir vetor e módulo",
+        "ignorar condições iniciais ou sinais"
+      ],
+      "micro_challenge_pt": "Faça uma previsão, altere um parâmetro e compare sua previsão com o modelo.",
+      "sources": [
+        "src_eear_edital_2027",
+        "src_phet_pt",
+        "src_geogebra"
+      ]
+    },
+    {
+      "id": "phys-depth-080",
+      "title_pt": "Relatividade como curiosidade",
+      "intuitive_pt": "Veja relatividade como curiosidade primeiro como fenômeno observável e só depois transforme-o em equações.",
+      "key_question_pt": "Que quantidade muda? O que permanece? Qual interação causa a mudança?",
+      "equation_pt": "Escolher a equação mínima necessária e explicar todas as grandezas e unidades.",
+      "experiment_pt": "Permitir alterar um parâmetro e ver o efeito no gráfico/diagrama.",
+      "common_errors_pt": [
+        "usar fórmula sem conferir unidades",
+        "confundir vetor e módulo",
+        "ignorar condições iniciais ou sinais"
+      ],
+      "micro_challenge_pt": "Faça uma previsão, altere um parâmetro e compare sua previsão com o modelo.",
+      "sources": [
+        "src_eear_edital_2027",
+        "src_phet_pt",
+        "src_geogebra"
+      ]
+    },
+    {
+      "id": "phys-depth-081",
+      "title_pt": "Erros de medição",
+      "intuitive_pt": "Veja erros de medição primeiro como fenômeno observável e só depois transforme-o em equações.",
+      "key_question_pt": "Que quantidade muda? O que permanece? Qual interação causa a mudança?",
+      "equation_pt": "Escolher a equação mínima necessária e explicar todas as grandezas e unidades.",
+      "experiment_pt": "Permitir alterar um parâmetro e ver o efeito no gráfico/diagrama.",
+      "common_errors_pt": [
+        "usar fórmula sem conferir unidades",
+        "confundir vetor e módulo",
+        "ignorar condições iniciais ou sinais"
+      ],
+      "micro_challenge_pt": "Faça uma previsão, altere um parâmetro e compare sua previsão com o modelo.",
+      "sources": [
+        "src_eear_edital_2027",
+        "src_phet_pt",
+        "src_geogebra"
+      ]
+    },
+    {
+      "id": "phys-depth-082",
+      "title_pt": "Incerteza",
+      "intuitive_pt": "Veja incerteza primeiro como fenômeno observável e só depois transforme-o em equações.",
+      "key_question_pt": "Que quantidade muda? O que permanece? Qual interação causa a mudança?",
+      "equation_pt": "Escolher a equação mínima necessária e explicar todas as grandezas e unidades.",
+      "experiment_pt": "Permitir alterar um parâmetro e ver o efeito no gráfico/diagrama.",
+      "common_errors_pt": [
+        "usar fórmula sem conferir unidades",
+        "confundir vetor e módulo",
+        "ignorar condições iniciais ou sinais"
+      ],
+      "micro_challenge_pt": "Faça uma previsão, altere um parâmetro e compare sua previsão com o modelo.",
+      "sources": [
+        "src_eear_edital_2027",
+        "src_phet_pt",
+        "src_geogebra"
+      ]
+    },
+    {
+      "id": "phys-depth-083",
+      "title_pt": "Gráficos experimentais",
+      "intuitive_pt": "Veja gráficos experimentais primeiro como fenômeno observável e só depois transforme-o em equações.",
+      "key_question_pt": "Que quantidade muda? O que permanece? Qual interação causa a mudança?",
+      "equation_pt": "Escolher a equação mínima necessária e explicar todas as grandezas e unidades.",
+      "experiment_pt": "Permitir alterar um parâmetro e ver o efeito no gráfico/diagrama.",
+      "common_errors_pt": [
+        "usar fórmula sem conferir unidades",
+        "confundir vetor e módulo",
+        "ignorar condições iniciais ou sinais"
+      ],
+      "micro_challenge_pt": "Faça uma previsão, altere um parâmetro e compare sua previsão com o modelo.",
+      "sources": [
+        "src_eear_edital_2027",
+        "src_phet_pt",
+        "src_geogebra"
+      ]
+    },
+    {
+      "id": "phys-depth-084",
+      "title_pt": "Modelagem física",
+      "intuitive_pt": "Veja modelagem física primeiro como fenômeno observável e só depois transforme-o em equações.",
+      "key_question_pt": "Que quantidade muda? O que permanece? Qual interação causa a mudança?",
+      "equation_pt": "Escolher a equação mínima necessária e explicar todas as grandezas e unidades.",
+      "experiment_pt": "Permitir alterar um parâmetro e ver o efeito no gráfico/diagrama.",
+      "common_errors_pt": [
+        "usar fórmula sem conferir unidades",
+        "confundir vetor e módulo",
+        "ignorar condições iniciais ou sinais"
+      ],
+      "micro_challenge_pt": "Faça uma previsão, altere um parâmetro e compare sua previsão com o modelo.",
+      "sources": [
+        "src_eear_edital_2027",
+        "src_phet_pt",
+        "src_geogebra"
+      ]
+    },
+    {
+      "id": "phys-depth-085",
+      "title_pt": "Oscilações",
+      "intuitive_pt": "Veja oscilações primeiro como fenômeno observável e só depois transforme-o em equações.",
+      "key_question_pt": "Que quantidade muda? O que permanece? Qual interação causa a mudança?",
+      "equation_pt": "Escolher a equação mínima necessária e explicar todas as grandezas e unidades.",
+      "experiment_pt": "Permitir alterar um parâmetro e ver o efeito no gráfico/diagrama.",
+      "common_errors_pt": [
+        "usar fórmula sem conferir unidades",
+        "confundir vetor e módulo",
+        "ignorar condições iniciais ou sinais"
+      ],
+      "micro_challenge_pt": "Faça uma previsão, altere um parâmetro e compare sua previsão com o modelo.",
+      "sources": [
+        "src_eear_edital_2027",
+        "src_phet_pt",
+        "src_geogebra"
+      ]
+    },
+    {
+      "id": "phys-depth-086",
+      "title_pt": "Pêndulo",
+      "intuitive_pt": "Veja pêndulo primeiro como fenômeno observável e só depois transforme-o em equações.",
+      "key_question_pt": "Que quantidade muda? O que permanece? Qual interação causa a mudança?",
+      "equation_pt": "Escolher a equação mínima necessária e explicar todas as grandezas e unidades.",
+      "experiment_pt": "Permitir alterar um parâmetro e ver o efeito no gráfico/diagrama.",
+      "common_errors_pt": [
+        "usar fórmula sem conferir unidades",
+        "confundir vetor e módulo",
+        "ignorar condições iniciais ou sinais"
+      ],
+      "micro_challenge_pt": "Faça uma previsão, altere um parâmetro e compare sua previsão com o modelo.",
+      "sources": [
+        "src_eear_edital_2027",
+        "src_phet_pt",
+        "src_geogebra"
+      ]
+    },
+    {
+      "id": "phys-depth-087",
+      "title_pt": "Movimento harmônico simples",
+      "intuitive_pt": "Veja movimento harmônico simples primeiro como fenômeno observável e só depois transforme-o em equações.",
+      "key_question_pt": "Que quantidade muda? O que permanece? Qual interação causa a mudança?",
+      "equation_pt": "Escolher a equação mínima necessária e explicar todas as grandezas e unidades.",
+      "experiment_pt": "Permitir alterar um parâmetro e ver o efeito no gráfico/diagrama.",
+      "common_errors_pt": [
+        "usar fórmula sem conferir unidades",
+        "confundir vetor e módulo",
+        "ignorar condições iniciais ou sinais"
+      ],
+      "micro_challenge_pt": "Faça uma previsão, altere um parâmetro e compare sua previsão com o modelo.",
+      "sources": [
+        "src_eear_edital_2027",
+        "src_phet_pt",
+        "src_geogebra"
+      ]
+    },
+    {
+      "id": "phys-depth-088",
+      "title_pt": "Equilíbrio",
+      "intuitive_pt": "Veja equilíbrio primeiro como fenômeno observável e só depois transforme-o em equações.",
+      "key_question_pt": "Que quantidade muda? O que permanece? Qual interação causa a mudança?",
+      "equation_pt": "Escolher a equação mínima necessária e explicar todas as grandezas e unidades.",
+      "experiment_pt": "Permitir alterar um parâmetro e ver o efeito no gráfico/diagrama.",
+      "common_errors_pt": [
+        "usar fórmula sem conferir unidades",
+        "confundir vetor e módulo",
+        "ignorar condições iniciais ou sinais"
+      ],
+      "micro_challenge_pt": "Faça uma previsão, altere um parâmetro e compare sua previsão com o modelo.",
+      "sources": [
+        "src_eear_edital_2027",
+        "src_phet_pt",
+        "src_geogebra"
+      ]
+    },
+    {
+      "id": "phys-depth-089",
+      "title_pt": "Torque",
+      "intuitive_pt": "Veja torque primeiro como fenômeno observável e só depois transforme-o em equações.",
+      "key_question_pt": "Que quantidade muda? O que permanece? Qual interação causa a mudança?",
+      "equation_pt": "Escolher a equação mínima necessária e explicar todas as grandezas e unidades.",
+      "experiment_pt": "Permitir alterar um parâmetro e ver o efeito no gráfico/diagrama.",
+      "common_errors_pt": [
+        "usar fórmula sem conferir unidades",
+        "confundir vetor e módulo",
+        "ignorar condições iniciais ou sinais"
+      ],
+      "micro_challenge_pt": "Faça uma previsão, altere um parâmetro e compare sua previsão com o modelo.",
+      "sources": [
+        "src_eear_edital_2027",
+        "src_phet_pt",
+        "src_geogebra"
+      ]
+    },
+    {
+      "id": "phys-depth-090",
+      "title_pt": "Centro de massa",
+      "intuitive_pt": "Veja centro de massa primeiro como fenômeno observável e só depois transforme-o em equações.",
+      "key_question_pt": "Que quantidade muda? O que permanece? Qual interação causa a mudança?",
+      "equation_pt": "Escolher a equação mínima necessária e explicar todas as grandezas e unidades.",
+      "experiment_pt": "Permitir alterar um parâmetro e ver o efeito no gráfico/diagrama.",
+      "common_errors_pt": [
+        "usar fórmula sem conferir unidades",
+        "confundir vetor e módulo",
+        "ignorar condições iniciais ou sinais"
+      ],
+      "micro_challenge_pt": "Faça uma previsão, altere um parâmetro e compare sua previsão com o modelo.",
+      "sources": [
+        "src_eear_edital_2027",
+        "src_phet_pt",
+        "src_geogebra"
+      ]
+    },
+    {
+      "id": "phys-depth-091",
+      "title_pt": "Elasticidade",
+      "intuitive_pt": "Veja elasticidade primeiro como fenômeno observável e só depois transforme-o em equações.",
+      "key_question_pt": "Que quantidade muda? O que permanece? Qual interação causa a mudança?",
+      "equation_pt": "Escolher a equação mínima necessária e explicar todas as grandezas e unidades.",
+      "experiment_pt": "Permitir alterar um parâmetro e ver o efeito no gráfico/diagrama.",
+      "common_errors_pt": [
+        "usar fórmula sem conferir unidades",
+        "confundir vetor e módulo",
+        "ignorar condições iniciais ou sinais"
+      ],
+      "micro_challenge_pt": "Faça uma previsão, altere um parâmetro e compare sua previsão com o modelo.",
+      "sources": [
+        "src_eear_edital_2027",
+        "src_phet_pt",
+        "src_geogebra"
+      ]
+    },
+    {
+      "id": "phys-depth-092",
+      "title_pt": "Viscosidade",
+      "intuitive_pt": "Veja viscosidade primeiro como fenômeno observável e só depois transforme-o em equações.",
+      "key_question_pt": "Que quantidade muda? O que permanece? Qual interação causa a mudança?",
+      "equation_pt": "Escolher a equação mínima necessária e explicar todas as grandezas e unidades.",
+      "experiment_pt": "Permitir alterar um parâmetro e ver o efeito no gráfico/diagrama.",
+      "common_errors_pt": [
+        "usar fórmula sem conferir unidades",
+        "confundir vetor e módulo",
+        "ignorar condições iniciais ou sinais"
+      ],
+      "micro_challenge_pt": "Faça uma previsão, altere um parâmetro e compare sua previsão com o modelo.",
+      "sources": [
+        "src_eear_edital_2027",
+        "src_phet_pt",
+        "src_geogebra"
+      ]
+    },
+    {
+      "id": "phys-depth-093",
+      "title_pt": "Arrasto",
+      "intuitive_pt": "Veja arrasto primeiro como fenômeno observável e só depois transforme-o em equações.",
+      "key_question_pt": "Que quantidade muda? O que permanece? Qual interação causa a mudança?",
+      "equation_pt": "Escolher a equação mínima necessária e explicar todas as grandezas e unidades.",
+      "experiment_pt": "Permitir alterar um parâmetro e ver o efeito no gráfico/diagrama.",
+      "common_errors_pt": [
+        "usar fórmula sem conferir unidades",
+        "confundir vetor e módulo",
+        "ignorar condições iniciais ou sinais"
+      ],
+      "micro_challenge_pt": "Faça uma previsão, altere um parâmetro e compare sua previsão com o modelo.",
+      "sources": [
+        "src_eear_edital_2027",
+        "src_phet_pt",
+        "src_geogebra"
+      ]
+    },
+    {
+      "id": "phys-depth-094",
+      "title_pt": "Flutuação",
+      "intuitive_pt": "Veja flutuação primeiro como fenômeno observável e só depois transforme-o em equações.",
+      "key_question_pt": "Que quantidade muda? O que permanece? Qual interação causa a mudança?",
+      "equation_pt": "Escolher a equação mínima necessária e explicar todas as grandezas e unidades.",
+      "experiment_pt": "Permitir alterar um parâmetro e ver o efeito no gráfico/diagrama.",
+      "common_errors_pt": [
+        "usar fórmula sem conferir unidades",
+        "confundir vetor e módulo",
+        "ignorar condições iniciais ou sinais"
+      ],
+      "micro_challenge_pt": "Faça uma previsão, altere um parâmetro e compare sua previsão com o modelo.",
+      "sources": [
+        "src_eear_edital_2027",
+        "src_phet_pt",
+        "src_geogebra"
+      ]
+    },
+    {
+      "id": "phys-depth-095",
+      "title_pt": "Capilaridade",
+      "intuitive_pt": "Veja capilaridade primeiro como fenômeno observável e só depois transforme-o em equações.",
+      "key_question_pt": "Que quantidade muda? O que permanece? Qual interação causa a mudança?",
+      "equation_pt": "Escolher a equação mínima necessária e explicar todas as grandezas e unidades.",
+      "experiment_pt": "Permitir alterar um parâmetro e ver o efeito no gráfico/diagrama.",
+      "common_errors_pt": [
+        "usar fórmula sem conferir unidades",
+        "confundir vetor e módulo",
+        "ignorar condições iniciais ou sinais"
+      ],
+      "micro_challenge_pt": "Faça uma previsão, altere um parâmetro e compare sua previsão com o modelo.",
+      "sources": [
+        "src_eear_edital_2027",
+        "src_phet_pt",
+        "src_geogebra"
+      ]
+    },
+    {
+      "id": "phys-depth-096",
+      "title_pt": "Transferência de calor",
+      "intuitive_pt": "Veja transferência de calor primeiro como fenômeno observável e só depois transforme-o em equações.",
+      "key_question_pt": "Que quantidade muda? O que permanece? Qual interação causa a mudança?",
+      "equation_pt": "Escolher a equação mínima necessária e explicar todas as grandezas e unidades.",
+      "experiment_pt": "Permitir alterar um parâmetro e ver o efeito no gráfico/diagrama.",
+      "common_errors_pt": [
+        "usar fórmula sem conferir unidades",
+        "confundir vetor e módulo",
+        "ignorar condições iniciais ou sinais"
+      ],
+      "micro_challenge_pt": "Faça uma previsão, altere um parâmetro e compare sua previsão com o modelo.",
+      "sources": [
+        "src_eear_edital_2027",
+        "src_phet_pt",
+        "src_geogebra"
+      ]
+    },
+    {
+      "id": "phys-depth-097",
+      "title_pt": "Convecção",
+      "intuitive_pt": "Veja convecção primeiro como fenômeno observável e só depois transforme-o em equações.",
+      "key_question_pt": "Que quantidade muda? O que permanece? Qual interação causa a mudança?",
+      "equation_pt": "Escolher a equação mínima necessária e explicar todas as grandezas e unidades.",
+      "experiment_pt": "Permitir alterar um parâmetro e ver o efeito no gráfico/diagrama.",
+      "common_errors_pt": [
+        "usar fórmula sem conferir unidades",
+        "confundir vetor e módulo",
+        "ignorar condições iniciais ou sinais"
+      ],
+      "micro_challenge_pt": "Faça uma previsão, altere um parâmetro e compare sua previsão com o modelo.",
+      "sources": [
+        "src_eear_edital_2027",
+        "src_phet_pt",
+        "src_geogebra"
+      ]
+    },
+    {
+      "id": "phys-depth-098",
+      "title_pt": "Radiação térmica",
+      "intuitive_pt": "Veja radiação térmica primeiro como fenômeno observável e só depois transforme-o em equações.",
+      "key_question_pt": "Que quantidade muda? O que permanece? Qual interação causa a mudança?",
+      "equation_pt": "Escolher a equação mínima necessária e explicar todas as grandezas e unidades.",
+      "experiment_pt": "Permitir alterar um parâmetro e ver o efeito no gráfico/diagrama.",
+      "common_errors_pt": [
+        "usar fórmula sem conferir unidades",
+        "confundir vetor e módulo",
+        "ignorar condições iniciais ou sinais"
+      ],
+      "micro_challenge_pt": "Faça uma previsão, altere um parâmetro e compare sua previsão com o modelo.",
+      "sources": [
+        "src_eear_edital_2027",
+        "src_phet_pt",
+        "src_geogebra"
+      ]
+    },
+    {
+      "id": "phys-depth-099",
+      "title_pt": "Corpo negro",
+      "intuitive_pt": "Veja corpo negro primeiro como fenômeno observável e só depois transforme-o em equações.",
+      "key_question_pt": "Que quantidade muda? O que permanece? Qual interação causa a mudança?",
+      "equation_pt": "Escolher a equação mínima necessária e explicar todas as grandezas e unidades.",
+      "experiment_pt": "Permitir alterar um parâmetro e ver o efeito no gráfico/diagrama.",
+      "common_errors_pt": [
+        "usar fórmula sem conferir unidades",
+        "confundir vetor e módulo",
+        "ignorar condições iniciais ou sinais"
+      ],
+      "micro_challenge_pt": "Faça uma previsão, altere um parâmetro e compare sua previsão com o modelo.",
+      "sources": [
+        "src_eear_edital_2027",
+        "src_phet_pt",
+        "src_geogebra"
+      ]
+    }
+  ]
+}

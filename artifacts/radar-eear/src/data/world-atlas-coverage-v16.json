@@ -1,0 +1,19 @@
+{
+  "version": "v16",
+  "country_curiosity_cards": 916,
+  "region_trail_cards": 64,
+  "existing_curiosity_cards": 560,
+  "total_editorial_cards": 1540,
+  "country_count": 229,
+  "hub_count": 112,
+  "boundary_source": "Natural Earth 5.1.1",
+  "region_standard": "UN M49",
+  "ux_focus": [
+    "responsive",
+    "touch-first",
+    "keyboard-accessible",
+    "reduced-motion",
+    "lazy-media",
+    "progressive-enhancement"
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "primary_navigation": [
+    {"id":"hoje","label":"Hoje","purpose":"missão diária, revisão e descoberta"},
+    {"id":"estudar","label":"Estudar","purpose":"Português, Inglês, Matemática e Física"},
+    {"id":"praticar","label":"Praticar","purpose":"questões, simulados, jogos e laboratórios"},
+    {"id":"explorar","label":"Explorar","purpose":"Atlas, Bíblia, filosofia, ciência, literatura, arte, pré-história e cultura pop"},
+    {"id":"biblioteca","label":"Biblioteca","purpose":"livros, fontes e leituras salvas"},
+    {"id":"perfil","label":"Meu Radar","purpose":"progresso, revisão, metas e preferências"}
+  ],
+  "experience_contract": [
+    "contexto",
+    "ação principal",
+    "feedback imediato",
+    "aprofundamento progressivo",
+    "conexões",
+    "fonte/proveniência",
+    "revisão posterior"
+  ]
+}

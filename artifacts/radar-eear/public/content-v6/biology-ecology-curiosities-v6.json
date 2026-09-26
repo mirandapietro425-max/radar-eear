@@ -1,0 +1,2112 @@
+{
+  "schema_version": "6.0",
+  "language": "pt-BR",
+  "count": 100,
+  "items": [
+    {
+      "id": "bio-001",
+      "topic": "adaptação",
+      "title_pt": "Por que animais têm formas tão diferentes de viver?",
+      "body_pt": "Adaptações são características que aumentam a sobrevivência ou reprodução em determinados contextos ao longo das gerações.",
+      "flow_pt": "morfologia → comportamento → ambiente → seleção natural",
+      "source_family": "Smithsonian",
+      "ux": {
+        "hero_type": "image",
+        "sections": [
+          "Você observa",
+          "Como funciona",
+          "Onde aparece",
+          "Matemática por trás",
+          "Teste rápido",
+          "Fonte"
+        ],
+        "micro_interaction": "toque para revelar camada"
+      },
+      "daily_ready": true
+    },
+    {
+      "id": "bio-002",
+      "topic": "tardígrado",
+      "title_pt": "O que torna o tardígrado tão resistente?",
+      "body_pt": "Tardígrados podem entrar em estados de latência extrema e suportar condições ambientais severas; o interesse científico está em como seu metabolismo e estruturas celulares respondem ao estresse.",
+      "flow_pt": "água → metabolismo → proteção celular → dormência",
+      "source_family": "Smithsonian/NHM",
+      "ux": {
+        "hero_type": "image",
+        "sections": [
+          "Você observa",
+          "Como funciona",
+          "Onde aparece",
+          "Matemática por trás",
+          "Teste rápido",
+          "Fonte"
+        ],
+        "micro_interaction": "toque para revelar camada"
+      },
+      "daily_ready": true
+    },
+    {
+      "id": "bio-003",
+      "topic": "corais",
+      "title_pt": "Um recife é uma cidade viva?",
+      "body_pt": "Recifes dependem de interações entre corais, algas simbiontes, peixes, microrganismos e ambiente físico.",
+      "flow_pt": "simbiose → energia → habitat → biodiversidade",
+      "source_family": "Smithsonian",
+      "ux": {
+        "hero_type": "image",
+        "sections": [
+          "Você observa",
+          "Como funciona",
+          "Onde aparece",
+          "Matemática por trás",
+          "Teste rápido",
+          "Fonte"
+        ],
+        "micro_interaction": "toque para revelar camada"
+      },
+      "daily_ready": true
+    },
+    {
+      "id": "bio-004",
+      "topic": "micorrizas",
+      "title_pt": "As plantas realmente conversam com fungos?",
+      "body_pt": "Associações micorrízicas podem ampliar a exploração do solo pelas raízes e trocar recursos entre fungos e plantas.",
+      "flow_pt": "raiz → fungo → nutrientes → ecossistema",
+      "source_family": "biologia/ecologia",
+      "ux": {
+        "hero_type": "image",
+        "sections": [
+          "Você observa",
+          "Como funciona",
+          "Onde aparece",
+          "Matemática por trás",
+          "Teste rápido",
+          "Fonte"
+        ],
+        "micro_interaction": "toque para revelar camada"
+      },
+      "daily_ready": true
+    },
+    {
+      "id": "bio-005",
+      "topic": "teia-alimentar",
+      "title_pt": "Por que uma teia alimentar é melhor que uma cadeia?",
+      "body_pt": "Uma comunidade real possui muitas conexões de alimentação; a teia permite visualizar caminhos múltiplos de energia e matéria.",
+      "flow_pt": "produtores → consumidores → decompositores",
+      "source_family": "Smithsonian",
+      "ux": {
+        "hero_type": "image",
+        "sections": [
+          "Você observa",
+          "Como funciona",
+          "Onde aparece",
+          "Matemática por trás",
+          "Teste rápido",
+          "Fonte"
+        ],
+        "micro_interaction": "toque para revelar camada"
+      },
+      "daily_ready": true
+    },
+    {
+      "id": "bio-006",
+      "topic": "polinização",
+      "title_pt": "Como uma flor se torna uma história matemática?",
+      "body_pt": "A polinização conecta forma, comportamento de animais, probabilidade de encontro e reprodução vegetal.",
+      "flow_pt": "geometria → comportamento → probabilidade → reprodução",
+      "source_family": "ecologia",
+      "ux": {
+        "hero_type": "image",
+        "sections": [
+          "Você observa",
+          "Como funciona",
+          "Onde aparece",
+          "Matemática por trás",
+          "Teste rápido",
+          "Fonte"
+        ],
+        "micro_interaction": "toque para revelar camada"
+      },
+      "daily_ready": true
+    },
+    {
+      "id": "bio-007",
+      "topic": "camuflagem",
+      "title_pt": "Como a seleção pode favorecer padrões tão precisos?",
+      "body_pt": "Padrões corporais podem modificar a detecção por predadores ou presas; a eficácia depende da paisagem visual.",
+      "flow_pt": "visão → contraste → ambiente → sobrevivência",
+      "source_family": "Smithsonian",
+      "ux": {
+        "hero_type": "image",
+        "sections": [
+          "Você observa",
+          "Como funciona",
+          "Onde aparece",
+          "Matemática por trás",
+          "Teste rápido",
+          "Fonte"
+        ],
+        "micro_interaction": "toque para revelar camada"
+      },
+      "daily_ready": true
+    },
+    {
+      "id": "bio-008",
+      "topic": "ecolocalização",
+      "title_pt": "Como morcegos podem “ver” com som?",
+      "body_pt": "A ecolocalização usa emissão e recepção de ondas sonoras para inferir distância e propriedades de objetos.",
+      "flow_pt": "ondas → tempo de retorno → distância → comportamento",
+      "source_family": "física/biologia",
+      "ux": {
+        "hero_type": "image",
+        "sections": [
+          "Você observa",
+          "Como funciona",
+          "Onde aparece",
+          "Matemática por trás",
+          "Teste rápido",
+          "Fonte"
+        ],
+        "micro_interaction": "toque para revelar camada"
+      },
+      "daily_ready": true
+    },
+    {
+      "id": "bio-009",
+      "topic": "migração",
+      "title_pt": "Como um animal sabe para onde ir?",
+      "body_pt": "Migrações podem combinar pistas ambientais, orientação astronômica, campo magnético, memória e aprendizado.",
+      "flow_pt": "navegação → ambiente → energia → seleção",
+      "source_family": "ecologia",
+      "ux": {
+        "hero_type": "image",
+        "sections": [
+          "Você observa",
+          "Como funciona",
+          "Onde aparece",
+          "Matemática por trás",
+          "Teste rápido",
+          "Fonte"
+        ],
+        "micro_interaction": "toque para revelar camada"
+      },
+      "daily_ready": true
+    },
+    {
+      "id": "bio-010",
+      "topic": "regeneração",
+      "title_pt": "Por que alguns animais regeneram partes do corpo melhor que outros?",
+      "body_pt": "A regeneração depende de células, sinais moleculares, arquitetura de tecidos e evolução; espécies diferem muito em capacidade regenerativa.",
+      "flow_pt": "células → sinais → tecidos → evolução",
+      "source_family": "biologia",
+      "ux": {
+        "hero_type": "image",
+        "sections": [
+          "Você observa",
+          "Como funciona",
+          "Onde aparece",
+          "Matemática por trás",
+          "Teste rápido",
+          "Fonte"
+        ],
+        "micro_interaction": "toque para revelar camada"
+      },
+      "daily_ready": true
+    },
+    {
+      "id": "bio-011",
+      "topic": "abelhas",
+      "title_pt": "Uma dança pode codificar informação?",
+      "body_pt": "Algumas abelhas sociais usam comportamentos que transmitem informação sobre direção e distância de recursos.",
+      "flow_pt": "comunicação → ângulo → distância → informação",
+      "source_family": "biologia/matemática",
+      "ux": {
+        "hero_type": "image",
+        "sections": [
+          "Você observa",
+          "Como funciona",
+          "Onde aparece",
+          "Matemática por trás",
+          "Teste rápido",
+          "Fonte"
+        ],
+        "micro_interaction": "toque para revelar camada"
+      },
+      "daily_ready": true
+    },
+    {
+      "id": "bio-012",
+      "topic": "formigas",
+      "title_pt": "Como uma colônia resolve problemas sem um “chefe”?",
+      "body_pt": "Regras locais simples podem gerar padrões coletivos e decisões distribuídas.",
+      "flow_pt": "agente → regra local → feedback → emergência",
+      "source_family": "ecologia/matemática",
+      "ux": {
+        "hero_type": "image",
+        "sections": [
+          "Você observa",
+          "Como funciona",
+          "Onde aparece",
+          "Matemática por trás",
+          "Teste rápido",
+          "Fonte"
+        ],
+        "micro_interaction": "toque para revelar camada"
+      },
+      "daily_ready": true
+    },
+    {
+      "id": "bio-013",
+      "topic": "ciclos",
+      "title_pt": "Como matéria circula em um ecossistema?",
+      "body_pt": "Carbono, nitrogênio, fósforo e água percorrem reservatórios bióticos e abióticos por processos conectados.",
+      "flow_pt": "estoque → fluxo → transformação → feedback",
+      "source_family": "MMA/Smithsonian",
+      "ux": {
+        "hero_type": "image",
+        "sections": [
+          "Você observa",
+          "Como funciona",
+          "Onde aparece",
+          "Matemática por trás",
+          "Teste rápido",
+          "Fonte"
+        ],
+        "micro_interaction": "toque para revelar camada"
+      },
+      "daily_ready": true
+    },
+    {
+      "id": "bio-014",
+      "topic": "sucessão",
+      "title_pt": "Como uma área muda depois de uma perturbação?",
+      "body_pt": "Sucessão ecológica descreve mudanças temporais na composição e estrutura das comunidades.",
+      "flow_pt": "distúrbio → colonização → competição → comunidade",
+      "source_family": "ecologia",
+      "ux": {
+        "hero_type": "image",
+        "sections": [
+          "Você observa",
+          "Como funciona",
+          "Onde aparece",
+          "Matemática por trás",
+          "Teste rápido",
+          "Fonte"
+        ],
+        "micro_interaction": "toque para revelar camada"
+      },
+      "daily_ready": true
+    },
+    {
+      "id": "bio-015",
+      "topic": "nicho",
+      "title_pt": "Habitat é a mesma coisa que nicho?",
+      "body_pt": "Habitat é o lugar onde um organismo vive; nicho inclui condições e funções ecológicas mais amplas.",
+      "flow_pt": "espaço → recursos → interações → função",
+      "source_family": "ecologia",
+      "ux": {
+        "hero_type": "image",
+        "sections": [
+          "Você observa",
+          "Como funciona",
+          "Onde aparece",
+          "Matemática por trás",
+          "Teste rápido",
+          "Fonte"
+        ],
+        "micro_interaction": "toque para revelar camada"
+      },
+      "daily_ready": true
+    },
+    {
+      "id": "bio-016",
+      "topic": "capacidade-suporte",
+      "title_pt": "Por que populações não crescem para sempre?",
+      "body_pt": "Recursos, competição, predadores, doenças e ambiente impõem limites ao crescimento populacional.",
+      "flow_pt": "crescimento → limite → feedback → estabilidade",
+      "source_family": "ecologia",
+      "ux": {
+        "hero_type": "image",
+        "sections": [
+          "Você observa",
+          "Como funciona",
+          "Onde aparece",
+          "Matemática por trás",
+          "Teste rápido",
+          "Fonte"
+        ],
+        "micro_interaction": "toque para revelar camada"
+      },
+      "daily_ready": true
+    },
+    {
+      "id": "bio-017",
+      "topic": "especie-chave",
+      "title_pt": "Como uma única espécie pode mudar um ecossistema?",
+      "body_pt": "Algumas espécies têm efeitos desproporcionais sobre a estrutura de uma comunidade.",
+      "flow_pt": "interação → cascata trófica → estrutura",
+      "source_family": "ecologia",
+      "ux": {
+        "hero_type": "image",
+        "sections": [
+          "Você observa",
+          "Como funciona",
+          "Onde aparece",
+          "Matemática por trás",
+          "Teste rápido",
+          "Fonte"
+        ],
+        "micro_interaction": "toque para revelar camada"
+      },
+      "daily_ready": true
+    },
+    {
+      "id": "bio-018",
+      "topic": "espécies-invasoras",
+      "title_pt": "Por que uma espécie fora de sua área original pode causar impactos?",
+      "body_pt": "Em certas condições, espécies introduzidas encontram poucos inimigos naturais, ocupam nichos disponíveis e alteram interações ecológicas.",
+      "flow_pt": "introdução → estabelecimento → expansão → impacto",
+      "source_family": "Ibama",
+      "ux": {
+        "hero_type": "image",
+        "sections": [
+          "Você observa",
+          "Como funciona",
+          "Onde aparece",
+          "Matemática por trás",
+          "Teste rápido",
+          "Fonte"
+        ],
+        "micro_interaction": "toque para revelar camada"
+      },
+      "daily_ready": true
+    },
+    {
+      "id": "bio-019",
+      "topic": "biodiversidade",
+      "title_pt": "O que significa biodiversidade de verdade?",
+      "body_pt": "Biodiversidade envolve diversidade dentro das espécies, entre espécies e de ecossistemas.",
+      "flow_pt": "genes → espécies → ecossistemas",
+      "source_family": "MMA",
+      "ux": {
+        "hero_type": "image",
+        "sections": [
+          "Você observa",
+          "Como funciona",
+          "Onde aparece",
+          "Matemática por trás",
+          "Teste rápido",
+          "Fonte"
+        ],
+        "micro_interaction": "toque para revelar camada"
+      },
+      "daily_ready": true
+    },
+    {
+      "id": "bio-020",
+      "topic": "biomas-brasil",
+      "title_pt": "Por que o Brasil tem tantos tipos de natureza?",
+      "body_pt": "Gradientes climáticos, relevo e história evolutiva ajudam a produzir seis biomas terrestres e diversos ecossistemas costeiros e marinhos no território brasileiro.",
+      "flow_pt": "clima → espaço → evolução → bioma",
+      "source_family": "MMA",
+      "ux": {
+        "hero_type": "image",
+        "sections": [
+          "Você observa",
+          "Como funciona",
+          "Onde aparece",
+          "Matemática por trás",
+          "Teste rápido",
+          "Fonte"
+        ],
+        "micro_interaction": "toque para revelar camada"
+      },
+      "daily_ready": true
+    },
+    {
+      "id": "bio-021",
+      "topic": "adaptação",
+      "title_pt": "Por que animais têm formas tão diferentes de viver?",
+      "body_pt": "Adaptações são características que aumentam a sobrevivência ou reprodução em determinados contextos ao longo das gerações.",
+      "flow_pt": "morfologia → comportamento → ambiente → seleção natural",
+      "source_family": "Smithsonian",
+      "ux": {
+        "hero_type": "image",
+        "sections": [
+          "Você observa",
+          "Como funciona",
+          "Onde aparece",
+          "Matemática por trás",
+          "Teste rápido",
+          "Fonte"
+        ],
+        "micro_interaction": "toque para revelar camada"
+      },
+      "daily_ready": true
+    },
+    {
+      "id": "bio-022",
+      "topic": "tardígrado",
+      "title_pt": "O que torna o tardígrado tão resistente?",
+      "body_pt": "Tardígrados podem entrar em estados de latência extrema e suportar condições ambientais severas; o interesse científico está em como seu metabolismo e estruturas celulares respondem ao estresse.",
+      "flow_pt": "água → metabolismo → proteção celular → dormência",
+      "source_family": "Smithsonian/NHM",
+      "ux": {
+        "hero_type": "image",
+        "sections": [
+          "Você observa",
+          "Como funciona",
+          "Onde aparece",
+          "Matemática por trás",
+          "Teste rápido",
+          "Fonte"
+        ],
+        "micro_interaction": "toque para revelar camada"
+      },
+      "daily_ready": true
+    },
+    {
+      "id": "bio-023",
+      "topic": "corais",
+      "title_pt": "Um recife é uma cidade viva?",
+      "body_pt": "Recifes dependem de interações entre corais, algas simbiontes, peixes, microrganismos e ambiente físico.",
+      "flow_pt": "simbiose → energia → habitat → biodiversidade",
+      "source_family": "Smithsonian",
+      "ux": {
+        "hero_type": "image",
+        "sections": [
+          "Você observa",
+          "Como funciona",
+          "Onde aparece",
+          "Matemática por trás",
+          "Teste rápido",
+          "Fonte"
+        ],
+        "micro_interaction": "toque para revelar camada"
+      },
+      "daily_ready": true
+    },
+    {
+      "id": "bio-024",
+      "topic": "micorrizas",
+      "title_pt": "As plantas realmente conversam com fungos?",
+      "body_pt": "Associações micorrízicas podem ampliar a exploração do solo pelas raízes e trocar recursos entre fungos e plantas.",
+      "flow_pt": "raiz → fungo → nutrientes → ecossistema",
+      "source_family": "biologia/ecologia",
+      "ux": {
+        "hero_type": "image",
+        "sections": [
+          "Você observa",
+          "Como funciona",
+          "Onde aparece",
+          "Matemática por trás",
+          "Teste rápido",
+          "Fonte"
+        ],
+        "micro_interaction": "toque para revelar camada"
+      },
+      "daily_ready": true
+    },
+    {
+      "id": "bio-025",
+      "topic": "teia-alimentar",
+      "title_pt": "Por que uma teia alimentar é melhor que uma cadeia?",
+      "body_pt": "Uma comunidade real possui muitas conexões de alimentação; a teia permite visualizar caminhos múltiplos de energia e matéria.",
+      "flow_pt": "produtores → consumidores → decompositores",
+      "source_family": "Smithsonian",
+      "ux": {
+        "hero_type": "image",
+        "sections": [
+          "Você observa",
+          "Como funciona",
+          "Onde aparece",
+          "Matemática por trás",
+          "Teste rápido",
+          "Fonte"
+        ],
+        "micro_interaction": "toque para revelar camada"
+      },
+      "daily_ready": true
+    },
+    {
+      "id": "bio-026",
+      "topic": "polinização",
+      "title_pt": "Como uma flor se torna uma história matemática?",
+      "body_pt": "A polinização conecta forma, comportamento de animais, probabilidade de encontro e reprodução vegetal.",
+      "flow_pt": "geometria → comportamento → probabilidade → reprodução",
+      "source_family": "ecologia",
+      "ux": {
+        "hero_type": "image",
+        "sections": [
+          "Você observa",
+          "Como funciona",
+          "Onde aparece",
+          "Matemática por trás",
+          "Teste rápido",
+          "Fonte"
+        ],
+        "micro_interaction": "toque para revelar camada"
+      },
+      "daily_ready": true
+    },
+    {
+      "id": "bio-027",
+      "topic": "camuflagem",
+      "title_pt": "Como a seleção pode favorecer padrões tão precisos?",
+      "body_pt": "Padrões corporais podem modificar a detecção por predadores ou presas; a eficácia depende da paisagem visual.",
+      "flow_pt": "visão → contraste → ambiente → sobrevivência",
+      "source_family": "Smithsonian",
+      "ux": {
+        "hero_type": "image",
+        "sections": [
+          "Você observa",
+          "Como funciona",
+          "Onde aparece",
+          "Matemática por trás",
+          "Teste rápido",
+          "Fonte"
+        ],
+        "micro_interaction": "toque para revelar camada"
+      },
+      "daily_ready": true
+    },
+    {
+      "id": "bio-028",
+      "topic": "ecolocalização",
+      "title_pt": "Como morcegos podem “ver” com som?",
+      "body_pt": "A ecolocalização usa emissão e recepção de ondas sonoras para inferir distância e propriedades de objetos.",
+      "flow_pt": "ondas → tempo de retorno → distância → comportamento",
+      "source_family": "física/biologia",
+      "ux": {
+        "hero_type": "image",
+        "sections": [
+          "Você observa",
+          "Como funciona",
+          "Onde aparece",
+          "Matemática por trás",
+          "Teste rápido",
+          "Fonte"
+        ],
+        "micro_interaction": "toque para revelar camada"
+      },
+      "daily_ready": true
+    },
+    {
+      "id": "bio-029",
+      "topic": "migração",
+      "title_pt": "Como um animal sabe para onde ir?",
+      "body_pt": "Migrações podem combinar pistas ambientais, orientação astronômica, campo magnético, memória e aprendizado.",
+      "flow_pt": "navegação → ambiente → energia → seleção",
+      "source_family": "ecologia",
+      "ux": {
+        "hero_type": "image",
+        "sections": [
+          "Você observa",
+          "Como funciona",
+          "Onde aparece",
+          "Matemática por trás",
+          "Teste rápido",
+          "Fonte"
+        ],
+        "micro_interaction": "toque para revelar camada"
+      },
+      "daily_ready": true
+    },
+    {
+      "id": "bio-030",
+      "topic": "regeneração",
+      "title_pt": "Por que alguns animais regeneram partes do corpo melhor que outros?",
+      "body_pt": "A regeneração depende de células, sinais moleculares, arquitetura de tecidos e evolução; espécies diferem muito em capacidade regenerativa.",
+      "flow_pt": "células → sinais → tecidos → evolução",
+      "source_family": "biologia",
+      "ux": {
+        "hero_type": "image",
+        "sections": [
+          "Você observa",
+          "Como funciona",
+          "Onde aparece",
+          "Matemática por trás",
+          "Teste rápido",
+          "Fonte"
+        ],
+        "micro_interaction": "toque para revelar camada"
+      },
+      "daily_ready": true
+    },
+    {
+      "id": "bio-031",
+      "topic": "abelhas",
+      "title_pt": "Uma dança pode codificar informação?",
+      "body_pt": "Algumas abelhas sociais usam comportamentos que transmitem informação sobre direção e distância de recursos.",
+      "flow_pt": "comunicação → ângulo → distância → informação",
+      "source_family": "biologia/matemática",
+      "ux": {
+        "hero_type": "image",
+        "sections": [
+          "Você observa",
+          "Como funciona",
+          "Onde aparece",
+          "Matemática por trás",
+          "Teste rápido",
+          "Fonte"
+        ],
+        "micro_interaction": "toque para revelar camada"
+      },
+      "daily_ready": true
+    },
+    {
+      "id": "bio-032",
+      "topic": "formigas",
+      "title_pt": "Como uma colônia resolve problemas sem um “chefe”?",
+      "body_pt": "Regras locais simples podem gerar padrões coletivos e decisões distribuídas.",
+      "flow_pt": "agente → regra local → feedback → emergência",
+      "source_family": "ecologia/matemática",
+      "ux": {
+        "hero_type": "image",
+        "sections": [
+          "Você observa",
+          "Como funciona",
+          "Onde aparece",
+          "Matemática por trás",
+          "Teste rápido",
+          "Fonte"
+        ],
+        "micro_interaction": "toque para revelar camada"
+      },
+      "daily_ready": true
+    },
+    {
+      "id": "bio-033",
+      "topic": "ciclos",
+      "title_pt": "Como matéria circula em um ecossistema?",
+      "body_pt": "Carbono, nitrogênio, fósforo e água percorrem reservatórios bióticos e abióticos por processos conectados.",
+      "flow_pt": "estoque → fluxo → transformação → feedback",
+      "source_family": "MMA/Smithsonian",
+      "ux": {
+        "hero_type": "image",
+        "sections": [
+          "Você observa",
+          "Como funciona",
+          "Onde aparece",
+          "Matemática por trás",
+          "Teste rápido",
+          "Fonte"
+        ],
+        "micro_interaction": "toque para revelar camada"
+      },
+      "daily_ready": true
+    },
+    {
+      "id": "bio-034",
+      "topic": "sucessão",
+      "title_pt": "Como uma área muda depois de uma perturbação?",
+      "body_pt": "Sucessão ecológica descreve mudanças temporais na composição e estrutura das comunidades.",
+      "flow_pt": "distúrbio → colonização → competição → comunidade",
+      "source_family": "ecologia",
+      "ux": {
+        "hero_type": "image",
+        "sections": [
+          "Você observa",
+          "Como funciona",
+          "Onde aparece",
+          "Matemática por trás",
+          "Teste rápido",
+          "Fonte"
+        ],
+        "micro_interaction": "toque para revelar camada"
+      },
+      "daily_ready": true
+    },
+    {
+      "id": "bio-035",
+      "topic": "nicho",
+      "title_pt": "Habitat é a mesma coisa que nicho?",
+      "body_pt": "Habitat é o lugar onde um organismo vive; nicho inclui condições e funções ecológicas mais amplas.",
+      "flow_pt": "espaço → recursos → interações → função",
+      "source_family": "ecologia",
+      "ux": {
+        "hero_type": "image",
+        "sections": [
+          "Você observa",
+          "Como funciona",
+          "Onde aparece",
+          "Matemática por trás",
+          "Teste rápido",
+          "Fonte"
+        ],
+        "micro_interaction": "toque para revelar camada"
+      },
+      "daily_ready": true
+    },
+    {
+      "id": "bio-036",
+      "topic": "capacidade-suporte",
+      "title_pt": "Por que populações não crescem para sempre?",
+      "body_pt": "Recursos, competição, predadores, doenças e ambiente impõem limites ao crescimento populacional.",
+      "flow_pt": "crescimento → limite → feedback → estabilidade",
+      "source_family": "ecologia",
+      "ux": {
+        "hero_type": "image",
+        "sections": [
+          "Você observa",
+          "Como funciona",
+          "Onde aparece",
+          "Matemática por trás",
+          "Teste rápido",
+          "Fonte"
+        ],
+        "micro_interaction": "toque para revelar camada"
+      },
+      "daily_ready": true
+    },
+    {
+      "id": "bio-037",
+      "topic": "especie-chave",
+      "title_pt": "Como uma única espécie pode mudar um ecossistema?",
+      "body_pt": "Algumas espécies têm efeitos desproporcionais sobre a estrutura de uma comunidade.",
+      "flow_pt": "interação → cascata trófica → estrutura",
+      "source_family": "ecologia",
+      "ux": {
+        "hero_type": "image",
+        "sections": [
+          "Você observa",
+          "Como funciona",
+          "Onde aparece",
+          "Matemática por trás",
+          "Teste rápido",
+          "Fonte"
+        ],
+        "micro_interaction": "toque para revelar camada"
+      },
+      "daily_ready": true
+    },
+    {
+      "id": "bio-038",
+      "topic": "espécies-invasoras",
+      "title_pt": "Por que uma espécie fora de sua área original pode causar impactos?",
+      "body_pt": "Em certas condições, espécies introduzidas encontram poucos inimigos naturais, ocupam nichos disponíveis e alteram interações ecológicas.",
+      "flow_pt": "introdução → estabelecimento → expansão → impacto",
+      "source_family": "Ibama",
+      "ux": {
+        "hero_type": "image",
+        "sections": [
+          "Você observa",
+          "Como funciona",
+          "Onde aparece",
+          "Matemática por trás",
+          "Teste rápido",
+          "Fonte"
+        ],
+        "micro_interaction": "toque para revelar camada"
+      },
+      "daily_ready": true
+    },
+    {
+      "id": "bio-039",
+      "topic": "biodiversidade",
+      "title_pt": "O que significa biodiversidade de verdade?",
+      "body_pt": "Biodiversidade envolve diversidade dentro das espécies, entre espécies e de ecossistemas.",
+      "flow_pt": "genes → espécies → ecossistemas",
+      "source_family": "MMA",
+      "ux": {
+        "hero_type": "image",
+        "sections": [
+          "Você observa",
+          "Como funciona",
+          "Onde aparece",
+          "Matemática por trás",
+          "Teste rápido",
+          "Fonte"
+        ],
+        "micro_interaction": "toque para revelar camada"
+      },
+      "daily_ready": true
+    },
+    {
+      "id": "bio-040",
+      "topic": "biomas-brasil",
+      "title_pt": "Por que o Brasil tem tantos tipos de natureza?",
+      "body_pt": "Gradientes climáticos, relevo e história evolutiva ajudam a produzir seis biomas terrestres e diversos ecossistemas costeiros e marinhos no território brasileiro.",
+      "flow_pt": "clima → espaço → evolução → bioma",
+      "source_family": "MMA",
+      "ux": {
+        "hero_type": "image",
+        "sections": [
+          "Você observa",
+          "Como funciona",
+          "Onde aparece",
+          "Matemática por trás",
+          "Teste rápido",
+          "Fonte"
+        ],
+        "micro_interaction": "toque para revelar camada"
+      },
+      "daily_ready": true
+    },
+    {
+      "id": "bio-041",
+      "topic": "adaptação",
+      "title_pt": "Por que animais têm formas tão diferentes de viver?",
+      "body_pt": "Adaptações são características que aumentam a sobrevivência ou reprodução em determinados contextos ao longo das gerações.",
+      "flow_pt": "morfologia → comportamento → ambiente → seleção natural",
+      "source_family": "Smithsonian",
+      "ux": {
+        "hero_type": "image",
+        "sections": [
+          "Você observa",
+          "Como funciona",
+          "Onde aparece",
+          "Matemática por trás",
+          "Teste rápido",
+          "Fonte"
+        ],
+        "micro_interaction": "toque para revelar camada"
+      },
+      "daily_ready": true
+    },
+    {
+      "id": "bio-042",
+      "topic": "tardígrado",
+      "title_pt": "O que torna o tardígrado tão resistente?",
+      "body_pt": "Tardígrados podem entrar em estados de latência extrema e suportar condições ambientais severas; o interesse científico está em como seu metabolismo e estruturas celulares respondem ao estresse.",
+      "flow_pt": "água → metabolismo → proteção celular → dormência",
+      "source_family": "Smithsonian/NHM",
+      "ux": {
+        "hero_type": "image",
+        "sections": [
+          "Você observa",
+          "Como funciona",
+          "Onde aparece",
+          "Matemática por trás",
+          "Teste rápido",
+          "Fonte"
+        ],
+        "micro_interaction": "toque para revelar camada"
+      },
+      "daily_ready": true
+    },
+    {
+      "id": "bio-043",
+      "topic": "corais",
+      "title_pt": "Um recife é uma cidade viva?",
+      "body_pt": "Recifes dependem de interações entre corais, algas simbiontes, peixes, microrganismos e ambiente físico.",
+      "flow_pt": "simbiose → energia → habitat → biodiversidade",
+      "source_family": "Smithsonian",
+      "ux": {
+        "hero_type": "image",
+        "sections": [
+          "Você observa",
+          "Como funciona",
+          "Onde aparece",
+          "Matemática por trás",
+          "Teste rápido",
+          "Fonte"
+        ],
+        "micro_interaction": "toque para revelar camada"
+      },
+      "daily_ready": true
+    },
+    {
+      "id": "bio-044",
+      "topic": "micorrizas",
+      "title_pt": "As plantas realmente conversam com fungos?",
+      "body_pt": "Associações micorrízicas podem ampliar a exploração do solo pelas raízes e trocar recursos entre fungos e plantas.",
+      "flow_pt": "raiz → fungo → nutrientes → ecossistema",
+      "source_family": "biologia/ecologia",
+      "ux": {
+        "hero_type": "image",
+        "sections": [
+          "Você observa",
+          "Como funciona",
+          "Onde aparece",
+          "Matemática por trás",
+          "Teste rápido",
+          "Fonte"
+        ],
+        "micro_interaction": "toque para revelar camada"
+      },
+      "daily_ready": true
+    },
+    {
+      "id": "bio-045",
+      "topic": "teia-alimentar",
+      "title_pt": "Por que uma teia alimentar é melhor que uma cadeia?",
+      "body_pt": "Uma comunidade real possui muitas conexões de alimentação; a teia permite visualizar caminhos múltiplos de energia e matéria.",
+      "flow_pt": "produtores → consumidores → decompositores",
+      "source_family": "Smithsonian",
+      "ux": {
+        "hero_type": "image",
+        "sections": [
+          "Você observa",
+          "Como funciona",
+          "Onde aparece",
+          "Matemática por trás",
+          "Teste rápido",
+          "Fonte"
+        ],
+        "micro_interaction": "toque para revelar camada"
+      },
+      "daily_ready": true
+    },
+    {
+      "id": "bio-046",
+      "topic": "polinização",
+      "title_pt": "Como uma flor se torna uma história matemática?",
+      "body_pt": "A polinização conecta forma, comportamento de animais, probabilidade de encontro e reprodução vegetal.",
+      "flow_pt": "geometria → comportamento → probabilidade → reprodução",
+      "source_family": "ecologia",
+      "ux": {
+        "hero_type": "image",
+        "sections": [
+          "Você observa",
+          "Como funciona",
+          "Onde aparece",
+          "Matemática por trás",
+          "Teste rápido",
+          "Fonte"
+        ],
+        "micro_interaction": "toque para revelar camada"
+      },
+      "daily_ready": true
+    },
+    {
+      "id": "bio-047",
+      "topic": "camuflagem",
+      "title_pt": "Como a seleção pode favorecer padrões tão precisos?",
+      "body_pt": "Padrões corporais podem modificar a detecção por predadores ou presas; a eficácia depende da paisagem visual.",
+      "flow_pt": "visão → contraste → ambiente → sobrevivência",
+      "source_family": "Smithsonian",
+      "ux": {
+        "hero_type": "image",
+        "sections": [
+          "Você observa",
+          "Como funciona",
+          "Onde aparece",
+          "Matemática por trás",
+          "Teste rápido",
+          "Fonte"
+        ],
+        "micro_interaction": "toque para revelar camada"
+      },
+      "daily_ready": true
+    },
+    {
+      "id": "bio-048",
+      "topic": "ecolocalização",
+      "title_pt": "Como morcegos podem “ver” com som?",
+      "body_pt": "A ecolocalização usa emissão e recepção de ondas sonoras para inferir distância e propriedades de objetos.",
+      "flow_pt": "ondas → tempo de retorno → distância → comportamento",
+      "source_family": "física/biologia",
+      "ux": {
+        "hero_type": "image",
+        "sections": [
+          "Você observa",
+          "Como funciona",
+          "Onde aparece",
+          "Matemática por trás",
+          "Teste rápido",
+          "Fonte"
+        ],
+        "micro_interaction": "toque para revelar camada"
+      },
+      "daily_ready": true
+    },
+    {
+      "id": "bio-049",
+      "topic": "migração",
+      "title_pt": "Como um animal sabe para onde ir?",
+      "body_pt": "Migrações podem combinar pistas ambientais, orientação astronômica, campo magnético, memória e aprendizado.",
+      "flow_pt": "navegação → ambiente → energia → seleção",
+      "source_family": "ecologia",
+      "ux": {
+        "hero_type": "image",
+        "sections": [
+          "Você observa",
+          "Como funciona",
+          "Onde aparece",
+          "Matemática por trás",
+          "Teste rápido",
+          "Fonte"
+        ],
+        "micro_interaction": "toque para revelar camada"
+      },
+      "daily_ready": true
+    },
+    {
+      "id": "bio-050",
+      "topic": "regeneração",
+      "title_pt": "Por que alguns animais regeneram partes do corpo melhor que outros?",
+      "body_pt": "A regeneração depende de células, sinais moleculares, arquitetura de tecidos e evolução; espécies diferem muito em capacidade regenerativa.",
+      "flow_pt": "células → sinais → tecidos → evolução",
+      "source_family": "biologia",
+      "ux": {
+        "hero_type": "image",
+        "sections": [
+          "Você observa",
+          "Como funciona",
+          "Onde aparece",
+          "Matemática por trás",
+          "Teste rápido",
+          "Fonte"
+        ],
+        "micro_interaction": "toque para revelar camada"
+      },
+      "daily_ready": true
+    },
+    {
+      "id": "bio-051",
+      "topic": "abelhas",
+      "title_pt": "Uma dança pode codificar informação?",
+      "body_pt": "Algumas abelhas sociais usam comportamentos que transmitem informação sobre direção e distância de recursos.",
+      "flow_pt": "comunicação → ângulo → distância → informação",
+      "source_family": "biologia/matemática",
+      "ux": {
+        "hero_type": "image",
+        "sections": [
+          "Você observa",
+          "Como funciona",
+          "Onde aparece",
+          "Matemática por trás",
+          "Teste rápido",
+          "Fonte"
+        ],
+        "micro_interaction": "toque para revelar camada"
+      },
+      "daily_ready": true
+    },
+    {
+      "id": "bio-052",
+      "topic": "formigas",
+      "title_pt": "Como uma colônia resolve problemas sem um “chefe”?",
+      "body_pt": "Regras locais simples podem gerar padrões coletivos e decisões distribuídas.",
+      "flow_pt": "agente → regra local → feedback → emergência",
+      "source_family": "ecologia/matemática",
+      "ux": {
+        "hero_type": "image",
+        "sections": [
+          "Você observa",
+          "Como funciona",
+          "Onde aparece",
+          "Matemática por trás",
+          "Teste rápido",
+          "Fonte"
+        ],
+        "micro_interaction": "toque para revelar camada"
+      },
+      "daily_ready": true
+    },
+    {
+      "id": "bio-053",
+      "topic": "ciclos",
+      "title_pt": "Como matéria circula em um ecossistema?",
+      "body_pt": "Carbono, nitrogênio, fósforo e água percorrem reservatórios bióticos e abióticos por processos conectados.",
+      "flow_pt": "estoque → fluxo → transformação → feedback",
+      "source_family": "MMA/Smithsonian",
+      "ux": {
+        "hero_type": "image",
+        "sections": [
+          "Você observa",
+          "Como funciona",
+          "Onde aparece",
+          "Matemática por trás",
+          "Teste rápido",
+          "Fonte"
+        ],
+        "micro_interaction": "toque para revelar camada"
+      },
+      "daily_ready": true
+    },
+    {
+      "id": "bio-054",
+      "topic": "sucessão",
+      "title_pt": "Como uma área muda depois de uma perturbação?",
+      "body_pt": "Sucessão ecológica descreve mudanças temporais na composição e estrutura das comunidades.",
+      "flow_pt": "distúrbio → colonização → competição → comunidade",
+      "source_family": "ecologia",
+      "ux": {
+        "hero_type": "image",
+        "sections": [
+          "Você observa",
+          "Como funciona",
+          "Onde aparece",
+          "Matemática por trás",
+          "Teste rápido",
+          "Fonte"
+        ],
+        "micro_interaction": "toque para revelar camada"
+      },
+      "daily_ready": true
+    },
+    {
+      "id": "bio-055",
+      "topic": "nicho",
+      "title_pt": "Habitat é a mesma coisa que nicho?",
+      "body_pt": "Habitat é o lugar onde um organismo vive; nicho inclui condições e funções ecológicas mais amplas.",
+      "flow_pt": "espaço → recursos → interações → função",
+      "source_family": "ecologia",
+      "ux": {
+        "hero_type": "image",
+        "sections": [
+          "Você observa",
+          "Como funciona",
+          "Onde aparece",
+          "Matemática por trás",
+          "Teste rápido",
+          "Fonte"
+        ],
+        "micro_interaction": "toque para revelar camada"
+      },
+      "daily_ready": true
+    },
+    {
+      "id": "bio-056",
+      "topic": "capacidade-suporte",
+      "title_pt": "Por que populações não crescem para sempre?",
+      "body_pt": "Recursos, competição, predadores, doenças e ambiente impõem limites ao crescimento populacional.",
+      "flow_pt": "crescimento → limite → feedback → estabilidade",
+      "source_family": "ecologia",
+      "ux": {
+        "hero_type": "image",
+        "sections": [
+          "Você observa",
+          "Como funciona",
+          "Onde aparece",
+          "Matemática por trás",
+          "Teste rápido",
+          "Fonte"
+        ],
+        "micro_interaction": "toque para revelar camada"
+      },
+      "daily_ready": true
+    },
+    {
+      "id": "bio-057",
+      "topic": "especie-chave",
+      "title_pt": "Como uma única espécie pode mudar um ecossistema?",
+      "body_pt": "Algumas espécies têm efeitos desproporcionais sobre a estrutura de uma comunidade.",
+      "flow_pt": "interação → cascata trófica → estrutura",
+      "source_family": "ecologia",
+      "ux": {
+        "hero_type": "image",
+        "sections": [
+          "Você observa",
+          "Como funciona",
+          "Onde aparece",
+          "Matemática por trás",
+          "Teste rápido",
+          "Fonte"
+        ],
+        "micro_interaction": "toque para revelar camada"
+      },
+      "daily_ready": true
+    },
+    {
+      "id": "bio-058",
+      "topic": "espécies-invasoras",
+      "title_pt": "Por que uma espécie fora de sua área original pode causar impactos?",
+      "body_pt": "Em certas condições, espécies introduzidas encontram poucos inimigos naturais, ocupam nichos disponíveis e alteram interações ecológicas.",
+      "flow_pt": "introdução → estabelecimento → expansão → impacto",
+      "source_family": "Ibama",
+      "ux": {
+        "hero_type": "image",
+        "sections": [
+          "Você observa",
+          "Como funciona",
+          "Onde aparece",
+          "Matemática por trás",
+          "Teste rápido",
+          "Fonte"
+        ],
+        "micro_interaction": "toque para revelar camada"
+      },
+      "daily_ready": true
+    },
+    {
+      "id": "bio-059",
+      "topic": "biodiversidade",
+      "title_pt": "O que significa biodiversidade de verdade?",
+      "body_pt": "Biodiversidade envolve diversidade dentro das espécies, entre espécies e de ecossistemas.",
+      "flow_pt": "genes → espécies → ecossistemas",
+      "source_family": "MMA",
+      "ux": {
+        "hero_type": "image",
+        "sections": [
+          "Você observa",
+          "Como funciona",
+          "Onde aparece",
+          "Matemática por trás",
+          "Teste rápido",
+          "Fonte"
+        ],
+        "micro_interaction": "toque para revelar camada"
+      },
+      "daily_ready": true
+    },
+    {
+      "id": "bio-060",
+      "topic": "biomas-brasil",
+      "title_pt": "Por que o Brasil tem tantos tipos de natureza?",
+      "body_pt": "Gradientes climáticos, relevo e história evolutiva ajudam a produzir seis biomas terrestres e diversos ecossistemas costeiros e marinhos no território brasileiro.",
+      "flow_pt": "clima → espaço → evolução → bioma",
+      "source_family": "MMA",
+      "ux": {
+        "hero_type": "image",
+        "sections": [
+          "Você observa",
+          "Como funciona",
+          "Onde aparece",
+          "Matemática por trás",
+          "Teste rápido",
+          "Fonte"
+        ],
+        "micro_interaction": "toque para revelar camada"
+      },
+      "daily_ready": true
+    },
+    {
+      "id": "bio-061",
+      "topic": "adaptação",
+      "title_pt": "Por que animais têm formas tão diferentes de viver?",
+      "body_pt": "Adaptações são características que aumentam a sobrevivência ou reprodução em determinados contextos ao longo das gerações.",
+      "flow_pt": "morfologia → comportamento → ambiente → seleção natural",
+      "source_family": "Smithsonian",
+      "ux": {
+        "hero_type": "image",
+        "sections": [
+          "Você observa",
+          "Como funciona",
+          "Onde aparece",
+          "Matemática por trás",
+          "Teste rápido",
+          "Fonte"
+        ],
+        "micro_interaction": "toque para revelar camada"
+      },
+      "daily_ready": true
+    },
+    {
+      "id": "bio-062",
+      "topic": "tardígrado",
+      "title_pt": "O que torna o tardígrado tão resistente?",
+      "body_pt": "Tardígrados podem entrar em estados de latência extrema e suportar condições ambientais severas; o interesse científico está em como seu metabolismo e estruturas celulares respondem ao estresse.",
+      "flow_pt": "água → metabolismo → proteção celular → dormência",
+      "source_family": "Smithsonian/NHM",
+      "ux": {
+        "hero_type": "image",
+        "sections": [
+          "Você observa",
+          "Como funciona",
+          "Onde aparece",
+          "Matemática por trás",
+          "Teste rápido",
+          "Fonte"
+        ],
+        "micro_interaction": "toque para revelar camada"
+      },
+      "daily_ready": true
+    },
+    {
+      "id": "bio-063",
+      "topic": "corais",
+      "title_pt": "Um recife é uma cidade viva?",
+      "body_pt": "Recifes dependem de interações entre corais, algas simbiontes, peixes, microrganismos e ambiente físico.",
+      "flow_pt": "simbiose → energia → habitat → biodiversidade",
+      "source_family": "Smithsonian",
+      "ux": {
+        "hero_type": "image",
+        "sections": [
+          "Você observa",
+          "Como funciona",
+          "Onde aparece",
+          "Matemática por trás",
+          "Teste rápido",
+          "Fonte"
+        ],
+        "micro_interaction": "toque para revelar camada"
+      },
+      "daily_ready": true
+    },
+    {
+      "id": "bio-064",
+      "topic": "micorrizas",
+      "title_pt": "As plantas realmente conversam com fungos?",
+      "body_pt": "Associações micorrízicas podem ampliar a exploração do solo pelas raízes e trocar recursos entre fungos e plantas.",
+      "flow_pt": "raiz → fungo → nutrientes → ecossistema",
+      "source_family": "biologia/ecologia",
+      "ux": {
+        "hero_type": "image",
+        "sections": [
+          "Você observa",
+          "Como funciona",
+          "Onde aparece",
+          "Matemática por trás",
+          "Teste rápido",
+          "Fonte"
+        ],
+        "micro_interaction": "toque para revelar camada"
+      },
+      "daily_ready": true
+    },
+    {
+      "id": "bio-065",
+      "topic": "teia-alimentar",
+      "title_pt": "Por que uma teia alimentar é melhor que uma cadeia?",
+      "body_pt": "Uma comunidade real possui muitas conexões de alimentação; a teia permite visualizar caminhos múltiplos de energia e matéria.",
+      "flow_pt": "produtores → consumidores → decompositores",
+      "source_family": "Smithsonian",
+      "ux": {
+        "hero_type": "image",
+        "sections": [
+          "Você observa",
+          "Como funciona",
+          "Onde aparece",
+          "Matemática por trás",
+          "Teste rápido",
+          "Fonte"
+        ],
+        "micro_interaction": "toque para revelar camada"
+      },
+      "daily_ready": true
+    },
+    {
+      "id": "bio-066",
+      "topic": "polinização",
+      "title_pt": "Como uma flor se torna uma história matemática?",
+      "body_pt": "A polinização conecta forma, comportamento de animais, probabilidade de encontro e reprodução vegetal.",
+      "flow_pt": "geometria → comportamento → probabilidade → reprodução",
+      "source_family": "ecologia",
+      "ux": {
+        "hero_type": "image",
+        "sections": [
+          "Você observa",
+          "Como funciona",
+          "Onde aparece",
+          "Matemática por trás",
+          "Teste rápido",
+          "Fonte"
+        ],
+        "micro_interaction": "toque para revelar camada"
+      },
+      "daily_ready": true
+    },
+    {
+      "id": "bio-067",
+      "topic": "camuflagem",
+      "title_pt": "Como a seleção pode favorecer padrões tão precisos?",
+      "body_pt": "Padrões corporais podem modificar a detecção por predadores ou presas; a eficácia depende da paisagem visual.",
+      "flow_pt": "visão → contraste → ambiente → sobrevivência",
+      "source_family": "Smithsonian",
+      "ux": {
+        "hero_type": "image",
+        "sections": [
+          "Você observa",
+          "Como funciona",
+          "Onde aparece",
+          "Matemática por trás",
+          "Teste rápido",
+          "Fonte"
+        ],
+        "micro_interaction": "toque para revelar camada"
+      },
+      "daily_ready": true
+    },
+    {
+      "id": "bio-068",
+      "topic": "ecolocalização",
+      "title_pt": "Como morcegos podem “ver” com som?",
+      "body_pt": "A ecolocalização usa emissão e recepção de ondas sonoras para inferir distância e propriedades de objetos.",
+      "flow_pt": "ondas → tempo de retorno → distância → comportamento",
+      "source_family": "física/biologia",
+      "ux": {
+        "hero_type": "image",
+        "sections": [
+          "Você observa",
+          "Como funciona",
+          "Onde aparece",
+          "Matemática por trás",
+          "Teste rápido",
+          "Fonte"
+        ],
+        "micro_interaction": "toque para revelar camada"
+      },
+      "daily_ready": true
+    },
+    {
+      "id": "bio-069",
+      "topic": "migração",
+      "title_pt": "Como um animal sabe para onde ir?",
+      "body_pt": "Migrações podem combinar pistas ambientais, orientação astronômica, campo magnético, memória e aprendizado.",
+      "flow_pt": "navegação → ambiente → energia → seleção",
+      "source_family": "ecologia",
+      "ux": {
+        "hero_type": "image",
+        "sections": [
+          "Você observa",
+          "Como funciona",
+          "Onde aparece",
+          "Matemática por trás",
+          "Teste rápido",
+          "Fonte"
+        ],
+        "micro_interaction": "toque para revelar camada"
+      },
+      "daily_ready": true
+    },
+    {
+      "id": "bio-070",
+      "topic": "regeneração",
+      "title_pt": "Por que alguns animais regeneram partes do corpo melhor que outros?",
+      "body_pt": "A regeneração depende de células, sinais moleculares, arquitetura de tecidos e evolução; espécies diferem muito em capacidade regenerativa.",
+      "flow_pt": "células → sinais → tecidos → evolução",
+      "source_family": "biologia",
+      "ux": {
+        "hero_type": "image",
+        "sections": [
+          "Você observa",
+          "Como funciona",
+          "Onde aparece",
+          "Matemática por trás",
+          "Teste rápido",
+          "Fonte"
+        ],
+        "micro_interaction": "toque para revelar camada"
+      },
+      "daily_ready": true
+    },
+    {
+      "id": "bio-071",
+      "topic": "abelhas",
+      "title_pt": "Uma dança pode codificar informação?",
+      "body_pt": "Algumas abelhas sociais usam comportamentos que transmitem informação sobre direção e distância de recursos.",
+      "flow_pt": "comunicação → ângulo → distância → informação",
+      "source_family": "biologia/matemática",
+      "ux": {
+        "hero_type": "image",
+        "sections": [
+          "Você observa",
+          "Como funciona",
+          "Onde aparece",
+          "Matemática por trás",
+          "Teste rápido",
+          "Fonte"
+        ],
+        "micro_interaction": "toque para revelar camada"
+      },
+      "daily_ready": true
+    },
+    {
+      "id": "bio-072",
+      "topic": "formigas",
+      "title_pt": "Como uma colônia resolve problemas sem um “chefe”?",
+      "body_pt": "Regras locais simples podem gerar padrões coletivos e decisões distribuídas.",
+      "flow_pt": "agente → regra local → feedback → emergência",
+      "source_family": "ecologia/matemática",
+      "ux": {
+        "hero_type": "image",
+        "sections": [
+          "Você observa",
+          "Como funciona",
+          "Onde aparece",
+          "Matemática por trás",
+          "Teste rápido",
+          "Fonte"
+        ],
+        "micro_interaction": "toque para revelar camada"
+      },
+      "daily_ready": true
+    },
+    {
+      "id": "bio-073",
+      "topic": "ciclos",
+      "title_pt": "Como matéria circula em um ecossistema?",
+      "body_pt": "Carbono, nitrogênio, fósforo e água percorrem reservatórios bióticos e abióticos por processos conectados.",
+      "flow_pt": "estoque → fluxo → transformação → feedback",
+      "source_family": "MMA/Smithsonian",
+      "ux": {
+        "hero_type": "image",
+        "sections": [
+          "Você observa",
+          "Como funciona",
+          "Onde aparece",
+          "Matemática por trás",
+          "Teste rápido",
+          "Fonte"
+        ],
+        "micro_interaction": "toque para revelar camada"
+      },
+      "daily_ready": true
+    },
+    {
+      "id": "bio-074",
+      "topic": "sucessão",
+      "title_pt": "Como uma área muda depois de uma perturbação?",
+      "body_pt": "Sucessão ecológica descreve mudanças temporais na composição e estrutura das comunidades.",
+      "flow_pt": "distúrbio → colonização → competição → comunidade",
+      "source_family": "ecologia",
+      "ux": {
+        "hero_type": "image",
+        "sections": [
+          "Você observa",
+          "Como funciona",
+          "Onde aparece",
+          "Matemática por trás",
+          "Teste rápido",
+          "Fonte"
+        ],
+        "micro_interaction": "toque para revelar camada"
+      },
+      "daily_ready": true
+    },
+    {
+      "id": "bio-075",
+      "topic": "nicho",
+      "title_pt": "Habitat é a mesma coisa que nicho?",
+      "body_pt": "Habitat é o lugar onde um organismo vive; nicho inclui condições e funções ecológicas mais amplas.",
+      "flow_pt": "espaço → recursos → interações → função",
+      "source_family": "ecologia",
+      "ux": {
+        "hero_type": "image",
+        "sections": [
+          "Você observa",
+          "Como funciona",
+          "Onde aparece",
+          "Matemática por trás",
+          "Teste rápido",
+          "Fonte"
+        ],
+        "micro_interaction": "toque para revelar camada"
+      },
+      "daily_ready": true
+    },
+    {
+      "id": "bio-076",
+      "topic": "capacidade-suporte",
+      "title_pt": "Por que populações não crescem para sempre?",
+      "body_pt": "Recursos, competição, predadores, doenças e ambiente impõem limites ao crescimento populacional.",
+      "flow_pt": "crescimento → limite → feedback → estabilidade",
+      "source_family": "ecologia",
+      "ux": {
+        "hero_type": "image",
+        "sections": [
+          "Você observa",
+          "Como funciona",
+          "Onde aparece",
+          "Matemática por trás",
+          "Teste rápido",
+          "Fonte"
+        ],
+        "micro_interaction": "toque para revelar camada"
+      },
+      "daily_ready": true
+    },
+    {
+      "id": "bio-077",
+      "topic": "especie-chave",
+      "title_pt": "Como uma única espécie pode mudar um ecossistema?",
+      "body_pt": "Algumas espécies têm efeitos desproporcionais sobre a estrutura de uma comunidade.",
+      "flow_pt": "interação → cascata trófica → estrutura",
+      "source_family": "ecologia",
+      "ux": {
+        "hero_type": "image",
+        "sections": [
+          "Você observa",
+          "Como funciona",
+          "Onde aparece",
+          "Matemática por trás",
+          "Teste rápido",
+          "Fonte"
+        ],
+        "micro_interaction": "toque para revelar camada"
+      },
+      "daily_ready": true
+    },
+    {
+      "id": "bio-078",
+      "topic": "espécies-invasoras",
+      "title_pt": "Por que uma espécie fora de sua área original pode causar impactos?",
+      "body_pt": "Em certas condições, espécies introduzidas encontram poucos inimigos naturais, ocupam nichos disponíveis e alteram interações ecológicas.",
+      "flow_pt": "introdução → estabelecimento → expansão → impacto",
+      "source_family": "Ibama",
+      "ux": {
+        "hero_type": "image",
+        "sections": [
+          "Você observa",
+          "Como funciona",
+          "Onde aparece",
+          "Matemática por trás",
+          "Teste rápido",
+          "Fonte"
+        ],
+        "micro_interaction": "toque para revelar camada"
+      },
+      "daily_ready": true
+    },
+    {
+      "id": "bio-079",
+      "topic": "biodiversidade",
+      "title_pt": "O que significa biodiversidade de verdade?",
+      "body_pt": "Biodiversidade envolve diversidade dentro das espécies, entre espécies e de ecossistemas.",
+      "flow_pt": "genes → espécies → ecossistemas",
+      "source_family": "MMA",
+      "ux": {
+        "hero_type": "image",
+        "sections": [
+          "Você observa",
+          "Como funciona",
+          "Onde aparece",
+          "Matemática por trás",
+          "Teste rápido",
+          "Fonte"
+        ],
+        "micro_interaction": "toque para revelar camada"
+      },
+      "daily_ready": true
+    },
+    {
+      "id": "bio-080",
+      "topic": "biomas-brasil",
+      "title_pt": "Por que o Brasil tem tantos tipos de natureza?",
+      "body_pt": "Gradientes climáticos, relevo e história evolutiva ajudam a produzir seis biomas terrestres e diversos ecossistemas costeiros e marinhos no território brasileiro.",
+      "flow_pt": "clima → espaço → evolução → bioma",
+      "source_family": "MMA",
+      "ux": {
+        "hero_type": "image",
+        "sections": [
+          "Você observa",
+          "Como funciona",
+          "Onde aparece",
+          "Matemática por trás",
+          "Teste rápido",
+          "Fonte"
+        ],
+        "micro_interaction": "toque para revelar camada"
+      },
+      "daily_ready": true
+    },
+    {
+      "id": "bio-081",
+      "topic": "adaptação",
+      "title_pt": "Por que animais têm formas tão diferentes de viver?",
+      "body_pt": "Adaptações são características que aumentam a sobrevivência ou reprodução em determinados contextos ao longo das gerações.",
+      "flow_pt": "morfologia → comportamento → ambiente → seleção natural",
+      "source_family": "Smithsonian",
+      "ux": {
+        "hero_type": "image",
+        "sections": [
+          "Você observa",
+          "Como funciona",
+          "Onde aparece",
+          "Matemática por trás",
+          "Teste rápido",
+          "Fonte"
+        ],
+        "micro_interaction": "toque para revelar camada"
+      },
+      "daily_ready": true
+    },
+    {
+      "id": "bio-082",
+      "topic": "tardígrado",
+      "title_pt": "O que torna o tardígrado tão resistente?",
+      "body_pt": "Tardígrados podem entrar em estados de latência extrema e suportar condições ambientais severas; o interesse científico está em como seu metabolismo e estruturas celulares respondem ao estresse.",
+      "flow_pt": "água → metabolismo → proteção celular → dormência",
+      "source_family": "Smithsonian/NHM",
+      "ux": {
+        "hero_type": "image",
+        "sections": [
+          "Você observa",
+          "Como funciona",
+          "Onde aparece",
+          "Matemática por trás",
+          "Teste rápido",
+          "Fonte"
+        ],
+        "micro_interaction": "toque para revelar camada"
+      },
+      "daily_ready": true
+    },
+    {
+      "id": "bio-083",
+      "topic": "corais",
+      "title_pt": "Um recife é uma cidade viva?",
+      "body_pt": "Recifes dependem de interações entre corais, algas simbiontes, peixes, microrganismos e ambiente físico.",
+      "flow_pt": "simbiose → energia → habitat → biodiversidade",
+      "source_family": "Smithsonian",
+      "ux": {
+        "hero_type": "image",
+        "sections": [
+          "Você observa",
+          "Como funciona",
+          "Onde aparece",
+          "Matemática por trás",
+          "Teste rápido",
+          "Fonte"
+        ],
+        "micro_interaction": "toque para revelar camada"
+      },
+      "daily_ready": true
+    },
+    {
+      "id": "bio-084",
+      "topic": "micorrizas",
+      "title_pt": "As plantas realmente conversam com fungos?",
+      "body_pt": "Associações micorrízicas podem ampliar a exploração do solo pelas raízes e trocar recursos entre fungos e plantas.",
+      "flow_pt": "raiz → fungo → nutrientes → ecossistema",
+      "source_family": "biologia/ecologia",
+      "ux": {
+        "hero_type": "image",
+        "sections": [
+          "Você observa",
+          "Como funciona",
+          "Onde aparece",
+          "Matemática por trás",
+          "Teste rápido",
+          "Fonte"
+        ],
+        "micro_interaction": "toque para revelar camada"
+      },
+      "daily_ready": true
+    },
+    {
+      "id": "bio-085",
+      "topic": "teia-alimentar",
+      "title_pt": "Por que uma teia alimentar é melhor que uma cadeia?",
+      "body_pt": "Uma comunidade real possui muitas conexões de alimentação; a teia permite visualizar caminhos múltiplos de energia e matéria.",
+      "flow_pt": "produtores → consumidores → decompositores",
+      "source_family": "Smithsonian",
+      "ux": {
+        "hero_type": "image",
+        "sections": [
+          "Você observa",
+          "Como funciona",
+          "Onde aparece",
+          "Matemática por trás",
+          "Teste rápido",
+          "Fonte"
+        ],
+        "micro_interaction": "toque para revelar camada"
+      },
+      "daily_ready": true
+    },
+    {
+      "id": "bio-086",
+      "topic": "polinização",
+      "title_pt": "Como uma flor se torna uma história matemática?",
+      "body_pt": "A polinização conecta forma, comportamento de animais, probabilidade de encontro e reprodução vegetal.",
+      "flow_pt": "geometria → comportamento → probabilidade → reprodução",
+      "source_family": "ecologia",
+      "ux": {
+        "hero_type": "image",
+        "sections": [
+          "Você observa",
+          "Como funciona",
+          "Onde aparece",
+          "Matemática por trás",
+          "Teste rápido",
+          "Fonte"
+        ],
+        "micro_interaction": "toque para revelar camada"
+      },
+      "daily_ready": true
+    },
+    {
+      "id": "bio-087",
+      "topic": "camuflagem",
+      "title_pt": "Como a seleção pode favorecer padrões tão precisos?",
+      "body_pt": "Padrões corporais podem modificar a detecção por predadores ou presas; a eficácia depende da paisagem visual.",
+      "flow_pt": "visão → contraste → ambiente → sobrevivência",
+      "source_family": "Smithsonian",
+      "ux": {
+        "hero_type": "image",
+        "sections": [
+          "Você observa",
+          "Como funciona",
+          "Onde aparece",
+          "Matemática por trás",
+          "Teste rápido",
+          "Fonte"
+        ],
+        "micro_interaction": "toque para revelar camada"
+      },
+      "daily_ready": true
+    },
+    {
+      "id": "bio-088",
+      "topic": "ecolocalização",
+      "title_pt": "Como morcegos podem “ver” com som?",
+      "body_pt": "A ecolocalização usa emissão e recepção de ondas sonoras para inferir distância e propriedades de objetos.",
+      "flow_pt": "ondas → tempo de retorno → distância → comportamento",
+      "source_family": "física/biologia",
+      "ux": {
+        "hero_type": "image",
+        "sections": [
+          "Você observa",
+          "Como funciona",
+          "Onde aparece",
+          "Matemática por trás",
+          "Teste rápido",
+          "Fonte"
+        ],
+        "micro_interaction": "toque para revelar camada"
+      },
+      "daily_ready": true
+    },
+    {
+      "id": "bio-089",
+      "topic": "migração",
+      "title_pt": "Como um animal sabe para onde ir?",
+      "body_pt": "Migrações podem combinar pistas ambientais, orientação astronômica, campo magnético, memória e aprendizado.",
+      "flow_pt": "navegação → ambiente → energia → seleção",
+      "source_family": "ecologia",
+      "ux": {
+        "hero_type": "image",
+        "sections": [
+          "Você observa",
+          "Como funciona",
+          "Onde aparece",
+          "Matemática por trás",
+          "Teste rápido",
+          "Fonte"
+        ],
+        "micro_interaction": "toque para revelar camada"
+      },
+      "daily_ready": true
+    },
+    {
+      "id": "bio-090",
+      "topic": "regeneração",
+      "title_pt": "Por que alguns animais regeneram partes do corpo melhor que outros?",
+      "body_pt": "A regeneração depende de células, sinais moleculares, arquitetura de tecidos e evolução; espécies diferem muito em capacidade regenerativa.",
+      "flow_pt": "células → sinais → tecidos → evolução",
+      "source_family": "biologia",
+      "ux": {
+        "hero_type": "image",
+        "sections": [
+          "Você observa",
+          "Como funciona",
+          "Onde aparece",
+          "Matemática por trás",
+          "Teste rápido",
+          "Fonte"
+        ],
+        "micro_interaction": "toque para revelar camada"
+      },
+      "daily_ready": true
+    },
+    {
+      "id": "bio-091",
+      "topic": "abelhas",
+      "title_pt": "Uma dança pode codificar informação?",
+      "body_pt": "Algumas abelhas sociais usam comportamentos que transmitem informação sobre direção e distância de recursos.",
+      "flow_pt": "comunicação → ângulo → distância → informação",
+      "source_family": "biologia/matemática",
+      "ux": {
+        "hero_type": "image",
+        "sections": [
+          "Você observa",
+          "Como funciona",
+          "Onde aparece",
+          "Matemática por trás",
+          "Teste rápido",
+          "Fonte"
+        ],
+        "micro_interaction": "toque para revelar camada"
+      },
+      "daily_ready": true
+    },
+    {
+      "id": "bio-092",
+      "topic": "formigas",
+      "title_pt": "Como uma colônia resolve problemas sem um “chefe”?",
+      "body_pt": "Regras locais simples podem gerar padrões coletivos e decisões distribuídas.",
+      "flow_pt": "agente → regra local → feedback → emergência",
+      "source_family": "ecologia/matemática",
+      "ux": {
+        "hero_type": "image",
+        "sections": [
+          "Você observa",
+          "Como funciona",
+          "Onde aparece",
+          "Matemática por trás",
+          "Teste rápido",
+          "Fonte"
+        ],
+        "micro_interaction": "toque para revelar camada"
+      },
+      "daily_ready": true
+    },
+    {
+      "id": "bio-093",
+      "topic": "ciclos",
+      "title_pt": "Como matéria circula em um ecossistema?",
+      "body_pt": "Carbono, nitrogênio, fósforo e água percorrem reservatórios bióticos e abióticos por processos conectados.",
+      "flow_pt": "estoque → fluxo → transformação → feedback",
+      "source_family": "MMA/Smithsonian",
+      "ux": {
+        "hero_type": "image",
+        "sections": [
+          "Você observa",
+          "Como funciona",
+          "Onde aparece",
+          "Matemática por trás",
+          "Teste rápido",
+          "Fonte"
+        ],
+        "micro_interaction": "toque para revelar camada"
+      },
+      "daily_ready": true
+    },
+    {
+      "id": "bio-094",
+      "topic": "sucessão",
+      "title_pt": "Como uma área muda depois de uma perturbação?",
+      "body_pt": "Sucessão ecológica descreve mudanças temporais na composição e estrutura das comunidades.",
+      "flow_pt": "distúrbio → colonização → competição → comunidade",
+      "source_family": "ecologia",
+      "ux": {
+        "hero_type": "image",
+        "sections": [
+          "Você observa",
+          "Como funciona",
+          "Onde aparece",
+          "Matemática por trás",
+          "Teste rápido",
+          "Fonte"
+        ],
+        "micro_interaction": "toque para revelar camada"
+      },
+      "daily_ready": true
+    },
+    {
+      "id": "bio-095",
+      "topic": "nicho",
+      "title_pt": "Habitat é a mesma coisa que nicho?",
+      "body_pt": "Habitat é o lugar onde um organismo vive; nicho inclui condições e funções ecológicas mais amplas.",
+      "flow_pt": "espaço → recursos → interações → função",
+      "source_family": "ecologia",
+      "ux": {
+        "hero_type": "image",
+        "sections": [
+          "Você observa",
+          "Como funciona",
+          "Onde aparece",
+          "Matemática por trás",
+          "Teste rápido",
+          "Fonte"
+        ],
+        "micro_interaction": "toque para revelar camada"
+      },
+      "daily_ready": true
+    },
+    {
+      "id": "bio-096",
+      "topic": "capacidade-suporte",
+      "title_pt": "Por que populações não crescem para sempre?",
+      "body_pt": "Recursos, competição, predadores, doenças e ambiente impõem limites ao crescimento populacional.",
+      "flow_pt": "crescimento → limite → feedback → estabilidade",
+      "source_family": "ecologia",
+      "ux": {
+        "hero_type": "image",
+        "sections": [
+          "Você observa",
+          "Como funciona",
+          "Onde aparece",
+          "Matemática por trás",
+          "Teste rápido",
+          "Fonte"
+        ],
+        "micro_interaction": "toque para revelar camada"
+      },
+      "daily_ready": true
+    },
+    {
+      "id": "bio-097",
+      "topic": "especie-chave",
+      "title_pt": "Como uma única espécie pode mudar um ecossistema?",
+      "body_pt": "Algumas espécies têm efeitos desproporcionais sobre a estrutura de uma comunidade.",
+      "flow_pt": "interação → cascata trófica → estrutura",
+      "source_family": "ecologia",
+      "ux": {
+        "hero_type": "image",
+        "sections": [
+          "Você observa",
+          "Como funciona",
+          "Onde aparece",
+          "Matemática por trás",
+          "Teste rápido",
+          "Fonte"
+        ],
+        "micro_interaction": "toque para revelar camada"
+      },
+      "daily_ready": true
+    },
+    {
+      "id": "bio-098",
+      "topic": "espécies-invasoras",
+      "title_pt": "Por que uma espécie fora de sua área original pode causar impactos?",
+      "body_pt": "Em certas condições, espécies introduzidas encontram poucos inimigos naturais, ocupam nichos disponíveis e alteram interações ecológicas.",
+      "flow_pt": "introdução → estabelecimento → expansão → impacto",
+      "source_family": "Ibama",
+      "ux": {
+        "hero_type": "image",
+        "sections": [
+          "Você observa",
+          "Como funciona",
+          "Onde aparece",
+          "Matemática por trás",
+          "Teste rápido",
+          "Fonte"
+        ],
+        "micro_interaction": "toque para revelar camada"
+      },
+      "daily_ready": true
+    },
+    {
+      "id": "bio-099",
+      "topic": "biodiversidade",
+      "title_pt": "O que significa biodiversidade de verdade?",
+      "body_pt": "Biodiversidade envolve diversidade dentro das espécies, entre espécies e de ecossistemas.",
+      "flow_pt": "genes → espécies → ecossistemas",
+      "source_family": "MMA",
+      "ux": {
+        "hero_type": "image",
+        "sections": [
+          "Você observa",
+          "Como funciona",
+          "Onde aparece",
+          "Matemática por trás",
+          "Teste rápido",
+          "Fonte"
+        ],
+        "micro_interaction": "toque para revelar camada"
+      },
+      "daily_ready": true
+    },
+    {
+      "id": "bio-100",
+      "topic": "biomas-brasil",
+      "title_pt": "Por que o Brasil tem tantos tipos de natureza?",
+      "body_pt": "Gradientes climáticos, relevo e história evolutiva ajudam a produzir seis biomas terrestres e diversos ecossistemas costeiros e marinhos no território brasileiro.",
+      "flow_pt": "clima → espaço → evolução → bioma",
+      "source_family": "MMA",
+      "ux": {
+        "hero_type": "image",
+        "sections": [
+          "Você observa",
+          "Como funciona",
+          "Onde aparece",
+          "Matemática por trás",
+          "Teste rápido",
+          "Fonte"
+        ],
+        "micro_interaction": "toque para revelar camada"
+      },
+      "daily_ready": true
+    }
+  ],
+  "source_notes": [
+    "Smithsonian life-science and animal resources",
+    "MMA biodiversidade e biomas",
+    "Ibama educação ambiental"
+  ]
+}

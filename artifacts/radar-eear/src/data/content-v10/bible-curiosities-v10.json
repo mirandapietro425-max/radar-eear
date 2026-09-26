@@ -1,0 +1,1622 @@
+{
+  "schema_version": "10.0",
+  "language": "pt-BR",
+  "count": 95,
+  "items": [
+    {
+      "id": "bib-cur-001",
+      "title_pt": "Línguas bíblicas",
+      "body_pt": "A Bíblia hebraica foi escrita majoritariamente em hebraico, com trechos em aramaico; o Novo Testamento foi escrito em grego koiné.",
+      "category": "contexto linguístico",
+      "daily_ready": true,
+      "ux": {
+        "reveal": "camada por camada",
+        "micro_interaction": "toque para descobrir o porquê",
+        "close": "mini-pergunta + salvar",
+        "media": "imagem/diagrama quando pertinente"
+      },
+      "source_ids": [
+        "src_bibleproject_how",
+        "src_bibleproject_guides"
+      ]
+    },
+    {
+      "id": "bib-cur-002",
+      "title_pt": "Gêneros",
+      "body_pt": "A Bíblia reúne narrativa, poesia, sabedoria, lei, profecia, evangelho, carta e apocalíptica; ler cada gênero como se fosse outro pode distorcer seu sentido.",
+      "category": "literatura",
+      "daily_ready": true,
+      "ux": {
+        "reveal": "camada por camada",
+        "micro_interaction": "toque para descobrir o porquê",
+        "close": "mini-pergunta + salvar",
+        "media": "imagem/diagrama quando pertinente"
+      },
+      "source_ids": [
+        "src_bibleproject_how",
+        "src_bibleproject_guides"
+      ]
+    },
+    {
+      "id": "bib-cur-003",
+      "title_pt": "Salmos",
+      "body_pt": "O Saltério contém diferentes formas poéticas, incluindo lamentos, hinos e ações de graças.",
+      "category": "poesia",
+      "daily_ready": true,
+      "ux": {
+        "reveal": "camada por camada",
+        "micro_interaction": "toque para descobrir o porquê",
+        "close": "mini-pergunta + salvar",
+        "media": "imagem/diagrama quando pertinente"
+      },
+      "source_ids": [
+        "src_bibleproject_how",
+        "src_bibleproject_guides"
+      ]
+    },
+    {
+      "id": "bib-cur-004",
+      "title_pt": "Provérbios",
+      "body_pt": "Provérbios reúne máximas de sabedoria; seus ditos não precisam ser tratados como promessas mecânicas para cada circunstância individual.",
+      "category": "sabedoria",
+      "daily_ready": true,
+      "ux": {
+        "reveal": "camada por camada",
+        "micro_interaction": "toque para descobrir o porquê",
+        "close": "mini-pergunta + salvar",
+        "media": "imagem/diagrama quando pertinente"
+      },
+      "source_ids": [
+        "src_bibleproject_how",
+        "src_bibleproject_guides"
+      ]
+    },
+    {
+      "id": "bib-cur-005",
+      "title_pt": "Parábolas",
+      "body_pt": "As parábolas de Jesus frequentemente provocam o leitor por contraste, surpresa e inversão de expectativas.",
+      "category": "evangelhos",
+      "daily_ready": true,
+      "ux": {
+        "reveal": "camada por camada",
+        "micro_interaction": "toque para descobrir o porquê",
+        "close": "mini-pergunta + salvar",
+        "media": "imagem/diagrama quando pertinente"
+      },
+      "source_ids": [
+        "src_bibleproject_how",
+        "src_bibleproject_guides"
+      ]
+    },
+    {
+      "id": "bib-cur-006",
+      "title_pt": "Cartas",
+      "body_pt": "As cartas do Novo Testamento são escritos situados em comunidades concretas; destinatários e circunstâncias fazem parte da leitura histórica.",
+      "category": "epístolas",
+      "daily_ready": true,
+      "ux": {
+        "reveal": "camada por camada",
+        "micro_interaction": "toque para descobrir o porquê",
+        "close": "mini-pergunta + salvar",
+        "media": "imagem/diagrama quando pertinente"
+      },
+      "source_ids": [
+        "src_bibleproject_how",
+        "src_bibleproject_guides"
+      ]
+    },
+    {
+      "id": "bib-cur-007",
+      "title_pt": "Apocalíptica",
+      "body_pt": "Textos apocalípticos usam imagens, números e símbolos intensos; o gênero pede atenção especial ao contexto literário.",
+      "category": "gênero",
+      "daily_ready": true,
+      "ux": {
+        "reveal": "camada por camada",
+        "micro_interaction": "toque para descobrir o porquê",
+        "close": "mini-pergunta + salvar",
+        "media": "imagem/diagrama quando pertinente"
+      },
+      "source_ids": [
+        "src_bibleproject_how",
+        "src_bibleproject_guides"
+      ]
+    },
+    {
+      "id": "bib-cur-008",
+      "title_pt": "Genealogias",
+      "body_pt": "Genealogias podem cumprir funções literárias, sociais e teológicas além de simplesmente registrar uma lista moderna de antepassados.",
+      "category": "narrativa",
+      "daily_ready": true,
+      "ux": {
+        "reveal": "camada por camada",
+        "micro_interaction": "toque para descobrir o porquê",
+        "close": "mini-pergunta + salvar",
+        "media": "imagem/diagrama quando pertinente"
+      },
+      "source_ids": [
+        "src_bibleproject_how",
+        "src_bibleproject_guides"
+      ]
+    },
+    {
+      "id": "bib-cur-009",
+      "title_pt": "Nomes",
+      "body_pt": "Muitos nomes bíblicos possuem significados semânticos relevantes, mas o significado do nome sozinho não determina o sentido de uma cena.",
+      "category": "linguagem",
+      "daily_ready": true,
+      "ux": {
+        "reveal": "camada por camada",
+        "micro_interaction": "toque para descobrir o porquê",
+        "close": "mini-pergunta + salvar",
+        "media": "imagem/diagrama quando pertinente"
+      },
+      "source_ids": [
+        "src_bibleproject_how",
+        "src_bibleproject_guides"
+      ]
+    },
+    {
+      "id": "bib-cur-010",
+      "title_pt": "Geografia",
+      "body_pt": "Jerusalém, Egito, Babilônia, Samaria, Galileia e deserto não são apenas pontos no mapa; os lugares frequentemente carregam memória narrativa.",
+      "category": "geografia",
+      "daily_ready": true,
+      "ux": {
+        "reveal": "camada por camada",
+        "micro_interaction": "toque para descobrir o porquê",
+        "close": "mini-pergunta + salvar",
+        "media": "imagem/diagrama quando pertinente"
+      },
+      "source_ids": [
+        "src_bibleproject_how",
+        "src_bibleproject_guides"
+      ]
+    },
+    {
+      "id": "bib-cur-011",
+      "title_pt": "Êxodo",
+      "body_pt": "O Êxodo tornou-se um dos grandes eixos narrativos da Bíblia e também um símbolo de libertação em tradições judaicas e cristãs.",
+      "category": "Pentateuco",
+      "daily_ready": true,
+      "ux": {
+        "reveal": "camada por camada",
+        "micro_interaction": "toque para descobrir o porquê",
+        "close": "mini-pergunta + salvar",
+        "media": "imagem/diagrama quando pertinente"
+      },
+      "source_ids": [
+        "src_bibleproject_how",
+        "src_bibleproject_guides"
+      ]
+    },
+    {
+      "id": "bib-cur-012",
+      "title_pt": "Páscoa",
+      "body_pt": "A Páscoa judaica relembra a saída do Egito; no cristianismo, a Páscoa cristã interpreta morte e ressurreição de Jesus a partir de suas próprias tradições teológicas.",
+      "category": "festas",
+      "daily_ready": true,
+      "ux": {
+        "reveal": "camada por camada",
+        "micro_interaction": "toque para descobrir o porquê",
+        "close": "mini-pergunta + salvar",
+        "media": "imagem/diagrama quando pertinente"
+      },
+      "source_ids": [
+        "src_bibleproject_how",
+        "src_bibleproject_guides"
+      ]
+    },
+    {
+      "id": "bib-cur-013",
+      "title_pt": "Pentateuco",
+      "body_pt": "Os cinco primeiros livros formam uma unidade literária tradicional conhecida como Torá no judaísmo e Pentateuco na tradição cristã.",
+      "category": "cânon",
+      "daily_ready": true,
+      "ux": {
+        "reveal": "camada por camada",
+        "micro_interaction": "toque para descobrir o porquê",
+        "close": "mini-pergunta + salvar",
+        "media": "imagem/diagrama quando pertinente"
+      },
+      "source_ids": [
+        "src_bibleproject_how",
+        "src_bibleproject_guides"
+      ]
+    },
+    {
+      "id": "bib-cur-014",
+      "title_pt": "Profetas",
+      "body_pt": "Profecia bíblica não é apenas previsão do futuro; inclui crítica social, chamado à fidelidade, julgamento e esperança.",
+      "category": "profetas",
+      "daily_ready": true,
+      "ux": {
+        "reveal": "camada por camada",
+        "micro_interaction": "toque para descobrir o porquê",
+        "close": "mini-pergunta + salvar",
+        "media": "imagem/diagrama quando pertinente"
+      },
+      "source_ids": [
+        "src_bibleproject_how",
+        "src_bibleproject_guides"
+      ]
+    },
+    {
+      "id": "bib-cur-015",
+      "title_pt": "Contexto romano",
+      "body_pt": "O Novo Testamento nasceu em um mundo marcado pelo Império Romano, cidades mediterrâneas, estradas e pluralidade religiosa.",
+      "category": "história",
+      "daily_ready": true,
+      "ux": {
+        "reveal": "camada por camada",
+        "micro_interaction": "toque para descobrir o porquê",
+        "close": "mini-pergunta + salvar",
+        "media": "imagem/diagrama quando pertinente"
+      },
+      "source_ids": [
+        "src_bibleproject_how",
+        "src_bibleproject_guides"
+      ]
+    },
+    {
+      "id": "bib-cur-016",
+      "title_pt": "Manuscritos",
+      "body_pt": "O estudo dos manuscritos ajuda pesquisadores a comparar testemunhos textuais e compreender a transmissão dos textos.",
+      "category": "textual",
+      "daily_ready": true,
+      "ux": {
+        "reveal": "camada por camada",
+        "micro_interaction": "toque para descobrir o porquê",
+        "close": "mini-pergunta + salvar",
+        "media": "imagem/diagrama quando pertinente"
+      },
+      "source_ids": [
+        "src_bibleproject_how",
+        "src_bibleproject_guides"
+      ]
+    },
+    {
+      "id": "bib-cur-017",
+      "title_pt": "Traduções",
+      "body_pt": "Traduções bíblicas fazem escolhas sobre vocabulário, sintaxe e estilo; comparar traduções pode revelar nuances, mas não substitui a análise do texto original.",
+      "category": "tradução",
+      "daily_ready": true,
+      "ux": {
+        "reveal": "camada por camada",
+        "micro_interaction": "toque para descobrir o porquê",
+        "close": "mini-pergunta + salvar",
+        "media": "imagem/diagrama quando pertinente"
+      },
+      "source_ids": [
+        "src_bibleproject_how",
+        "src_bibleproject_guides"
+      ]
+    },
+    {
+      "id": "bib-cur-018",
+      "title_pt": "Qumran",
+      "body_pt": "Os Manuscritos do Mar Morto ampliaram o conhecimento sobre textos judaicos antigos e testemunhos bíblicos anteriores à era cristã.",
+      "category": "arqueologia",
+      "daily_ready": true,
+      "ux": {
+        "reveal": "camada por camada",
+        "micro_interaction": "toque para descobrir o porquê",
+        "close": "mini-pergunta + salvar",
+        "media": "imagem/diagrama quando pertinente"
+      },
+      "source_ids": [
+        "src_bibleproject_how",
+        "src_bibleproject_guides"
+      ]
+    },
+    {
+      "id": "bib-cur-019",
+      "title_pt": "Enoque",
+      "body_pt": "1 Enoque pertence ao universo da literatura judaica antiga e é importante para o estudo do contexto de certas ideias apocalípticas do período do Segundo Templo.",
+      "category": "apócrifos",
+      "daily_ready": true,
+      "ux": {
+        "reveal": "camada por camada",
+        "micro_interaction": "toque para descobrir o porquê",
+        "close": "mini-pergunta + salvar",
+        "media": "imagem/diagrama quando pertinente"
+      },
+      "source_ids": [
+        "src_bibleproject_how",
+        "src_bibleproject_guides"
+      ]
+    },
+    {
+      "id": "bib-cur-020",
+      "title_pt": "Atos",
+      "body_pt": "Atos funciona como narrativa de expansão do movimento cristão de Jerusalém para outras regiões do Mediterrâneo.",
+      "category": "história do cristianismo",
+      "daily_ready": true,
+      "ux": {
+        "reveal": "camada por camada",
+        "micro_interaction": "toque para descobrir o porquê",
+        "close": "mini-pergunta + salvar",
+        "media": "imagem/diagrama quando pertinente"
+      },
+      "source_ids": [
+        "src_bibleproject_how",
+        "src_bibleproject_guides"
+      ]
+    },
+    {
+      "id": "bib-cur-021",
+      "title_pt": "Pentecostes",
+      "body_pt": "Pentecostes em Atos 2 é apresentado como um evento em que diferentes línguas e povos tornam-se parte da narrativa da comunidade cristã.",
+      "category": "Atos",
+      "daily_ready": true,
+      "ux": {
+        "reveal": "camada por camada",
+        "micro_interaction": "toque para descobrir o porquê",
+        "close": "mini-pergunta + salvar",
+        "media": "imagem/diagrama quando pertinente"
+      },
+      "source_ids": [
+        "src_bibleproject_how",
+        "src_bibleproject_guides"
+      ]
+    },
+    {
+      "id": "bib-cur-022",
+      "title_pt": "Provérbios e formação",
+      "body_pt": "Textos sapienciais podem ser estudados como treinamento de julgamento, prudência e caráter.",
+      "category": "formação",
+      "daily_ready": true,
+      "ux": {
+        "reveal": "camada por camada",
+        "micro_interaction": "toque para descobrir o porquê",
+        "close": "mini-pergunta + salvar",
+        "media": "imagem/diagrama quando pertinente"
+      },
+      "source_ids": [
+        "src_bibleproject_how",
+        "src_bibleproject_guides"
+      ]
+    },
+    {
+      "id": "bib-cur-023",
+      "title_pt": "Jó",
+      "body_pt": "O livro de Jó explora sofrimento, justiça e limites das explicações humanas; não oferece uma resposta simplista ao problema do sofrimento.",
+      "category": "sabedoria",
+      "daily_ready": true,
+      "ux": {
+        "reveal": "camada por camada",
+        "micro_interaction": "toque para descobrir o porquê",
+        "close": "mini-pergunta + salvar",
+        "media": "imagem/diagrama quando pertinente"
+      },
+      "source_ids": [
+        "src_bibleproject_how",
+        "src_bibleproject_guides"
+      ]
+    },
+    {
+      "id": "bib-cur-024",
+      "title_pt": "Eclesiastes",
+      "body_pt": "Eclesiastes inclui reflexões sobre tempo, trabalho, prazer, morte e limites do esforço humano.",
+      "category": "sabedoria",
+      "daily_ready": true,
+      "ux": {
+        "reveal": "camada por camada",
+        "micro_interaction": "toque para descobrir o porquê",
+        "close": "mini-pergunta + salvar",
+        "media": "imagem/diagrama quando pertinente"
+      },
+      "source_ids": [
+        "src_bibleproject_how",
+        "src_bibleproject_guides"
+      ]
+    },
+    {
+      "id": "bib-cur-025",
+      "title_pt": "Lamentações",
+      "body_pt": "A poesia de Lamentações preserva linguagem de dor e memória comunitária após a queda de Jerusalém.",
+      "category": "poesia",
+      "daily_ready": true,
+      "ux": {
+        "reveal": "camada por camada",
+        "micro_interaction": "toque para descobrir o porquê",
+        "close": "mini-pergunta + salvar",
+        "media": "imagem/diagrama quando pertinente"
+      },
+      "source_ids": [
+        "src_bibleproject_how",
+        "src_bibleproject_guides"
+      ]
+    },
+    {
+      "id": "bib-cur-026",
+      "title_pt": "Rute",
+      "body_pt": "Rute apresenta temas de lealdade, migração, parentesco, trabalho e integração comunitária.",
+      "category": "narrativa",
+      "daily_ready": true,
+      "ux": {
+        "reveal": "camada por camada",
+        "micro_interaction": "toque para descobrir o porquê",
+        "close": "mini-pergunta + salvar",
+        "media": "imagem/diagrama quando pertinente"
+      },
+      "source_ids": [
+        "src_bibleproject_how",
+        "src_bibleproject_guides"
+      ]
+    },
+    {
+      "id": "bib-cur-027",
+      "title_pt": "Ester",
+      "body_pt": "Ester ocupa posição singular dentro do cânon hebraico pelo modo como a presença de Deus é tratada no texto massorético.",
+      "category": "narrativa",
+      "daily_ready": true,
+      "ux": {
+        "reveal": "camada por camada",
+        "micro_interaction": "toque para descobrir o porquê",
+        "close": "mini-pergunta + salvar",
+        "media": "imagem/diagrama quando pertinente"
+      },
+      "source_ids": [
+        "src_bibleproject_how",
+        "src_bibleproject_guides"
+      ]
+    },
+    {
+      "id": "bib-cur-028",
+      "title_pt": "Jonas",
+      "body_pt": "Jonas usa ironia e contraste para explorar misericórdia, missão e a resistência do próprio profeta.",
+      "category": "narrativa",
+      "daily_ready": true,
+      "ux": {
+        "reveal": "camada por camada",
+        "micro_interaction": "toque para descobrir o porquê",
+        "close": "mini-pergunta + salvar",
+        "media": "imagem/diagrama quando pertinente"
+      },
+      "source_ids": [
+        "src_bibleproject_how",
+        "src_bibleproject_guides"
+      ]
+    },
+    {
+      "id": "bib-cur-029",
+      "title_pt": "Gênesis 1–11",
+      "body_pt": "A primeira grande seção de Gênesis vai da criação às histórias sobre a humanidade e as nações.",
+      "category": "narrativa",
+      "daily_ready": true,
+      "ux": {
+        "reveal": "camada por camada",
+        "micro_interaction": "toque para descobrir o porquê",
+        "close": "mini-pergunta + salvar",
+        "media": "imagem/diagrama quando pertinente"
+      },
+      "source_ids": [
+        "src_bibleproject_how",
+        "src_bibleproject_guides"
+      ]
+    },
+    {
+      "id": "bib-cur-030",
+      "title_pt": "Abraão",
+      "body_pt": "As narrativas de Abraão atravessam promessa, migração, hospitalidade, conflito familiar e aliança.",
+      "category": "patriarcas",
+      "daily_ready": true,
+      "ux": {
+        "reveal": "camada por camada",
+        "micro_interaction": "toque para descobrir o porquê",
+        "close": "mini-pergunta + salvar",
+        "media": "imagem/diagrama quando pertinente"
+      },
+      "source_ids": [
+        "src_bibleproject_how",
+        "src_bibleproject_guides"
+      ]
+    },
+    {
+      "id": "bib-cur-031",
+      "title_pt": "José",
+      "body_pt": "A história de José explora providência, inveja, reconciliação, fome e administração de recursos.",
+      "category": "patriarcas",
+      "daily_ready": true,
+      "ux": {
+        "reveal": "camada por camada",
+        "micro_interaction": "toque para descobrir o porquê",
+        "close": "mini-pergunta + salvar",
+        "media": "imagem/diagrama quando pertinente"
+      },
+      "source_ids": [
+        "src_bibleproject_how",
+        "src_bibleproject_guides"
+      ]
+    },
+    {
+      "id": "bib-cur-032",
+      "title_pt": "Davi",
+      "body_pt": "A narrativa de Davi combina ascensão política, poesia, guerra, família, pecado, poder e arrependimento.",
+      "category": "história",
+      "daily_ready": true,
+      "ux": {
+        "reveal": "camada por camada",
+        "micro_interaction": "toque para descobrir o porquê",
+        "close": "mini-pergunta + salvar",
+        "media": "imagem/diagrama quando pertinente"
+      },
+      "source_ids": [
+        "src_bibleproject_how",
+        "src_bibleproject_guides"
+      ]
+    },
+    {
+      "id": "bib-cur-033",
+      "title_pt": "Elias",
+      "body_pt": "Elias aparece em narrativas que tratam de culto, poder, conflito profético e fidelidade.",
+      "category": "profetas",
+      "daily_ready": true,
+      "ux": {
+        "reveal": "camada por camada",
+        "micro_interaction": "toque para descobrir o porquê",
+        "close": "mini-pergunta + salvar",
+        "media": "imagem/diagrama quando pertinente"
+      },
+      "source_ids": [
+        "src_bibleproject_how",
+        "src_bibleproject_guides"
+      ]
+    },
+    {
+      "id": "bib-cur-034",
+      "title_pt": "Isaías",
+      "body_pt": "Isaías reúne poesia, crítica, julgamento e esperança, com imagens que exerceram enorme influência na tradição cristã.",
+      "category": "profetas",
+      "daily_ready": true,
+      "ux": {
+        "reveal": "camada por camada",
+        "micro_interaction": "toque para descobrir o porquê",
+        "close": "mini-pergunta + salvar",
+        "media": "imagem/diagrama quando pertinente"
+      },
+      "source_ids": [
+        "src_bibleproject_how",
+        "src_bibleproject_guides"
+      ]
+    },
+    {
+      "id": "bib-cur-035",
+      "title_pt": "Jeremias",
+      "body_pt": "Jeremias combina denúncia, sofrimento pessoal e linguagem de nova aliança.",
+      "category": "profetas",
+      "daily_ready": true,
+      "ux": {
+        "reveal": "camada por camada",
+        "micro_interaction": "toque para descobrir o porquê",
+        "close": "mini-pergunta + salvar",
+        "media": "imagem/diagrama quando pertinente"
+      },
+      "source_ids": [
+        "src_bibleproject_how",
+        "src_bibleproject_guides"
+      ]
+    },
+    {
+      "id": "bib-cur-036",
+      "title_pt": "Ezequiel",
+      "body_pt": "Ezequiel emprega visões simbólicas e imagens corporais e espaciais fortes.",
+      "category": "profetas",
+      "daily_ready": true,
+      "ux": {
+        "reveal": "camada por camada",
+        "micro_interaction": "toque para descobrir o porquê",
+        "close": "mini-pergunta + salvar",
+        "media": "imagem/diagrama quando pertinente"
+      },
+      "source_ids": [
+        "src_bibleproject_how",
+        "src_bibleproject_guides"
+      ]
+    },
+    {
+      "id": "bib-cur-037",
+      "title_pt": "Daniel",
+      "body_pt": "Daniel mistura narrativas de corte e literatura apocalíptica, com sonhos e símbolos políticos.",
+      "category": "apocalíptica",
+      "daily_ready": true,
+      "ux": {
+        "reveal": "camada por camada",
+        "micro_interaction": "toque para descobrir o porquê",
+        "close": "mini-pergunta + salvar",
+        "media": "imagem/diagrama quando pertinente"
+      },
+      "source_ids": [
+        "src_bibleproject_how",
+        "src_bibleproject_guides"
+      ]
+    },
+    {
+      "id": "bib-cur-038",
+      "title_pt": "Mateus",
+      "body_pt": "Mateus organiza a narrativa de Jesus com forte diálogo com as Escrituras de Israel e temas de reino e discipulado.",
+      "category": "evangelhos",
+      "daily_ready": true,
+      "ux": {
+        "reveal": "camada por camada",
+        "micro_interaction": "toque para descobrir o porquê",
+        "close": "mini-pergunta + salvar",
+        "media": "imagem/diagrama quando pertinente"
+      },
+      "source_ids": [
+        "src_bibleproject_how",
+        "src_bibleproject_guides"
+      ]
+    },
+    {
+      "id": "bib-cur-039",
+      "title_pt": "Marcos",
+      "body_pt": "Marcos é marcado por ritmo narrativo rápido e por apresentar Jesus através de ações, conflitos e revelação progressiva.",
+      "category": "evangelhos",
+      "daily_ready": true,
+      "ux": {
+        "reveal": "camada por camada",
+        "micro_interaction": "toque para descobrir o porquê",
+        "close": "mini-pergunta + salvar",
+        "media": "imagem/diagrama quando pertinente"
+      },
+      "source_ids": [
+        "src_bibleproject_how",
+        "src_bibleproject_guides"
+      ]
+    },
+    {
+      "id": "bib-cur-040",
+      "title_pt": "Lucas",
+      "body_pt": "Lucas–Atos formam uma narrativa em dois volumes na qual missão, Espírito e expansão para os povos recebem destaque.",
+      "category": "evangelhos",
+      "daily_ready": true,
+      "ux": {
+        "reveal": "camada por camada",
+        "micro_interaction": "toque para descobrir o porquê",
+        "close": "mini-pergunta + salvar",
+        "media": "imagem/diagrama quando pertinente"
+      },
+      "source_ids": [
+        "src_bibleproject_how",
+        "src_bibleproject_guides"
+      ]
+    },
+    {
+      "id": "bib-cur-041",
+      "title_pt": "João",
+      "body_pt": "João usa símbolos, discursos e linguagem teológica própria, como vida, luz, água e pão.",
+      "category": "evangelhos",
+      "daily_ready": true,
+      "ux": {
+        "reveal": "camada por camada",
+        "micro_interaction": "toque para descobrir o porquê",
+        "close": "mini-pergunta + salvar",
+        "media": "imagem/diagrama quando pertinente"
+      },
+      "source_ids": [
+        "src_bibleproject_how",
+        "src_bibleproject_guides"
+      ]
+    },
+    {
+      "id": "bib-cur-042",
+      "title_pt": "Romanos",
+      "body_pt": "Romanos desenvolve uma argumentação teológica extensa sobre pecado, graça, fé, justiça e relação entre judeus e gentios.",
+      "category": "Paulo",
+      "daily_ready": true,
+      "ux": {
+        "reveal": "camada por camada",
+        "micro_interaction": "toque para descobrir o porquê",
+        "close": "mini-pergunta + salvar",
+        "media": "imagem/diagrama quando pertinente"
+      },
+      "source_ids": [
+        "src_bibleproject_how",
+        "src_bibleproject_guides"
+      ]
+    },
+    {
+      "id": "bib-cur-043",
+      "title_pt": "1 Coríntios",
+      "body_pt": "1 Coríntios mostra como questões concretas de uma comunidade são articuladas com temas de ética, culto, corpo e amor.",
+      "category": "Paulo",
+      "daily_ready": true,
+      "ux": {
+        "reveal": "camada por camada",
+        "micro_interaction": "toque para descobrir o porquê",
+        "close": "mini-pergunta + salvar",
+        "media": "imagem/diagrama quando pertinente"
+      },
+      "source_ids": [
+        "src_bibleproject_how",
+        "src_bibleproject_guides"
+      ]
+    },
+    {
+      "id": "bib-cur-044",
+      "title_pt": "Gálatas",
+      "body_pt": "Gálatas discute liberdade cristã, identidade, lei, promessa e inclusão de gentios.",
+      "category": "Paulo",
+      "daily_ready": true,
+      "ux": {
+        "reveal": "camada por camada",
+        "micro_interaction": "toque para descobrir o porquê",
+        "close": "mini-pergunta + salvar",
+        "media": "imagem/diagrama quando pertinente"
+      },
+      "source_ids": [
+        "src_bibleproject_how",
+        "src_bibleproject_guides"
+      ]
+    },
+    {
+      "id": "bib-cur-045",
+      "title_pt": "Efésios",
+      "body_pt": "Efésios combina linguagem comunitária, cósmica e ética em torno de unidade e vida cristã.",
+      "category": "Paulo",
+      "daily_ready": true,
+      "ux": {
+        "reveal": "camada por camada",
+        "micro_interaction": "toque para descobrir o porquê",
+        "close": "mini-pergunta + salvar",
+        "media": "imagem/diagrama quando pertinente"
+      },
+      "source_ids": [
+        "src_bibleproject_how",
+        "src_bibleproject_guides"
+      ]
+    },
+    {
+      "id": "bib-cur-046",
+      "title_pt": "Hebreus",
+      "body_pt": "Hebreus recorre fortemente a imagens sacerdotais, sacrifício, aliança e perseverança.",
+      "category": "epístola",
+      "daily_ready": true,
+      "ux": {
+        "reveal": "camada por camada",
+        "micro_interaction": "toque para descobrir o porquê",
+        "close": "mini-pergunta + salvar",
+        "media": "imagem/diagrama quando pertinente"
+      },
+      "source_ids": [
+        "src_bibleproject_how",
+        "src_bibleproject_guides"
+      ]
+    },
+    {
+      "id": "bib-cur-047",
+      "title_pt": "Tiago",
+      "body_pt": "Tiago enfatiza relação entre fé, obras, fala, sabedoria e vida comunitária.",
+      "category": "epístola",
+      "daily_ready": true,
+      "ux": {
+        "reveal": "camada por camada",
+        "micro_interaction": "toque para descobrir o porquê",
+        "close": "mini-pergunta + salvar",
+        "media": "imagem/diagrama quando pertinente"
+      },
+      "source_ids": [
+        "src_bibleproject_how",
+        "src_bibleproject_guides"
+      ]
+    },
+    {
+      "id": "bib-cur-048",
+      "title_pt": "1 Pedro",
+      "body_pt": "1 Pedro conecta sofrimento, identidade comunitária e esperança escatológica.",
+      "category": "epístola",
+      "daily_ready": true,
+      "ux": {
+        "reveal": "camada por camada",
+        "micro_interaction": "toque para descobrir o porquê",
+        "close": "mini-pergunta + salvar",
+        "media": "imagem/diagrama quando pertinente"
+      },
+      "source_ids": [
+        "src_bibleproject_how",
+        "src_bibleproject_guides"
+      ]
+    },
+    {
+      "id": "bib-cur-049",
+      "title_pt": "1 João",
+      "body_pt": "1 João desenvolve temas de amor, verdade, vida, encarnação e discernimento da comunidade.",
+      "category": "epístola",
+      "daily_ready": true,
+      "ux": {
+        "reveal": "camada por camada",
+        "micro_interaction": "toque para descobrir o porquê",
+        "close": "mini-pergunta + salvar",
+        "media": "imagem/diagrama quando pertinente"
+      },
+      "source_ids": [
+        "src_bibleproject_how",
+        "src_bibleproject_guides"
+      ]
+    },
+    {
+      "id": "bib-cur-050",
+      "title_pt": "Apocalipse",
+      "body_pt": "Apocalipse usa visão, símbolos, números e imagens do conflito entre impérios, fidelidade e esperança final.",
+      "category": "apocalíptica",
+      "daily_ready": true,
+      "ux": {
+        "reveal": "camada por camada",
+        "micro_interaction": "toque para descobrir o porquê",
+        "close": "mini-pergunta + salvar",
+        "media": "imagem/diagrama quando pertinente"
+      },
+      "source_ids": [
+        "src_bibleproject_how",
+        "src_bibleproject_guides"
+      ]
+    },
+    {
+      "id": "bib-cur-051",
+      "title_pt": "Capítulos não existiam originalmente",
+      "body_pt": "A divisão moderna em capítulos é posterior à composição dos textos; ela é uma ferramenta de referência, não a estrutura original dos autores.",
+      "category": "história do texto",
+      "daily_ready": true,
+      "ux": {
+        "reveal": "camada por camada",
+        "micro_interaction": "toque para descobrir o porquê",
+        "close": "mini-pergunta + salvar",
+        "media": "imagem/diagrama quando pertinente"
+      },
+      "source_ids": [
+        "src_bibleproject_how",
+        "src_bibleproject_guides"
+      ]
+    },
+    {
+      "id": "bib-cur-052",
+      "title_pt": "Versículos são posteriores",
+      "body_pt": "A numeração em versículos também foi acrescentada posteriormente para facilitar localização e citação.",
+      "category": "história do texto",
+      "daily_ready": true,
+      "ux": {
+        "reveal": "camada por camada",
+        "micro_interaction": "toque para descobrir o porquê",
+        "close": "mini-pergunta + salvar",
+        "media": "imagem/diagrama quando pertinente"
+      },
+      "source_ids": [
+        "src_bibleproject_how",
+        "src_bibleproject_guides"
+      ]
+    },
+    {
+      "id": "bib-cur-053",
+      "title_pt": "Hebraico bíblico",
+      "body_pt": "O hebraico bíblico possui convenções poéticas e narrativas que podem ser percebidas de modo diferente em tradução.",
+      "category": "língua",
+      "daily_ready": true,
+      "ux": {
+        "reveal": "camada por camada",
+        "micro_interaction": "toque para descobrir o porquê",
+        "close": "mini-pergunta + salvar",
+        "media": "imagem/diagrama quando pertinente"
+      },
+      "source_ids": [
+        "src_bibleproject_how",
+        "src_bibleproject_guides"
+      ]
+    },
+    {
+      "id": "bib-cur-054",
+      "title_pt": "Grego koiné",
+      "body_pt": "O grego do Novo Testamento está ligado ao grego koiné, língua amplamente usada no Mediterrâneo antigo.",
+      "category": "língua",
+      "daily_ready": true,
+      "ux": {
+        "reveal": "camada por camada",
+        "micro_interaction": "toque para descobrir o porquê",
+        "close": "mini-pergunta + salvar",
+        "media": "imagem/diagrama quando pertinente"
+      },
+      "source_ids": [
+        "src_bibleproject_how",
+        "src_bibleproject_guides"
+      ]
+    },
+    {
+      "id": "bib-cur-055",
+      "title_pt": "Septuaginta",
+      "body_pt": "A Septuaginta é uma antiga tradução grega das Escrituras judaicas, importante para estudos do judaísmo helenístico e do cristianismo primitivo.",
+      "category": "tradução antiga",
+      "daily_ready": true,
+      "ux": {
+        "reveal": "camada por camada",
+        "micro_interaction": "toque para descobrir o porquê",
+        "close": "mini-pergunta + salvar",
+        "media": "imagem/diagrama quando pertinente"
+      },
+      "source_ids": [
+        "src_bibleproject_how",
+        "src_bibleproject_guides"
+      ]
+    },
+    {
+      "id": "bib-cur-056",
+      "title_pt": "Vulgata",
+      "body_pt": "A Vulgata tornou-se uma tradução latina de enorme importância na história do cristianismo ocidental.",
+      "category": "história",
+      "daily_ready": true,
+      "ux": {
+        "reveal": "camada por camada",
+        "micro_interaction": "toque para descobrir o porquê",
+        "close": "mini-pergunta + salvar",
+        "media": "imagem/diagrama quando pertinente"
+      },
+      "source_ids": [
+        "src_bibleproject_how",
+        "src_bibleproject_guides"
+      ]
+    },
+    {
+      "id": "bib-cur-057",
+      "title_pt": "Peshitta",
+      "body_pt": "A tradição siríaca preserva uma importante história de tradução e recepção bíblica.",
+      "category": "tradução",
+      "daily_ready": true,
+      "ux": {
+        "reveal": "camada por camada",
+        "micro_interaction": "toque para descobrir o porquê",
+        "close": "mini-pergunta + salvar",
+        "media": "imagem/diagrama quando pertinente"
+      },
+      "source_ids": [
+        "src_bibleproject_how",
+        "src_bibleproject_guides"
+      ]
+    },
+    {
+      "id": "bib-cur-058",
+      "title_pt": "Cânon como processo",
+      "body_pt": "A formação do cânon cristão envolveu processos históricos de reconhecimento, uso litúrgico e debate; não deve ser reduzida a um único evento.",
+      "category": "cânon",
+      "daily_ready": true,
+      "ux": {
+        "reveal": "camada por camada",
+        "micro_interaction": "toque para descobrir o porquê",
+        "close": "mini-pergunta + salvar",
+        "media": "imagem/diagrama quando pertinente"
+      },
+      "source_ids": [
+        "src_bibleproject_how",
+        "src_bibleproject_guides"
+      ]
+    },
+    {
+      "id": "bib-cur-059",
+      "title_pt": "Atanásio",
+      "body_pt": "A carta festal de Atanásio de 367 é frequentemente citada como a primeira lista conhecida que coincide com os atuais 27 livros do Novo Testamento.",
+      "category": "cânon",
+      "daily_ready": true,
+      "ux": {
+        "reveal": "camada por camada",
+        "micro_interaction": "toque para descobrir o porquê",
+        "close": "mini-pergunta + salvar",
+        "media": "imagem/diagrama quando pertinente"
+      },
+      "source_ids": [
+        "src_bibleproject_how",
+        "src_bibleproject_guides"
+      ]
+    },
+    {
+      "id": "bib-cur-060",
+      "title_pt": "Niceia",
+      "body_pt": "O Concílio de Niceia não é adequadamente descrito como uma reunião que simplesmente escolheu os 27 livros do Novo Testamento.",
+      "category": "cânon",
+      "daily_ready": true,
+      "ux": {
+        "reveal": "camada por camada",
+        "micro_interaction": "toque para descobrir o porquê",
+        "close": "mini-pergunta + salvar",
+        "media": "imagem/diagrama quando pertinente"
+      },
+      "source_ids": [
+        "src_bibleproject_how",
+        "src_bibleproject_guides"
+      ]
+    },
+    {
+      "id": "bib-cur-061",
+      "title_pt": "Deuterocanônicos",
+      "body_pt": "Alguns livros considerados deuterocanônicos no catolicismo não fazem parte do cânon protestante.",
+      "category": "cânon comparado",
+      "daily_ready": true,
+      "ux": {
+        "reveal": "camada por camada",
+        "micro_interaction": "toque para descobrir o porquê",
+        "close": "mini-pergunta + salvar",
+        "media": "imagem/diagrama quando pertinente"
+      },
+      "source_ids": [
+        "src_bibleproject_how",
+        "src_bibleproject_guides"
+      ]
+    },
+    {
+      "id": "bib-cur-062",
+      "title_pt": "Tanakh",
+      "body_pt": "A divisão judaica tradicional organiza as Escrituras em Torá, Nevi'im e Ketuvim.",
+      "category": "judaísmo",
+      "daily_ready": true,
+      "ux": {
+        "reveal": "camada por camada",
+        "micro_interaction": "toque para descobrir o porquê",
+        "close": "mini-pergunta + salvar",
+        "media": "imagem/diagrama quando pertinente"
+      },
+      "source_ids": [
+        "src_bibleproject_how",
+        "src_bibleproject_guides"
+      ]
+    },
+    {
+      "id": "bib-cur-063",
+      "title_pt": "Cristianismo protestante",
+      "body_pt": "A experiência principal do Radar usa uma lente protestante quando trata de teologia cristã, mas sinaliza quando a interpretação é confessional e apresenta outras tradições como comparação.",
+      "category": "metodologia",
+      "daily_ready": true,
+      "ux": {
+        "reveal": "camada por camada",
+        "micro_interaction": "toque para descobrir o porquê",
+        "close": "mini-pergunta + salvar",
+        "media": "imagem/diagrama quando pertinente"
+      },
+      "source_ids": [
+        "src_bibleproject_how",
+        "src_bibleproject_guides"
+      ]
+    },
+    {
+      "id": "bib-cur-064",
+      "title_pt": "Islamismo e narrativas bíblicas",
+      "body_pt": "Quando uma narrativa também aparece no Alcorão, o Radar separa o texto corânico da Bíblia e das tradições de tafsir posteriores.",
+      "category": "comparação",
+      "daily_ready": true,
+      "ux": {
+        "reveal": "camada por camada",
+        "micro_interaction": "toque para descobrir o porquê",
+        "close": "mini-pergunta + salvar",
+        "media": "imagem/diagrama quando pertinente"
+      },
+      "source_ids": [
+        "src_bibleproject_how",
+        "src_bibleproject_guides"
+      ]
+    },
+    {
+      "id": "bib-cur-065",
+      "title_pt": "Genealogia de Mateus",
+      "body_pt": "Mateus abre seu evangelho com uma genealogia com função literária e teológica específica.",
+      "category": "Mateus",
+      "daily_ready": true,
+      "ux": {
+        "reveal": "camada por camada",
+        "micro_interaction": "toque para descobrir o porquê",
+        "close": "mini-pergunta + salvar",
+        "media": "imagem/diagrama quando pertinente"
+      },
+      "source_ids": [
+        "src_bibleproject_how",
+        "src_bibleproject_guides"
+      ]
+    },
+    {
+      "id": "bib-cur-066",
+      "title_pt": "Genealogia de Lucas",
+      "body_pt": "Lucas inclui outra genealogia com organização e função narrativas próprias.",
+      "category": "Lucas",
+      "daily_ready": true,
+      "ux": {
+        "reveal": "camada por camada",
+        "micro_interaction": "toque para descobrir o porquê",
+        "close": "mini-pergunta + salvar",
+        "media": "imagem/diagrama quando pertinente"
+      },
+      "source_ids": [
+        "src_bibleproject_how",
+        "src_bibleproject_guides"
+      ]
+    },
+    {
+      "id": "bib-cur-067",
+      "title_pt": "Número sete",
+      "body_pt": "O número sete ocorre repetidamente na Bíblia e pode ter função simbólica e estrutural, embora seu significado dependa do contexto.",
+      "category": "números",
+      "daily_ready": true,
+      "ux": {
+        "reveal": "camada por camada",
+        "micro_interaction": "toque para descobrir o porquê",
+        "close": "mini-pergunta + salvar",
+        "media": "imagem/diagrama quando pertinente"
+      },
+      "source_ids": [
+        "src_bibleproject_how",
+        "src_bibleproject_guides"
+      ]
+    },
+    {
+      "id": "bib-cur-068",
+      "title_pt": "Quarenta",
+      "body_pt": "Quarenta aparece em diversas narrativas bíblicas; interpretações simbólicas precisam considerar contexto e tradição.",
+      "category": "números",
+      "daily_ready": true,
+      "ux": {
+        "reveal": "camada por camada",
+        "micro_interaction": "toque para descobrir o porquê",
+        "close": "mini-pergunta + salvar",
+        "media": "imagem/diagrama quando pertinente"
+      },
+      "source_ids": [
+        "src_bibleproject_how",
+        "src_bibleproject_guides"
+      ]
+    },
+    {
+      "id": "bib-cur-069",
+      "title_pt": "Deserto",
+      "body_pt": "O deserto pode funcionar como cenário de prova, dependência, encontro e transformação.",
+      "category": "geografia",
+      "daily_ready": true,
+      "ux": {
+        "reveal": "camada por camada",
+        "micro_interaction": "toque para descobrir o porquê",
+        "close": "mini-pergunta + salvar",
+        "media": "imagem/diagrama quando pertinente"
+      },
+      "source_ids": [
+        "src_bibleproject_how",
+        "src_bibleproject_guides"
+      ]
+    },
+    {
+      "id": "bib-cur-070",
+      "title_pt": "Montanhas",
+      "body_pt": "Montanhas aparecem como lugares de encontro, revelação e transformação em diferentes narrativas.",
+      "category": "geografia",
+      "daily_ready": true,
+      "ux": {
+        "reveal": "camada por camada",
+        "micro_interaction": "toque para descobrir o porquê",
+        "close": "mini-pergunta + salvar",
+        "media": "imagem/diagrama quando pertinente"
+      },
+      "source_ids": [
+        "src_bibleproject_how",
+        "src_bibleproject_guides"
+      ]
+    },
+    {
+      "id": "bib-cur-071",
+      "title_pt": "Água",
+      "body_pt": "Água aparece como elemento de criação, ameaça, purificação, sustento e símbolo em diferentes gêneros bíblicos.",
+      "category": "motivo literário",
+      "daily_ready": true,
+      "ux": {
+        "reveal": "camada por camada",
+        "micro_interaction": "toque para descobrir o porquê",
+        "close": "mini-pergunta + salvar",
+        "media": "imagem/diagrama quando pertinente"
+      },
+      "source_ids": [
+        "src_bibleproject_how",
+        "src_bibleproject_guides"
+      ]
+    },
+    {
+      "id": "bib-cur-072",
+      "title_pt": "Jardim",
+      "body_pt": "Jardins aparecem como espaços narrativos de vida, encontro, queda e promessa.",
+      "category": "motivo literário",
+      "daily_ready": true,
+      "ux": {
+        "reveal": "camada por camada",
+        "micro_interaction": "toque para descobrir o porquê",
+        "close": "mini-pergunta + salvar",
+        "media": "imagem/diagrama quando pertinente"
+      },
+      "source_ids": [
+        "src_bibleproject_how",
+        "src_bibleproject_guides"
+      ]
+    },
+    {
+      "id": "bib-cur-073",
+      "title_pt": "Templo",
+      "body_pt": "O templo é espaço central de culto, identidade e memória em grande parte da narrativa bíblica.",
+      "category": "instituições",
+      "daily_ready": true,
+      "ux": {
+        "reveal": "camada por camada",
+        "micro_interaction": "toque para descobrir o porquê",
+        "close": "mini-pergunta + salvar",
+        "media": "imagem/diagrama quando pertinente"
+      },
+      "source_ids": [
+        "src_bibleproject_how",
+        "src_bibleproject_guides"
+      ]
+    },
+    {
+      "id": "bib-cur-074",
+      "title_pt": "Sinagoga",
+      "body_pt": "O termo e a instituição da sinagoga precisam ser entendidos no contexto histórico judaico, evitando projetar formas modernas diretamente no período bíblico.",
+      "category": "história",
+      "daily_ready": true,
+      "ux": {
+        "reveal": "camada por camada",
+        "micro_interaction": "toque para descobrir o porquê",
+        "close": "mini-pergunta + salvar",
+        "media": "imagem/diagrama quando pertinente"
+      },
+      "source_ids": [
+        "src_bibleproject_how",
+        "src_bibleproject_guides"
+      ]
+    },
+    {
+      "id": "bib-cur-075",
+      "title_pt": "Sábados",
+      "body_pt": "O sábado tem papel central na vida religiosa de Israel e recebe releituras específicas no Novo Testamento.",
+      "category": "prática",
+      "daily_ready": true,
+      "ux": {
+        "reveal": "camada por camada",
+        "micro_interaction": "toque para descobrir o porquê",
+        "close": "mini-pergunta + salvar",
+        "media": "imagem/diagrama quando pertinente"
+      },
+      "source_ids": [
+        "src_bibleproject_how",
+        "src_bibleproject_guides"
+      ]
+    },
+    {
+      "id": "bib-cur-076",
+      "title_pt": "Hospitalidade",
+      "body_pt": "Hospitalidade é tema recorrente em narrativas bíblicas e no ensino de várias tradições judaicas e cristãs.",
+      "category": "ética",
+      "daily_ready": true,
+      "ux": {
+        "reveal": "camada por camada",
+        "micro_interaction": "toque para descobrir o porquê",
+        "close": "mini-pergunta + salvar",
+        "media": "imagem/diagrama quando pertinente"
+      },
+      "source_ids": [
+        "src_bibleproject_how",
+        "src_bibleproject_guides"
+      ]
+    },
+    {
+      "id": "bib-cur-077",
+      "title_pt": "Pobreza e justiça",
+      "body_pt": "Profetas e textos sapienciais abordam desigualdade, exploração, cuidado do vulnerável e justiça.",
+      "category": "ética social",
+      "daily_ready": true,
+      "ux": {
+        "reveal": "camada por camada",
+        "micro_interaction": "toque para descobrir o porquê",
+        "close": "mini-pergunta + salvar",
+        "media": "imagem/diagrama quando pertinente"
+      },
+      "source_ids": [
+        "src_bibleproject_how",
+        "src_bibleproject_guides"
+      ]
+    },
+    {
+      "id": "bib-cur-078",
+      "title_pt": "Sabedoria hebraica",
+      "body_pt": "A literatura sapiencial valoriza observação da vida, prudência, disciplina e temor de Deus em diferentes formas.",
+      "category": "sabedoria",
+      "daily_ready": true,
+      "ux": {
+        "reveal": "camada por camada",
+        "micro_interaction": "toque para descobrir o porquê",
+        "close": "mini-pergunta + salvar",
+        "media": "imagem/diagrama quando pertinente"
+      },
+      "source_ids": [
+        "src_bibleproject_how",
+        "src_bibleproject_guides"
+      ]
+    },
+    {
+      "id": "bib-cur-079",
+      "title_pt": "Paralelismo",
+      "body_pt": "Na poesia hebraica, ideias podem ser colocadas em paralelo, contraste ou desenvolvimento entre linhas.",
+      "category": "poesia",
+      "daily_ready": true,
+      "ux": {
+        "reveal": "camada por camada",
+        "micro_interaction": "toque para descobrir o porquê",
+        "close": "mini-pergunta + salvar",
+        "media": "imagem/diagrama quando pertinente"
+      },
+      "source_ids": [
+        "src_bibleproject_how",
+        "src_bibleproject_guides"
+      ]
+    },
+    {
+      "id": "bib-cur-080",
+      "title_pt": "Metáfora",
+      "body_pt": "Metáforas bíblicas dependem do gênero e do contexto; não devem ser automaticamente convertidas em afirmações literais.",
+      "category": "hermenêutica",
+      "daily_ready": true,
+      "ux": {
+        "reveal": "camada por camada",
+        "micro_interaction": "toque para descobrir o porquê",
+        "close": "mini-pergunta + salvar",
+        "media": "imagem/diagrama quando pertinente"
+      },
+      "source_ids": [
+        "src_bibleproject_how",
+        "src_bibleproject_guides"
+      ]
+    },
+    {
+      "id": "bib-cur-081",
+      "title_pt": "Tipologia",
+      "body_pt": "A tipologia é uma forma tradicional de interpretação cristã que relaciona pessoas, eventos ou instituições anteriores ao cumprimento posterior; o Radar marca isso como leitura teológica, não como descrição neutra do texto.",
+      "category": "teologia cristã",
+      "daily_ready": true,
+      "ux": {
+        "reveal": "camada por camada",
+        "micro_interaction": "toque para descobrir o porquê",
+        "close": "mini-pergunta + salvar",
+        "media": "imagem/diagrama quando pertinente"
+      },
+      "source_ids": [
+        "src_bibleproject_how",
+        "src_bibleproject_guides"
+      ]
+    },
+    {
+      "id": "bib-cur-082",
+      "title_pt": "Crítica textual",
+      "body_pt": "A crítica textual compara manuscritos e testemunhos para avaliar variantes e reconstruir, quando possível, a forma mais antiga recuperável de um texto.",
+      "category": "método",
+      "daily_ready": true,
+      "ux": {
+        "reveal": "camada por camada",
+        "micro_interaction": "toque para descobrir o porquê",
+        "close": "mini-pergunta + salvar",
+        "media": "imagem/diagrama quando pertinente"
+      },
+      "source_ids": [
+        "src_bibleproject_how",
+        "src_bibleproject_guides"
+      ]
+    },
+    {
+      "id": "bib-cur-083",
+      "title_pt": "Crítica histórica",
+      "body_pt": "A crítica histórica pergunta sobre contexto, autoria, datação, audiência e formação dos textos.",
+      "category": "método",
+      "daily_ready": true,
+      "ux": {
+        "reveal": "camada por camada",
+        "micro_interaction": "toque para descobrir o porquê",
+        "close": "mini-pergunta + salvar",
+        "media": "imagem/diagrama quando pertinente"
+      },
+      "source_ids": [
+        "src_bibleproject_how",
+        "src_bibleproject_guides"
+      ]
+    },
+    {
+      "id": "bib-cur-084",
+      "title_pt": "Intertextualidade",
+      "body_pt": "Um texto bíblico pode dialogar com textos anteriores, reaproveitando palavras, imagens ou padrões narrativos.",
+      "category": "literatura",
+      "daily_ready": true,
+      "ux": {
+        "reveal": "camada por camada",
+        "micro_interaction": "toque para descobrir o porquê",
+        "close": "mini-pergunta + salvar",
+        "media": "imagem/diagrama quando pertinente"
+      },
+      "source_ids": [
+        "src_bibleproject_how",
+        "src_bibleproject_guides"
+      ]
+    },
+    {
+      "id": "bib-cur-085",
+      "title_pt": "Leitura canônica",
+      "body_pt": "Uma leitura canônica considera o lugar de um texto dentro da coleção bíblica final de uma tradição.",
+      "category": "hermenêutica",
+      "daily_ready": true,
+      "ux": {
+        "reveal": "camada por camada",
+        "micro_interaction": "toque para descobrir o porquê",
+        "close": "mini-pergunta + salvar",
+        "media": "imagem/diagrama quando pertinente"
+      },
+      "source_ids": [
+        "src_bibleproject_how",
+        "src_bibleproject_guides"
+      ]
+    },
+    {
+      "id": "bib-cur-086",
+      "title_pt": "Leitura histórica",
+      "body_pt": "Uma leitura histórica pergunta primeiro como um texto pode ter funcionado em seu mundo antigo antes de aplicá-lo diretamente ao presente.",
+      "category": "hermenêutica",
+      "daily_ready": true,
+      "ux": {
+        "reveal": "camada por camada",
+        "micro_interaction": "toque para descobrir o porquê",
+        "close": "mini-pergunta + salvar",
+        "media": "imagem/diagrama quando pertinente"
+      },
+      "source_ids": [
+        "src_bibleproject_how",
+        "src_bibleproject_guides"
+      ]
+    },
+    {
+      "id": "bib-cur-087",
+      "title_pt": "Aplicação e interpretação",
+      "body_pt": "O Radar separa o que o texto diz, como pode ser interpretado e como uma tradição aplica essa interpretação à vida.",
+      "category": "metodologia",
+      "daily_ready": true,
+      "ux": {
+        "reveal": "camada por camada",
+        "micro_interaction": "toque para descobrir o porquê",
+        "close": "mini-pergunta + salvar",
+        "media": "imagem/diagrama quando pertinente"
+      },
+      "source_ids": [
+        "src_bibleproject_how",
+        "src_bibleproject_guides"
+      ]
+    },
+    {
+      "id": "bib-cur-088",
+      "title_pt": "Leitura comparativa",
+      "body_pt": "Comparar tradições é apresentado como método de compreensão, sem assumir que as tradições possuem as mesmas doutrinas ou textos.",
+      "category": "comparação",
+      "daily_ready": true,
+      "ux": {
+        "reveal": "camada por camada",
+        "micro_interaction": "toque para descobrir o porquê",
+        "close": "mini-pergunta + salvar",
+        "media": "imagem/diagrama quando pertinente"
+      },
+      "source_ids": [
+        "src_bibleproject_how",
+        "src_bibleproject_guides"
+      ]
+    },
+    {
+      "id": "bib-cur-089",
+      "title_pt": "Perguntas abertas",
+      "body_pt": "Alguns debates bíblicos permanecem abertos na academia e entre tradições religiosas; o Radar marca incertezas em vez de escondê-las.",
+      "category": "epistemologia",
+      "daily_ready": true,
+      "ux": {
+        "reveal": "camada por camada",
+        "micro_interaction": "toque para descobrir o porquê",
+        "close": "mini-pergunta + salvar",
+        "media": "imagem/diagrama quando pertinente"
+      },
+      "source_ids": [
+        "src_bibleproject_how",
+        "src_bibleproject_guides"
+      ]
+    },
+    {
+      "id": "bib-cur-090",
+      "title_pt": "Arte e Bíblia",
+      "body_pt": "Pinturas, música, cinema e literatura frequentemente reinterpretam temas bíblicos; a obra artística não deve ser tratada como fonte bíblica primária.",
+      "category": "cultura",
+      "daily_ready": true,
+      "ux": {
+        "reveal": "camada por camada",
+        "micro_interaction": "toque para descobrir o porquê",
+        "close": "mini-pergunta + salvar",
+        "media": "imagem/diagrama quando pertinente"
+      },
+      "source_ids": [
+        "src_bibleproject_how",
+        "src_bibleproject_guides"
+      ]
+    },
+    {
+      "id": "bib-cur-091",
+      "title_pt": "Arqueologia",
+      "body_pt": "Arqueologia pode iluminar cidades, costumes, objetos e contextos, mas não transforma automaticamente uma descoberta em prova de cada detalhe narrativo.",
+      "category": "arqueologia",
+      "daily_ready": true,
+      "ux": {
+        "reveal": "camada por camada",
+        "micro_interaction": "toque para descobrir o porquê",
+        "close": "mini-pergunta + salvar",
+        "media": "imagem/diagrama quando pertinente"
+      },
+      "source_ids": [
+        "src_bibleproject_how",
+        "src_bibleproject_guides"
+      ]
+    },
+    {
+      "id": "bib-cur-092",
+      "title_pt": "História oral",
+      "body_pt": "Culturas antigas transmitiam memória oral e escrita em combinações complexas; o leitor moderno deve evitar opor oralidade e escrita como mundos totalmente separados.",
+      "category": "história",
+      "daily_ready": true,
+      "ux": {
+        "reveal": "camada por camada",
+        "micro_interaction": "toque para descobrir o porquê",
+        "close": "mini-pergunta + salvar",
+        "media": "imagem/diagrama quando pertinente"
+      },
+      "source_ids": [
+        "src_bibleproject_how",
+        "src_bibleproject_guides"
+      ]
+    },
+    {
+      "id": "bib-cur-093",
+      "title_pt": "Leitura devocional",
+      "body_pt": "Uma leitura devocional busca formação espiritual e resposta pessoal; ela é diferente de uma demonstração histórica ou filológica.",
+      "category": "espiritualidade",
+      "daily_ready": true,
+      "ux": {
+        "reveal": "camada por camada",
+        "micro_interaction": "toque para descobrir o porquê",
+        "close": "mini-pergunta + salvar",
+        "media": "imagem/diagrama quando pertinente"
+      },
+      "source_ids": [
+        "src_bibleproject_how",
+        "src_bibleproject_guides"
+      ]
+    },
+    {
+      "id": "bib-cur-094",
+      "title_pt": "Leitura teológica",
+      "body_pt": "Uma leitura teológica pergunta o que uma tradição afirma que um texto ensina sobre Deus, humanidade, salvação, ética ou comunidade.",
+      "category": "teologia",
+      "daily_ready": true,
+      "ux": {
+        "reveal": "camada por camada",
+        "micro_interaction": "toque para descobrir o porquê",
+        "close": "mini-pergunta + salvar",
+        "media": "imagem/diagrama quando pertinente"
+      },
+      "source_ids": [
+        "src_bibleproject_how",
+        "src_bibleproject_guides"
+      ]
+    },
+    {
+      "id": "bib-cur-095",
+      "title_pt": "Leitura acadêmica",
+      "body_pt": "A leitura acadêmica procura argumentos verificáveis, evidências e distinção entre dados, hipóteses e interpretações.",
+      "category": "academia",
+      "daily_ready": true,
+      "ux": {
+        "reveal": "camada por camada",
+        "micro_interaction": "toque para descobrir o porquê",
+        "close": "mini-pergunta + salvar",
+        "media": "imagem/diagrama quando pertinente"
+      },
+      "source_ids": [
+        "src_bibleproject_how",
+        "src_bibleproject_guides"
+      ]
+    }
+  ]
+}

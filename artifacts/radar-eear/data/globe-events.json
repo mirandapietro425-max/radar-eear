@@ -1,0 +1,243 @@
+{
+  "events": [
+    {
+      "id": "babylon",
+      "location": "Babilônia",
+      "lat": 32.542,
+      "lon": 44.421,
+      "categories": [
+        "matemática",
+        "astronomia",
+        "história"
+      ],
+      "summary_pt": "Centro antigo associado a tradições matemáticas e astronômicas mesopotâmicas."
+    },
+    {
+      "id": "giza",
+      "location": "Gizé",
+      "lat": 29.9792,
+      "lon": 31.1342,
+      "categories": [
+        "matemática",
+        "engenharia",
+        "história"
+      ],
+      "summary_pt": "Paisagem monumental associada a antigas práticas de medida, geometria e engenharia no Egito."
+    },
+    {
+      "id": "athens",
+      "location": "Atenas",
+      "lat": 37.9838,
+      "lon": 23.7275,
+      "categories": [
+        "filosofia",
+        "matemática",
+        "história"
+      ],
+      "summary_pt": "Polo histórico de filosofia grega, com tradição ligada à investigação racional e à geometria."
+    },
+    {
+      "id": "alexandria",
+      "location": "Alexandria",
+      "lat": 31.2001,
+      "lon": 29.9187,
+      "categories": [
+        "matemática",
+        "astronomia",
+        "ciência"
+      ],
+      "summary_pt": "Importante centro helenístico de pesquisa e transmissão de matemática e ciência."
+    },
+    {
+      "id": "taxila",
+      "location": "Taxila",
+      "lat": 33.746,
+      "lon": 72.839,
+      "categories": [
+        "matemática",
+        "ciência",
+        "história"
+      ],
+      "summary_pt": "Centro histórico do sul da Ásia ligado a tradições intelectuais antigas."
+    },
+    {
+      "id": "baghdad",
+      "location": "Bagdá",
+      "lat": 33.3152,
+      "lon": 44.3661,
+      "categories": [
+        "álgebra",
+        "ciência",
+        "história"
+      ],
+      "summary_pt": "Centro medieval associado ao florescimento científico e à tradição algébrica do mundo islâmico."
+    },
+    {
+      "id": "cusco",
+      "location": "Cusco",
+      "lat": -13.53195,
+      "lon": -71.96746,
+      "categories": [
+        "inka",
+        "etnomatemática",
+        "história"
+      ],
+      "summary_pt": "Centro histórico do mundo Inka; quipus são registros materiais fundamentais para estudar sua administração e numeração."
+    },
+    {
+      "id": "chichen",
+      "location": "Chichén Itzá",
+      "lat": 20.6843,
+      "lon": -88.5678,
+      "categories": [
+        "maya",
+        "astronomia",
+        "matemática"
+      ],
+      "summary_pt": "Sítio maia útil para estudar calendário, astronomia, arquitetura e matemática mesoamericana."
+    },
+    {
+      "id": "tikal",
+      "location": "Tikal",
+      "lat": 17.222,
+      "lon": -89.6237,
+      "categories": [
+        "maya",
+        "astronomia",
+        "história"
+      ],
+      "summary_pt": "Grande centro maia, associado a observação astronômica, arquitetura e conhecimento calendário."
+    },
+    {
+      "id": "pisa",
+      "location": "Pisa",
+      "lat": 43.7228,
+      "lon": 10.4017,
+      "categories": [
+        "galileu",
+        "física",
+        "história"
+      ],
+      "summary_pt": "Cidade natal de Galileu Galilei e parte importante de sua formação."
+    },
+    {
+      "id": "padua",
+      "location": "Pádua",
+      "lat": 45.4064,
+      "lon": 11.8768,
+      "categories": [
+        "galileu",
+        "física",
+        "ciência"
+      ],
+      "summary_pt": "Cidade universitária em que Galileu lecionou e desenvolveu parte importante de seus estudos."
+    },
+    {
+      "id": "florence",
+      "location": "Florença",
+      "lat": 43.7696,
+      "lon": 11.2558,
+      "categories": [
+        "renascimento",
+        "ciência",
+        "arte"
+      ],
+      "summary_pt": "Centro renascentista de ciência, arte e cultura."
+    },
+    {
+      "id": "cambridge",
+      "location": "Cambridge",
+      "lat": 52.2053,
+      "lon": 0.1218,
+      "categories": [
+        "newton",
+        "matemática",
+        "física"
+      ],
+      "summary_pt": "Centro associado à trajetória acadêmica de Isaac Newton."
+    },
+    {
+      "id": "london",
+      "location": "Londres",
+      "lat": 51.5074,
+      "lon": -0.1278,
+      "categories": [
+        "ciência",
+        "história",
+        "física"
+      ],
+      "summary_pt": "Local associado à Royal Society e à circulação de ciência moderna."
+    },
+    {
+      "id": "patmos",
+      "location": "Patmos",
+      "lat": 37.3083,
+      "lon": 26.547,
+      "categories": [
+        "bíblia",
+        "cristianismo",
+        "história"
+      ],
+      "summary_pt": "Local tradicionalmente associado ao exílio de João e à composição do Apocalipse."
+    },
+    {
+      "id": "jerusalem",
+      "location": "Jerusalém",
+      "lat": 31.7683,
+      "lon": 35.2137,
+      "categories": [
+        "bíblia",
+        "judaísmo",
+        "cristianismo",
+        "história"
+      ],
+      "summary_pt": "Centro histórico e religioso fundamental para judaísmo e cristianismo, e também relevante para a história islâmica."
+    },
+    {
+      "id": "mecca",
+      "location": "Meca",
+      "lat": 21.4225,
+      "lon": 39.8262,
+      "categories": [
+        "islamismo",
+        "história",
+        "religião"
+      ],
+      "summary_pt": "Cidade central para a história e prática do Islã."
+    },
+    {
+      "id": "santiago",
+      "location": "Santiago de Compostela",
+      "lat": 42.8805,
+      "lon": -8.5457,
+      "categories": [
+        "cristianismo",
+        "história"
+      ],
+      "summary_pt": "Importante centro histórico de peregrinação cristã na Europa."
+    },
+    {
+      "id": "salem",
+      "location": "Cambridge/Massachusetts",
+      "lat": 42.3736,
+      "lon": -71.1097,
+      "categories": [
+        "filosofia",
+        "educação"
+      ],
+      "summary_pt": "Ponto de referência para a tradição universitária moderna nos Estados Unidos."
+    },
+    {
+      "id": "rio",
+      "location": "Rio de Janeiro",
+      "lat": -22.9068,
+      "lon": -43.1729,
+      "categories": [
+        "história",
+        "ciência",
+        "Brasil"
+      ],
+      "summary_pt": "Cidade brasileira para ampliar a camada de história social e científica do conhecimento no Brasil."
+    }
+  ]
+}

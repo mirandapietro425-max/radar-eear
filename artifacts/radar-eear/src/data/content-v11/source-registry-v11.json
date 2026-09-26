@@ -1,0 +1,180 @@
+{
+  "schema_version": "v11",
+  "language": "pt-BR",
+  "sources": [
+    {
+      "id": "src-haydock-pt",
+      "title": "Comentário Bíblico de Haydock em português",
+      "kind": "comentário católico histórico",
+      "language": "pt-BR",
+      "url": "https://www.liriocatolico.com.br/comentarios_haydock/",
+      "notes": "Consulta versículo a versículo; versão brasileira hospedada pelo Lírio Católico. O Radar deve apresentar como fonte externa e indicar que a tradução brasileira é do site, não presumir licença para redistribuição."
+    },
+    {
+      "id": "src-henry-ccel",
+      "title": "Matthew Henry — Commentary on the Whole Bible",
+      "kind": "comentário protestante histórico",
+      "language": "en",
+      "url": "https://www.ccel.org/h/henry/mhc2/MHC00000.HTM",
+      "rights": "domínio público conforme CCEL",
+      "notes": "Edição histórica em inglês; o Radar produz resumo autoral em português e aponta para a fonte."
+    },
+    {
+      "id": "src-jfb-ccel",
+      "title": "Jamieson-Fausset-Brown Commentary",
+      "kind": "comentário protestante histórico",
+      "language": "en",
+      "url": "https://www.ccel.org/j/jfb/jfb/JFB00H.htm",
+      "rights": "domínio público segundo a própria edição eletrônica CCEL",
+      "notes": "Comentário de 1871; não confundir a posição histórica do comentário com consenso protestante contemporâneo."
+    },
+    {
+      "id": "src-keil-commons",
+      "title": "Keil & Delitzsch — Biblical Commentary on the Old Testament",
+      "kind": "comentário histórico",
+      "language": "en",
+      "url": "https://commons.wikimedia.org/wiki/File:Keil_and_Delitzsch,Biblical_commentary_the_old_testament_the_pentateuch,_trad_James_Martin,_volume_1,_1885.djvu",
+      "rights": "a obra original está em domínio público; o registro do scan declara domínio público",
+      "notes": "Fonte especialmente útil para Pentateuco e contexto filológico."
+    },
+    {
+      "id": "src-lapide-cc0",
+      "title": "Cornelius a Lapide — Great Commentary",
+      "kind": "comentário católico histórico",
+      "language": "la/en",
+      "url": "https://lapide.org/",
+      "rights": "site declara CC0 para seu conteúdo e markup; traduções podem exigir conferência de qualidade",
+      "notes": "Usar como perspectiva católica histórica, não como posição universal de todas as tradições católicas atuais."
+    },
+    {
+      "id": "src-bibleproject-luke",
+      "title": "BibleProject — Guia de Lucas",
+      "kind": "guia literário/teológico",
+      "language": "pt-BR",
+      "url": "https://bibleproject.com/pt-br/guides/lucas/",
+      "notes": "Explica Lucas-Atos, prefácio, tradição apostólica e temas do livro."
+    },
+    {
+      "id": "src-deadsea",
+      "title": "Israel Antiquities Authority — Dead Sea Scrolls",
+      "kind": "fonte arqueológica/institucional",
+      "language": "en",
+      "url": "https://www.deadseascrolls.org.il/",
+      "notes": "Útil para Enoque, manuscritos e Judaísmo do Segundo Templo."
+    },
+    {
+      "id": "src-bm-israel",
+      "title": "British Museum — Ancient Israel and Judah / Ancient Levant",
+      "kind": "museu/arqueologia",
+      "language": "en",
+      "url": "https://www.britishmuseum.org/collection/galleries/ancient-levant",
+      "notes": "Contexto material do Levante antigo; útil para módulos de cultura material e história."
+    },
+    {
+      "id": "src-bm-camp-map",
+      "title": "British Museum — mapa da Terra Santa e acampamento dos israelitas",
+      "kind": "imagem histórica",
+      "language": "en",
+      "url": "https://www.britishmuseum.org/collection/image/1614059297",
+      "rights": "CC BY-NC-SA 4.0 para uso não comercial; licenciamento comercial separado",
+      "notes": "Não embutir automaticamente em produto comercial; usar como referência visual ou licenciar."
+    },
+    {
+      "id": "src-torah-wilderness",
+      "title": "TheTorah.com — Wilderness Camp",
+      "kind": "pesquisa judaica acadêmica/divulgação",
+      "language": "en",
+      "url": "https://www.thetorah.com/topic/wilderness-camp",
+      "notes": "Comparação de leituras judaicas e histórico-críticas; marcar como uma perspectiva, não consenso."
+    },
+    {
+      "id": "src-smithsonian-bio",
+      "title": "Smithsonian National Museum of Natural History — Animals",
+      "kind": "museu/ciência",
+      "language": "en",
+      "url": "https://naturalhistory.si.edu/explore/animals",
+      "notes": "Fonte para biologia, adaptações e ecologia."
+    },
+    {
+      "id": "src-khan-math",
+      "title": "Khan Academy — Matemática em português",
+      "kind": "plataforma educacional",
+      "language": "pt-BR",
+      "url": "https://pt.khanacademy.org/math",
+      "notes": "Referência para granularidade de habilidades e prática."
+    },
+    {
+      "id": "src-khan-trig",
+      "title": "Khan Academy — Funções trigonométricas",
+      "kind": "plataforma educacional",
+      "language": "pt-BR",
+      "url": "https://pt.khanacademy.org/math/algebra-home/alg-trig-functions",
+      "notes": "Unidades com definição, gráficos, identidades e modelagem."
+    },
+    {
+      "id": "src-phet",
+      "title": "PhET Interactive Simulations",
+      "kind": "simulações educacionais",
+      "language": "pt-BR",
+      "url": "https://phet.colorado.edu/pt_BR",
+      "notes": "Referência de design pedagógico para previsão, manipulação, visualização e feedback."
+    },
+    {
+      "id": "src-abl",
+      "title": "Academia Brasileira de Letras — VOLP",
+      "kind": "referência linguística",
+      "language": "pt-BR",
+      "url": "https://www.academia.org.br/nossa-lingua/vocabulario-ortografico",
+      "notes": "Base de consulta para curiosidades lexicais e ortografia."
+    },
+    {
+      "id": "src-maclutor",
+      "title": "MacTutor History of Mathematics",
+      "kind": "história da matemática",
+      "language": "en",
+      "url": "https://mathshistory.st-andrews.ac.uk/",
+      "notes": "Biografias, história de conceitos, imagens e cronologias."
+    },
+    {
+      "id": "src-newton-project",
+      "title": "Newton Project — University of Oxford",
+      "kind": "fonte primária digital",
+      "language": "en",
+      "url": "https://newtonproject.ox.ac.uk/",
+      "notes": "Edição integral digital de escritos de Newton; inclui matemática, ciência e grande corpus religioso."
+    },
+    {
+      "id": "src-dell-hardware",
+      "title": "Dell Brasil — Hardware e upgrade de RAM",
+      "kind": "suporte técnico",
+      "language": "pt-BR",
+      "url": "https://www.dell.com/support/kbdoc/pt-br/000129299/como-fazer-upgrade-ou-instala%C3%A7%C3%A3o-da-mem%C3%B3ria-do-sistema-ou-ram-em-um-computador-dell",
+      "notes": "Fonte para fundamentos de RAM e compatibilidade. Instruções variam por modelo."
+    },
+    {
+      "id": "src-ms-device",
+      "title": "Microsoft Support — Gerenciador de Dispositivos",
+      "kind": "suporte técnico",
+      "language": "pt-BR",
+      "url": "https://support.microsoft.com/pt-br/windows/hardware/drivers/error-codes-in-device-manager-in-windows",
+      "notes": "Base para diagnóstico de drivers e códigos de erro."
+    },
+    {
+      "id": "src-intel-build",
+      "title": "Intel — Como montar um PC",
+      "kind": "suporte técnico/fabricante",
+      "language": "pt",
+      "url": "https://www.intel.com/content/www/us/en/gaming/resources/how-to-build-a-gaming-pc.html",
+      "notes": "Componentes, compatibilidade e preparação para montagem."
+    },
+    {
+      "id": "src-intel-mobo",
+      "title": "Intel — Como escolher uma placa-mãe",
+      "kind": "suporte técnico/fabricante",
+      "language": "pt",
+      "url": "https://www.intel.com/content/www/us/en/gaming/resources/how-to-choose-a-motherboard.html",
+      "notes": "Anatomia da placa-mãe, soquete, chipset, memória e expansão."
+    }
+  ],
+  "note": "A camada editorial do Radar é autoral em português; fontes externas são referenciadas e rotuladas por tipo e direitos."
+}

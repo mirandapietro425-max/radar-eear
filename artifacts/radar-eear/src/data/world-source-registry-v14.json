@@ -1,0 +1,61 @@
+{
+  "version": "v14",
+  "sources": [
+    {
+      "id": "natural-earth-v5.1.1",
+      "title_pt": "Natural Earth 5.1.1",
+      "url": "https://www.naturalearthdata.com/",
+      "role": "dados cartográficos",
+      "license": "domínio público"
+    },
+    {
+      "id": "google-maps-3d",
+      "title_pt": "Google Maps JavaScript API — 3D Maps",
+      "url": "https://developers.google.com/maps/documentation/javascript/3d/overview",
+      "role": "globo 3D opcional e mapa contextual",
+      "license": "serviço sujeito aos termos do Google"
+    },
+    {
+      "id": "google-earth-projects",
+      "title_pt": "Google Earth — projetos",
+      "url": "https://www.google.com/earth/about/versions/",
+      "role": "narrativas geográficas e KML/KMZ",
+      "license": "serviço sujeito aos termos do Google"
+    },
+    {
+      "id": "cesiumjs",
+      "title_pt": "CesiumJS",
+      "url": "https://cesium.com/platform/cesiumjs/",
+      "role": "alternativa de globo 3D com terreno",
+      "license": "Apache 2.0"
+    },
+    {
+      "id": "wikimedia-commons",
+      "title_pt": "Wikimedia Commons",
+      "url": "https://commons.wikimedia.org/",
+      "role": "imagens e mídia; licença precisa ser conferida por arquivo",
+      "license": "varia por arquivo"
+    },
+    {
+      "id": "unesco-whc",
+      "title_pt": "UNESCO World Heritage Centre",
+      "url": "https://whc.unesco.org/",
+      "role": "patrimônio e lugares culturais/naturais",
+      "license": "varia por conteúdo"
+    },
+    {
+      "id": "smithsonian-human-origins",
+      "title_pt": "Smithsonian Human Origins",
+      "url": "https://humanorigins.si.edu/",
+      "role": "arqueologia, fósseis e evolução humana",
+      "license": "varia por recurso"
+    },
+    {
+      "id": "research-registry-v14",
+      "title_pt": "Registro editorial do Radar v14",
+      "url": "#",
+      "role": "liga as experiências a fontes e status de evidência",
+      "license": "interno"
+    }
+  ]
+}

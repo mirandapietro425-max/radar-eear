@@ -1,0 +1,49 @@
+{
+  "schema_version": "19.0",
+  "language": "pt-BR",
+  "principles": [
+    "conteúdo antes do ornamento",
+    "uma ação primária por tela",
+    "feedback imediato",
+    "estado persistente",
+    "progressive enhancement",
+    "mobile-first"
+  ],
+  "breakpoints": {
+    "xs": "320-359",
+    "sm": "360-479",
+    "md": "768-1023",
+    "lg": "1024-1279",
+    "xl": "1280+"
+  },
+  "touch_min_css_px": 44,
+  "content_max_css_px": 1380,
+  "sidebar_desktop_px": 250,
+  "topbar_px": 72,
+  "subject_flow": [
+    "mapa da matéria",
+    "microtópico",
+    "intuição",
+    "experiência",
+    "explicação",
+    "questão",
+    "erro",
+    "revisão",
+    "curiosidade",
+    "fonte"
+  ],
+  "performance_budgets": {
+    "initial_js_kb_gzip": 260,
+    "initial_image_kb": 350,
+    "interaction_target_ms": 200,
+    "globe_fps_cap": 24
+  },
+  "accessibility": [
+    "focus-visible",
+    "keyboard",
+    "prefers-reduced-motion",
+    "safe-area-inset",
+    "reflow-320px",
+    "44px-touch-targets"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "version": "5.2",
+  "language": "pt-BR",
+  "generated_from": "radar_v5 local working tree",
+  "library_books": 94,
+  "thinkers": 125,
+  "deep_thinker_trails": 50,
+  "daily_reading_slots": 365,
+  "eear_archive_entries": 138,
+  "eear_question_slots": 13248,
+  "limitations": [
+    "O runtime local não tem acesso de rede para baixar todos os PDFs; por isso os demais documentos continuam em estado pendente e não foram fingidos como extraídos.",
+    "Textos integrais só devem ser embarcados quando os direitos da obra/edição/tradução estiverem adequados."
+  ]
+}

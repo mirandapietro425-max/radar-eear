@@ -1,0 +1,556 @@
+{
+  "version": "v15",
+  "count": 61,
+  "references": [
+    {
+      "id": "pop-v15-001",
+      "title": "O Gênio Indomável",
+      "area": "Matemática",
+      "reference": "teoria de grafos e matemática em cena",
+      "radar_topic": "Matemática",
+      "note_pt": "Harvard Math Movies registra a presença de grafos/identidades matemáticas no filme.",
+      "status": "curated_seed"
+    },
+    {
+      "id": "pop-v15-002",
+      "title": "Uma Mente Brilhante",
+      "area": "Matemática",
+      "reference": "cálculo multivariável e história de John Nash",
+      "radar_topic": "Matemática",
+      "note_pt": "Harvard Math Movies cataloga conteúdo matemático do filme.",
+      "status": "curated_seed"
+    },
+    {
+      "id": "pop-v15-003",
+      "title": "Moneyball",
+      "area": "Matemática/Estatística",
+      "reference": "estatística aplicada à análise de jogadores",
+      "radar_topic": "Estatística",
+      "note_pt": "Harvard Math Movies registra equações e estatística na narrativa.",
+      "status": "curated_seed"
+    },
+    {
+      "id": "pop-v15-004",
+      "title": "Estrelas Além do Tempo",
+      "area": "Matemática/Física",
+      "reference": "trajetórias orbitais, cálculo e história da NASA",
+      "radar_topic": "Matemática/Física",
+      "note_pt": "NASA mantém materiais educacionais relacionados a Katherine Johnson.",
+      "status": "curated_seed"
+    },
+    {
+      "id": "pop-v15-005",
+      "title": "Jurassic Park",
+      "area": "Matemática/Biologia",
+      "reference": "teoria do caos como referência narrativa",
+      "radar_topic": "Matemática/Biologia",
+      "note_pt": "Harvard Math Movies cataloga a referência matemática.",
+      "status": "curated_seed"
+    },
+    {
+      "id": "pop-v15-006",
+      "title": "A Chegada",
+      "area": "Linguística",
+      "reference": "Sapir-Whorf/relatividade linguística e escrita",
+      "radar_topic": "Linguística",
+      "note_pt": "Artigo em Anthropology Today discute explicitamente essa relação.",
+      "status": "curated_seed"
+    },
+    {
+      "id": "pop-v15-007",
+      "title": "Matrix",
+      "area": "Filosofia",
+      "reference": "caverna de Platão, realidade, aparência e responsabilidade",
+      "radar_topic": "Filosofia",
+      "note_pt": "Há literatura acadêmica sobre a relação do filme com Baudrillard e filosofia.",
+      "status": "curated_seed"
+    },
+    {
+      "id": "pop-v15-008",
+      "title": "O Show de Truman",
+      "area": "Filosofia/Sociologia",
+      "reference": "realidade, espetáculo, vigilância e identidade",
+      "radar_topic": "Filosofia/Sociologia",
+      "note_pt": "usar como estudo de conceitos; ficção não é evidência sociológica.",
+      "status": "curated_seed"
+    },
+    {
+      "id": "pop-v15-009",
+      "title": "Blade Runner",
+      "area": "Filosofia/Bioética",
+      "reference": "identidade, pessoa e fronteira humano-artificial",
+      "radar_topic": "Filosofia",
+      "note_pt": "usar como caso ficcional para discussão conceitual.",
+      "status": "curated_seed"
+    },
+    {
+      "id": "pop-v15-010",
+      "title": "Ex Machina",
+      "area": "Computação/Filosofia",
+      "reference": "IA, mente e Teste de Turing",
+      "radar_topic": "Computação/Filosofia",
+      "note_pt": "usar para discutir questões conceituais; separar dramatização de ciência.",
+      "status": "curated_seed"
+    },
+    {
+      "id": "pop-v15-011",
+      "title": "Mr. Robot",
+      "area": "Computação",
+      "reference": "hacking, segurança e engenharia social",
+      "radar_topic": "Computação",
+      "note_pt": "usar como representação dramatizada e confrontar com práticas reais.",
+      "status": "curated_seed"
+    },
+    {
+      "id": "pop-v15-012",
+      "title": "O Jogo da Imitação",
+      "area": "Computação/História",
+      "reference": "Turing, criptografia e guerra",
+      "radar_topic": "Computação/História",
+      "note_pt": "comparar narrativa do filme com a documentação histórica.",
+      "status": "curated_seed"
+    },
+    {
+      "id": "pop-v15-013",
+      "title": "Interstellar",
+      "area": "Física",
+      "reference": "relatividade, buracos negros e dilatação do tempo",
+      "radar_topic": "Física",
+      "note_pt": "separar elementos cientificamente modelados de licença cinematográfica.",
+      "status": "curated_seed"
+    },
+    {
+      "id": "pop-v15-014",
+      "title": "Perdido em Marte",
+      "area": "Física/Química",
+      "reference": "balanço de recursos, gravidade, energia e sobrevivência",
+      "radar_topic": "Física/Química",
+      "note_pt": "usar para problemas quantitativos simplificados e análise crítica.",
+      "status": "curated_seed"
+    },
+    {
+      "id": "pop-v15-015",
+      "title": "Apollo 13",
+      "area": "Física/Engenharia",
+      "reference": "restrições, energia, sistemas e resolução de problemas",
+      "radar_topic": "Física",
+      "note_pt": "usar como estudo de engenharia sob restrições.",
+      "status": "curated_seed"
+    },
+    {
+      "id": "pop-v15-016",
+      "title": "Oppenheimer",
+      "area": "Física/História",
+      "reference": "física nuclear, ciência e contexto histórico",
+      "radar_topic": "Física/História",
+      "note_pt": "separar ciência, história e dramatização.",
+      "status": "curated_seed"
+    },
+    {
+      "id": "pop-v15-017",
+      "title": "Gravidade",
+      "area": "Física",
+      "reference": "órbitas, inércia e movimento",
+      "radar_topic": "Física",
+      "note_pt": "usar para verificar plausibilidade física de cenas.",
+      "status": "curated_seed"
+    },
+    {
+      "id": "pop-v15-018",
+      "title": "WALL-E",
+      "area": "Biologia/Ecologia",
+      "reference": "resíduos, biodiversidade, ambiente e tecnologia",
+      "radar_topic": "Ecologia",
+      "note_pt": "há estudos educacionais brasileiros que usam o filme para educação ambiental.",
+      "status": "curated_seed"
+    },
+    {
+      "id": "pop-v15-019",
+      "title": "Contágio",
+      "area": "Biologia/Estatística",
+      "reference": "transmissão, modelos e incerteza",
+      "radar_topic": "Biologia/Estatística",
+      "note_pt": "usar para distinguir modelo, evidência e narrativa.",
+      "status": "curated_seed"
+    },
+    {
+      "id": "pop-v15-020",
+      "title": "Planeta Terra",
+      "area": "Biologia/Ecologia",
+      "reference": "adaptações, nichos e relações ecológicas",
+      "radar_topic": "Biologia",
+      "note_pt": "usar cenas licenciadas ou links externos, nunca presumir direito de cópia.",
+      "status": "curated_seed"
+    },
+    {
+      "id": "pop-v15-021",
+      "title": "O Auto da Compadecida",
+      "area": "Português/Literatura",
+      "reference": "oralidade, regionalismo e narrativa",
+      "radar_topic": "Português",
+      "note_pt": "usar como material de análise cultural e linguística.",
+      "status": "curated_seed"
+    },
+    {
+      "id": "pop-v15-022",
+      "title": "Narradores de Javé",
+      "area": "Português/História",
+      "reference": "memória, oralidade, registro e escrita",
+      "radar_topic": "Português/História",
+      "note_pt": "usar como caso de narrativa e patrimônio.",
+      "status": "curated_seed"
+    },
+    {
+      "id": "pop-v15-023",
+      "title": "Central do Brasil",
+      "area": "Português",
+      "reference": "letramento, linguagem e relações sociais",
+      "radar_topic": "Português",
+      "note_pt": "usar como obra audiovisual para análise narrativa/social.",
+      "status": "curated_seed"
+    },
+    {
+      "id": "pop-v15-024",
+      "title": "Parasita",
+      "area": "Sociologia",
+      "reference": "classe, espaço, consumo e estrutura social",
+      "radar_topic": "Sociologia",
+      "note_pt": "ficção como estudo de conceitos e interpretação, não como dado empírico.",
+      "status": "curated_seed"
+    },
+    {
+      "id": "pop-v15-025",
+      "title": "Tempos Modernos",
+      "area": "Sociologia/Trabalho",
+      "reference": "industrialização, trabalho e tecnologia",
+      "radar_topic": "Sociologia",
+      "note_pt": "usar como porta de entrada para conceitos históricos e sociais.",
+      "status": "curated_seed"
+    },
+    {
+      "id": "pop-v15-026",
+      "title": "Silicon Valley",
+      "area": "Computação/Negócios",
+      "reference": "software, startups e cultura tecnológica",
+      "radar_topic": "Computação",
+      "note_pt": "usar como sátira e confrontar com práticas reais.",
+      "status": "curated_seed"
+    },
+    {
+      "id": "pop-v15-027",
+      "title": "WarGames",
+      "area": "Computação",
+      "reference": "segurança, sistemas e risco",
+      "radar_topic": "Computação",
+      "note_pt": "estudo histórico-cultural de computação e cibersegurança.",
+      "status": "curated_seed"
+    },
+    {
+      "id": "pop-v15-028",
+      "title": "Sneakers",
+      "area": "Criptografia/Computação",
+      "reference": "segurança da informação e confiança",
+      "radar_topic": "Computação",
+      "note_pt": "caso ficcional para discutir segurança.",
+      "status": "curated_seed"
+    },
+    {
+      "id": "pop-v15-029",
+      "title": "The Social Network",
+      "area": "Tecnologia/Sociedade",
+      "reference": "plataformas, redes e relações sociais",
+      "radar_topic": "Sociologia/Computação",
+      "note_pt": "analisar dramatização e contexto tecnológico.",
+      "status": "curated_seed"
+    },
+    {
+      "id": "pop-v15-030",
+      "title": "O Código Da Vinci",
+      "area": "Arte/Religião",
+      "reference": "arte, símbolos e teorias narrativas",
+      "radar_topic": "Arte/Religião",
+      "note_pt": "separar ficção, tradição e evidência histórica.",
+      "status": "curated_seed"
+    },
+    {
+      "id": "pop-v15-031",
+      "title": "Loving Vincent",
+      "area": "Arte",
+      "reference": "pintura, técnica e história de Van Gogh",
+      "radar_topic": "Arte",
+      "note_pt": "usar como porta de entrada para linguagem visual.",
+      "status": "curated_seed"
+    },
+    {
+      "id": "pop-v15-032",
+      "title": "Frida",
+      "area": "Arte/História",
+      "reference": "arte, identidade e contexto",
+      "radar_topic": "Arte/História",
+      "note_pt": "separar biografia dramatizada de registros históricos.",
+      "status": "curated_seed"
+    },
+    {
+      "id": "pop-v15-033",
+      "title": "O Príncipe do Egito",
+      "area": "Religião/História",
+      "reference": "Êxodo como narrativa audiovisual",
+      "radar_topic": "Bíblia/História",
+      "note_pt": "comparar filme, texto bíblico e pesquisa histórica.",
+      "status": "curated_seed"
+    },
+    {
+      "id": "pop-v15-034",
+      "title": "The Chosen",
+      "area": "Religião/História",
+      "reference": "Jesus e mundo do século I em dramatização",
+      "radar_topic": "Bíblia/História",
+      "note_pt": "identificar cena dramatizada versus texto-fonte.",
+      "status": "curated_seed"
+    },
+    {
+      "id": "pop-v15-035",
+      "title": "Risen",
+      "area": "Religião/História",
+      "reference": "ressurreição na narrativa ficcional",
+      "radar_topic": "Bíblia/História",
+      "note_pt": "comparar com os relatos canônicos.",
+      "status": "curated_seed"
+    },
+    {
+      "id": "pop-v15-036",
+      "title": "Good Night, Mr. Bean",
+      "area": "Matemática",
+      "reference": "contagem e raciocínio em humor visual",
+      "radar_topic": "Matemática",
+      "note_pt": "usar apenas como gatilho de raciocínio; não como fonte matemática.",
+      "status": "curated_seed"
+    },
+    {
+      "id": "pop-v15-037",
+      "title": "Os Simpsons",
+      "area": "Matemática",
+      "reference": "problemas, lógica e cultura matemática",
+      "radar_topic": "Matemática",
+      "note_pt": "colecionar episódios/fragmentos com licença por link externo.",
+      "status": "curated_seed"
+    },
+    {
+      "id": "pop-v15-038",
+      "title": "Numb3rs",
+      "area": "Matemática",
+      "reference": "modelagem e matemática em investigação",
+      "radar_topic": "Matemática",
+      "note_pt": "separar matemática real de dramatização.",
+      "status": "curated_seed"
+    },
+    {
+      "id": "pop-v15-039",
+      "title": "Gifted",
+      "area": "Matemática",
+      "reference": "talento matemático e educação",
+      "radar_topic": "Matemática",
+      "note_pt": "discutir métodos, talento e aprendizagem sem tomar a ficção como evidência.",
+      "status": "curated_seed"
+    },
+    {
+      "id": "pop-v15-040",
+      "title": "O Homem que Viu o Infinito",
+      "area": "Matemática",
+      "reference": "Ramanujan e teoria dos números",
+      "radar_topic": "Matemática",
+      "note_pt": "usar como biografia dramatizada + fonte histórica.",
+      "status": "curated_seed"
+    },
+    {
+      "id": "pop-v15-041",
+      "title": "Pi",
+      "area": "Matemática/Filosofia",
+      "reference": "padrões, números e obsessão",
+      "radar_topic": "Matemática/Filosofia",
+      "note_pt": "ficção para discutir padrões e limites de interpretação.",
+      "status": "curated_seed"
+    },
+    {
+      "id": "pop-v15-042",
+      "title": "Contact",
+      "area": "Astronomia/Filosofia",
+      "reference": "método científico, comunicação e evidência",
+      "radar_topic": "Ciência/Filosofia",
+      "note_pt": "discutir inferência e limites do conhecimento.",
+      "status": "curated_seed"
+    },
+    {
+      "id": "pop-v15-043",
+      "title": "Black Mirror",
+      "area": "Tecnologia/Filosofia",
+      "reference": "identidade, poder, tecnologia e sociedade",
+      "radar_topic": "Filosofia/Sociologia",
+      "note_pt": "episódios como estudos de caso ficcionais.",
+      "status": "curated_seed"
+    },
+    {
+      "id": "pop-v15-044",
+      "title": "Westworld",
+      "area": "Filosofia/IA",
+      "reference": "consciência, identidade e livre-arbítrio",
+      "radar_topic": "Filosofia/Computação",
+      "note_pt": "casos ficcionais para perguntas filosóficas.",
+      "status": "curated_seed"
+    },
+    {
+      "id": "pop-v15-045",
+      "title": "Eternal Sunshine",
+      "area": "Filosofia/Psicologia",
+      "reference": "memória e identidade",
+      "radar_topic": "Filosofia",
+      "note_pt": "discussão conceitual, sem transformar ficção em psicologia clínica.",
+      "status": "curated_seed"
+    },
+    {
+      "id": "pop-v15-046",
+      "title": "The Theory of Everything",
+      "area": "Física",
+      "reference": "cosmologia e história de Stephen Hawking",
+      "radar_topic": "Física",
+      "note_pt": "biografia dramatizada + fontes acadêmicas.",
+      "status": "curated_seed"
+    },
+    {
+      "id": "pop-v15-047",
+      "title": "A Menina que Roubava Livros",
+      "area": "Literatura/História",
+      "reference": "narrativa, memória e contexto histórico",
+      "radar_topic": "Literatura",
+      "note_pt": "analisar linguagem narrativa e contexto.",
+      "status": "curated_seed"
+    },
+    {
+      "id": "pop-v15-048",
+      "title": "Sociedade dos Poetas Mortos",
+      "area": "Literatura",
+      "reference": "leitura, interpretação e ensino",
+      "radar_topic": "Literatura",
+      "note_pt": "usar para discutir leitura e cultura, não para inferir fatos pedagógicos.",
+      "status": "curated_seed"
+    },
+    {
+      "id": "pop-v15-049",
+      "title": "O Nome da Rosa",
+      "area": "História/Religião",
+      "reference": "livros, mosteiros, interpretação e manuscritos",
+      "radar_topic": "História/Religião",
+      "note_pt": "separar romance/filme de documentação medieval.",
+      "status": "curated_seed"
+    },
+    {
+      "id": "pop-v15-050",
+      "title": "Duna",
+      "area": "Ecologia/Filosofia",
+      "reference": "ambiente, escassez, política e adaptação",
+      "radar_topic": "Ecologia/Filosofia",
+      "note_pt": "analisar construção de mundo e conceitos.",
+      "status": "curated_seed"
+    },
+    {
+      "id": "pop-v15-051",
+      "title": "Avatar",
+      "area": "Ecologia/Biologia",
+      "reference": "interdependência, biodiversidade e ambiente",
+      "radar_topic": "Ecologia",
+      "note_pt": "usar como ficção científica para explorar sistemas ecológicos.",
+      "status": "curated_seed"
+    },
+    {
+      "id": "pop-v15-052",
+      "title": "Procurando Nemo",
+      "area": "Biologia",
+      "reference": "ecologia marinha e comportamento animal",
+      "radar_topic": "Biologia",
+      "note_pt": "comparar representação com biologia real.",
+      "status": "curated_seed"
+    },
+    {
+      "id": "pop-v15-053",
+      "title": "Up: Altas Aventuras",
+      "area": "Geografia/Física",
+      "reference": "balões, densidade e voo como gancho",
+      "radar_topic": "Física",
+      "note_pt": "experiência para testar plausibilidade e estimativas.",
+      "status": "curated_seed"
+    },
+    {
+      "id": "pop-v15-054",
+      "title": "O Jogo da Imitação",
+      "area": "Matemática/Computação",
+      "reference": "lógica, busca e criptografia",
+      "radar_topic": "Computação",
+      "note_pt": "segunda conexão para caminho de estudo.",
+      "status": "curated_seed"
+    },
+    {
+      "id": "pop-v15-055",
+      "title": "Hidden Figures",
+      "area": "História da Ciência",
+      "reference": "NASA, segregação e matemática aplicada",
+      "radar_topic": "História/Matemática",
+      "note_pt": "usar com fontes NASA e documentação histórica.",
+      "status": "curated_seed"
+    },
+    {
+      "id": "pop-v15-056",
+      "title": "A Viagem de Chihiro",
+      "area": "Arte/Literatura",
+      "reference": "narrativa, símbolo e tradição cultural",
+      "radar_topic": "Literatura/Arte",
+      "note_pt": "análise de símbolos e construção narrativa.",
+      "status": "curated_seed"
+    },
+    {
+      "id": "pop-v15-057",
+      "title": "Your Name",
+      "area": "Astronomia/Matemática",
+      "reference": "calendário, espaço e tempo como elementos narrativos",
+      "radar_topic": "Astronomia",
+      "note_pt": "usar apenas como gatilho cultural, confrontado com ciência.",
+      "status": "curated_seed"
+    },
+    {
+      "id": "pop-v15-058",
+      "title": "O Castelo Animado",
+      "area": "Física/Arte",
+      "reference": "mecânica imaginária, estética e narrativa",
+      "radar_topic": "Arte/Física",
+      "note_pt": "analisar diferenças entre mundo ficcional e leis físicas.",
+      "status": "curated_seed"
+    },
+    {
+      "id": "pop-v15-059",
+      "title": "Interestelar",
+      "area": "Matemática/Física",
+      "reference": "geometria, tempo e gravidade",
+      "radar_topic": "Física",
+      "note_pt": "mais um eixo de aprofundamento com links a laboratórios.",
+      "status": "curated_seed"
+    },
+    {
+      "id": "pop-v15-060",
+      "title": "Uma Mente Brilhante",
+      "area": "Teoria dos Jogos",
+      "reference": "equilíbrio e estratégia",
+      "radar_topic": "Matemática/Economia",
+      "note_pt": "usar cena como introdução e depois formalizar o conceito.",
+      "status": "curated_seed"
+    },
+    {
+      "id": "pop-v15-061",
+      "title": "Moneyball",
+      "area": "Tomada de Decisão",
+      "reference": "métrica, amostra e viés",
+      "radar_topic": "Estatística",
+      "note_pt": "exercícios com dados fictícios para praticar.",
+      "status": "curated_seed"
+    }
+  ],
+  "rights_note": "Frames/clipes e posters comerciais entram como link externo/licença a verificar; o Radar deve preferir trailers/canais oficiais e imagens em licença aberta."
+}

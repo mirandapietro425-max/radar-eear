@@ -1,0 +1,71 @@
+{
+  "principles": [
+    "A interação deve revelar informação útil, não só decorar.",
+    "Cada experiência possui começo claro, uma ação central, feedback, contexto e saída para aprofundamento.",
+    "A interface usa revelação progressiva e respeita motion-reduced preferences.",
+    "Mídia pesada é carregada sob demanda e toda fonte possui proveniência.",
+    "Mapas 3D têm fallback 2D e lista textual para acessibilidade.",
+    "Conteúdo teológico, histórico e científico é rotulado por tipo e fonte.",
+    "Spoilers de obras e cultura pop ficam separados do resumo principal."
+  ],
+  "patterns": [
+    {
+      "id": "cinematic-map",
+      "name": "Mapa cinematográfico",
+      "steps": [
+        "visão do globo",
+        "voo até o local",
+        "revelar contexto",
+        "sobrepor rota/época",
+        "abrir pessoa/texto",
+        "retornar ao panorama"
+      ]
+    },
+    {
+      "id": "art-zoom",
+      "name": "Museu vivo",
+      "steps": [
+        "obra grande",
+        "zoom",
+        "detalhe guiado",
+        "comparação",
+        "contexto histórico",
+        "fonte e licença"
+      ]
+    },
+    {
+      "id": "history-scrub",
+      "name": "Linha do tempo arrastável",
+      "steps": [
+        "arrastar data",
+        "evento aparece",
+        "imagem e fonte",
+        "conexões entre áreas"
+      ]
+    },
+    {
+      "id": "concept-lab",
+      "name": "Conceito em ação",
+      "steps": [
+        "prever",
+        "mover controles",
+        "ver gráfico",
+        "explicar",
+        "tentar de novo",
+        "questão EEAR"
+      ]
+    },
+    {
+      "id": "daily-discovery",
+      "name": "Descoberta diária",
+      "steps": [
+        "gancho",
+        "mini-conteúdo",
+        "imagem",
+        "experiência",
+        "pergunta",
+        "salvar para depois"
+      ]
+    }
+  ]
+}

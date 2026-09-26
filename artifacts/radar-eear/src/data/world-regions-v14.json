@@ -1,0 +1,112 @@
+{
+  "version": "v14",
+  "regions": [
+    {
+      "id": "africa",
+      "name_pt": "África",
+      "lat": 3,
+      "lon": 20,
+      "color_token": "earth",
+      "coverage_tags": [
+        "história",
+        "ecologia",
+        "matemática",
+        "religião",
+        "arqueologia"
+      ]
+    },
+    {
+      "id": "asia",
+      "name_pt": "Ásia",
+      "lat": 34,
+      "lon": 100,
+      "color_token": "sky",
+      "coverage_tags": [
+        "matemática",
+        "filosofia",
+        "religião",
+        "tecnologia",
+        "história"
+      ]
+    },
+    {
+      "id": "europe",
+      "name_pt": "Europa",
+      "lat": 50,
+      "lon": 15,
+      "color_token": "violet",
+      "coverage_tags": [
+        "filosofia",
+        "arte",
+        "literatura",
+        "física",
+        "matemática"
+      ]
+    },
+    {
+      "id": "north-america",
+      "name_pt": "América do Norte",
+      "lat": 40,
+      "lon": -100,
+      "color_token": "mint",
+      "coverage_tags": [
+        "ciência",
+        "computação",
+        "economia",
+        "literatura"
+      ]
+    },
+    {
+      "id": "central-america-caribbean",
+      "name_pt": "América Central e Caribe",
+      "lat": 15,
+      "lon": -80,
+      "color_token": "coral",
+      "coverage_tags": [
+        "arqueologia",
+        "cultura",
+        "biologia",
+        "história"
+      ]
+    },
+    {
+      "id": "south-america",
+      "name_pt": "América do Sul",
+      "lat": -15,
+      "lon": -60,
+      "color_token": "amber",
+      "coverage_tags": [
+        "ecologia",
+        "matemática",
+        "arqueologia",
+        "biodiversidade"
+      ]
+    },
+    {
+      "id": "oceania",
+      "name_pt": "Oceania",
+      "lat": -20,
+      "lon": 135,
+      "color_token": "cyan",
+      "coverage_tags": [
+        "ecologia",
+        "astronomia",
+        "cultura",
+        "geologia"
+      ]
+    },
+    {
+      "id": "antarctica",
+      "name_pt": "Antártida",
+      "lat": -82,
+      "lon": 0,
+      "color_token": "ice",
+      "coverage_tags": [
+        "clima",
+        "geologia",
+        "astronomia",
+        "ecologia"
+      ]
+    }
+  ]
+}

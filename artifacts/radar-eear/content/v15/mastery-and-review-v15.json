@@ -1,0 +1,55 @@
+{
+  "version": "v15",
+  "signals": [
+    "acerto",
+    "erro",
+    "tempo",
+    "certeza_declarada",
+    "recência",
+    "número_de_repetições",
+    "transferência",
+    "dificuldade"
+  ],
+  "concept_status_model": {
+    "new": {
+      "meaning": "ainda não estudado"
+    },
+    "seen": {
+      "meaning": "teve contato"
+    },
+    "understood": {
+      "meaning": "explicou/reconheceu"
+    },
+    "applied": {
+      "meaning": "usou em problema"
+    },
+    "retrieved": {
+      "meaning": "recuperou após intervalo"
+    },
+    "transfer": {
+      "meaning": "usou em contexto novo"
+    },
+    "stable": {
+      "meaning": "desempenho consistente"
+    }
+  },
+  "review_policy": {
+    "baseline_intervals_days": [
+      1,
+      3,
+      7,
+      14,
+      30
+    ],
+    "adaptation": "os intervalos são ajustados por desempenho e esquecimento; não existe calendário fixo universal.",
+    "mixing": "intercalar conceitos relacionados antes de simulados para treinar escolha do método."
+  },
+  "feedback_template": [
+    "o_que_voce_fez",
+    "onde_quebrou",
+    "ideia_certa",
+    "micro_exemplo",
+    "nova_tentativa",
+    "revisar_em"
+  ]
+}

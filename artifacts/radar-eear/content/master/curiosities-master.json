@@ -1,0 +1,43 @@
+{
+  "items": [
+    {
+      "id": "c001",
+      "category": "matemática",
+      "title": "Base 60",
+      "text_pt": "A tradição matemática babilônica utilizava uma estrutura sexagesimal; essa história ajuda a entender por que 60 aparece em medidas de tempo e ângulos.",
+      "source_url": "https://www.britannica.com/science/mathematics"
+    },
+    {
+      "id": "c002",
+      "category": "etnomatemática",
+      "title": "Quipu Inka",
+      "text_pt": "Quipus eram dispositivos de registro feitos com fios e nós; cor, posição e tipo de nó faziam parte de sua leitura lógica.",
+      "source_url": "https://www.si.edu/collections/snapshot/quipu"
+    },
+    {
+      "id": "c003",
+      "category": "matemática",
+      "title": "Zero",
+      "text_pt": "A história do zero envolve mudanças profundas na forma de representar e calcular com números.",
+      "source_url": "https://mathshistory.st-andrews.ac.uk/"
+    },
+    {
+      "id": "c004",
+      "category": "física",
+      "title": "Galileu e o movimento",
+      "text_pt": "O estudo quantitativo do movimento ganhou força na Revolução Científica e preparou o terreno para a mecânica clássica.",
+      "source_url": "https://plato.stanford.edu/entries/galileo/"
+    },
+    {
+      "id": "c005",
+      "category": "linguagem",
+      "title": "Palavras viajam",
+      "text_pt": "O vocabulário de uma língua registra contatos históricos entre povos, migrações, comércio e mudanças culturais.",
+      "source_url": "https://www.etymonline.com/"
+    }
+  ],
+  "rotation_policy": {
+    "cooldown_days": 60,
+    "no_repeat_same_user_days": 30
+  }
+}

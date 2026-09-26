@@ -1,0 +1,558 @@
+{
+  "places": [
+    {
+      "id": "jerusalem",
+      "name_pt": "Jerusalém",
+      "lat": 31.7683,
+      "lon": 35.2137,
+      "context_pt": "centro religioso e político do judaísmo do Segundo Templo; cenário central de Atos e dos Evangelhos",
+      "tags": [
+        "Bíblia",
+        "Cristianismo"
+      ],
+      "display_name": "Jerusalém; Jerusalém do século I",
+      "experience": [
+        "olhar o globo em 3D",
+        "comparar localização atual e contexto antigo",
+        "abrir linha do tempo",
+        "ver pessoas e textos associados",
+        "abrir imagens/fontes"
+      ]
+    },
+    {
+      "id": "bethlehem",
+      "name_pt": "Belém",
+      "lat": 31.7054,
+      "lon": 35.2024,
+      "context_pt": "cidade associada às tradições de nascimento de Jesus e à memória de Davi",
+      "tags": [
+        "Bíblia"
+      ],
+      "display_name": "Belém",
+      "experience": [
+        "olhar o globo em 3D",
+        "comparar localização atual e contexto antigo",
+        "abrir linha do tempo",
+        "ver pessoas e textos associados",
+        "abrir imagens/fontes"
+      ]
+    },
+    {
+      "id": "nazareth",
+      "name_pt": "Nazaré",
+      "lat": 32.6996,
+      "lon": 35.3035,
+      "context_pt": "localidade associada à infância e juventude de Jesus nos Evangelhos",
+      "tags": [
+        "Bíblia"
+      ],
+      "display_name": "Nazaré",
+      "experience": [
+        "olhar o globo em 3D",
+        "comparar localização atual e contexto antigo",
+        "abrir linha do tempo",
+        "ver pessoas e textos associados",
+        "abrir imagens/fontes"
+      ]
+    },
+    {
+      "id": "capernaum",
+      "name_pt": "Cafarnaum",
+      "lat": 32.8803,
+      "lon": 35.5733,
+      "context_pt": "povoado à margem do Mar da Galileia, recorrente no ministério de Jesus",
+      "tags": [
+        "Bíblia"
+      ],
+      "display_name": "Cafarnaum",
+      "experience": [
+        "olhar o globo em 3D",
+        "comparar localização atual e contexto antigo",
+        "abrir linha do tempo",
+        "ver pessoas e textos associados",
+        "abrir imagens/fontes"
+      ]
+    },
+    {
+      "id": "galilee",
+      "name_pt": "Mar da Galileia",
+      "lat": 32.8097,
+      "lon": 35.59,
+      "context_pt": "região de pesca, deslocamentos e comunidades mencionadas nos Evangelhos",
+      "tags": [
+        "Bíblia"
+      ],
+      "display_name": "Galileia",
+      "experience": [
+        "olhar o globo em 3D",
+        "comparar localização atual e contexto antigo",
+        "abrir linha do tempo",
+        "ver pessoas e textos associados",
+        "abrir imagens/fontes"
+      ]
+    },
+    {
+      "id": "samaria",
+      "name_pt": "Samaria",
+      "lat": 32.2766,
+      "lon": 35.1993,
+      "context_pt": "região e cidade importante para compreender relações entre judeus e samaritanos",
+      "tags": [
+        "Bíblia"
+      ],
+      "display_name": "Samaria",
+      "experience": [
+        "olhar o globo em 3D",
+        "comparar localização atual e contexto antigo",
+        "abrir linha do tempo",
+        "ver pessoas e textos associados",
+        "abrir imagens/fontes"
+      ]
+    },
+    {
+      "id": "antioch",
+      "name_pt": "Antioquia da Síria",
+      "lat": 36.2021,
+      "lon": 36.1603,
+      "context_pt": "grande cidade helenística e centro do movimento cristão primitivo",
+      "tags": [
+        "Atos",
+        "Paulo"
+      ],
+      "display_name": "Antioquia",
+      "experience": [
+        "olhar o globo em 3D",
+        "comparar localização atual e contexto antigo",
+        "abrir linha do tempo",
+        "ver pessoas e textos associados",
+        "abrir imagens/fontes"
+      ]
+    },
+    {
+      "id": "damascus",
+      "name_pt": "Damasco",
+      "lat": 33.5138,
+      "lon": 36.2765,
+      "context_pt": "cidade associada à experiência de conversão/chamado de Paulo na tradição de Atos",
+      "tags": [
+        "Atos",
+        "Paulo"
+      ],
+      "display_name": "Damasco",
+      "experience": [
+        "olhar o globo em 3D",
+        "comparar localização atual e contexto antigo",
+        "abrir linha do tempo",
+        "ver pessoas e textos associados",
+        "abrir imagens/fontes"
+      ]
+    },
+    {
+      "id": "tarsus",
+      "name_pt": "Tarso",
+      "lat": 36.9167,
+      "lon": 34.8917,
+      "context_pt": "cidade natal de Paulo segundo sua própria apresentação em Atos e cartas; centro urbano da Cilícia",
+      "tags": [
+        "Paulo"
+      ],
+      "display_name": "Tarso",
+      "experience": [
+        "olhar o globo em 3D",
+        "comparar localização atual e contexto antigo",
+        "abrir linha do tempo",
+        "ver pessoas e textos associados",
+        "abrir imagens/fontes"
+      ]
+    },
+    {
+      "id": "ephesus",
+      "name_pt": "Éfeso",
+      "lat": 37.939,
+      "lon": 27.3416,
+      "context_pt": "grande centro urbano da Ásia Menor e palco de Atos 19",
+      "tags": [
+        "Paulo"
+      ],
+      "display_name": "Éfeso",
+      "experience": [
+        "olhar o globo em 3D",
+        "comparar localização atual e contexto antigo",
+        "abrir linha do tempo",
+        "ver pessoas e textos associados",
+        "abrir imagens/fontes"
+      ]
+    },
+    {
+      "id": "corinth",
+      "name_pt": "Corinto",
+      "lat": 37.906,
+      "lon": 22.8789,
+      "context_pt": "importante cidade portuária, multicultural e comercial do mundo romano",
+      "tags": [
+        "Paulo",
+        "1–2Coríntios"
+      ],
+      "display_name": "Corinto",
+      "experience": [
+        "olhar o globo em 3D",
+        "comparar localização atual e contexto antigo",
+        "abrir linha do tempo",
+        "ver pessoas e textos associados",
+        "abrir imagens/fontes"
+      ]
+    },
+    {
+      "id": "philippi",
+      "name_pt": "Filipos",
+      "lat": 41.0136,
+      "lon": 24.2895,
+      "context_pt": "colônia romana na Macedônia associada à primeira comunidade fundada por Paulo no leste da Europa",
+      "tags": [
+        "Paulo",
+        "Filipenses"
+      ],
+      "display_name": "Filipos",
+      "experience": [
+        "olhar o globo em 3D",
+        "comparar localização atual e contexto antigo",
+        "abrir linha do tempo",
+        "ver pessoas e textos associados",
+        "abrir imagens/fontes"
+      ]
+    },
+    {
+      "id": "thessaloniki",
+      "name_pt": "Tessalônica",
+      "lat": 40.6401,
+      "lon": 22.9444,
+      "context_pt": "importante cidade da Macedônia e comunidade ligada a 1–2Tessalonicenses",
+      "tags": [
+        "Paulo"
+      ],
+      "display_name": "Tessalônica",
+      "experience": [
+        "olhar o globo em 3D",
+        "comparar localização atual e contexto antigo",
+        "abrir linha do tempo",
+        "ver pessoas e textos associados",
+        "abrir imagens/fontes"
+      ]
+    },
+    {
+      "id": "athens",
+      "name_pt": "Atenas",
+      "lat": 37.9838,
+      "lon": 23.7275,
+      "context_pt": "centro filosófico e cultural; Atos 17 narra discurso de Paulo no Areópago",
+      "tags": [
+        "Filosofia",
+        "Atos"
+      ],
+      "display_name": "Atenas",
+      "experience": [
+        "olhar o globo em 3D",
+        "comparar localização atual e contexto antigo",
+        "abrir linha do tempo",
+        "ver pessoas e textos associados",
+        "abrir imagens/fontes"
+      ]
+    },
+    {
+      "id": "miletus",
+      "name_pt": "Mileto",
+      "lat": 37.5306,
+      "lon": 27.277,
+      "context_pt": "cidade costeira associada ao encontro de Paulo com líderes de Éfeso em Atos 20",
+      "tags": [
+        "Paulo"
+      ],
+      "display_name": "Mileto",
+      "experience": [
+        "olhar o globo em 3D",
+        "comparar localização atual e contexto antigo",
+        "abrir linha do tempo",
+        "ver pessoas e textos associados",
+        "abrir imagens/fontes"
+      ]
+    },
+    {
+      "id": "troas",
+      "name_pt": "Trôade",
+      "lat": 39.7562,
+      "lon": 26.0406,
+      "context_pt": "ponto de passagem marítima nas viagens de Paulo",
+      "tags": [
+        "Paulo"
+      ],
+      "display_name": "Trôade",
+      "experience": [
+        "olhar o globo em 3D",
+        "comparar localização atual e contexto antigo",
+        "abrir linha do tempo",
+        "ver pessoas e textos associados",
+        "abrir imagens/fontes"
+      ]
+    },
+    {
+      "id": "caesarea",
+      "name_pt": "Cesareia Marítima",
+      "lat": 32.5007,
+      "lon": 34.891,
+      "context_pt": "porto romano importante nas narrativas de Atos e prisão de Paulo",
+      "tags": [
+        "Atos",
+        "Paulo"
+      ],
+      "display_name": "Cesareia Marítima",
+      "experience": [
+        "olhar o globo em 3D",
+        "comparar localização atual e contexto antigo",
+        "abrir linha do tempo",
+        "ver pessoas e textos associados",
+        "abrir imagens/fontes"
+      ]
+    },
+    {
+      "id": "malta",
+      "name_pt": "Malta",
+      "lat": 35.9375,
+      "lon": 14.3754,
+      "context_pt": "ilha associada ao naufrágio e permanência de Paulo em Atos 28",
+      "tags": [
+        "Atos",
+        "Paulo"
+      ],
+      "display_name": "Malta",
+      "experience": [
+        "olhar o globo em 3D",
+        "comparar localização atual e contexto antigo",
+        "abrir linha do tempo",
+        "ver pessoas e textos associados",
+        "abrir imagens/fontes"
+      ]
+    },
+    {
+      "id": "rome",
+      "name_pt": "Roma",
+      "lat": 41.9028,
+      "lon": 12.4964,
+      "context_pt": "capital imperial e destino final de Atos, onde Paulo é descrito em prisão domiciliar",
+      "tags": [
+        "Paulo",
+        "Romanos"
+      ],
+      "display_name": "Roma",
+      "experience": [
+        "olhar o globo em 3D",
+        "comparar localização atual e contexto antigo",
+        "abrir linha do tempo",
+        "ver pessoas e textos associados",
+        "abrir imagens/fontes"
+      ]
+    },
+    {
+      "id": "sinai",
+      "name_pt": "Monte Sinai",
+      "lat": 28.5395,
+      "lon": 33.975,
+      "context_pt": "local tradicionalmente associado à aliança e à entrega da Lei; a localização histórica exata do Sinai é debatida",
+      "tags": [
+        "Êxodo",
+        "tradição"
+      ],
+      "display_name": "Sinai",
+      "experience": [
+        "olhar o globo em 3D",
+        "comparar localização atual e contexto antigo",
+        "abrir linha do tempo",
+        "ver pessoas e textos associados",
+        "abrir imagens/fontes"
+      ]
+    },
+    {
+      "id": "kadesh_barnea",
+      "name_pt": "Cades-Barnéia",
+      "lat": 30.65,
+      "lon": 34.42,
+      "context_pt": "local associado a episódios da peregrinação no deserto e às tradições de Números e Deuteronômio",
+      "tags": [
+        "Êxodo",
+        "Números"
+      ],
+      "display_name": "Cades",
+      "experience": [
+        "olhar o globo em 3D",
+        "comparar localização atual e contexto antigo",
+        "abrir linha do tempo",
+        "ver pessoas e textos associados",
+        "abrir imagens/fontes"
+      ]
+    },
+    {
+      "id": "jordan",
+      "name_pt": "Rio Jordão",
+      "lat": 31.8,
+      "lon": 35.55,
+      "context_pt": "rio associado à entrada na terra em Josué e ao batismo de Jesus nos Evangelhos",
+      "tags": [
+        "Bíblia"
+      ],
+      "display_name": "Jordão",
+      "experience": [
+        "olhar o globo em 3D",
+        "comparar localização atual e contexto antigo",
+        "abrir linha do tempo",
+        "ver pessoas e textos associados",
+        "abrir imagens/fontes"
+      ]
+    },
+    {
+      "id": "patmos",
+      "name_pt": "Patmos",
+      "lat": 37.31,
+      "lon": 26.55,
+      "context_pt": "ilha associada à tradição de João e ao Apocalipse",
+      "tags": [
+        "Apocalipse"
+      ],
+      "display_name": "Patmos",
+      "experience": [
+        "olhar o globo em 3D",
+        "comparar localização atual e contexto antigo",
+        "abrir linha do tempo",
+        "ver pessoas e textos associados",
+        "abrir imagens/fontes"
+      ]
+    },
+    {
+      "id": "alexandria",
+      "name_pt": "Alexandria",
+      "lat": 31.2001,
+      "lon": 29.9187,
+      "context_pt": "centro helenístico de literatura, matemática, filosofia e tradições judaico-cristãs",
+      "tags": [
+        "Ciência",
+        "Bíblia",
+        "Filosofia"
+      ],
+      "display_name": "Alexandria",
+      "experience": [
+        "olhar o globo em 3D",
+        "comparar localização atual e contexto antigo",
+        "abrir linha do tempo",
+        "ver pessoas e textos associados",
+        "abrir imagens/fontes"
+      ]
+    },
+    {
+      "id": "antioch_pisidia",
+      "name_pt": "Antioquia da Pisídia",
+      "lat": 38.308,
+      "lon": 31.183,
+      "context_pt": "cidade da Ásia Menor visitada nas viagens missionárias segundo Atos 13",
+      "tags": [
+        "Paulo"
+      ],
+      "display_name": "Antioquia da Pisídia",
+      "experience": [
+        "olhar o globo em 3D",
+        "comparar localização atual e contexto antigo",
+        "abrir linha do tempo",
+        "ver pessoas e textos associados",
+        "abrir imagens/fontes"
+      ]
+    },
+    {
+      "id": "iconium",
+      "name_pt": "Icônio",
+      "lat": 37.8714,
+      "lon": 32.4922,
+      "context_pt": "cidade da Ásia Menor associada a Atos 14",
+      "tags": [
+        "Paulo"
+      ],
+      "display_name": "Icônio",
+      "experience": [
+        "olhar o globo em 3D",
+        "comparar localização atual e contexto antigo",
+        "abrir linha do tempo",
+        "ver pessoas e textos associados",
+        "abrir imagens/fontes"
+      ]
+    },
+    {
+      "id": "lystra",
+      "name_pt": "Listra",
+      "lat": 37.5498,
+      "lon": 32.46,
+      "context_pt": "cidade associada a Atos 14 e à tradição de Timóteo",
+      "tags": [
+        "Paulo"
+      ],
+      "display_name": "Listra",
+      "experience": [
+        "olhar o globo em 3D",
+        "comparar localização atual e contexto antigo",
+        "abrir linha do tempo",
+        "ver pessoas e textos associados",
+        "abrir imagens/fontes"
+      ]
+    },
+    {
+      "id": "derbe",
+      "name_pt": "Derbe",
+      "lat": 37.299,
+      "lon": 33.03,
+      "context_pt": "cidade da Licaônia nas viagens missionárias",
+      "tags": [
+        "Paulo"
+      ],
+      "display_name": "Derbe",
+      "experience": [
+        "olhar o globo em 3D",
+        "comparar localização atual e contexto antigo",
+        "abrir linha do tempo",
+        "ver pessoas e textos associados",
+        "abrir imagens/fontes"
+      ]
+    },
+    {
+      "id": "berea",
+      "name_pt": "Bereia",
+      "lat": 40.5174,
+      "lon": 22.201,
+      "context_pt": "cidade macedônia associada a uma recepção atenta à mensagem em Atos 17",
+      "tags": [
+        "Atos"
+      ],
+      "display_name": "Bereia",
+      "experience": [
+        "olhar o globo em 3D",
+        "comparar localização atual e contexto antigo",
+        "abrir linha do tempo",
+        "ver pessoas e textos associados",
+        "abrir imagens/fontes"
+      ]
+    },
+    {
+      "id": "qumran",
+      "name_pt": "Qumran",
+      "lat": 31.741,
+      "lon": 35.4597,
+      "context_pt": "sítio associado aos Manuscritos do Mar Morto, fundamentais para estudar o judaísmo do Segundo Templo",
+      "tags": [
+        "Manuscritos",
+        "Apócrifos"
+      ],
+      "display_name": "Qumran",
+      "experience": [
+        "olhar o globo em 3D",
+        "comparar localização atual e contexto antigo",
+        "abrir linha do tempo",
+        "ver pessoas e textos associados",
+        "abrir imagens/fontes"
+      ]
+    }
+  ]
+}

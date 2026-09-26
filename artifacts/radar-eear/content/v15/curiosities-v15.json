@@ -1,0 +1,518 @@
+{
+  "version": "v15",
+  "count": 64,
+  "curiosities": [
+    {
+      "id": "cur-v15-001",
+      "area": "Matemática",
+      "question_pt": "Por que o sistema sexagesimal ainda aparece nos minutos e segundos?",
+      "format": "curiosidade_ativa",
+      "followup": "abrir conceito + mini experiência + fonte",
+      "daily_eligible": true
+    },
+    {
+      "id": "cur-v15-002",
+      "area": "Matemática",
+      "question_pt": "Como o GPS usa trilateração e relógios?",
+      "format": "curiosidade_ativa",
+      "followup": "abrir conceito + mini experiência + fonte",
+      "daily_eligible": true
+    },
+    {
+      "id": "cur-v15-003",
+      "area": "Matemática",
+      "question_pt": "Por que zeros mudaram a escrita numérica?",
+      "format": "curiosidade_ativa",
+      "followup": "abrir conceito + mini experiência + fonte",
+      "daily_eligible": true
+    },
+    {
+      "id": "cur-v15-004",
+      "area": "Matemática",
+      "question_pt": "Como Fibonacci aparece em problemas de crescimento sem virar “regra da natureza”?",
+      "format": "curiosidade_ativa",
+      "followup": "abrir conceito + mini experiência + fonte",
+      "daily_eligible": true
+    },
+    {
+      "id": "cur-v15-005",
+      "area": "Matemática",
+      "question_pt": "Por que probabilidade precisa de espaço amostral?",
+      "format": "curiosidade_ativa",
+      "followup": "abrir conceito + mini experiência + fonte",
+      "daily_eligible": true
+    },
+    {
+      "id": "cur-v15-006",
+      "area": "Matemática",
+      "question_pt": "Como compressão usa padrões?",
+      "format": "curiosidade_ativa",
+      "followup": "abrir conceito + mini experiência + fonte",
+      "daily_eligible": true
+    },
+    {
+      "id": "cur-v15-007",
+      "area": "Matemática",
+      "question_pt": "Por que estatística não é o mesmo que certeza?",
+      "format": "curiosidade_ativa",
+      "followup": "abrir conceito + mini experiência + fonte",
+      "daily_eligible": true
+    },
+    {
+      "id": "cur-v15-008",
+      "area": "Matemática",
+      "question_pt": "Como grafos modelam redes reais?",
+      "format": "curiosidade_ativa",
+      "followup": "abrir conceito + mini experiência + fonte",
+      "daily_eligible": true
+    },
+    {
+      "id": "cur-v15-009",
+      "area": "Física",
+      "question_pt": "Por que unidades ajudam a descobrir erro de fórmula?",
+      "format": "curiosidade_ativa",
+      "followup": "abrir conceito + mini experiência + fonte",
+      "daily_eligible": true
+    },
+    {
+      "id": "cur-v15-010",
+      "area": "Física",
+      "question_pt": "Como um transformador muda tensão e corrente?",
+      "format": "curiosidade_ativa",
+      "followup": "abrir conceito + mini experiência + fonte",
+      "daily_eligible": true
+    },
+    {
+      "id": "cur-v15-011",
+      "area": "Física",
+      "question_pt": "Por que uma onda pode transportar energia sem transportar matéria da mesma forma?",
+      "format": "curiosidade_ativa",
+      "followup": "abrir conceito + mini experiência + fonte",
+      "daily_eligible": true
+    },
+    {
+      "id": "cur-v15-012",
+      "area": "Física",
+      "question_pt": "Como a pressão depende de área e força?",
+      "format": "curiosidade_ativa",
+      "followup": "abrir conceito + mini experiência + fonte",
+      "daily_eligible": true
+    },
+    {
+      "id": "cur-v15-013",
+      "area": "Física",
+      "question_pt": "Por que o atrito não é simplesmente “inimigo do movimento”?",
+      "format": "curiosidade_ativa",
+      "followup": "abrir conceito + mini experiência + fonte",
+      "daily_eligible": true
+    },
+    {
+      "id": "cur-v15-014",
+      "area": "Física",
+      "question_pt": "Como um circuito fecha o caminho da corrente?",
+      "format": "curiosidade_ativa",
+      "followup": "abrir conceito + mini experiência + fonte",
+      "daily_eligible": true
+    },
+    {
+      "id": "cur-v15-015",
+      "area": "Física",
+      "question_pt": "Por que a luz pode ser tratada como onda em alguns experimentos?",
+      "format": "curiosidade_ativa",
+      "followup": "abrir conceito + mini experiência + fonte",
+      "daily_eligible": true
+    },
+    {
+      "id": "cur-v15-016",
+      "area": "Física",
+      "question_pt": "Como o calor flui espontaneamente?",
+      "format": "curiosidade_ativa",
+      "followup": "abrir conceito + mini experiência + fonte",
+      "daily_eligible": true
+    },
+    {
+      "id": "cur-v15-017",
+      "area": "Português",
+      "question_pt": "Por que a mesma palavra muda de sentido conforme o contexto?",
+      "format": "curiosidade_ativa",
+      "followup": "abrir conceito + mini experiência + fonte",
+      "daily_eligible": true
+    },
+    {
+      "id": "cur-v15-018",
+      "area": "Português",
+      "question_pt": "Como uma vírgula pode mudar relações sintáticas?",
+      "format": "curiosidade_ativa",
+      "followup": "abrir conceito + mini experiência + fonte",
+      "daily_eligible": true
+    },
+    {
+      "id": "cur-v15-019",
+      "area": "Português",
+      "question_pt": "O que diferencia coesão de coerência?",
+      "format": "curiosidade_ativa",
+      "followup": "abrir conceito + mini experiência + fonte",
+      "daily_eligible": true
+    },
+    {
+      "id": "cur-v15-020",
+      "area": "Português",
+      "question_pt": "Por que variação linguística não é sinônimo de “erro”?",
+      "format": "curiosidade_ativa",
+      "followup": "abrir conceito + mini experiência + fonte",
+      "daily_eligible": true
+    },
+    {
+      "id": "cur-v15-021",
+      "area": "Português",
+      "question_pt": "Como metáfora e metonímia funcionam de modos diferentes?",
+      "format": "curiosidade_ativa",
+      "followup": "abrir conceito + mini experiência + fonte",
+      "daily_eligible": true
+    },
+    {
+      "id": "cur-v15-022",
+      "area": "Português",
+      "question_pt": "Como o português brasileiro recebeu palavras de línguas indígenas e africanas?",
+      "format": "curiosidade_ativa",
+      "followup": "abrir conceito + mini experiência + fonte",
+      "daily_eligible": true
+    },
+    {
+      "id": "cur-v15-023",
+      "area": "Português",
+      "question_pt": "Por que etimologia não determina o significado atual de uma palavra?",
+      "format": "curiosidade_ativa",
+      "followup": "abrir conceito + mini experiência + fonte",
+      "daily_eligible": true
+    },
+    {
+      "id": "cur-v15-024",
+      "area": "Português",
+      "question_pt": "Como ironia depende de contexto?",
+      "format": "curiosidade_ativa",
+      "followup": "abrir conceito + mini experiência + fonte",
+      "daily_eligible": true
+    },
+    {
+      "id": "cur-v15-025",
+      "area": "Inglês",
+      "question_pt": "Por que phrasal verbs são difíceis?",
+      "format": "curiosidade_ativa",
+      "followup": "abrir conceito + mini experiência + fonte",
+      "daily_eligible": true
+    },
+    {
+      "id": "cur-v15-026",
+      "area": "Inglês",
+      "question_pt": "Como cognatos ajudam e também podem enganar?",
+      "format": "curiosidade_ativa",
+      "followup": "abrir conceito + mini experiência + fonte",
+      "daily_eligible": true
+    },
+    {
+      "id": "cur-v15-027",
+      "area": "Inglês",
+      "question_pt": "Como conectores mudam a lógica de um texto?",
+      "format": "curiosidade_ativa",
+      "followup": "abrir conceito + mini experiência + fonte",
+      "daily_eligible": true
+    },
+    {
+      "id": "cur-v15-028",
+      "area": "Inglês",
+      "question_pt": "Como o contexto altera o sentido de “get”?",
+      "format": "curiosidade_ativa",
+      "followup": "abrir conceito + mini experiência + fonte",
+      "daily_eligible": true
+    },
+    {
+      "id": "cur-v15-029",
+      "area": "Inglês",
+      "question_pt": "Por que listening exige antecipação e não tradução palavra por palavra?",
+      "format": "curiosidade_ativa",
+      "followup": "abrir conceito + mini experiência + fonte",
+      "daily_eligible": true
+    },
+    {
+      "id": "cur-v15-030",
+      "area": "Inglês",
+      "question_pt": "Como sotaques diferentes mudam a experiência de compreensão?",
+      "format": "curiosidade_ativa",
+      "followup": "abrir conceito + mini experiência + fonte",
+      "daily_eligible": true
+    },
+    {
+      "id": "cur-v15-031",
+      "area": "Inglês",
+      "question_pt": "Como skimming e scanning têm objetivos diferentes?",
+      "format": "curiosidade_ativa",
+      "followup": "abrir conceito + mini experiência + fonte",
+      "daily_eligible": true
+    },
+    {
+      "id": "cur-v15-032",
+      "area": "Inglês",
+      "question_pt": "Por que tempo verbal é uma pista de organização textual?",
+      "format": "curiosidade_ativa",
+      "followup": "abrir conceito + mini experiência + fonte",
+      "daily_eligible": true
+    },
+    {
+      "id": "cur-v15-033",
+      "area": "Biologia/Ecologia",
+      "question_pt": "Como uma população cresce e depois estabiliza?",
+      "format": "curiosidade_ativa",
+      "followup": "abrir conceito + mini experiência + fonte",
+      "daily_eligible": true
+    },
+    {
+      "id": "cur-v15-034",
+      "area": "Biologia/Ecologia",
+      "question_pt": "Por que espécies invasoras podem alterar redes ecológicas?",
+      "format": "curiosidade_ativa",
+      "followup": "abrir conceito + mini experiência + fonte",
+      "daily_eligible": true
+    },
+    {
+      "id": "cur-v15-035",
+      "area": "Biologia/Ecologia",
+      "question_pt": "Como a estrutura de um bico revela dieta provável?",
+      "format": "curiosidade_ativa",
+      "followup": "abrir conceito + mini experiência + fonte",
+      "daily_eligible": true
+    },
+    {
+      "id": "cur-v15-036",
+      "area": "Biologia/Ecologia",
+      "question_pt": "O que um fóssil realmente permite inferir?",
+      "format": "curiosidade_ativa",
+      "followup": "abrir conceito + mini experiência + fonte",
+      "daily_eligible": true
+    },
+    {
+      "id": "cur-v15-037",
+      "area": "Biologia/Ecologia",
+      "question_pt": "Como biodiversidade pode ser medida?",
+      "format": "curiosidade_ativa",
+      "followup": "abrir conceito + mini experiência + fonte",
+      "daily_eligible": true
+    },
+    {
+      "id": "cur-v15-038",
+      "area": "Biologia/Ecologia",
+      "question_pt": "Como energia diminui ao longo de níveis tróficos?",
+      "format": "curiosidade_ativa",
+      "followup": "abrir conceito + mini experiência + fonte",
+      "daily_eligible": true
+    },
+    {
+      "id": "cur-v15-039",
+      "area": "Biologia/Ecologia",
+      "question_pt": "Como mutualismo pode alterar o sistema inteiro?",
+      "format": "curiosidade_ativa",
+      "followup": "abrir conceito + mini experiência + fonte",
+      "daily_eligible": true
+    },
+    {
+      "id": "cur-v15-040",
+      "area": "Biologia/Ecologia",
+      "question_pt": "Por que clima e evolução são estudados em conjunto?",
+      "format": "curiosidade_ativa",
+      "followup": "abrir conceito + mini experiência + fonte",
+      "daily_eligible": true
+    },
+    {
+      "id": "cur-v15-041",
+      "area": "Computação",
+      "question_pt": "Como 8 bits podem representar 256 valores?",
+      "format": "curiosidade_ativa",
+      "followup": "abrir conceito + mini experiência + fonte",
+      "daily_eligible": true
+    },
+    {
+      "id": "cur-v15-042",
+      "area": "Computação",
+      "question_pt": "Por que busca binária exige dados ordenados?",
+      "format": "curiosidade_ativa",
+      "followup": "abrir conceito + mini experiência + fonte",
+      "daily_eligible": true
+    },
+    {
+      "id": "cur-v15-043",
+      "area": "Computação",
+      "question_pt": "O que Big-O descreve e o que ele não descreve?",
+      "format": "curiosidade_ativa",
+      "followup": "abrir conceito + mini experiência + fonte",
+      "daily_eligible": true
+    },
+    {
+      "id": "cur-v15-044",
+      "area": "Computação",
+      "question_pt": "Como uma função hash ajuda a localizar dados?",
+      "format": "curiosidade_ativa",
+      "followup": "abrir conceito + mini experiência + fonte",
+      "daily_eligible": true
+    },
+    {
+      "id": "cur-v15-045",
+      "area": "Computação",
+      "question_pt": "Por que ponto flutuante pode gerar resultados surpreendentes?",
+      "format": "curiosidade_ativa",
+      "followup": "abrir conceito + mini experiência + fonte",
+      "daily_eligible": true
+    },
+    {
+      "id": "cur-v15-046",
+      "area": "Computação",
+      "question_pt": "Como correção de erros recupera dados?",
+      "format": "curiosidade_ativa",
+      "followup": "abrir conceito + mini experiência + fonte",
+      "daily_eligible": true
+    },
+    {
+      "id": "cur-v15-047",
+      "area": "Computação",
+      "question_pt": "Como criptografia usa matemática modular?",
+      "format": "curiosidade_ativa",
+      "followup": "abrir conceito + mini experiência + fonte",
+      "daily_eligible": true
+    },
+    {
+      "id": "cur-v15-048",
+      "area": "Computação",
+      "question_pt": "Por que redes são grafos?",
+      "format": "curiosidade_ativa",
+      "followup": "abrir conceito + mini experiência + fonte",
+      "daily_eligible": true
+    },
+    {
+      "id": "cur-v15-049",
+      "area": "Arte/Literatura",
+      "question_pt": "Como perspectiva cria profundidade numa imagem plana?",
+      "format": "curiosidade_ativa",
+      "followup": "abrir conceito + mini experiência + fonte",
+      "daily_eligible": true
+    },
+    {
+      "id": "cur-v15-050",
+      "area": "Arte/Literatura",
+      "question_pt": "Como iluminação altera a leitura de uma pintura?",
+      "format": "curiosidade_ativa",
+      "followup": "abrir conceito + mini experiência + fonte",
+      "daily_eligible": true
+    },
+    {
+      "id": "cur-v15-051",
+      "area": "Arte/Literatura",
+      "question_pt": "Por que manuscritos são fontes históricas e também objetos de arte?",
+      "format": "curiosidade_ativa",
+      "followup": "abrir conceito + mini experiência + fonte",
+      "daily_eligible": true
+    },
+    {
+      "id": "cur-v15-052",
+      "area": "Arte/Literatura",
+      "question_pt": "Como narradores mudam a percepção da mesma história?",
+      "format": "curiosidade_ativa",
+      "followup": "abrir conceito + mini experiência + fonte",
+      "daily_eligible": true
+    },
+    {
+      "id": "cur-v15-053",
+      "area": "Arte/Literatura",
+      "question_pt": "Como literatura registra conflitos sociais sem ser documento literal?",
+      "format": "curiosidade_ativa",
+      "followup": "abrir conceito + mini experiência + fonte",
+      "daily_eligible": true
+    },
+    {
+      "id": "cur-v15-054",
+      "area": "Arte/Literatura",
+      "question_pt": "Como uma obra viaja entre culturas?",
+      "format": "curiosidade_ativa",
+      "followup": "abrir conceito + mini experiência + fonte",
+      "daily_eligible": true
+    },
+    {
+      "id": "cur-v15-055",
+      "area": "Arte/Literatura",
+      "question_pt": "Como símbolos funcionam sem possuir um único significado?",
+      "format": "curiosidade_ativa",
+      "followup": "abrir conceito + mini experiência + fonte",
+      "daily_eligible": true
+    },
+    {
+      "id": "cur-v15-056",
+      "area": "Arte/Literatura",
+      "question_pt": "Por que restauração exige decisões interpretativas?",
+      "format": "curiosidade_ativa",
+      "followup": "abrir conceito + mini experiência + fonte",
+      "daily_eligible": true
+    },
+    {
+      "id": "cur-v15-057",
+      "area": "Filosofia/Teologia",
+      "question_pt": "Como separar texto, interpretação e tradição?",
+      "format": "curiosidade_ativa",
+      "followup": "abrir conceito + mini experiência + fonte",
+      "daily_eligible": true
+    },
+    {
+      "id": "cur-v15-058",
+      "area": "Filosofia/Teologia",
+      "question_pt": "Por que um conceito filosófico muda quando entra no cinema?",
+      "format": "curiosidade_ativa",
+      "followup": "abrir conceito + mini experiência + fonte",
+      "daily_eligible": true
+    },
+    {
+      "id": "cur-v15-059",
+      "area": "Filosofia/Teologia",
+      "question_pt": "Como uma pergunta metafísica difere de uma pergunta empírica?",
+      "format": "curiosidade_ativa",
+      "followup": "abrir conceito + mini experiência + fonte",
+      "daily_eligible": true
+    },
+    {
+      "id": "cur-v15-060",
+      "area": "Filosofia/Teologia",
+      "question_pt": "Como distinguir teologia confessional de história das religiões?",
+      "format": "curiosidade_ativa",
+      "followup": "abrir conceito + mini experiência + fonte",
+      "daily_eligible": true
+    },
+    {
+      "id": "cur-v15-061",
+      "area": "Filosofia/Teologia",
+      "question_pt": "Como um texto pode ter recepções diferentes?",
+      "format": "curiosidade_ativa",
+      "followup": "abrir conceito + mini experiência + fonte",
+      "daily_eligible": true
+    },
+    {
+      "id": "cur-v15-062",
+      "area": "Filosofia/Teologia",
+      "question_pt": "Como identificar uma afirmação histórica forte demais?",
+      "format": "curiosidade_ativa",
+      "followup": "abrir conceito + mini experiência + fonte",
+      "daily_eligible": true
+    },
+    {
+      "id": "cur-v15-063",
+      "area": "Filosofia/Teologia",
+      "question_pt": "Por que fontes primárias e comentários devem ser diferenciados?",
+      "format": "curiosidade_ativa",
+      "followup": "abrir conceito + mini experiência + fonte",
+      "daily_eligible": true
+    },
+    {
+      "id": "cur-v15-064",
+      "area": "Filosofia/Teologia",
+      "question_pt": "Como argumentos dependem de premissas?",
+      "format": "curiosidade_ativa",
+      "followup": "abrir conceito + mini experiência + fonte",
+      "daily_eligible": true
+    }
+  ]
+}

@@ -1,0 +1,358 @@
+{
+  "version": "8.0",
+  "count": 44,
+  "items": [
+    {
+      "reference_id": "pop-the-matrix",
+      "media_kind": "image_search",
+      "url": "https://commons.wikimedia.org/w/index.php?search=Matrix&title=Special:MediaSearch&type=image",
+      "rights_mode": "external_or_licensed_only",
+      "alt_pt": "Imagem relacionada a Matrix",
+      "status": "registry_only"
+    },
+    {
+      "reference_id": "pop-interstellar",
+      "media_kind": "image_search",
+      "url": "https://commons.wikimedia.org/w/index.php?search=Interestelar&title=Special:MediaSearch&type=image",
+      "rights_mode": "external_or_licensed_only",
+      "alt_pt": "Imagem relacionada a Interestelar",
+      "status": "registry_only"
+    },
+    {
+      "reference_id": "pop-oppenheimer",
+      "media_kind": "image_search",
+      "url": "https://commons.wikimedia.org/w/index.php?search=Oppenheimer&title=Special:MediaSearch&type=image",
+      "rights_mode": "external_or_licensed_only",
+      "alt_pt": "Imagem relacionada a Oppenheimer",
+      "status": "registry_only"
+    },
+    {
+      "reference_id": "pop-beautiful-mind",
+      "media_kind": "image_search",
+      "url": "https://commons.wikimedia.org/w/index.php?search=Uma+Mente+Brilhante&title=Special:MediaSearch&type=image",
+      "rights_mode": "external_or_licensed_only",
+      "alt_pt": "Imagem relacionada a Uma Mente Brilhante",
+      "status": "registry_only"
+    },
+    {
+      "reference_id": "pop-hidden-figures",
+      "media_kind": "image_search",
+      "url": "https://commons.wikimedia.org/w/index.php?search=Estrelas+Além+do+Tempo&title=Special:MediaSearch&type=image",
+      "rights_mode": "external_or_licensed_only",
+      "alt_pt": "Imagem relacionada a Estrelas Além do Tempo",
+      "status": "registry_only"
+    },
+    {
+      "reference_id": "pop-imitation-game",
+      "media_kind": "image_search",
+      "url": "https://commons.wikimedia.org/w/index.php?search=O+Jogo+da+Imitação&title=Special:MediaSearch&type=image",
+      "rights_mode": "external_or_licensed_only",
+      "alt_pt": "Imagem relacionada a O Jogo da Imitação",
+      "status": "registry_only"
+    },
+    {
+      "reference_id": "pop-arrival",
+      "media_kind": "image_search",
+      "url": "https://commons.wikimedia.org/w/index.php?search=A+Chegada&title=Special:MediaSearch&type=image",
+      "rights_mode": "external_or_licensed_only",
+      "alt_pt": "Imagem relacionada a A Chegada",
+      "status": "registry_only"
+    },
+    {
+      "reference_id": "pop-agora",
+      "media_kind": "image_search",
+      "url": "https://commons.wikimedia.org/w/index.php?search=Ágora&title=Special:MediaSearch&type=image",
+      "rights_mode": "external_or_licensed_only",
+      "alt_pt": "Imagem relacionada a Ágora",
+      "status": "registry_only"
+    },
+    {
+      "reference_id": "pop-contact",
+      "media_kind": "image_search",
+      "url": "https://commons.wikimedia.org/w/index.php?search=Contato&title=Special:MediaSearch&type=image",
+      "rights_mode": "external_or_licensed_only",
+      "alt_pt": "Imagem relacionada a Contato",
+      "status": "registry_only"
+    },
+    {
+      "reference_id": "pop-good-will-hunting",
+      "media_kind": "image_search",
+      "url": "https://commons.wikimedia.org/w/index.php?search=Gênio+Indomável&title=Special:MediaSearch&type=image",
+      "rights_mode": "external_or_licensed_only",
+      "alt_pt": "Imagem relacionada a Gênio Indomável",
+      "status": "registry_only"
+    },
+    {
+      "reference_id": "pop-jurassic-park",
+      "media_kind": "image_search",
+      "url": "https://commons.wikimedia.org/w/index.php?search=Jurassic+Park&title=Special:MediaSearch&type=image",
+      "rights_mode": "external_or_licensed_only",
+      "alt_pt": "Imagem relacionada a Jurassic Park",
+      "status": "registry_only"
+    },
+    {
+      "reference_id": "pop-moneyball",
+      "media_kind": "image_search",
+      "url": "https://commons.wikimedia.org/w/index.php?search=Moneyball&title=Special:MediaSearch&type=image",
+      "rights_mode": "external_or_licensed_only",
+      "alt_pt": "Imagem relacionada a Moneyball",
+      "status": "registry_only"
+    },
+    {
+      "reference_id": "pop-truman-show",
+      "media_kind": "image_search",
+      "url": "https://commons.wikimedia.org/w/index.php?search=O+Show+de+Truman&title=Special:MediaSearch&type=image",
+      "rights_mode": "external_or_licensed_only",
+      "alt_pt": "Imagem relacionada a O Show de Truman",
+      "status": "registry_only"
+    },
+    {
+      "reference_id": "pop-blade-runner",
+      "media_kind": "image_search",
+      "url": "https://commons.wikimedia.org/w/index.php?search=Blade+Runner&title=Special:MediaSearch&type=image",
+      "rights_mode": "external_or_licensed_only",
+      "alt_pt": "Imagem relacionada a Blade Runner",
+      "status": "registry_only"
+    },
+    {
+      "reference_id": "pop-ex-machina",
+      "media_kind": "image_search",
+      "url": "https://commons.wikimedia.org/w/index.php?search=Ex+Machina&title=Special:MediaSearch&type=image",
+      "rights_mode": "external_or_licensed_only",
+      "alt_pt": "Imagem relacionada a Ex Machina",
+      "status": "registry_only"
+    },
+    {
+      "reference_id": "pop-black-mirror",
+      "media_kind": "image_search",
+      "url": "https://commons.wikimedia.org/w/index.php?search=Black+Mirror&title=Special:MediaSearch&type=image",
+      "rights_mode": "external_or_licensed_only",
+      "alt_pt": "Imagem relacionada a Black Mirror",
+      "status": "registry_only"
+    },
+    {
+      "reference_id": "pop-mr-robot",
+      "media_kind": "image_search",
+      "url": "https://commons.wikimedia.org/w/index.php?search=Mr.+Robot&title=Special:MediaSearch&type=image",
+      "rights_mode": "external_or_licensed_only",
+      "alt_pt": "Imagem relacionada a Mr. Robot",
+      "status": "registry_only"
+    },
+    {
+      "reference_id": "pop-dark",
+      "media_kind": "image_search",
+      "url": "https://commons.wikimedia.org/w/index.php?search=Dark&title=Special:MediaSearch&type=image",
+      "rights_mode": "external_or_licensed_only",
+      "alt_pt": "Imagem relacionada a Dark",
+      "status": "registry_only"
+    },
+    {
+      "reference_id": "pop-2001-space-odyssey",
+      "media_kind": "image_search",
+      "url": "https://commons.wikimedia.org/w/index.php?search=2001:+Uma+Odisseia+no+Espaço&title=Special:MediaSearch&type=image",
+      "rights_mode": "external_or_licensed_only",
+      "alt_pt": "Imagem relacionada a 2001: Uma Odisseia no Espaço",
+      "status": "registry_only"
+    },
+    {
+      "reference_id": "pop-the-social-network",
+      "media_kind": "image_search",
+      "url": "https://commons.wikimedia.org/w/index.php?search=A+Rede+Social&title=Special:MediaSearch&type=image",
+      "rights_mode": "external_or_licensed_only",
+      "alt_pt": "Imagem relacionada a A Rede Social",
+      "status": "registry_only"
+    },
+    {
+      "reference_id": "pop-the-big-short",
+      "media_kind": "image_search",
+      "url": "https://commons.wikimedia.org/w/index.php?search=A+Grande+Aposta&title=Special:MediaSearch&type=image",
+      "rights_mode": "external_or_licensed_only",
+      "alt_pt": "Imagem relacionada a A Grande Aposta",
+      "status": "registry_only"
+    },
+    {
+      "reference_id": "pop-apollo-13",
+      "media_kind": "image_search",
+      "url": "https://commons.wikimedia.org/w/index.php?search=Apollo+13&title=Special:MediaSearch&type=image",
+      "rights_mode": "external_or_licensed_only",
+      "alt_pt": "Imagem relacionada a Apollo 13",
+      "status": "registry_only"
+    },
+    {
+      "reference_id": "pop-chernobyl",
+      "media_kind": "image_search",
+      "url": "https://commons.wikimedia.org/w/index.php?search=Chernobyl&title=Special:MediaSearch&type=image",
+      "rights_mode": "external_or_licensed_only",
+      "alt_pt": "Imagem relacionada a Chernobyl",
+      "status": "registry_only"
+    },
+    {
+      "reference_id": "pop-portal",
+      "media_kind": "image_search",
+      "url": "https://commons.wikimedia.org/w/index.php?search=Portal&title=Special:MediaSearch&type=image",
+      "rights_mode": "external_or_licensed_only",
+      "alt_pt": "Imagem relacionada a Portal",
+      "status": "registry_only"
+    },
+    {
+      "reference_id": "pop-factorio",
+      "media_kind": "image_search",
+      "url": "https://commons.wikimedia.org/w/index.php?search=Factorio&title=Special:MediaSearch&type=image",
+      "rights_mode": "external_or_licensed_only",
+      "alt_pt": "Imagem relacionada a Factorio",
+      "status": "registry_only"
+    },
+    {
+      "reference_id": "pop-human-resource-machine",
+      "media_kind": "image_search",
+      "url": "https://commons.wikimedia.org/w/index.php?search=Human+Resource+Machine&title=Special:MediaSearch&type=image",
+      "rights_mode": "external_or_licensed_only",
+      "alt_pt": "Imagem relacionada a Human+Resource+Machine",
+      "status": "registry_only"
+    },
+    {
+      "reference_id": "pop-kerbal-space-program",
+      "media_kind": "image_search",
+      "url": "https://commons.wikimedia.org/w/index.php?search=Kerbal+Space+Program&title=Special:MediaSearch&type=image",
+      "rights_mode": "external_or_licensed_only",
+      "alt_pt": "Imagem relacionada a Kerbal Space Program",
+      "status": "registry_only"
+    },
+    {
+      "reference_id": "pop-rick-morty",
+      "media_kind": "image_search",
+      "url": "https://commons.wikimedia.org/w/index.php?search=Rick+and+Morty&title=Special:MediaSearch&type=image",
+      "rights_mode": "external_or_licensed_only",
+      "alt_pt": "Imagem relacionada a Rick and Morty",
+      "status": "registry_only"
+    },
+    {
+      "reference_id": "pop-futurama",
+      "media_kind": "image_search",
+      "url": "https://commons.wikimedia.org/w/index.php?search=Futurama&title=Special:MediaSearch&type=image",
+      "rights_mode": "external_or_licensed_only",
+      "alt_pt": "Imagem relacionada a Futurama",
+      "status": "registry_only"
+    },
+    {
+      "reference_id": "pop-spongebob-science",
+      "media_kind": "image_search",
+      "url": "https://commons.wikimedia.org/w/index.php?search=Bob+Esponja+—+Ciência+do+fundo+do+mar&title=Special:MediaSearch&type=image",
+      "rights_mode": "external_or_licensed_only",
+      "alt_pt": "Imagem relacionada a Bob Esponja — Ciência do fundo do mar",
+      "status": "registry_only"
+    },
+    {
+      "reference_id": "pop-war-and-peace",
+      "media_kind": "image_search",
+      "url": "https://commons.wikimedia.org/w/index.php?search=Guerra+e+Paz&title=Special:MediaSearch&type=image",
+      "rights_mode": "external_or_licensed_only",
+      "alt_pt": "Imagem relacionada a Guerra e Paz",
+      "status": "registry_only"
+    },
+    {
+      "reference_id": "pop-crime-punishment",
+      "media_kind": "image_search",
+      "url": "https://commons.wikimedia.org/w/index.php?search=Crime+e+Castigo&title=Special:MediaSearch&type=image",
+      "rights_mode": "external_or_licensed_only",
+      "alt_pt": "Imagem relacionada a Crime e Castigo",
+      "status": "registry_only"
+    },
+    {
+      "reference_id": "pop-republic",
+      "media_kind": "image_search",
+      "url": "https://commons.wikimedia.org/w/index.php?search=A+República&title=Special:MediaSearch&type=image",
+      "rights_mode": "external_or_licensed_only",
+      "alt_pt": "Imagem relacionada a A República",
+      "status": "registry_only"
+    },
+    {
+      "reference_id": "pop-ethics-nicomachean",
+      "media_kind": "image_search",
+      "url": "https://commons.wikimedia.org/w/index.php?search=Ética+a+Nicômaco&title=Special:MediaSearch&type=image",
+      "rights_mode": "external_or_licensed_only",
+      "alt_pt": "Imagem relacionada a Ética a Nicômaco",
+      "status": "registry_only"
+    },
+    {
+      "reference_id": "pop-confessions",
+      "media_kind": "image_search",
+      "url": "https://commons.wikimedia.org/w/index.php?search=Confissões&title=Special:MediaSearch&type=image",
+      "rights_mode": "external_or_licensed_only",
+      "alt_pt": "Imagem relacionada a Confissões",
+      "status": "registry_only"
+    },
+    {
+      "reference_id": "pop-summa-theologiae",
+      "media_kind": "image_search",
+      "url": "https://commons.wikimedia.org/w/index.php?search=Suma+Teológica&title=Special:MediaSearch&type=image",
+      "rights_mode": "external_or_licensed_only",
+      "alt_pt": "Imagem relacionada a Suma Teológica",
+      "status": "registry_only"
+    },
+    {
+      "reference_id": "pop-silent-spring",
+      "media_kind": "image_search",
+      "url": "https://commons.wikimedia.org/w/index.php?search=Primavera+Silenciosa&title=Special:MediaSearch&type=image",
+      "rights_mode": "external_or_licensed_only",
+      "alt_pt": "Imagem relacionada a Primavera Silenciosa",
+      "status": "registry_only"
+    },
+    {
+      "reference_id": "pop-capital",
+      "media_kind": "image_search",
+      "url": "https://commons.wikimedia.org/w/index.php?search=O+Capital&title=Special:MediaSearch&type=image",
+      "rights_mode": "external_or_licensed_only",
+      "alt_pt": "Imagem relacionada a O Capital",
+      "status": "registry_only"
+    },
+    {
+      "reference_id": "pop-protestant-ethic",
+      "media_kind": "image_search",
+      "url": "https://commons.wikimedia.org/w/index.php?search=A+Ética+Protestante+e+o+Espírito+do+Capitalismo&title=Special:MediaSearch&type=image",
+      "rights_mode": "external_or_licensed_only",
+      "alt_pt": "Imagem relacionada a A Ética Protestante e o Espírito do Capitalismo",
+      "status": "registry_only"
+    },
+    {
+      "reference_id": "pop-the-man-who-knew-infinity",
+      "media_kind": "image_search",
+      "url": "https://commons.wikimedia.org/w/index.php?search=Ramanujan&title=Special:MediaSearch&type=image",
+      "rights_mode": "external_or_licensed_only",
+      "alt_pt": "Imagem relacionada a O Homem que Viu o Infinito",
+      "status": "registry_only"
+    },
+    {
+      "reference_id": "pop-pi-movie",
+      "media_kind": "image_search",
+      "url": "https://commons.wikimedia.org/w/index.php?search=Pi&title=Special:MediaSearch&type=image",
+      "rights_mode": "external_or_licensed_only",
+      "alt_pt": "Imagem relacionada a Pi",
+      "status": "registry_only"
+    },
+    {
+      "reference_id": "pop-a-beautiful-mind-doc",
+      "media_kind": "image_search",
+      "url": "https://commons.wikimedia.org/w/index.php?search=A+Brilliant+Madness&title=Special:MediaSearch&type=image",
+      "rights_mode": "external_or_licensed_only",
+      "alt_pt": "Imagem relacionada a A Brilliant Madness",
+      "status": "registry_only"
+    },
+    {
+      "reference_id": "pop-hidden-figures-nasa-video",
+      "media_kind": "image_search",
+      "url": "https://commons.wikimedia.org/w/index.php?search=Hidden+Figures+and+Katherine+Johnson&title=Special:MediaSearch&type=image",
+      "rights_mode": "external_or_licensed_only",
+      "alt_pt": "Imagem relacionada a Hidden Figures and Katherine Johnson",
+      "status": "registry_only"
+    },
+    {
+      "reference_id": "pop-black-mirror-philosophy",
+      "media_kind": "image_search",
+      "url": "https://commons.wikimedia.org/w/index.php?search=Black+Mirror+++Filosofia&title=Special:MediaSearch&type=image",
+      "rights_mode": "external_or_licensed_only",
+      "alt_pt": "Imagem relacionada a Black Mirror + Filosofia",
+      "status": "registry_only"
+    }
+  ]
+}

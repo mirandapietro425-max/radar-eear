@@ -1,0 +1,839 @@
+{
+  "schema_version": "10.0",
+  "language": "pt-BR",
+  "count": 52,
+  "items": [
+    {
+      "id": "pt-cur-001",
+      "title_pt": "Origem latina",
+      "body_pt": "O português pertence ao grupo das línguas românicas e se desenvolveu a partir do latim em contato com outras línguas e culturas.",
+      "daily_ready": true,
+      "sources": [
+        "src_abl_volp",
+        "src_mlp",
+        "src_abl_curiosidades"
+      ],
+      "ux": {
+        "reveal": "exemplo antes da regra",
+        "interaction": "escolha qual interpretação faz sentido",
+        "close": "microtexto + questão EEAR"
+      }
+    },
+    {
+      "id": "pt-cur-002",
+      "title_pt": "Influências indígenas",
+      "body_pt": "O português brasileiro incorporou palavras de diferentes línguas indígenas, especialmente em nomes de lugares, plantas, animais e alimentos.",
+      "daily_ready": true,
+      "sources": [
+        "src_abl_volp",
+        "src_mlp",
+        "src_abl_curiosidades"
+      ],
+      "ux": {
+        "reveal": "exemplo antes da regra",
+        "interaction": "escolha qual interpretação faz sentido",
+        "close": "microtexto + questão EEAR"
+      }
+    },
+    {
+      "id": "pt-cur-003",
+      "title_pt": "Influências africanas",
+      "body_pt": "Línguas africanas também deixaram marcas no vocabulário e nas variedades do português brasileiro.",
+      "daily_ready": true,
+      "sources": [
+        "src_abl_volp",
+        "src_mlp",
+        "src_abl_curiosidades"
+      ],
+      "ux": {
+        "reveal": "exemplo antes da regra",
+        "interaction": "escolha qual interpretação faz sentido",
+        "close": "microtexto + questão EEAR"
+      }
+    },
+    {
+      "id": "pt-cur-004",
+      "title_pt": "Arabismos",
+      "body_pt": "Há palavras de origem árabe incorporadas ao português ao longo da história da Península Ibérica.",
+      "daily_ready": true,
+      "sources": [
+        "src_abl_volp",
+        "src_mlp",
+        "src_abl_curiosidades"
+      ],
+      "ux": {
+        "reveal": "exemplo antes da regra",
+        "interaction": "escolha qual interpretação faz sentido",
+        "close": "microtexto + questão EEAR"
+      }
+    },
+    {
+      "id": "pt-cur-005",
+      "title_pt": "Palavras de sentidos diferentes",
+      "body_pt": "Uma mesma palavra pode desenvolver sentidos diversos conforme o país, região, época e comunidade.",
+      "daily_ready": true,
+      "sources": [
+        "src_abl_volp",
+        "src_mlp",
+        "src_abl_curiosidades"
+      ],
+      "ux": {
+        "reveal": "exemplo antes da regra",
+        "interaction": "escolha qual interpretação faz sentido",
+        "close": "microtexto + questão EEAR"
+      }
+    },
+    {
+      "id": "pt-cur-006",
+      "title_pt": "Acordo Ortográfico",
+      "body_pt": "O Acordo Ortográfico procura harmonizar convenções de escrita entre países de língua portuguesa; não elimina todas as diferenças de pronúncia ou vocabulário.",
+      "daily_ready": true,
+      "sources": [
+        "src_abl_volp",
+        "src_mlp",
+        "src_abl_curiosidades"
+      ],
+      "ux": {
+        "reveal": "exemplo antes da regra",
+        "interaction": "escolha qual interpretação faz sentido",
+        "close": "microtexto + questão EEAR"
+      }
+    },
+    {
+      "id": "pt-cur-007",
+      "title_pt": "VOLP",
+      "body_pt": "O Vocabulário Ortográfico registra a grafia oficial de palavras e é continuamente atualizado.",
+      "daily_ready": true,
+      "sources": [
+        "src_abl_volp",
+        "src_mlp",
+        "src_abl_curiosidades"
+      ],
+      "ux": {
+        "reveal": "exemplo antes da regra",
+        "interaction": "escolha qual interpretação faz sentido",
+        "close": "microtexto + questão EEAR"
+      }
+    },
+    {
+      "id": "pt-cur-008",
+      "title_pt": "Pontuação",
+      "body_pt": "A pontuação ajuda a organizar relações sintáticas e ritmo de leitura; ela não é apenas uma decoração visual.",
+      "daily_ready": true,
+      "sources": [
+        "src_abl_volp",
+        "src_mlp",
+        "src_abl_curiosidades"
+      ],
+      "ux": {
+        "reveal": "exemplo antes da regra",
+        "interaction": "escolha qual interpretação faz sentido",
+        "close": "microtexto + questão EEAR"
+      }
+    },
+    {
+      "id": "pt-cur-009",
+      "title_pt": "Crase",
+      "body_pt": "Crase marca a fusão da preposição a com o artigo ou pronome a/as em contextos específicos.",
+      "daily_ready": true,
+      "sources": [
+        "src_abl_volp",
+        "src_mlp",
+        "src_abl_curiosidades"
+      ],
+      "ux": {
+        "reveal": "exemplo antes da regra",
+        "interaction": "escolha qual interpretação faz sentido",
+        "close": "microtexto + questão EEAR"
+      }
+    },
+    {
+      "id": "pt-cur-010",
+      "title_pt": "Concordância",
+      "body_pt": "Concordância relaciona palavras em gênero e número, ou pessoa e número, conforme a estrutura da frase.",
+      "daily_ready": true,
+      "sources": [
+        "src_abl_volp",
+        "src_mlp",
+        "src_abl_curiosidades"
+      ],
+      "ux": {
+        "reveal": "exemplo antes da regra",
+        "interaction": "escolha qual interpretação faz sentido",
+        "close": "microtexto + questão EEAR"
+      }
+    },
+    {
+      "id": "pt-cur-011",
+      "title_pt": "Regência",
+      "body_pt": "Regência observa as relações de complementação e as preposições exigidas por palavras e construções.",
+      "daily_ready": true,
+      "sources": [
+        "src_abl_volp",
+        "src_mlp",
+        "src_abl_curiosidades"
+      ],
+      "ux": {
+        "reveal": "exemplo antes da regra",
+        "interaction": "escolha qual interpretação faz sentido",
+        "close": "microtexto + questão EEAR"
+      }
+    },
+    {
+      "id": "pt-cur-012",
+      "title_pt": "Ambiguidade",
+      "body_pt": "Uma frase pode admitir mais de uma interpretação por causa da estrutura sintática, do léxico ou do contexto.",
+      "daily_ready": true,
+      "sources": [
+        "src_abl_volp",
+        "src_mlp",
+        "src_abl_curiosidades"
+      ],
+      "ux": {
+        "reveal": "exemplo antes da regra",
+        "interaction": "escolha qual interpretação faz sentido",
+        "close": "microtexto + questão EEAR"
+      }
+    },
+    {
+      "id": "pt-cur-013",
+      "title_pt": "Ironia",
+      "body_pt": "Ironia depende do contraste entre o que se diz e o que se comunica, exigindo atenção a contexto e intenção discursiva.",
+      "daily_ready": true,
+      "sources": [
+        "src_abl_volp",
+        "src_mlp",
+        "src_abl_curiosidades"
+      ],
+      "ux": {
+        "reveal": "exemplo antes da regra",
+        "interaction": "escolha qual interpretação faz sentido",
+        "close": "microtexto + questão EEAR"
+      }
+    },
+    {
+      "id": "pt-cur-014",
+      "title_pt": "Metáfora",
+      "body_pt": "Metáfora aproxima domínios de sentido diferentes para produzir uma compreensão figurada.",
+      "daily_ready": true,
+      "sources": [
+        "src_abl_volp",
+        "src_mlp",
+        "src_abl_curiosidades"
+      ],
+      "ux": {
+        "reveal": "exemplo antes da regra",
+        "interaction": "escolha qual interpretação faz sentido",
+        "close": "microtexto + questão EEAR"
+      }
+    },
+    {
+      "id": "pt-cur-015",
+      "title_pt": "Metonímia",
+      "body_pt": "Metonímia trabalha com relações de contiguidade, como autor pela obra, parte pelo todo ou recipiente pelo conteúdo.",
+      "daily_ready": true,
+      "sources": [
+        "src_abl_volp",
+        "src_mlp",
+        "src_abl_curiosidades"
+      ],
+      "ux": {
+        "reveal": "exemplo antes da regra",
+        "interaction": "escolha qual interpretação faz sentido",
+        "close": "microtexto + questão EEAR"
+      }
+    },
+    {
+      "id": "pt-cur-016",
+      "title_pt": "Polissemia",
+      "body_pt": "Uma palavra pode ter vários sentidos relacionados, e o contexto ajuda a selecionar a interpretação.",
+      "daily_ready": true,
+      "sources": [
+        "src_abl_volp",
+        "src_mlp",
+        "src_abl_curiosidades"
+      ],
+      "ux": {
+        "reveal": "exemplo antes da regra",
+        "interaction": "escolha qual interpretação faz sentido",
+        "close": "microtexto + questão EEAR"
+      }
+    },
+    {
+      "id": "pt-cur-017",
+      "title_pt": "Homônimos",
+      "body_pt": "Palavras homônimas podem compartilhar forma sonora ou gráfica e ter significados diferentes.",
+      "daily_ready": true,
+      "sources": [
+        "src_abl_volp",
+        "src_mlp",
+        "src_abl_curiosidades"
+      ],
+      "ux": {
+        "reveal": "exemplo antes da regra",
+        "interaction": "escolha qual interpretação faz sentido",
+        "close": "microtexto + questão EEAR"
+      }
+    },
+    {
+      "id": "pt-cur-018",
+      "title_pt": "Parônimos",
+      "body_pt": "Parônimos são palavras parecidas na forma, mas diferentes no significado.",
+      "daily_ready": true,
+      "sources": [
+        "src_abl_volp",
+        "src_mlp",
+        "src_abl_curiosidades"
+      ],
+      "ux": {
+        "reveal": "exemplo antes da regra",
+        "interaction": "escolha qual interpretação faz sentido",
+        "close": "microtexto + questão EEAR"
+      }
+    },
+    {
+      "id": "pt-cur-019",
+      "title_pt": "Morfologia",
+      "body_pt": "Morfologia estuda estrutura e formação das palavras e suas classes gramaticais.",
+      "daily_ready": true,
+      "sources": [
+        "src_abl_volp",
+        "src_mlp",
+        "src_abl_curiosidades"
+      ],
+      "ux": {
+        "reveal": "exemplo antes da regra",
+        "interaction": "escolha qual interpretação faz sentido",
+        "close": "microtexto + questão EEAR"
+      }
+    },
+    {
+      "id": "pt-cur-020",
+      "title_pt": "Sintaxe",
+      "body_pt": "Sintaxe estuda como as palavras se organizam em relações e estruturas maiores.",
+      "daily_ready": true,
+      "sources": [
+        "src_abl_volp",
+        "src_mlp",
+        "src_abl_curiosidades"
+      ],
+      "ux": {
+        "reveal": "exemplo antes da regra",
+        "interaction": "escolha qual interpretação faz sentido",
+        "close": "microtexto + questão EEAR"
+      }
+    },
+    {
+      "id": "pt-cur-021",
+      "title_pt": "Semântica",
+      "body_pt": "Semântica investiga sentidos de palavras, frases e relações entre significados.",
+      "daily_ready": true,
+      "sources": [
+        "src_abl_volp",
+        "src_mlp",
+        "src_abl_curiosidades"
+      ],
+      "ux": {
+        "reveal": "exemplo antes da regra",
+        "interaction": "escolha qual interpretação faz sentido",
+        "close": "microtexto + questão EEAR"
+      }
+    },
+    {
+      "id": "pt-cur-022",
+      "title_pt": "Pragmática",
+      "body_pt": "Pragmática estuda como contexto e uso influenciam a interpretação.",
+      "daily_ready": true,
+      "sources": [
+        "src_abl_volp",
+        "src_mlp",
+        "src_abl_curiosidades"
+      ],
+      "ux": {
+        "reveal": "exemplo antes da regra",
+        "interaction": "escolha qual interpretação faz sentido",
+        "close": "microtexto + questão EEAR"
+      }
+    },
+    {
+      "id": "pt-cur-023",
+      "title_pt": "Variação linguística",
+      "body_pt": "Variação é parte normal de qualquer língua viva e pode ser regional, social, histórica e situacional.",
+      "daily_ready": true,
+      "sources": [
+        "src_abl_volp",
+        "src_mlp",
+        "src_abl_curiosidades"
+      ],
+      "ux": {
+        "reveal": "exemplo antes da regra",
+        "interaction": "escolha qual interpretação faz sentido",
+        "close": "microtexto + questão EEAR"
+      }
+    },
+    {
+      "id": "pt-cur-024",
+      "title_pt": "Preconceito linguístico",
+      "body_pt": "Julgar uma variedade linguística apenas por diferença em relação à norma de prestígio confunde variação com incapacidade comunicativa.",
+      "daily_ready": true,
+      "sources": [
+        "src_abl_volp",
+        "src_mlp",
+        "src_abl_curiosidades"
+      ],
+      "ux": {
+        "reveal": "exemplo antes da regra",
+        "interaction": "escolha qual interpretação faz sentido",
+        "close": "microtexto + questão EEAR"
+      }
+    },
+    {
+      "id": "pt-cur-025",
+      "title_pt": "Literatura e língua",
+      "body_pt": "Textos literários podem tensionar a norma, criar vozes, experimentar sintaxe e ampliar possibilidades expressivas.",
+      "daily_ready": true,
+      "sources": [
+        "src_abl_volp",
+        "src_mlp",
+        "src_abl_curiosidades"
+      ],
+      "ux": {
+        "reveal": "exemplo antes da regra",
+        "interaction": "escolha qual interpretação faz sentido",
+        "close": "microtexto + questão EEAR"
+      }
+    },
+    {
+      "id": "pt-cur-026",
+      "title_pt": "Machado e ironia",
+      "body_pt": "Machado de Assis explora narradores, ironia e relação com o leitor de modos que recompensam a leitura atenta.",
+      "daily_ready": true,
+      "sources": [
+        "src_abl_volp",
+        "src_mlp",
+        "src_abl_curiosidades"
+      ],
+      "ux": {
+        "reveal": "exemplo antes da regra",
+        "interaction": "escolha qual interpretação faz sentido",
+        "close": "microtexto + questão EEAR"
+      }
+    },
+    {
+      "id": "pt-cur-027",
+      "title_pt": "Guimarães Rosa",
+      "body_pt": "A linguagem de Guimarães Rosa cria neologismos, ritmos e combinações de fala e escrita com forte efeito estético.",
+      "daily_ready": true,
+      "sources": [
+        "src_abl_volp",
+        "src_mlp",
+        "src_abl_curiosidades"
+      ],
+      "ux": {
+        "reveal": "exemplo antes da regra",
+        "interaction": "escolha qual interpretação faz sentido",
+        "close": "microtexto + questão EEAR"
+      }
+    },
+    {
+      "id": "pt-cur-028",
+      "title_pt": "Os Lusíadas",
+      "body_pt": "Camões trabalha referências clássicas, mitologia, história e épica em uma obra central da literatura portuguesa.",
+      "daily_ready": true,
+      "sources": [
+        "src_abl_volp",
+        "src_mlp",
+        "src_abl_curiosidades"
+      ],
+      "ux": {
+        "reveal": "exemplo antes da regra",
+        "interaction": "escolha qual interpretação faz sentido",
+        "close": "microtexto + questão EEAR"
+      }
+    },
+    {
+      "id": "pt-cur-029",
+      "title_pt": "Literatura oral",
+      "body_pt": "Falas, cantigas, cordéis e narrativas tradicionais preservam memória e criação coletiva.",
+      "daily_ready": true,
+      "sources": [
+        "src_abl_volp",
+        "src_mlp",
+        "src_abl_curiosidades"
+      ],
+      "ux": {
+        "reveal": "exemplo antes da regra",
+        "interaction": "escolha qual interpretação faz sentido",
+        "close": "microtexto + questão EEAR"
+      }
+    },
+    {
+      "id": "pt-cur-030",
+      "title_pt": "Etimologia",
+      "body_pt": "Etimologia procura reconstruir histórias das palavras; uma explicação popular não é automaticamente uma etimologia confiável.",
+      "daily_ready": true,
+      "sources": [
+        "src_abl_volp",
+        "src_mlp",
+        "src_abl_curiosidades"
+      ],
+      "ux": {
+        "reveal": "exemplo antes da regra",
+        "interaction": "escolha qual interpretação faz sentido",
+        "close": "microtexto + questão EEAR"
+      }
+    },
+    {
+      "id": "pt-cur-031",
+      "title_pt": "Falsas etimologias",
+      "body_pt": "Algumas histórias de origem de palavras circulam como curiosidade, mas não resistem à comparação histórica das línguas.",
+      "daily_ready": true,
+      "sources": [
+        "src_abl_volp",
+        "src_mlp",
+        "src_abl_curiosidades"
+      ],
+      "ux": {
+        "reveal": "exemplo antes da regra",
+        "interaction": "escolha qual interpretação faz sentido",
+        "close": "microtexto + questão EEAR"
+      }
+    },
+    {
+      "id": "pt-cur-032",
+      "title_pt": "Neologismo",
+      "body_pt": "Novas palavras podem nascer de criação, empréstimo, derivação, composição e mudança de sentido.",
+      "daily_ready": true,
+      "sources": [
+        "src_abl_volp",
+        "src_mlp",
+        "src_abl_curiosidades"
+      ],
+      "ux": {
+        "reveal": "exemplo antes da regra",
+        "interaction": "escolha qual interpretação faz sentido",
+        "close": "microtexto + questão EEAR"
+      }
+    },
+    {
+      "id": "pt-cur-033",
+      "title_pt": "Empréstimos",
+      "body_pt": "Línguas em contato trocam palavras, construções e pronúncias ao longo do tempo.",
+      "daily_ready": true,
+      "sources": [
+        "src_abl_volp",
+        "src_mlp",
+        "src_abl_curiosidades"
+      ],
+      "ux": {
+        "reveal": "exemplo antes da regra",
+        "interaction": "escolha qual interpretação faz sentido",
+        "close": "microtexto + questão EEAR"
+      }
+    },
+    {
+      "id": "pt-cur-034",
+      "title_pt": "Regionalismos",
+      "body_pt": "Regionalismos mostram como território e história participam da formação do vocabulário.",
+      "daily_ready": true,
+      "sources": [
+        "src_abl_volp",
+        "src_mlp",
+        "src_abl_curiosidades"
+      ],
+      "ux": {
+        "reveal": "exemplo antes da regra",
+        "interaction": "escolha qual interpretação faz sentido",
+        "close": "microtexto + questão EEAR"
+      }
+    },
+    {
+      "id": "pt-cur-035",
+      "title_pt": "Topônimos",
+      "body_pt": "Nomes de cidades, rios e regiões preservam pistas linguísticas de ocupações e contatos históricos.",
+      "daily_ready": true,
+      "sources": [
+        "src_abl_volp",
+        "src_mlp",
+        "src_abl_curiosidades"
+      ],
+      "ux": {
+        "reveal": "exemplo antes da regra",
+        "interaction": "escolha qual interpretação faz sentido",
+        "close": "microtexto + questão EEAR"
+      }
+    },
+    {
+      "id": "pt-cur-036",
+      "title_pt": "Siglas",
+      "body_pt": "Siglas transformam sequências de palavras em unidades curtas; o uso pode gerar palavras que deixam de ser percebidas como siglas.",
+      "daily_ready": true,
+      "sources": [
+        "src_abl_volp",
+        "src_mlp",
+        "src_abl_curiosidades"
+      ],
+      "ux": {
+        "reveal": "exemplo antes da regra",
+        "interaction": "escolha qual interpretação faz sentido",
+        "close": "microtexto + questão EEAR"
+      }
+    },
+    {
+      "id": "pt-cur-037",
+      "title_pt": "Acrônimos",
+      "body_pt": "Acrônimos podem ser pronunciados como palavra, diferentemente de siglas soletradas em alguns contextos.",
+      "daily_ready": true,
+      "sources": [
+        "src_abl_volp",
+        "src_mlp",
+        "src_abl_curiosidades"
+      ],
+      "ux": {
+        "reveal": "exemplo antes da regra",
+        "interaction": "escolha qual interpretação faz sentido",
+        "close": "microtexto + questão EEAR"
+      }
+    },
+    {
+      "id": "pt-cur-038",
+      "title_pt": "Pleonasmo",
+      "body_pt": "Alguns pleonasmos são vícios em determinados contextos; outros são recursos expressivos intencionais.",
+      "daily_ready": true,
+      "sources": [
+        "src_abl_volp",
+        "src_mlp",
+        "src_abl_curiosidades"
+      ],
+      "ux": {
+        "reveal": "exemplo antes da regra",
+        "interaction": "escolha qual interpretação faz sentido",
+        "close": "microtexto + questão EEAR"
+      }
+    },
+    {
+      "id": "pt-cur-039",
+      "title_pt": "Hipérbole",
+      "body_pt": "Hipérbole exagera deliberadamente para produzir efeito retórico.",
+      "daily_ready": true,
+      "sources": [
+        "src_abl_volp",
+        "src_mlp",
+        "src_abl_curiosidades"
+      ],
+      "ux": {
+        "reveal": "exemplo antes da regra",
+        "interaction": "escolha qual interpretação faz sentido",
+        "close": "microtexto + questão EEAR"
+      }
+    },
+    {
+      "id": "pt-cur-040",
+      "title_pt": "Antítese",
+      "body_pt": "Antítese aproxima ideias contrastantes para realçar uma oposição.",
+      "daily_ready": true,
+      "sources": [
+        "src_abl_volp",
+        "src_mlp",
+        "src_abl_curiosidades"
+      ],
+      "ux": {
+        "reveal": "exemplo antes da regra",
+        "interaction": "escolha qual interpretação faz sentido",
+        "close": "microtexto + questão EEAR"
+      }
+    },
+    {
+      "id": "pt-cur-041",
+      "title_pt": "Paradoxo",
+      "body_pt": "Paradoxo junta ideias aparentemente incompatíveis para provocar reflexão.",
+      "daily_ready": true,
+      "sources": [
+        "src_abl_volp",
+        "src_mlp",
+        "src_abl_curiosidades"
+      ],
+      "ux": {
+        "reveal": "exemplo antes da regra",
+        "interaction": "escolha qual interpretação faz sentido",
+        "close": "microtexto + questão EEAR"
+      }
+    },
+    {
+      "id": "pt-cur-042",
+      "title_pt": "Coesão",
+      "body_pt": "Coesão conecta partes do texto por mecanismos lexicais e gramaticais.",
+      "daily_ready": true,
+      "sources": [
+        "src_abl_volp",
+        "src_mlp",
+        "src_abl_curiosidades"
+      ],
+      "ux": {
+        "reveal": "exemplo antes da regra",
+        "interaction": "escolha qual interpretação faz sentido",
+        "close": "microtexto + questão EEAR"
+      }
+    },
+    {
+      "id": "pt-cur-043",
+      "title_pt": "Coerência",
+      "body_pt": "Coerência envolve relações de sentido e construção de uma interpretação global plausível.",
+      "daily_ready": true,
+      "sources": [
+        "src_abl_volp",
+        "src_mlp",
+        "src_abl_curiosidades"
+      ],
+      "ux": {
+        "reveal": "exemplo antes da regra",
+        "interaction": "escolha qual interpretação faz sentido",
+        "close": "microtexto + questão EEAR"
+      }
+    },
+    {
+      "id": "pt-cur-044",
+      "title_pt": "Referência",
+      "body_pt": "Pronomes, elipses e expressões referenciais permitem que um texto retome entidades sem repetir tudo.",
+      "daily_ready": true,
+      "sources": [
+        "src_abl_volp",
+        "src_mlp",
+        "src_abl_curiosidades"
+      ],
+      "ux": {
+        "reveal": "exemplo antes da regra",
+        "interaction": "escolha qual interpretação faz sentido",
+        "close": "microtexto + questão EEAR"
+      }
+    },
+    {
+      "id": "pt-cur-045",
+      "title_pt": "Progressão textual",
+      "body_pt": "Um bom texto não só repete; ele acrescenta, recorta, contrasta e reorganiza informações.",
+      "daily_ready": true,
+      "sources": [
+        "src_abl_volp",
+        "src_mlp",
+        "src_abl_curiosidades"
+      ],
+      "ux": {
+        "reveal": "exemplo antes da regra",
+        "interaction": "escolha qual interpretação faz sentido",
+        "close": "microtexto + questão EEAR"
+      }
+    },
+    {
+      "id": "pt-cur-046",
+      "title_pt": "Leitura inferencial",
+      "body_pt": "Nem tudo o que um texto comunica aparece como frase explícita; o leitor também faz inferências apoiadas em pistas textuais.",
+      "daily_ready": true,
+      "sources": [
+        "src_abl_volp",
+        "src_mlp",
+        "src_abl_curiosidades"
+      ],
+      "ux": {
+        "reveal": "exemplo antes da regra",
+        "interaction": "escolha qual interpretação faz sentido",
+        "close": "microtexto + questão EEAR"
+      }
+    },
+    {
+      "id": "pt-cur-047",
+      "title_pt": "Argumentação",
+      "body_pt": "Argumentos podem ser analisados por tese, evidência, garantia, contra-argumento e conclusão.",
+      "daily_ready": true,
+      "sources": [
+        "src_abl_volp",
+        "src_mlp",
+        "src_abl_curiosidades"
+      ],
+      "ux": {
+        "reveal": "exemplo antes da regra",
+        "interaction": "escolha qual interpretação faz sentido",
+        "close": "microtexto + questão EEAR"
+      }
+    },
+    {
+      "id": "pt-cur-048",
+      "title_pt": "Falácia",
+      "body_pt": "Uma conclusão pode parecer convincente e ainda assim depender de uma estrutura argumentativa defeituosa.",
+      "daily_ready": true,
+      "sources": [
+        "src_abl_volp",
+        "src_mlp",
+        "src_abl_curiosidades"
+      ],
+      "ux": {
+        "reveal": "exemplo antes da regra",
+        "interaction": "escolha qual interpretação faz sentido",
+        "close": "microtexto + questão EEAR"
+      }
+    },
+    {
+      "id": "pt-cur-049",
+      "title_pt": "Humor",
+      "body_pt": "Humor linguístico pode surgir de ambiguidade, quebra de expectativa, polissemia e contexto.",
+      "daily_ready": true,
+      "sources": [
+        "src_abl_volp",
+        "src_mlp",
+        "src_abl_curiosidades"
+      ],
+      "ux": {
+        "reveal": "exemplo antes da regra",
+        "interaction": "escolha qual interpretação faz sentido",
+        "close": "microtexto + questão EEAR"
+      }
+    },
+    {
+      "id": "pt-cur-050",
+      "title_pt": "Fonética x fonologia",
+      "body_pt": "Fonética investiga aspectos físicos dos sons; fonologia investiga o sistema e as funções dos sons na língua.",
+      "daily_ready": true,
+      "sources": [
+        "src_abl_volp",
+        "src_mlp",
+        "src_abl_curiosidades"
+      ],
+      "ux": {
+        "reveal": "exemplo antes da regra",
+        "interaction": "escolha qual interpretação faz sentido",
+        "close": "microtexto + questão EEAR"
+      }
+    },
+    {
+      "id": "pt-cur-051",
+      "title_pt": "Acentuação",
+      "body_pt": "Acentuação gráfica representa certos padrões da pronúncia e da estrutura silábica conforme a ortografia.",
+      "daily_ready": true,
+      "sources": [
+        "src_abl_volp",
+        "src_mlp",
+        "src_abl_curiosidades"
+      ],
+      "ux": {
+        "reveal": "exemplo antes da regra",
+        "interaction": "escolha qual interpretação faz sentido",
+        "close": "microtexto + questão EEAR"
+      }
+    },
+    {
+      "id": "pt-cur-052",
+      "title_pt": "Hífen",
+      "body_pt": "O hífen segue regras específicas do acordo ortográfico e não pode ser deduzido apenas pela intuição sonora.",
+      "daily_ready": true,
+      "sources": [
+        "src_abl_volp",
+        "src_mlp",
+        "src_abl_curiosidades"
+      ],
+      "ux": {
+        "reveal": "exemplo antes da regra",
+        "interaction": "escolha qual interpretação faz sentido",
+        "close": "microtexto + questão EEAR"
+      }
+    }
+  ]
+}

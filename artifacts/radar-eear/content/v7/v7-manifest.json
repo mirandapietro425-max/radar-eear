@@ -1,0 +1,30 @@
+{
+  "schema_version": "7.0",
+  "language": "pt-BR",
+  "generated_at": "2026-09-26T00:52:07.795875+00:00",
+  "counts": {
+    "subject_summaries": 4,
+    "computer_labs": 40,
+    "curiosities": 78,
+    "media": 302,
+    "daily_days": 730,
+    "people_profiles_v6": 182,
+    "bible_chapters_manifest": 1189,
+    "books_catalogued_v6": 153
+  },
+  "files": [
+    "computer-science-math-labs-v7.json",
+    "curiosities-v7.json",
+    "daily-knowledge-730-v7.json",
+    "knowledge-universe-index-v7.json",
+    "media-registry-v7.json",
+    "research-registry-v7.json",
+    "subject-summaries-v7.json",
+    "ux-experience-system-v7.json",
+    "src/features/subjects/SubjectSummaryPage.tsx",
+    "supabase/014_v7_super_experience.sql",
+    "docs/REQUEST_AUDIT_V7.md",
+    "docs/SUMMARY_TAB_INTEGRATION_V7.md",
+    "docs/V7_SUPER_KNOWLEDGE.md"
+  ]
+}

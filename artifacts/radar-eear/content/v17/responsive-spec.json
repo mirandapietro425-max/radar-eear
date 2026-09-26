@@ -1,0 +1,28 @@
+{
+  "mobile_first": true,
+  "target_css_pixels": {"minimum": 44, "recommended": 44},
+  "breakpoints": {
+    "compact": "< 620px",
+    "tablet": "620px–979px",
+    "desktop": ">= 980px",
+    "wide_content": ">= 1280px"
+  },
+  "shell": {
+    "sidebar_desktop_px": 250,
+    "topbar_height_px": 72,
+    "main_horizontal_padding_px": {"mobile": 16, "tablet": 28, "desktop": 40},
+    "content_max_width_px": 1380
+  },
+  "interaction": {
+    "atlas_motion_fps_cap": 24,
+    "boundary_render_quantization_degrees": 0.25,
+    "lazy_media": true,
+    "reduced_motion": true,
+    "overflow_x": "clip"
+  },
+  "performance_targets": {
+    "inp_ms_p75": 200,
+    "lcp_seconds_target": 2.5,
+    "cls_target": 0.1
+  }
+}

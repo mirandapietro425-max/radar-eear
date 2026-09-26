@@ -1,0 +1,47 @@
+{
+  "version": "v15",
+  "media": [
+    {
+      "id": "media-v15-001",
+      "subject": "arte-renascimento",
+      "source_page": "https://www.metmuseum.org/pt/art/collection/search/459016",
+      "rights": "public_domain_open_access",
+      "note": "Botticelli, A Anunciação; página do Met informa domínio público/Open Access."
+    },
+    {
+      "id": "media-v15-002",
+      "subject": "newton",
+      "source_page": "https://commons.wikimedia.org/wiki/File%3ASir_Isaac_Newton_%281643-1727%29.jpg",
+      "rights": "check_file_license",
+      "note": "Retrato de Newton no Wikimedia Commons; conferir licença do arquivo específico antes de distribuição."
+    },
+    {
+      "id": "media-v15-003",
+      "subject": "babilonia",
+      "source_page": "https://www.britishmuseum.org/collection/object/W_1876-1117-373",
+      "rights": "museum_rights_review",
+      "note": "Tábua cuneiforme; usar como referência/licenciamento conforme condição do item."
+    },
+    {
+      "id": "media-v15-004",
+      "subject": "fauna_pre-historica",
+      "source_page": "https://www.amnh.org/exhibitions/permanent/primitive-mammals/glyptodonts",
+      "rights": "museum_rights_review",
+      "note": "Glyptodontes; imagem e contexto no AMNH."
+    },
+    {
+      "id": "media-v15-005",
+      "subject": "nasa",
+      "source_page": "https://science.nasa.gov/learn/heat/resource/nasa-exoplanets-interactive-webpage/",
+      "rights": "nasa_policy_review",
+      "note": "Recurso interativo de exoplanetas."
+    },
+    {
+      "id": "media-v15-006",
+      "subject": "fases_da_lua",
+      "source_page": "https://science.nasa.gov/learn/heat/resource/lunar-phases-interactive-lab/",
+      "rights": "nasa_policy_review",
+      "note": "Laboratório interativo de fases da Lua."
+    }
+  ]
+}

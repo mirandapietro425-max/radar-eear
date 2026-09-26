@@ -1,0 +1,2945 @@
+{
+  "schema_version": "5.1",
+  "language": "pt-BR",
+  "purpose": "Catálogo amplo de filósofos, pensadores sociais, cientistas e teólogos cuja obra ajuda a estudar ideias sobre conhecimento, ética, sociedade, religião, política, ciência e vida comum.",
+  "selection_note": "Catálogo amplo, não exaustivo: combina história da filosofia, teologia, ciência, matemática, sociologia, antropologia, educação e pensamento social. “Principal” é tratado como trilha editorial, não como ranking.",
+  "deep_tracks": [
+    {
+      "id": "newton-integrado",
+      "title": "Newton: matemática, ciência e religião",
+      "person_id": "isaac-newton",
+      "modules": [
+        "biografia intelectual",
+        "gravitação e cálculo",
+        "filosofia natural",
+        "cronologia bíblica",
+        "profecias e exegese histórica",
+        "como diferenciar ciência e interpretação religiosa",
+        "fontes primárias"
+      ]
+    },
+    {
+      "id": "platao-integrado",
+      "title": "Platão: justiça, conhecimento e cidade",
+      "person_id": "platao",
+      "modules": [
+        "Sócrates e diálogo",
+        "teoria das Formas",
+        "alegoria da caverna",
+        "educação",
+        "justiça",
+        "alma",
+        "cidade",
+        "A República por livro"
+      ]
+    },
+    {
+      "id": "aristoteles-integrado",
+      "title": "Aristóteles: lógica, ética, natureza e ciência",
+      "person_id": "aristoteles",
+      "modules": [
+        "lógica",
+        "causas",
+        "movimento",
+        "virtude",
+        "política",
+        "Poética",
+        "Ética a Nicômaco",
+        "Política"
+      ]
+    },
+    {
+      "id": "agostinho-integrado",
+      "title": "Agostinho: memória, tempo, vontade e fé",
+      "person_id": "agostinho",
+      "modules": [
+        "Confissões",
+        "memória",
+        "tempo",
+        "vontade",
+        "razão e fé",
+        "cidade de Deus",
+        "cristianismo e platonismo"
+      ]
+    },
+    {
+      "id": "aquinas-integrado",
+      "title": "Tomás de Aquino: razão, ética, lei e teologia",
+      "person_id": "tomas-de-aquino",
+      "modules": [
+        "metafísica",
+        "virtudes",
+        "lei natural",
+        "lei humana",
+        "ética",
+        "razão e revelação",
+        "Suma Teológica"
+      ]
+    },
+    {
+      "id": "descartes-integrado",
+      "title": "Descartes: dúvida, método e geometria",
+      "person_id": "rene-descartes",
+      "modules": [
+        "dúvida metódica",
+        "cogito",
+        "método",
+        "geometria analítica",
+        "corpo e mente",
+        "ciência"
+      ]
+    },
+    {
+      "id": "pascal-integrado",
+      "title": "Pascal: probabilidade, razão e condição humana",
+      "person_id": "blaise-pascal",
+      "modules": [
+        "probabilidade",
+        "geometria",
+        "Pensamentos",
+        "fé",
+        "razão",
+        "condição humana"
+      ]
+    },
+    {
+      "id": "spinoza-integrado",
+      "title": "Spinoza: Deus, natureza, afetos e liberdade",
+      "person_id": "baruch-spinoza",
+      "modules": [
+        "substância",
+        "Deus ou natureza",
+        "afetos",
+        "necessidade",
+        "liberdade",
+        "ética"
+      ]
+    },
+    {
+      "id": "hume-integrado",
+      "title": "Hume: causalidade, experiência e natureza humana",
+      "person_id": "david-hume",
+      "modules": [
+        "impressões e ideias",
+        "causalidade",
+        "indução",
+        "moral",
+        "religião",
+        "ceticismo"
+      ]
+    },
+    {
+      "id": "kant-integrado",
+      "title": "Kant: conhecimento, moral e limites da razão",
+      "person_id": "immanuel-kant",
+      "modules": [
+        "Crítica da Razão Pura",
+        "fenômeno e coisa em si",
+        "imperativo categórico",
+        "autonomia",
+        "juízo"
+      ]
+    },
+    {
+      "id": "hegel-integrado",
+      "title": "Hegel: história, reconhecimento e dialética",
+      "person_id": "georg-hegel",
+      "modules": [
+        "dialética",
+        "consciência",
+        "reconhecimento",
+        "história",
+        "Estado",
+        "sociedade civil"
+      ]
+    },
+    {
+      "id": "kierkegaard-integrado",
+      "title": "Kierkegaard: existência, escolha e fé",
+      "person_id": "soren-kierkegaard",
+      "modules": [
+        "existência",
+        "angústia",
+        "desespero",
+        "fé",
+        "escolha",
+        "indivíduo"
+      ]
+    },
+    {
+      "id": "nietzsche-integrado",
+      "title": "Nietzsche: valores, moral e crítica da cultura",
+      "person_id": "friedrich-nietzsche",
+      "modules": [
+        "genealogia",
+        "ressentimento",
+        "niilismo",
+        "valores",
+        "cultura",
+        "vontade de potência"
+      ]
+    },
+    {
+      "id": "marx-integrado",
+      "title": "Marx: trabalho, capital e estrutura social",
+      "person_id": "karl-marx",
+      "modules": [
+        "mercadoria",
+        "trabalho",
+        "mais-valia",
+        "classes",
+        "ideologia",
+        "alienação",
+        "capital",
+        "história"
+      ]
+    },
+    {
+      "id": "weber-integrado",
+      "title": "Weber: ação social, poder e racionalização",
+      "person_id": "max-weber",
+      "modules": [
+        "ação social",
+        "tipo ideal",
+        "dominação",
+        "burocracia",
+        "religião",
+        "ética protestante",
+        "desencantamento"
+      ]
+    },
+    {
+      "id": "durkheim-integrado",
+      "title": "Durkheim: fatos sociais, solidariedade e anomia",
+      "person_id": "emile-durkheim",
+      "modules": [
+        "fato social",
+        "solidariedade mecânica",
+        "solidariedade orgânica",
+        "anomia",
+        "religião",
+        "método"
+      ]
+    },
+    {
+      "id": "tocqueville-integrado",
+      "title": "Tocqueville: democracia, igualdade e associações",
+      "person_id": "alexis-de-tocqueville",
+      "modules": [
+        "democracia",
+        "igualdade",
+        "associações",
+        "liberdade",
+        "maioria",
+        "hábitos cívicos"
+      ]
+    },
+    {
+      "id": "arendt-integrado",
+      "title": "Hannah Arendt: ação, esfera pública e totalitarismo",
+      "person_id": "hannah-arendt",
+      "modules": [
+        "vita activa",
+        "ação",
+        "espaço público",
+        "autoridade",
+        "totalitarismo",
+        "banalidade do mal"
+      ]
+    },
+    {
+      "id": "freire-integrado",
+      "title": "Paulo Freire: educação, diálogo e consciência",
+      "person_id": "paulo-freire",
+      "modules": [
+        "diálogo",
+        "educação",
+        "alfabetização",
+        "consciência",
+        "opressão",
+        "praxis"
+      ]
+    },
+    {
+      "id": "foucault-integrado",
+      "title": "Foucault: saber, poder e instituições",
+      "person_id": "michel-foucault",
+      "modules": [
+        "disciplina",
+        "vigilância",
+        "biopolítica",
+        "discurso",
+        "instituições",
+        "genealogia"
+      ]
+    },
+    {
+      "id": "sen-integrado",
+      "title": "Amartya Sen: liberdade, capacidades e desenvolvimento",
+      "person_id": "amartya-sen",
+      "modules": [
+        "capacidades",
+        "liberdade",
+        "pobreza",
+        "desenvolvimento",
+        "ética",
+        "economia"
+      ]
+    }
+  ],
+  "people": [
+    {
+      "id": "pitagoras",
+      "name_pt": "Pitágoras",
+      "dates": "c. 570–c. 495 a.C.",
+      "tradition": "Grécia antiga",
+      "domains": [
+        "matemática",
+        "filosofia",
+        "religião"
+      ],
+      "core_questions_pt": [
+        "Existe uma ordem matemática por trás da realidade?",
+        "Como comunidade, disciplina e conhecimento se relacionam?"
+      ],
+      "key_works_pt": [
+        "Doutrinas atribuídas à tradição pitagórica"
+      ],
+      "deep_track": false,
+      "source_group": "história-da-matemática"
+    },
+    {
+      "id": "heraclito",
+      "name_pt": "Heráclito",
+      "dates": "c. 540–c. 480 a.C.",
+      "tradition": "pré-socráticos",
+      "domains": [
+        "metafísica",
+        "mudança",
+        "logos"
+      ],
+      "core_questions_pt": [
+        "Como pensar a mudança?",
+        "Existe uma ordem racional no fluxo?"
+      ],
+      "key_works_pt": [
+        "Fragmentos preservados"
+      ],
+      "deep_track": false,
+      "source_group": "filosofia-antiga"
+    },
+    {
+      "id": "parmenides",
+      "name_pt": "Parmênides",
+      "dates": "início do séc. V a.C.",
+      "tradition": "pré-socráticos",
+      "domains": [
+        "metafísica",
+        "ser",
+        "razão"
+      ],
+      "core_questions_pt": [
+        "O que significa dizer que algo é?",
+        "Como distinguir razão e aparência?"
+      ],
+      "key_works_pt": [
+        "Sobre a Natureza — fragmentos"
+      ],
+      "deep_track": false,
+      "source_group": "filosofia-antiga"
+    },
+    {
+      "id": "democrito",
+      "name_pt": "Demócrito",
+      "dates": "c. 460–c. 370 a.C.",
+      "tradition": "atomismo",
+      "domains": [
+        "metafísica",
+        "natureza",
+        "epistemologia"
+      ],
+      "core_questions_pt": [
+        "Como explicar a natureza sem apelar ao mito?",
+        "O que existe por baixo das aparências?"
+      ],
+      "key_works_pt": [
+        "Fragmentos"
+      ],
+      "deep_track": false,
+      "source_group": "filosofia-antiga"
+    },
+    {
+      "id": "socrates",
+      "name_pt": "Sócrates",
+      "dates": "c. 470–399 a.C.",
+      "tradition": "Grécia antiga",
+      "domains": [
+        "ética",
+        "dialética",
+        "educação"
+      ],
+      "core_questions_pt": [
+        "Como sabemos que sabemos?",
+        "O que é viver bem?"
+      ],
+      "key_works_pt": [
+        "Não deixou obras escritas; é conhecido por fontes como Platão e Xenofonte"
+      ],
+      "deep_track": false,
+      "source_group": "filosofia-antiga"
+    },
+    {
+      "id": "platao",
+      "name_pt": "Platão",
+      "dates": "c. 429–347 a.C.",
+      "tradition": "platonismo",
+      "domains": [
+        "ética",
+        "política",
+        "metafísica",
+        "epistemologia"
+      ],
+      "core_questions_pt": [
+        "O que é justiça?",
+        "Como a educação molda a cidade?",
+        "Que tipo de conhecimento merece confiança?"
+      ],
+      "key_works_pt": [
+        "A República",
+        "Banquete",
+        "Fédon",
+        "Apologia de Sócrates",
+        "Timeu"
+      ],
+      "deep_track": true,
+      "source_group": "sep-plato"
+    },
+    {
+      "id": "aristoteles",
+      "name_pt": "Aristóteles",
+      "dates": "384–322 a.C.",
+      "tradition": "aristotelismo",
+      "domains": [
+        "lógica",
+        "ética",
+        "política",
+        "natureza",
+        "metafísica"
+      ],
+      "core_questions_pt": [
+        "Como argumentar rigorosamente?",
+        "O que é uma vida boa?",
+        "Como explicar mudança e natureza?"
+      ],
+      "key_works_pt": [
+        "Ética a Nicômaco",
+        "Política",
+        "Metafísica",
+        "Poética",
+        "Organon"
+      ],
+      "deep_track": true,
+      "source_group": "sep-aristotle"
+    },
+    {
+      "id": "epicuro",
+      "name_pt": "Epicuro",
+      "dates": "341–270 a.C.",
+      "tradition": "helenismo",
+      "domains": [
+        "ética",
+        "felicidade",
+        "amizade"
+      ],
+      "core_questions_pt": [
+        "Como viver com menos medo?",
+        "Que desejos valem a pena perseguir?"
+      ],
+      "key_works_pt": [
+        "Carta a Meneceu",
+        "Máximas Principais"
+      ],
+      "deep_track": false,
+      "source_group": "filosofia-helenistica"
+    },
+    {
+      "id": "zeno-citio",
+      "name_pt": "Zenão de Cítio",
+      "dates": "c. 334–c. 262 a.C.",
+      "tradition": "estoicismo",
+      "domains": [
+        "ética",
+        "lógica",
+        "natureza"
+      ],
+      "core_questions_pt": [
+        "Como viver de acordo com a razão?",
+        "Como lidar com o que não controlamos?"
+      ],
+      "key_works_pt": [
+        "Obras preservadas principalmente por fragmentos e testemunhos"
+      ],
+      "deep_track": false,
+      "source_group": "filosofia-helenistica"
+    },
+    {
+      "id": "epicteto",
+      "name_pt": "Epicteto",
+      "dates": "c. 50–c. 135",
+      "tradition": "estoicismo",
+      "domains": [
+        "ética",
+        "autodomínio",
+        "educação"
+      ],
+      "core_questions_pt": [
+        "O que depende de nós?",
+        "Como julgar acontecimentos sem perder a ação responsável?"
+      ],
+      "key_works_pt": [
+        "Manual",
+        "Diatribes"
+      ],
+      "deep_track": false,
+      "source_group": "filosofia-helenistica"
+    },
+    {
+      "id": "seneca",
+      "name_pt": "Sêneca",
+      "dates": "c. 4 a.C.–65",
+      "tradition": "estoicismo",
+      "domains": [
+        "ética",
+        "tempo",
+        "vida pública"
+      ],
+      "core_questions_pt": [
+        "Como usar bem o tempo?",
+        "Como conciliar vida pública e domínio de si?"
+      ],
+      "key_works_pt": [
+        "Cartas a Lucílio",
+        "Da Brevidade da Vida",
+        "Sobre a Ira"
+      ],
+      "deep_track": false,
+      "source_group": "filosofia-helenistica"
+    },
+    {
+      "id": "marco-aurelio",
+      "name_pt": "Marco Aurélio",
+      "dates": "121–180",
+      "tradition": "estoicismo",
+      "domains": [
+        "ética",
+        "governo",
+        "autocontrole"
+      ],
+      "core_questions_pt": [
+        "Como agir justamente sob pressão?",
+        "Como a finitude muda nossas escolhas?"
+      ],
+      "key_works_pt": [
+        "Meditações"
+      ],
+      "deep_track": false,
+      "source_group": "filosofia-helenistica"
+    },
+    {
+      "id": "plotino",
+      "name_pt": "Plotino",
+      "dates": "204/205–270",
+      "tradition": "neoplatonismo",
+      "domains": [
+        "metafísica",
+        "Uno",
+        "alma"
+      ],
+      "core_questions_pt": [
+        "Como pensar unidade e multiplicidade?",
+        "Como o intelecto participa do ser?"
+      ],
+      "key_works_pt": [
+        "Enéadas"
+      ],
+      "deep_track": false,
+      "source_group": "filosofia-antiga"
+    },
+    {
+      "id": "boecio",
+      "name_pt": "Boécio",
+      "dates": "c. 477–524",
+      "tradition": "antiguidade tardia",
+      "domains": [
+        "filosofia",
+        "teologia",
+        "providência"
+      ],
+      "core_questions_pt": [
+        "Como pensar fortuna, felicidade e providência?"
+      ],
+      "key_works_pt": [
+        "A Consolação da Filosofia"
+      ],
+      "deep_track": false,
+      "source_group": "filosofia-medieval"
+    },
+    {
+      "id": "anselmo-cantuaria",
+      "name_pt": "Anselmo de Cantuária",
+      "dates": "1033–1109",
+      "tradition": "filosofia cristã medieval",
+      "domains": [
+        "teologia",
+        "metafísica",
+        "razão e fé"
+      ],
+      "core_questions_pt": [
+        "Como razão e fé podem dialogar?"
+      ],
+      "key_works_pt": [
+        "Proslogion",
+        "Monologion"
+      ],
+      "deep_track": false,
+      "source_group": "filosofia-medieval"
+    },
+    {
+      "id": "maimonides",
+      "name_pt": "Maimônides",
+      "dates": "1138–1204",
+      "tradition": "judaísmo medieval",
+      "domains": [
+        "filosofia",
+        "teologia",
+        "lei",
+        "ética"
+      ],
+      "core_questions_pt": [
+        "Como razão e tradição religiosa podem ser articuladas?"
+      ],
+      "key_works_pt": [
+        "Guia dos Perplexos",
+        "Mishneh Torah"
+      ],
+      "deep_track": false,
+      "source_group": "filosofia-judaica"
+    },
+    {
+      "id": "al-farabi",
+      "name_pt": "Al-Farabi",
+      "dates": "c. 872–950",
+      "tradition": "filosofia islâmica",
+      "domains": [
+        "política",
+        "lógica",
+        "metafísica",
+        "música"
+      ],
+      "core_questions_pt": [
+        "Como conhecimento e organização política se relacionam?"
+      ],
+      "key_works_pt": [
+        "A Cidade Virtuosa",
+        "Catálogo das Ciências"
+      ],
+      "deep_track": false,
+      "source_group": "filosofia-islamica"
+    },
+    {
+      "id": "avicena",
+      "name_pt": "Avicena (Ibn Sina)",
+      "dates": "980–1037",
+      "tradition": "filosofia islâmica",
+      "domains": [
+        "metafísica",
+        "medicina",
+        "lógica",
+        "alma"
+      ],
+      "core_questions_pt": [
+        "O que significa existir?",
+        "Como conhecimento e medicina se estruturam?"
+      ],
+      "key_works_pt": [
+        "O Livro da Cura",
+        "O Cânone da Medicina"
+      ],
+      "deep_track": false,
+      "source_group": "filosofia-islamica"
+    },
+    {
+      "id": "averrois",
+      "name_pt": "Averróis (Ibn Rushd)",
+      "dates": "1126–1198",
+      "tradition": "filosofia islâmica",
+      "domains": [
+        "Aristóteles",
+        "lei",
+        "razão",
+        "religião"
+      ],
+      "core_questions_pt": [
+        "Qual o lugar da interpretação racional?",
+        "Como filosofia e religião podem se relacionar?"
+      ],
+      "key_works_pt": [
+        "Comentários sobre Aristóteles",
+        "Discurso Decisivo"
+      ],
+      "deep_track": false,
+      "source_group": "filosofia-islamica"
+    },
+    {
+      "id": "al-ghazali",
+      "name_pt": "Al-Ghazali",
+      "dates": "1058–1111",
+      "tradition": "teologia e filosofia islâmica",
+      "domains": [
+        "epistemologia",
+        "teologia",
+        "ética"
+      ],
+      "core_questions_pt": [
+        "Como saber em que confiar?",
+        "Que relação existe entre conhecimento e vida moral?"
+      ],
+      "key_works_pt": [
+        "A Incoerência dos Filósofos",
+        "O Alquimista da Felicidade"
+      ],
+      "deep_track": false,
+      "source_group": "filosofia-islamica"
+    },
+    {
+      "id": "ibn-khaldun",
+      "name_pt": "Ibn Khaldun",
+      "dates": "1332–1406",
+      "tradition": "história e pensamento social islâmico",
+      "domains": [
+        "história",
+        "sociedade",
+        "economia",
+        "Estado"
+      ],
+      "core_questions_pt": [
+        "Como sociedades sobem e declinam?",
+        "Como coesão social e poder se relacionam?"
+      ],
+      "key_works_pt": [
+        "Muqaddimah / Os Prolegômenos"
+      ],
+      "deep_track": false,
+      "source_group": "pensamento-social"
+    },
+    {
+      "id": "machiavel",
+      "name_pt": "Nicolau Maquiavel",
+      "dates": "1469–1527",
+      "tradition": "Renascimento",
+      "domains": [
+        "política",
+        "história",
+        "Estado"
+      ],
+      "core_questions_pt": [
+        "Como poder e instituições funcionam na prática?",
+        "Como experiência histórica pode orientar análise política?"
+      ],
+      "key_works_pt": [
+        "O Príncipe",
+        "Discursos sobre a Primeira Década de Tito Lívio"
+      ],
+      "deep_track": false,
+      "source_group": "filosofia-politica"
+    },
+    {
+      "id": "erasmo",
+      "name_pt": "Erasmo de Roterdã",
+      "dates": "1466–1536",
+      "tradition": "humanismo renascentista",
+      "domains": [
+        "educação",
+        "religião",
+        "humanismo",
+        "crítica social"
+      ],
+      "core_questions_pt": [
+        "Como educação e crítica moral transformam a sociedade?"
+      ],
+      "key_works_pt": [
+        "Elogio da Loucura",
+        "Sobre o Livre-Arbítrio"
+      ],
+      "deep_track": false,
+      "source_group": "humanismo"
+    },
+    {
+      "id": "francis-bacon",
+      "name_pt": "Francis Bacon",
+      "dates": "1561–1626",
+      "tradition": "modernidade",
+      "domains": [
+        "método",
+        "ciência",
+        "epistemologia"
+      ],
+      "core_questions_pt": [
+        "Como reduzir erros sistemáticos do pensamento?",
+        "Como organizar investigação empírica?"
+      ],
+      "key_works_pt": [
+        "Novum Organum",
+        "A Grande Instauração"
+      ],
+      "deep_track": false,
+      "source_group": "filosofia-da-ciencia"
+    },
+    {
+      "id": "galileo-galilei",
+      "name_pt": "Galileu Galilei",
+      "dates": "1564–1642",
+      "tradition": "ciência moderna",
+      "domains": [
+        "física",
+        "astronomia",
+        "matemática",
+        "religião"
+      ],
+      "core_questions_pt": [
+        "Como medir e modelar o movimento?",
+        "Como separar observação, modelo e interpretação?"
+      ],
+      "key_works_pt": [
+        "Diálogo sobre os Dois Máximos Sistemas do Mundo",
+        "Duas Novas Ciências"
+      ],
+      "deep_track": true,
+      "source_group": "sep-galileo"
+    },
+    {
+      "id": "johannes-kepler",
+      "name_pt": "Johannes Kepler",
+      "dates": "1571–1630",
+      "tradition": "ciência moderna",
+      "domains": [
+        "astronomia",
+        "matemática",
+        "teologia"
+      ],
+      "core_questions_pt": [
+        "Como a geometria pode explicar movimentos celestes?",
+        "Como ciência e visão religiosa coexistiram em sua época?"
+      ],
+      "key_works_pt": [
+        "Astronomia Nova",
+        "Harmonia do Mundo"
+      ],
+      "deep_track": false,
+      "source_group": "sep-kepler"
+    },
+    {
+      "id": "rene-descartes",
+      "name_pt": "René Descartes",
+      "dates": "1596–1650",
+      "tradition": "racionalismo",
+      "domains": [
+        "epistemologia",
+        "matemática",
+        "metafísica",
+        "ciência"
+      ],
+      "core_questions_pt": [
+        "Como começar uma investigação com segurança?",
+        "Como álgebra e geometria se conectam?"
+      ],
+      "key_works_pt": [
+        "Discurso do Método",
+        "Meditações Metafísicas",
+        "Geometria"
+      ],
+      "deep_track": true,
+      "source_group": "sep-descartes"
+    },
+    {
+      "id": "baruch-spinoza",
+      "name_pt": "Baruch Spinoza",
+      "dates": "1632–1677",
+      "tradition": "racionalismo",
+      "domains": [
+        "metafísica",
+        "ética",
+        "religião",
+        "política"
+      ],
+      "core_questions_pt": [
+        "O que significa liberdade?",
+        "Como afetos e razão se relacionam?"
+      ],
+      "key_works_pt": [
+        "Ética",
+        "Tratado Teológico-Político"
+      ],
+      "deep_track": true,
+      "source_group": "sep-spinoza"
+    },
+    {
+      "id": "john-locke",
+      "name_pt": "John Locke",
+      "dates": "1632–1704",
+      "tradition": "empirismo",
+      "domains": [
+        "epistemologia",
+        "política",
+        "educação"
+      ],
+      "core_questions_pt": [
+        "De onde vêm nossas ideias?",
+        "Quais são os limites e fundamentos do governo?"
+      ],
+      "key_works_pt": [
+        "Ensaio sobre o Entendimento Humano",
+        "Segundo Tratado sobre o Governo"
+      ],
+      "deep_track": false,
+      "source_group": "filosofia-moderna"
+    },
+    {
+      "id": "gottfried-leibniz",
+      "name_pt": "Gottfried Wilhelm Leibniz",
+      "dates": "1646–1716",
+      "tradition": "racionalismo",
+      "domains": [
+        "matemática",
+        "lógica",
+        "metafísica"
+      ],
+      "core_questions_pt": [
+        "Como representar raciocínio formal?",
+        "Como matemática e metafísica podem dialogar?"
+      ],
+      "key_works_pt": [
+        "Novos Ensaios sobre o Entendimento Humano",
+        "Monadologia"
+      ],
+      "deep_track": false,
+      "source_group": "matematica-filosofia"
+    },
+    {
+      "id": "blaise-pascal",
+      "name_pt": "Blaise Pascal",
+      "dates": "1623–1662",
+      "tradition": "ciência e filosofia cristã",
+      "domains": [
+        "matemática",
+        "probabilidade",
+        "teologia",
+        "filosofia"
+      ],
+      "core_questions_pt": [
+        "Como probabilidade formaliza incerteza?",
+        "Como Pascal pensa razão e condição humana?"
+      ],
+      "key_works_pt": [
+        "Pensamentos",
+        "Provinciais",
+        "Tratados matemáticos"
+      ],
+      "deep_track": true,
+      "source_group": "sep-pascal"
+    },
+    {
+      "id": "isaac-newton",
+      "name_pt": "Isaac Newton",
+      "dates": "1643–1727",
+      "tradition": "ciência moderna",
+      "domains": [
+        "matemática",
+        "física",
+        "filosofia natural",
+        "teologia"
+      ],
+      "core_questions_pt": [
+        "Como leis matemáticas passam a descrever o movimento?",
+        "Como um cientista do século XVII articulava questões teológicas?"
+      ],
+      "key_works_pt": [
+        "Principia Mathematica",
+        "Opticks",
+        "Observations upon the Prophecies of Daniel and the Apocalypse of St. John"
+      ],
+      "deep_track": true,
+      "source_group": "newton-project"
+    },
+    {
+      "id": "thomas-hobbes",
+      "name_pt": "Thomas Hobbes",
+      "dates": "1588–1679",
+      "tradition": "filosofia política",
+      "domains": [
+        "Estado",
+        "soberania",
+        "natureza humana",
+        "contrato"
+      ],
+      "core_questions_pt": [
+        "Por que as pessoas aceitam autoridade?",
+        "Como medo e segurança entram na formação do Estado?"
+      ],
+      "key_works_pt": [
+        "Leviatã",
+        "Do Cidadão"
+      ],
+      "deep_track": false,
+      "source_group": "filosofia-politica"
+    },
+    {
+      "id": "david-hume",
+      "name_pt": "David Hume",
+      "dates": "1711–1776",
+      "tradition": "empirismo",
+      "domains": [
+        "epistemologia",
+        "ética",
+        "religião",
+        "economia"
+      ],
+      "core_questions_pt": [
+        "O que justifica inferências causais?",
+        "Como hábitos e sentimentos participam da moral?"
+      ],
+      "key_works_pt": [
+        "Tratado da Natureza Humana",
+        "Investigação sobre o Entendimento Humano",
+        "História Natural da Religião"
+      ],
+      "deep_track": true,
+      "source_group": "sep-hume"
+    },
+    {
+      "id": "jean-jacques-rousseau",
+      "name_pt": "Jean-Jacques Rousseau",
+      "dates": "1712–1778",
+      "tradition": "Iluminismo",
+      "domains": [
+        "política",
+        "educação",
+        "sociedade",
+        "desigualdade"
+      ],
+      "core_questions_pt": [
+        "O que torna uma ordem política legítima?",
+        "Como sociedade e educação moldam o indivíduo?"
+      ],
+      "key_works_pt": [
+        "Do Contrato Social",
+        "Emílio",
+        "Discurso sobre a Origem da Desigualdade"
+      ],
+      "deep_track": false,
+      "source_group": "dominio-publico-mec"
+    },
+    {
+      "id": "immanuel-kant",
+      "name_pt": "Immanuel Kant",
+      "dates": "1724–1804",
+      "tradition": "idealismo transcendental",
+      "domains": [
+        "epistemologia",
+        "ética",
+        "estética",
+        "política"
+      ],
+      "core_questions_pt": [
+        "O que podemos conhecer?",
+        "Como uma regra moral pode ser universal?"
+      ],
+      "key_works_pt": [
+        "Crítica da Razão Pura",
+        "Crítica da Razão Prática",
+        "Fundamentação da Metafísica dos Costumes",
+        "Crítica do Juízo"
+      ],
+      "deep_track": true,
+      "source_group": "sep-kant"
+    },
+    {
+      "id": "georg-hegel",
+      "name_pt": "Georg Wilhelm Friedrich Hegel",
+      "dates": "1770–1831",
+      "tradition": "idealismo alemão",
+      "domains": [
+        "história",
+        "dialética",
+        "reconhecimento",
+        "Estado"
+      ],
+      "core_questions_pt": [
+        "Como contradições podem mover conceitos e instituições?",
+        "Como liberdade aparece na história social?"
+      ],
+      "key_works_pt": [
+        "Fenomenologia do Espírito",
+        "Filosofia do Direito",
+        "Ciência da Lógica"
+      ],
+      "deep_track": true,
+      "source_group": "sep-hegel"
+    },
+    {
+      "id": "jeremy-bentham",
+      "name_pt": "Jeremy Bentham",
+      "dates": "1748–1832",
+      "tradition": "utilitarismo",
+      "domains": [
+        "ética",
+        "direito",
+        "política",
+        "instituições"
+      ],
+      "core_questions_pt": [
+        "Como avaliar políticas segundo consequências?",
+        "Como instituições podem reduzir sofrimento?"
+      ],
+      "key_works_pt": [
+        "Introdução aos Princípios da Moral e da Legislação"
+      ],
+      "deep_track": false,
+      "source_group": "filosofia-moral"
+    },
+    {
+      "id": "john-stuart-mill",
+      "name_pt": "John Stuart Mill",
+      "dates": "1806–1873",
+      "tradition": "liberalismo e utilitarismo",
+      "domains": [
+        "liberdade",
+        "ética",
+        "política",
+        "economia"
+      ],
+      "core_questions_pt": [
+        "Quais limites o indivíduo e a sociedade impõem um ao outro?",
+        "Como pensar igualdade e representação?"
+      ],
+      "key_works_pt": [
+        "Sobre a Liberdade",
+        "Utilitarismo",
+        "Considerações sobre o Governo Representativo"
+      ],
+      "deep_track": false,
+      "source_group": "filosofia-politica"
+    },
+    {
+      "id": "alexis-de-tocqueville",
+      "name_pt": "Alexis de Tocqueville",
+      "dates": "1805–1859",
+      "tradition": "pensamento político e social",
+      "domains": [
+        "democracia",
+        "igualdade",
+        "instituições",
+        "associações"
+      ],
+      "core_questions_pt": [
+        "Como igualdade e liberdade podem coexistir?",
+        "Qual o papel das associações na vida democrática?"
+      ],
+      "key_works_pt": [
+        "Democracia na América",
+        "O Antigo Regime e a Revolução"
+      ],
+      "deep_track": true,
+      "source_group": "sep-tocqueville"
+    },
+    {
+      "id": "soren-kierkegaard",
+      "name_pt": "Søren Kierkegaard",
+      "dates": "1813–1855",
+      "tradition": "filosofia da existência",
+      "domains": [
+        "existência",
+        "fé",
+        "angústia",
+        "escolha"
+      ],
+      "core_questions_pt": [
+        "O que significa escolher a própria vida?",
+        "Como indivíduo e fé se encontram?"
+      ],
+      "key_works_pt": [
+        "Temor e Tremor",
+        "O Conceito de Angústia",
+        "A Doença para a Morte"
+      ],
+      "deep_track": true,
+      "source_group": "sep-kierkegaard"
+    },
+    {
+      "id": "arthur-schopenhauer",
+      "name_pt": "Arthur Schopenhauer",
+      "dates": "1788–1860",
+      "tradition": "idealismo e pessimismo",
+      "domains": [
+        "metafísica",
+        "ética",
+        "vontade",
+        "arte"
+      ],
+      "core_questions_pt": [
+        "O que move o desejo?",
+        "Como sofrimento e arte se relacionam?"
+      ],
+      "key_works_pt": [
+        "O Mundo como Vontade e Representação",
+        "Parerga e Paralipomena"
+      ],
+      "deep_track": false,
+      "source_group": "filosofia-moderna"
+    },
+    {
+      "id": "friedrich-nietzsche",
+      "name_pt": "Friedrich Nietzsche",
+      "dates": "1844–1900",
+      "tradition": "crítica da cultura",
+      "domains": [
+        "moral",
+        "cultura",
+        "niilismo",
+        "genealogia"
+      ],
+      "core_questions_pt": [
+        "De onde vieram nossos valores?",
+        "Como cultura e poder participam da formação do indivíduo?"
+      ],
+      "key_works_pt": [
+        "Assim Falou Zaratustra",
+        "Genealogia da Moral",
+        "Além do Bem e do Mal"
+      ],
+      "deep_track": true,
+      "source_group": "sep-nietzsche"
+    },
+    {
+      "id": "auguste-comte",
+      "name_pt": "Auguste Comte",
+      "dates": "1798–1857",
+      "tradition": "positivismo",
+      "domains": [
+        "sociologia",
+        "ciência",
+        "ordem social"
+      ],
+      "core_questions_pt": [
+        "Como estudar sociedade de modo sistemático?",
+        "Qual o papel do conhecimento científico na organização social?"
+      ],
+      "key_works_pt": [
+        "Curso de Filosofia Positiva",
+        "Sistema de Política Positiva"
+      ],
+      "deep_track": false,
+      "source_group": "pensamento-social"
+    },
+    {
+      "id": "karl-marx",
+      "name_pt": "Karl Marx",
+      "dates": "1818–1883",
+      "tradition": "crítica da economia política",
+      "domains": [
+        "trabalho",
+        "capital",
+        "classes",
+        "história",
+        "ideologia"
+      ],
+      "core_questions_pt": [
+        "Como relações de produção moldam a sociedade?",
+        "O que acontece com trabalho e poder sob o capitalismo?"
+      ],
+      "key_works_pt": [
+        "O Capital",
+        "Manifesto do Partido Comunista",
+        "Manuscritos Econômico-Filosóficos",
+        "Contribuição à Crítica da Economia Política"
+      ],
+      "deep_track": true,
+      "source_group": "sep-marx",
+      "image_key": "karl-marx"
+    },
+    {
+      "id": "friedrich-engels",
+      "name_pt": "Friedrich Engels",
+      "dates": "1820–1895",
+      "tradition": "pensamento social",
+      "domains": [
+        "classe",
+        "industrialização",
+        "trabalho",
+        "história"
+      ],
+      "core_questions_pt": [
+        "Como industrialização transforma vida e classe social?",
+        "Como Marx e Engels construíram sua crítica conjunta?"
+      ],
+      "key_works_pt": [
+        "A Situação da Classe Trabalhadora na Inglaterra",
+        "Anti-Dühring",
+        "A Origem da Família, da Propriedade Privada e do Estado"
+      ],
+      "deep_track": false,
+      "source_group": "pensamento-social"
+    },
+    {
+      "id": "herbert-spencer",
+      "name_pt": "Herbert Spencer",
+      "dates": "1820–1903",
+      "tradition": "sociologia clássica",
+      "domains": [
+        "evolução",
+        "sociedade",
+        "instituições"
+      ],
+      "core_questions_pt": [
+        "Como instituições se diferenciam e mudam?"
+      ],
+      "key_works_pt": [
+        "The Principles of Sociology"
+      ],
+      "deep_track": false,
+      "source_group": "pensamento-social"
+    },
+    {
+      "id": "emile-durkheim",
+      "name_pt": "Émile Durkheim",
+      "dates": "1858–1917",
+      "tradition": "sociologia clássica",
+      "domains": [
+        "fatos sociais",
+        "solidariedade",
+        "religião",
+        "anomia"
+      ],
+      "core_questions_pt": [
+        "O que mantém uma sociedade unida?",
+        "Como instituições moldam indivíduos?"
+      ],
+      "key_works_pt": [
+        "Da Divisão do Trabalho Social",
+        "As Regras do Método Sociológico",
+        "O Suicídio",
+        "As Formas Elementares da Vida Religiosa"
+      ],
+      "deep_track": true,
+      "source_group": "sep-durkheim",
+      "image_key": "emile-durkheim"
+    },
+    {
+      "id": "max-weber",
+      "name_pt": "Max Weber",
+      "dates": "1864–1920",
+      "tradition": "sociologia compreensiva",
+      "domains": [
+        "ação social",
+        "poder",
+        "religião",
+        "burocracia",
+        "racionalização"
+      ],
+      "core_questions_pt": [
+        "Como compreender ação social sem reduzi-la a uma única causa?",
+        "Como racionalização e burocracia transformam a vida moderna?"
+      ],
+      "key_works_pt": [
+        "Economia e Sociedade",
+        "A Ética Protestante e o Espírito do Capitalismo",
+        "A Ciência como Vocação",
+        "A Política como Vocação"
+      ],
+      "deep_track": true,
+      "source_group": "sep-weber",
+      "image_key": "max-weber"
+    },
+    {
+      "id": "georg-simmel",
+      "name_pt": "Georg Simmel",
+      "dates": "1858–1918",
+      "tradition": "sociologia clássica",
+      "domains": [
+        "interação",
+        "cidade",
+        "dinheiro",
+        "forma social"
+      ],
+      "core_questions_pt": [
+        "Como pequenas interações formam estruturas sociais?",
+        "Como dinheiro e cidade alteram experiências?"
+      ],
+      "key_works_pt": [
+        "A Filosofia do Dinheiro",
+        "Sociologia"
+      ],
+      "deep_track": false,
+      "source_group": "pensamento-social"
+    },
+    {
+      "id": "w-e-b-du-bois",
+      "name_pt": "W. E. B. Du Bois",
+      "dates": "1868–1963",
+      "tradition": "sociologia",
+      "domains": [
+        "raça",
+        "educação",
+        "cidade",
+        "história social"
+      ],
+      "core_questions_pt": [
+        "Como raça e estrutura social se cruzam?",
+        "Como pesquisa empírica pode revelar desigualdades?"
+      ],
+      "key_works_pt": [
+        "The Philadelphia Negro",
+        "The Souls of Black Folk"
+      ],
+      "deep_track": false,
+      "source_group": "pensamento-social"
+    },
+    {
+      "id": "william-james",
+      "name_pt": "William James",
+      "dates": "1842–1910",
+      "tradition": "pragmatismo",
+      "domains": [
+        "psicologia",
+        "filosofia",
+        "religião",
+        "experiência"
+      ],
+      "core_questions_pt": [
+        "O que significa uma ideia funcionar na experiência?",
+        "Como experiências religiosas podem ser estudadas?"
+      ],
+      "key_works_pt": [
+        "Pragmatismo",
+        "As Variedades da Experiência Religiosa",
+        "Princípios de Psicologia"
+      ],
+      "deep_track": false,
+      "source_group": "pragmatismo"
+    },
+    {
+      "id": "john-dewey",
+      "name_pt": "John Dewey",
+      "dates": "1859–1952",
+      "tradition": "pragmatismo",
+      "domains": [
+        "educação",
+        "democracia",
+        "experiência",
+        "ciência"
+      ],
+      "core_questions_pt": [
+        "Como aprender pela experiência?",
+        "Como educação se relaciona com democracia?"
+      ],
+      "key_works_pt": [
+        "Democracia e Educação",
+        "Experiência e Educação"
+      ],
+      "deep_track": false,
+      "source_group": "educacao"
+    },
+    {
+      "id": "edmund-husserl",
+      "name_pt": "Edmund Husserl",
+      "dates": "1859–1938",
+      "tradition": "fenomenologia",
+      "domains": [
+        "consciência",
+        "intencionalidade",
+        "método"
+      ],
+      "core_questions_pt": [
+        "Como descrever a experiência antes de explicá-la?"
+      ],
+      "key_works_pt": [
+        "Ideias para uma Fenomenologia Pura",
+        "Investigações Lógicas"
+      ],
+      "deep_track": false,
+      "source_group": "fenomenologia"
+    },
+    {
+      "id": "martin-heidegger",
+      "name_pt": "Martin Heidegger",
+      "dates": "1889–1976",
+      "tradition": "fenomenologia e ontologia",
+      "domains": [
+        "ser",
+        "tempo",
+        "existência",
+        "técnica"
+      ],
+      "core_questions_pt": [
+        "O que significa ser?",
+        "Como tecnologia muda nosso modo de habitar o mundo?"
+      ],
+      "key_works_pt": [
+        "Ser e Tempo",
+        "A Questão da Técnica"
+      ],
+      "deep_track": false,
+      "source_group": "fenomenologia"
+    },
+    {
+      "id": "bertrand-russell",
+      "name_pt": "Bertrand Russell",
+      "dates": "1872–1970",
+      "tradition": "filosofia analítica",
+      "domains": [
+        "lógica",
+        "matemática",
+        "epistemologia",
+        "política"
+      ],
+      "core_questions_pt": [
+        "Como lógica pode esclarecer linguagem?",
+        "Como ideias matemáticas entram na filosofia?"
+      ],
+      "key_works_pt": [
+        "Principia Mathematica",
+        "Os Problemas da Filosofia",
+        "Por que Não Sou Cristão"
+      ],
+      "deep_track": false,
+      "source_group": "filosofia-analitica"
+    },
+    {
+      "id": "ludwig-wittgenstein",
+      "name_pt": "Ludwig Wittgenstein",
+      "dates": "1889–1951",
+      "tradition": "filosofia analítica",
+      "domains": [
+        "linguagem",
+        "lógica",
+        "mente",
+        "formas de vida"
+      ],
+      "core_questions_pt": [
+        "Como linguagem estrutura o que podemos dizer?",
+        "Como palavras funcionam em práticas sociais?"
+      ],
+      "key_works_pt": [
+        "Tractatus Logico-Philosophicus",
+        "Investigações Filosóficas"
+      ],
+      "deep_track": false,
+      "source_group": "filosofia-analitica"
+    },
+    {
+      "id": "karl-popper",
+      "name_pt": "Karl Popper",
+      "dates": "1902–1994",
+      "tradition": "filosofia da ciência",
+      "domains": [
+        "falseabilidade",
+        "ciência",
+        "democracia"
+      ],
+      "core_questions_pt": [
+        "O que diferencia uma teoria testável?",
+        "Como crítica pública melhora conhecimento?"
+      ],
+      "key_works_pt": [
+        "A Lógica da Pesquisa Científica",
+        "A Sociedade Aberta e Seus Inimigos"
+      ],
+      "deep_track": false,
+      "source_group": "filosofia-da-ciencia"
+    },
+    {
+      "id": "thomas-kuhn",
+      "name_pt": "Thomas Kuhn",
+      "dates": "1922–1996",
+      "tradition": "história e filosofia da ciência",
+      "domains": [
+        "paradigmas",
+        "ciência",
+        "história"
+      ],
+      "core_questions_pt": [
+        "Como comunidades científicas mudam modelos aceitos?",
+        "O que acontece em períodos de crise científica?"
+      ],
+      "key_works_pt": [
+        "A Estrutura das Revoluções Científicas"
+      ],
+      "deep_track": false,
+      "source_group": "filosofia-da-ciencia"
+    },
+    {
+      "id": "hannah-arendt",
+      "name_pt": "Hannah Arendt",
+      "dates": "1906–1975",
+      "tradition": "filosofia política",
+      "domains": [
+        "ação",
+        "política",
+        "totalitarismo",
+        "esfera pública"
+      ],
+      "core_questions_pt": [
+        "O que significa agir em conjunto?",
+        "Como espaços públicos e instituições afetam a liberdade?"
+      ],
+      "key_works_pt": [
+        "A Condição Humana",
+        "Origens do Totalitarismo",
+        "Entre o Passado e o Futuro"
+      ],
+      "deep_track": true,
+      "source_group": "sep-arendt"
+    },
+    {
+      "id": "simone-de-beauvoir",
+      "name_pt": "Simone de Beauvoir",
+      "dates": "1908–1986",
+      "tradition": "existencialismo",
+      "domains": [
+        "ética",
+        "gênero",
+        "liberdade",
+        "sociedade"
+      ],
+      "core_questions_pt": [
+        "Como sociedade e formação moldam possibilidades individuais?",
+        "Como liberdade e situação se relacionam?"
+      ],
+      "key_works_pt": [
+        "O Segundo Sexo",
+        "A Ética da Ambiguidade"
+      ],
+      "deep_track": false,
+      "source_group": "pensamento-social"
+    },
+    {
+      "id": "jean-paul-sartre",
+      "name_pt": "Jean-Paul Sartre",
+      "dates": "1905–1980",
+      "tradition": "existencialismo",
+      "domains": [
+        "liberdade",
+        "responsabilidade",
+        "existência"
+      ],
+      "core_questions_pt": [
+        "O que fazemos com a liberdade em situações concretas?",
+        "Como responsabilidade aparece nas escolhas?"
+      ],
+      "key_works_pt": [
+        "O Ser e o Nada",
+        "O Existencialismo é um Humanismo"
+      ],
+      "deep_track": false,
+      "source_group": "existencialismo"
+    },
+    {
+      "id": "albert-camus",
+      "name_pt": "Albert Camus",
+      "dates": "1913–1960",
+      "tradition": "absurdo e ética",
+      "domains": [
+        "absurdo",
+        "revolta",
+        "ética",
+        "literatura"
+      ],
+      "core_questions_pt": [
+        "Como viver quando o sentido não é garantido?",
+        "O que distingue revolta de violência sem limite?"
+      ],
+      "key_works_pt": [
+        "O Mito de Sísifo",
+        "O Estrangeiro",
+        "A Peste",
+        "O Homem Revoltado"
+      ],
+      "deep_track": false,
+      "source_group": "existencialismo"
+    },
+    {
+      "id": "emmanuel-levinas",
+      "name_pt": "Emmanuel Levinas",
+      "dates": "1906–1995",
+      "tradition": "filosofia contemporânea",
+      "domains": [
+        "ética",
+        "alteridade",
+        "responsabilidade"
+      ],
+      "core_questions_pt": [
+        "O que devo ao outro antes de pensar em mim?"
+      ],
+      "key_works_pt": [
+        "Totalidade e Infinito",
+        "De Outro Modo que Ser"
+      ],
+      "deep_track": false,
+      "source_group": "filosofia-contemporanea"
+    },
+    {
+      "id": "michel-foucault",
+      "name_pt": "Michel Foucault",
+      "dates": "1926–1984",
+      "tradition": "filosofia e história das ideias",
+      "domains": [
+        "poder",
+        "saber",
+        "instituições",
+        "disciplina"
+      ],
+      "core_questions_pt": [
+        "Como saber e poder se reforçam?",
+        "Como instituições moldam comportamentos?"
+      ],
+      "key_works_pt": [
+        "Vigiar e Punir",
+        "História da Sexualidade",
+        "Arqueologia do Saber"
+      ],
+      "deep_track": true,
+      "source_group": "sep-foucault"
+    },
+    {
+      "id": "gilles-deleuze",
+      "name_pt": "Gilles Deleuze",
+      "dates": "1925–1995",
+      "tradition": "filosofia contemporânea",
+      "domains": [
+        "diferença",
+        "desejo",
+        "conceito",
+        "arte"
+      ],
+      "core_questions_pt": [
+        "Como pensar diferença sem reduzi-la à identidade?",
+        "Como desejo pode ser pensado como produção?"
+      ],
+      "key_works_pt": [
+        "Diferença e Repetição",
+        "O Anti-Édipo"
+      ],
+      "deep_track": false,
+      "source_group": "filosofia-contemporanea"
+    },
+    {
+      "id": "jacques-derrida",
+      "name_pt": "Jacques Derrida",
+      "dates": "1930–2004",
+      "tradition": "desconstrução",
+      "domains": [
+        "linguagem",
+        "texto",
+        "ética",
+        "política"
+      ],
+      "core_questions_pt": [
+        "Como textos carregam tensões internas?",
+        "Como linguagem afeta conceitos filosóficos?"
+      ],
+      "key_works_pt": [
+        "Da Gramatologia",
+        "A Escritura e a Diferença"
+      ],
+      "deep_track": false,
+      "source_group": "filosofia-contemporanea"
+    },
+    {
+      "id": "jurgen-habermas",
+      "name_pt": "Jürgen Habermas",
+      "dates": "1929–",
+      "tradition": "teoria crítica",
+      "domains": [
+        "comunicação",
+        "democracia",
+        "esfera pública",
+        "racionalidade"
+      ],
+      "core_questions_pt": [
+        "Como comunicação pública pode produzir entendimento?",
+        "Como instituições e participação sustentam legitimidade?"
+      ],
+      "key_works_pt": [
+        "Mudança Estrutural da Esfera Pública",
+        "Teoria da Ação Comunicativa",
+        "Direito e Democracia"
+      ],
+      "deep_track": false,
+      "source_group": "teoria-critica"
+    },
+    {
+      "id": "john-rawls",
+      "name_pt": "John Rawls",
+      "dates": "1921–2002",
+      "tradition": "filosofia política contemporânea",
+      "domains": [
+        "justiça",
+        "igualdade",
+        "instituições"
+      ],
+      "core_questions_pt": [
+        "Como projetar princípios de justiça sob condições imparciais?"
+      ],
+      "key_works_pt": [
+        "Uma Teoria da Justiça",
+        "Liberalismo Político"
+      ],
+      "deep_track": false,
+      "source_group": "filosofia-politica"
+    },
+    {
+      "id": "robert-nozick",
+      "name_pt": "Robert Nozick",
+      "dates": "1938–2002",
+      "tradition": "filosofia política contemporânea",
+      "domains": [
+        "liberdade",
+        "Estado",
+        "direitos"
+      ],
+      "core_questions_pt": [
+        "Quais limites de atuação o Estado deve ter?"
+      ],
+      "key_works_pt": [
+        "Anarquia, Estado e Utopia"
+      ],
+      "deep_track": false,
+      "source_group": "filosofia-politica"
+    },
+    {
+      "id": "amartya-sen",
+      "name_pt": "Amartya Sen",
+      "dates": "1933–",
+      "tradition": "economia e filosofia social",
+      "domains": [
+        "desenvolvimento",
+        "pobreza",
+        "capacidades",
+        "justiça"
+      ],
+      "core_questions_pt": [
+        "Desenvolvimento é apenas renda?",
+        "Como liberdade e capacidades mudam o modo de medir bem-estar?"
+      ],
+      "key_works_pt": [
+        "Desenvolvimento como Liberdade",
+        "A Ideia de Justiça"
+      ],
+      "deep_track": true,
+      "source_group": "pensamento-social"
+    },
+    {
+      "id": "pierre-bourdieu",
+      "name_pt": "Pierre Bourdieu",
+      "dates": "1930–2002",
+      "tradition": "sociologia",
+      "domains": [
+        "habitus",
+        "capital cultural",
+        "campo",
+        "educação"
+      ],
+      "core_questions_pt": [
+        "Como hábitos e instituições reproduzem desigualdades?",
+        "Como diferentes formas de capital funcionam?"
+      ],
+      "key_works_pt": [
+        "A Distinção",
+        "O Poder Simbólico",
+        "A Reprodução"
+      ],
+      "deep_track": false,
+      "source_group": "pensamento-social"
+    },
+    {
+      "id": "erving-goffman",
+      "name_pt": "Erving Goffman",
+      "dates": "1922–1982",
+      "tradition": "microssociologia",
+      "domains": [
+        "interação",
+        "identidade",
+        "instituições"
+      ],
+      "core_questions_pt": [
+        "Como pessoas administram impressões nas interações?",
+        "Como instituições transformam a experiência cotidiana?"
+      ],
+      "key_works_pt": [
+        "A Representação do Eu na Vida Cotidiana",
+        "Manicômios, Prisões e Conventos"
+      ],
+      "deep_track": false,
+      "source_group": "pensamento-social"
+    },
+    {
+      "id": "paulo-freire",
+      "name_pt": "Paulo Freire",
+      "dates": "1921–1997",
+      "tradition": "educação e pensamento social brasileiro",
+      "domains": [
+        "educação",
+        "diálogo",
+        "consciência",
+        "praxis"
+      ],
+      "core_questions_pt": [
+        "Como aprender pode ser uma prática de diálogo?",
+        "Como educação se relaciona com autonomia e contexto social?"
+      ],
+      "key_works_pt": [
+        "Pedagogia do Oprimido",
+        "Educação como Prática da Liberdade",
+        "Pedagogia da Autonomia"
+      ],
+      "deep_track": true,
+      "source_group": "pensamento-brasileiro"
+    },
+    {
+      "id": "darcy-ribeiro",
+      "name_pt": "Darcy Ribeiro",
+      "dates": "1922–1997",
+      "tradition": "antropologia e pensamento social brasileiro",
+      "domains": [
+        "Brasil",
+        "educação",
+        "povos indígenas",
+        "civilização"
+      ],
+      "core_questions_pt": [
+        "Como formação histórica molda o Brasil?",
+        "Como educação e diversidade cultural entram no projeto nacional?"
+      ],
+      "key_works_pt": [
+        "O Povo Brasileiro",
+        "Os Brasileiros"
+      ],
+      "deep_track": false,
+      "source_group": "pensamento-brasileiro"
+    },
+    {
+      "id": "sergio-buarque",
+      "name_pt": "Sérgio Buarque de Holanda",
+      "dates": "1902–1982",
+      "tradition": "história e pensamento social brasileiro",
+      "domains": [
+        "Brasil",
+        "cultura",
+        "Estado",
+        "sociedade"
+      ],
+      "core_questions_pt": [
+        "Como relações pessoais e instituições se cruzam na história brasileira?"
+      ],
+      "key_works_pt": [
+        "Raízes do Brasil",
+        "Visão do Paraíso"
+      ],
+      "deep_track": false,
+      "source_group": "pensamento-brasileiro"
+    },
+    {
+      "id": "gilberto-freyre",
+      "name_pt": "Gilberto Freyre",
+      "dates": "1900–1987",
+      "tradition": "sociologia e antropologia brasileira",
+      "domains": [
+        "família",
+        "sociedade",
+        "cultura",
+        "colonização"
+      ],
+      "core_questions_pt": [
+        "Como família, trabalho e cultura aparecem na formação social brasileira?"
+      ],
+      "key_works_pt": [
+        "Casa-Grande & Senzala",
+        "Sobrados e Mucambos"
+      ],
+      "deep_track": false,
+      "source_group": "pensamento-brasileiro"
+    },
+    {
+      "id": "milton-santos",
+      "name_pt": "Milton Santos",
+      "dates": "1926–2001",
+      "tradition": "geografia e pensamento social brasileiro",
+      "domains": [
+        "território",
+        "cidade",
+        "globalização",
+        "desigualdade"
+      ],
+      "core_questions_pt": [
+        "Como território e técnica organizam desigualdades?",
+        "Como globalização transforma a vida cotidiana?"
+      ],
+      "key_works_pt": [
+        "A Natureza do Espaço",
+        "Por uma Outra Globalização"
+      ],
+      "deep_track": false,
+      "source_group": "pensamento-brasileiro"
+    },
+    {
+      "id": "enrique-dussel",
+      "name_pt": "Enrique Dussel",
+      "dates": "1934–2023",
+      "tradition": "filosofia da libertação",
+      "domains": [
+        "ética",
+        "história",
+        "colonialidade",
+        "América Latina"
+      ],
+      "core_questions_pt": [
+        "Como pensar a ética a partir de relações de poder e exclusão?",
+        "Como colonialidade participa da formação moderna?"
+      ],
+      "key_works_pt": [
+        "Filosofia da Libertação",
+        "1492: O Encobrimento do Outro"
+      ],
+      "deep_track": false,
+      "source_group": "filosofia-latino-americana"
+    },
+    {
+      "id": "frantz-fanon",
+      "name_pt": "Frantz Fanon",
+      "dates": "1925–1961",
+      "tradition": "psiquiatria e pensamento anticolonial",
+      "domains": [
+        "colonialismo",
+        "raça",
+        "identidade",
+        "violência"
+      ],
+      "core_questions_pt": [
+        "Como colonialismo afeta identidade e instituições?",
+        "Como linguagem, cultura e poder se relacionam?"
+      ],
+      "key_works_pt": [
+        "Pele Negra, Máscaras Brancas",
+        "Os Condenados da Terra"
+      ],
+      "deep_track": false,
+      "source_group": "pensamento-social"
+    },
+    {
+      "id": "edward-said",
+      "name_pt": "Edward Said",
+      "dates": "1935–2003",
+      "tradition": "estudos culturais",
+      "domains": [
+        "representação",
+        "imperialismo",
+        "literatura",
+        "cultura"
+      ],
+      "core_questions_pt": [
+        "Como representações literárias e acadêmicas moldam visões do outro?"
+      ],
+      "key_works_pt": [
+        "Orientalismo",
+        "Cultura e Imperialismo"
+      ],
+      "deep_track": false,
+      "source_group": "pensamento-social"
+    },
+    {
+      "id": "confucio",
+      "name_pt": "Confúcio",
+      "dates": "551–479 a.C.",
+      "tradition": "confucionismo",
+      "domains": [
+        "ética",
+        "educação",
+        "família",
+        "governo"
+      ],
+      "core_questions_pt": [
+        "Como virtude pessoal se relaciona com ordem social?",
+        "Qual o papel da educação?"
+      ],
+      "key_works_pt": [
+        "Analectos — tradição confuciana"
+      ],
+      "deep_track": false,
+      "source_group": "filosofias-asiaticas"
+    },
+    {
+      "id": "laozi",
+      "name_pt": "Laozi",
+      "dates": "datação tradicional incerta",
+      "tradition": "taoismo",
+      "domains": [
+        "natureza",
+        "governo",
+        "simplicidade",
+        "ação"
+      ],
+      "core_questions_pt": [
+        "Como agir sem forçar o curso das coisas?",
+        "Como simplicidade e poder se relacionam?"
+      ],
+      "key_works_pt": [
+        "Tao Te Ching"
+      ],
+      "deep_track": false,
+      "source_group": "filosofias-asiaticas"
+    },
+    {
+      "id": "sunzi",
+      "name_pt": "Sunzi (Sun Tzu)",
+      "dates": "tradicionalmente séc. VI–V a.C.",
+      "tradition": "pensamento estratégico chinês",
+      "domains": [
+        "estratégia",
+        "conflito",
+        "decisão"
+      ],
+      "core_questions_pt": [
+        "Como informação muda decisões em situações de conflito?",
+        "Como vencer sem desperdício de recursos?"
+      ],
+      "key_works_pt": [
+        "A Arte da Guerra"
+      ],
+      "deep_track": false,
+      "source_group": "filosofias-asiaticas"
+    },
+    {
+      "id": "shankara",
+      "name_pt": "Adi Shankara",
+      "dates": "c. 8º século",
+      "tradition": "vedanta",
+      "domains": [
+        "metafísica",
+        "consciência",
+        "religião"
+      ],
+      "core_questions_pt": [
+        "Como pensar identidade, consciência e realidade?"
+      ],
+      "key_works_pt": [
+        "Comentários e textos atribuídos à tradição Advaita Vedanta"
+      ],
+      "deep_track": false,
+      "source_group": "filosofias-asiaticas"
+    },
+    {
+      "id": "nagarjuna",
+      "name_pt": "Nagarjuna",
+      "dates": "c. 150–250",
+      "tradition": "budismo Mahayana",
+      "domains": [
+        "metafísica",
+        "linguagem",
+        "vazio",
+        "razão"
+      ],
+      "core_questions_pt": [
+        "Como conceitos mudam quando investigamos suas relações?",
+        "Como evitar reificar categorias?"
+      ],
+      "key_works_pt": [
+        "Versos Fundamentais do Caminho do Meio"
+      ],
+      "deep_track": false,
+      "source_group": "filosofias-asiaticas"
+    },
+    {
+      "id": "zhuxi",
+      "name_pt": "Zhu Xi",
+      "dates": "1130–1200",
+      "tradition": "confucionismo",
+      "domains": [
+        "filosofia",
+        "ética",
+        "educação"
+      ],
+      "core_questions_pt": [
+        "Que problema de filosofia, ética este autor tentou responder?",
+        "Como seus conceitos podem ser estudados historicamente sem reduzi-los a slogans?"
+      ],
+      "key_works_pt": [
+        "Comentários sobre os Clássicos",
+        "Reflexões sobre o Grande Aprendizado"
+      ],
+      "deep_track": false,
+      "source_group": "longlist-interdisciplinar"
+    },
+    {
+      "id": "mozi",
+      "name_pt": "Mozi",
+      "dates": "c. 470–c. 391 a.C.",
+      "tradition": "China antiga",
+      "domains": [
+        "ética",
+        "política",
+        "sociedade"
+      ],
+      "core_questions_pt": [
+        "Que problema de ética, política este autor tentou responder?",
+        "Como seus conceitos podem ser estudados historicamente sem reduzi-los a slogans?"
+      ],
+      "key_works_pt": [
+        "Mozi"
+      ],
+      "deep_track": false,
+      "source_group": "longlist-interdisciplinar"
+    },
+    {
+      "id": "xunzi",
+      "name_pt": "Xunzi",
+      "dates": "c. 310–c. 235 a.C.",
+      "tradition": "China antiga",
+      "domains": [
+        "ética",
+        "educação",
+        "ordem social"
+      ],
+      "core_questions_pt": [
+        "Que problema de ética, educação este autor tentou responder?",
+        "Como seus conceitos podem ser estudados historicamente sem reduzi-los a slogans?"
+      ],
+      "key_works_pt": [
+        "Xunzi"
+      ],
+      "deep_track": false,
+      "source_group": "longlist-interdisciplinar"
+    },
+    {
+      "id": "mencius",
+      "name_pt": "Mêncio",
+      "dates": "c. 372–c. 289 a.C.",
+      "tradition": "China antiga",
+      "domains": [
+        "ética",
+        "política",
+        "educação"
+      ],
+      "core_questions_pt": [
+        "Que problema de ética, política este autor tentou responder?",
+        "Como seus conceitos podem ser estudados historicamente sem reduzi-los a slogans?"
+      ],
+      "key_works_pt": [
+        "Mêncio"
+      ],
+      "deep_track": false,
+      "source_group": "longlist-interdisciplinar"
+    },
+    {
+      "id": "tomas-de-more",
+      "name_pt": "Thomas More",
+      "dates": "1478–1535",
+      "tradition": "humanismo",
+      "domains": [
+        "filosofia-social",
+        "ética",
+        "política"
+      ],
+      "core_questions_pt": [
+        "Que problema de filosofia-social, ética este autor tentou responder?",
+        "Como seus conceitos podem ser estudados historicamente sem reduzi-los a slogans?"
+      ],
+      "key_works_pt": [
+        "Utopia"
+      ],
+      "deep_track": true,
+      "source_group": "longlist-interdisciplinar"
+    },
+    {
+      "id": "montaigne",
+      "name_pt": "Michel de Montaigne",
+      "dates": "1533–1592",
+      "tradition": "renascimento",
+      "domains": [
+        "filosofia",
+        "ceticismo",
+        "autoconhecimento"
+      ],
+      "core_questions_pt": [
+        "Que problema de filosofia, ceticismo este autor tentou responder?",
+        "Como seus conceitos podem ser estudados historicamente sem reduzi-los a slogans?"
+      ],
+      "key_works_pt": [
+        "Ensaios"
+      ],
+      "deep_track": true,
+      "source_group": "longlist-interdisciplinar"
+    },
+    {
+      "id": "hugo-grotius",
+      "name_pt": "Hugo Grotius",
+      "dates": "1583–1645",
+      "tradition": "direito natural",
+      "domains": [
+        "direito",
+        "política",
+        "ética"
+      ],
+      "core_questions_pt": [
+        "Que problema de direito, política este autor tentou responder?",
+        "Como seus conceitos podem ser estudados historicamente sem reduzi-los a slogans?"
+      ],
+      "key_works_pt": [
+        "Do Direito da Guerra e da Paz"
+      ],
+      "deep_track": false,
+      "source_group": "longlist-interdisciplinar"
+    },
+    {
+      "id": "samuel-pufendorf",
+      "name_pt": "Samuel Pufendorf",
+      "dates": "1632–1694",
+      "tradition": "direito natural",
+      "domains": [
+        "direito",
+        "Estado",
+        "sociedade"
+      ],
+      "core_questions_pt": [
+        "Que problema de direito, Estado este autor tentou responder?",
+        "Como seus conceitos podem ser estudados historicamente sem reduzi-los a slogans?"
+      ],
+      "key_works_pt": [
+        "Do Direito da Natureza e das Gentes"
+      ],
+      "deep_track": false,
+      "source_group": "longlist-interdisciplinar"
+    },
+    {
+      "id": "christian-wolff",
+      "name_pt": "Christian Wolff",
+      "dates": "1679–1754",
+      "tradition": "racionalismo",
+      "domains": [
+        "metafísica",
+        "lógica",
+        "ciência"
+      ],
+      "core_questions_pt": [
+        "Que problema de metafísica, lógica este autor tentou responder?",
+        "Como seus conceitos podem ser estudados historicamente sem reduzi-los a slogans?"
+      ],
+      "key_works_pt": [
+        "Philosophia Rationalis"
+      ],
+      "deep_track": false,
+      "source_group": "longlist-interdisciplinar"
+    },
+    {
+      "id": "mary-wollstonecraft",
+      "name_pt": "Mary Wollstonecraft",
+      "dates": "1759–1797",
+      "tradition": "iluminismo",
+      "domains": [
+        "educação",
+        "igualdade",
+        "ética"
+      ],
+      "core_questions_pt": [
+        "Que problema de educação, igualdade este autor tentou responder?",
+        "Como seus conceitos podem ser estudados historicamente sem reduzi-los a slogans?"
+      ],
+      "key_works_pt": [
+        "Reivindicação dos Direitos da Mulher"
+      ],
+      "deep_track": true,
+      "source_group": "longlist-interdisciplinar"
+    },
+    {
+      "id": "friedrich-schiller",
+      "name_pt": "Friedrich Schiller",
+      "dates": "1759–1805",
+      "tradition": "idealismo/estética",
+      "domains": [
+        "estética",
+        "liberdade",
+        "educação"
+      ],
+      "core_questions_pt": [
+        "Que problema de estética, liberdade este autor tentou responder?",
+        "Como seus conceitos podem ser estudados historicamente sem reduzi-los a slogans?"
+      ],
+      "key_works_pt": [
+        "Cartas sobre a Educação Estética do Homem"
+      ],
+      "deep_track": false,
+      "source_group": "longlist-interdisciplinar"
+    },
+    {
+      "id": "johann-fichte",
+      "name_pt": "Johann Gottlieb Fichte",
+      "dates": "1762–1814",
+      "tradition": "idealismo alemão",
+      "domains": [
+        "eu",
+        "liberdade",
+        "Estado"
+      ],
+      "core_questions_pt": [
+        "Que problema de eu, liberdade este autor tentou responder?",
+        "Como seus conceitos podem ser estudados historicamente sem reduzi-los a slogans?"
+      ],
+      "key_works_pt": [
+        "Doutrina da Ciência"
+      ],
+      "deep_track": false,
+      "source_group": "longlist-interdisciplinar"
+    },
+    {
+      "id": "friedrich-schelling",
+      "name_pt": "Friedrich Schelling",
+      "dates": "1775–1854",
+      "tradition": "idealismo alemão",
+      "domains": [
+        "natureza",
+        "liberdade",
+        "metafísica"
+      ],
+      "core_questions_pt": [
+        "Que problema de natureza, liberdade este autor tentou responder?",
+        "Como seus conceitos podem ser estudados historicamente sem reduzi-los a slogans?"
+      ],
+      "key_works_pt": [
+        "Sistema do Idealismo Transcendental"
+      ],
+      "deep_track": false,
+      "source_group": "longlist-interdisciplinar"
+    },
+    {
+      "id": "john-henry-newman",
+      "name_pt": "John Henry Newman",
+      "dates": "1801–1890",
+      "tradition": "teologia/filosofia",
+      "domains": [
+        "fé",
+        "educação",
+        "conhecimento"
+      ],
+      "core_questions_pt": [
+        "Que problema de fé, educação este autor tentou responder?",
+        "Como seus conceitos podem ser estudados historicamente sem reduzi-los a slogans?"
+      ],
+      "key_works_pt": [
+        "Grammar of Assent"
+      ],
+      "deep_track": false,
+      "source_group": "longlist-interdisciplinar"
+    },
+    {
+      "id": "wilhelm-dilthey",
+      "name_pt": "Wilhelm Dilthey",
+      "dates": "1833–1911",
+      "tradition": "filosofia das ciências humanas",
+      "domains": [
+        "história",
+        "compreensão",
+        "ciências humanas"
+      ],
+      "core_questions_pt": [
+        "Que problema de história, compreensão este autor tentou responder?",
+        "Como seus conceitos podem ser estudados historicamente sem reduzi-los a slogans?"
+      ],
+      "key_works_pt": [
+        "Introdução às Ciências Humanas"
+      ],
+      "deep_track": false,
+      "source_group": "longlist-interdisciplinar"
+    },
+    {
+      "id": "henri-bergson",
+      "name_pt": "Henri Bergson",
+      "dates": "1859–1941",
+      "tradition": "filosofia da vida",
+      "domains": [
+        "tempo",
+        "consciência",
+        "memória"
+      ],
+      "core_questions_pt": [
+        "Que problema de tempo, consciência este autor tentou responder?",
+        "Como seus conceitos podem ser estudados historicamente sem reduzi-los a slogans?"
+      ],
+      "key_works_pt": [
+        "Ensaio sobre os Dados Imediatos da Consciência"
+      ],
+      "deep_track": false,
+      "source_group": "longlist-interdisciplinar"
+    },
+    {
+      "id": "max-scheler",
+      "name_pt": "Max Scheler",
+      "dates": "1874–1928",
+      "tradition": "fenomenologia",
+      "domains": [
+        "ética",
+        "valores",
+        "pessoa"
+      ],
+      "core_questions_pt": [
+        "Que problema de ética, valores este autor tentou responder?",
+        "Como seus conceitos podem ser estudados historicamente sem reduzi-los a slogans?"
+      ],
+      "key_works_pt": [
+        "O Formalismo na Ética"
+      ],
+      "deep_track": false,
+      "source_group": "longlist-interdisciplinar"
+    },
+    {
+      "id": "oswald-spengler",
+      "name_pt": "Oswald Spengler",
+      "dates": "1880–1936",
+      "tradition": "filosofia da história",
+      "domains": [
+        "civilização",
+        "história",
+        "cultura"
+      ],
+      "core_questions_pt": [
+        "Que problema de civilização, história este autor tentou responder?",
+        "Como seus conceitos podem ser estudados historicamente sem reduzi-los a slogans?"
+      ],
+      "key_works_pt": [
+        "A Decadência do Ocidente"
+      ],
+      "deep_track": false,
+      "source_group": "longlist-interdisciplinar"
+    },
+    {
+      "id": "norbert-elias",
+      "name_pt": "Norbert Elias",
+      "dates": "1897–1990",
+      "tradition": "sociologia",
+      "domains": [
+        "civilização",
+        "Estado",
+        "comportamento"
+      ],
+      "core_questions_pt": [
+        "Que problema de civilização, Estado este autor tentou responder?",
+        "Como seus conceitos podem ser estudados historicamente sem reduzi-los a slogans?"
+      ],
+      "key_works_pt": [
+        "O Processo Civilizador"
+      ],
+      "deep_track": true,
+      "source_group": "longlist-interdisciplinar"
+    },
+    {
+      "id": "thomas-parsons",
+      "name_pt": "Talcott Parsons",
+      "dates": "1902–1979",
+      "tradition": "sociologia",
+      "domains": [
+        "sistema",
+        "ação",
+        "instituições"
+      ],
+      "core_questions_pt": [
+        "Que problema de sistema, ação este autor tentou responder?",
+        "Como seus conceitos podem ser estudados historicamente sem reduzi-los a slogans?"
+      ],
+      "key_works_pt": [
+        "The Social System"
+      ],
+      "deep_track": false,
+      "source_group": "longlist-interdisciplinar"
+    },
+    {
+      "id": "robert-merton",
+      "name_pt": "Robert K. Merton",
+      "dates": "1910–2003",
+      "tradition": "sociologia",
+      "domains": [
+        "método",
+        "estrutura",
+        "desvio"
+      ],
+      "core_questions_pt": [
+        "Que problema de método, estrutura este autor tentou responder?",
+        "Como seus conceitos podem ser estudados historicamente sem reduzi-los a slogans?"
+      ],
+      "key_works_pt": [
+        "Social Theory and Social Structure"
+      ],
+      "deep_track": false,
+      "source_group": "longlist-interdisciplinar"
+    },
+    {
+      "id": "alfred-schultz",
+      "name_pt": "Alfred Schütz",
+      "dates": "1899–1959",
+      "tradition": "fenomenologia social",
+      "domains": [
+        "mundo-da-vida",
+        "ação",
+        "intersubjetividade"
+      ],
+      "core_questions_pt": [
+        "Que problema de mundo-da-vida, ação este autor tentou responder?",
+        "Como seus conceitos podem ser estudados historicamente sem reduzi-los a slogans?"
+      ],
+      "key_works_pt": [
+        "A Fenomenologia do Mundo Social"
+      ],
+      "deep_track": false,
+      "source_group": "longlist-interdisciplinar"
+    },
+    {
+      "id": "c-wright-mills",
+      "name_pt": "C. Wright Mills",
+      "dates": "1916–1962",
+      "tradition": "sociologia",
+      "domains": [
+        "imaginação sociológica",
+        "poder",
+        "elite"
+      ],
+      "core_questions_pt": [
+        "Que problema de imaginação sociológica, poder este autor tentou responder?",
+        "Como seus conceitos podem ser estudados historicamente sem reduzi-los a slogans?"
+      ],
+      "key_works_pt": [
+        "A Imaginação Sociológica"
+      ],
+      "deep_track": true,
+      "source_group": "longlist-interdisciplinar"
+    },
+    {
+      "id": "raymond-williams",
+      "name_pt": "Raymond Williams",
+      "dates": "1921–1988",
+      "tradition": "estudos culturais",
+      "domains": [
+        "cultura",
+        "sociedade",
+        "linguagem"
+      ],
+      "core_questions_pt": [
+        "Que problema de cultura, sociedade este autor tentou responder?",
+        "Como seus conceitos podem ser estudados historicamente sem reduzi-los a slogans?"
+      ],
+      "key_works_pt": [
+        "Cultura e Sociedade"
+      ],
+      "deep_track": true,
+      "source_group": "longlist-interdisciplinar"
+    },
+    {
+      "id": "stuart-hall",
+      "name_pt": "Stuart Hall",
+      "dates": "1932–2014",
+      "tradition": "estudos culturais",
+      "domains": [
+        "identidade",
+        "cultura",
+        "mídia"
+      ],
+      "core_questions_pt": [
+        "Que problema de identidade, cultura este autor tentou responder?",
+        "Como seus conceitos podem ser estudados historicamente sem reduzi-los a slogans?"
+      ],
+      "key_works_pt": [
+        "A Identidade Cultural na Pós-modernidade"
+      ],
+      "deep_track": true,
+      "source_group": "longlist-interdisciplinar"
+    },
+    {
+      "id": "zygmunt-bauman",
+      "name_pt": "Zygmunt Bauman",
+      "dates": "1925–2017",
+      "tradition": "sociologia contemporânea",
+      "domains": [
+        "modernidade",
+        "relações sociais",
+        "globalização"
+      ],
+      "core_questions_pt": [
+        "Que problema de modernidade, relações sociais este autor tentou responder?",
+        "Como seus conceitos podem ser estudados historicamente sem reduzi-los a slogans?"
+      ],
+      "key_works_pt": [
+        "Modernidade Líquida"
+      ],
+      "deep_track": false,
+      "source_group": "longlist-interdisciplinar"
+    },
+    {
+      "id": "anthony-giddens",
+      "name_pt": "Anthony Giddens",
+      "dates": "1938–",
+      "tradition": "sociologia",
+      "domains": [
+        "estrutura",
+        "agência",
+        "modernidade"
+      ],
+      "core_questions_pt": [
+        "Que problema de estrutura, agência este autor tentou responder?",
+        "Como seus conceitos podem ser estudados historicamente sem reduzi-los a slogans?"
+      ],
+      "key_works_pt": [
+        "A Constituição da Sociedade"
+      ],
+      "deep_track": true,
+      "source_group": "longlist-interdisciplinar"
+    },
+    {
+      "id": "charles-taylor",
+      "name_pt": "Charles Taylor",
+      "dates": "1931–",
+      "tradition": "filosofia social",
+      "domains": [
+        "identidade",
+        "modernidade",
+        "secularização"
+      ],
+      "core_questions_pt": [
+        "Que problema de identidade, modernidade este autor tentou responder?",
+        "Como seus conceitos podem ser estudados historicamente sem reduzi-los a slogans?"
+      ],
+      "key_works_pt": [
+        "As Fontes do Self"
+      ],
+      "deep_track": true,
+      "source_group": "longlist-interdisciplinar"
+    },
+    {
+      "id": "alasdair-macintyre",
+      "name_pt": "Alasdair MacIntyre",
+      "dates": "1929–",
+      "tradition": "ética das virtudes",
+      "domains": [
+        "virtude",
+        "tradição",
+        "comunidade"
+      ],
+      "core_questions_pt": [
+        "Que problema de virtude, tradição este autor tentou responder?",
+        "Como seus conceitos podem ser estudados historicamente sem reduzi-los a slogans?"
+      ],
+      "key_works_pt": [
+        "Depois da Virtude"
+      ],
+      "deep_track": false,
+      "source_group": "longlist-interdisciplinar"
+    },
+    {
+      "id": "iris-murdoch",
+      "name_pt": "Iris Murdoch",
+      "dates": "1919–1999",
+      "tradition": "ética",
+      "domains": [
+        "moral",
+        "atenção",
+        "bem"
+      ],
+      "core_questions_pt": [
+        "Que problema de moral, atenção este autor tentou responder?",
+        "Como seus conceitos podem ser estudados historicamente sem reduzi-los a slogans?"
+      ],
+      "key_works_pt": [
+        "A Soberania do Bem"
+      ],
+      "deep_track": true,
+      "source_group": "longlist-interdisciplinar"
+    },
+    {
+      "id": "elizabeth-anscombe",
+      "name_pt": "G. E. M. Anscombe",
+      "dates": "1919–2001",
+      "tradition": "filosofia analítica",
+      "domains": [
+        "ética",
+        "intenção",
+        "ação"
+      ],
+      "core_questions_pt": [
+        "Que problema de ética, intenção este autor tentou responder?",
+        "Como seus conceitos podem ser estudados historicamente sem reduzi-los a slogans?"
+      ],
+      "key_works_pt": [
+        "Intenção"
+      ],
+      "deep_track": false,
+      "source_group": "longlist-interdisciplinar"
+    },
+    {
+      "id": "peter-singer",
+      "name_pt": "Peter Singer",
+      "dates": "1946–",
+      "tradition": "ética contemporânea",
+      "domains": [
+        "ética aplicada",
+        "animais",
+        "altruísmo"
+      ],
+      "core_questions_pt": [
+        "Que problema de ética aplicada, animais este autor tentou responder?",
+        "Como seus conceitos podem ser estudados historicamente sem reduzi-los a slogans?"
+      ],
+      "key_works_pt": [
+        "Libertação Animal"
+      ],
+      "deep_track": false,
+      "source_group": "longlist-interdisciplinar"
+    },
+    {
+      "id": "martha-nussbaum",
+      "name_pt": "Martha Nussbaum",
+      "dates": "1947–",
+      "tradition": "filosofia política/ética",
+      "domains": [
+        "capacidades",
+        "justiça",
+        "emoções"
+      ],
+      "core_questions_pt": [
+        "Que problema de capacidades, justiça este autor tentou responder?",
+        "Como seus conceitos podem ser estudados historicamente sem reduzi-los a slogans?"
+      ],
+      "key_works_pt": [
+        "Criar Capacidades"
+      ],
+      "deep_track": false,
+      "source_group": "longlist-interdisciplinar"
+    },
+    {
+      "id": "robert-bellah",
+      "name_pt": "Robert N. Bellah",
+      "dates": "1927–2013",
+      "tradition": "sociologia da religião",
+      "domains": [
+        "religião",
+        "sociedade",
+        "comunidade"
+      ],
+      "core_questions_pt": [
+        "Que problema de religião, sociedade este autor tentou responder?",
+        "Como seus conceitos podem ser estudados historicamente sem reduzi-los a slogans?"
+      ],
+      "key_works_pt": [
+        "Habits of the Heart"
+      ],
+      "deep_track": false,
+      "source_group": "longlist-interdisciplinar"
+    },
+    {
+      "id": "mircea-eliade",
+      "name_pt": "Mircea Eliade",
+      "dates": "1907–1986",
+      "tradition": "história das religiões",
+      "domains": [
+        "sagrado",
+        "mito",
+        "rito"
+      ],
+      "core_questions_pt": [
+        "Que problema de sagrado, mito este autor tentou responder?",
+        "Como seus conceitos podem ser estudados historicamente sem reduzi-los a slogans?"
+      ],
+      "key_works_pt": [
+        "O Sagrado e o Profano"
+      ],
+      "deep_track": true,
+      "source_group": "longlist-interdisciplinar"
+    },
+    {
+      "id": "rudolf-otto",
+      "name_pt": "Rudolf Otto",
+      "dates": "1869–1937",
+      "tradition": "teologia/fenomenologia da religião",
+      "domains": [
+        "religião",
+        "sagrado",
+        "experiência"
+      ],
+      "core_questions_pt": [
+        "Que problema de religião, sagrado este autor tentou responder?",
+        "Como seus conceitos podem ser estudados historicamente sem reduzi-los a slogans?"
+      ],
+      "key_works_pt": [
+        "O Sagrado"
+      ],
+      "deep_track": true,
+      "source_group": "longlist-interdisciplinar"
+    },
+    {
+      "id": "paul-tillich",
+      "name_pt": "Paul Tillich",
+      "dates": "1886–1965",
+      "tradition": "teologia filosófica",
+      "domains": [
+        "fé",
+        "cultura",
+        "existência"
+      ],
+      "core_questions_pt": [
+        "Que problema de fé, cultura este autor tentou responder?",
+        "Como seus conceitos podem ser estudados historicamente sem reduzi-los a slogans?"
+      ],
+      "key_works_pt": [
+        "Teologia Sistemática"
+      ],
+      "deep_track": true,
+      "source_group": "longlist-interdisciplinar"
+    },
+    {
+      "id": "c-s-lewis",
+      "name_pt": "C. S. Lewis",
+      "dates": "1898–1963",
+      "tradition": "cristianismo/filosofia",
+      "domains": [
+        "fé",
+        "moral",
+        "razão"
+      ],
+      "core_questions_pt": [
+        "Que problema de fé, moral este autor tentou responder?",
+        "Como seus conceitos podem ser estudados historicamente sem reduzi-los a slogans?"
+      ],
+      "key_works_pt": [
+        "Cristianismo Puro e Simples",
+        "Os Quatro Amores"
+      ],
+      "deep_track": true,
+      "source_group": "longlist-interdisciplinar"
+    },
+    {
+      "id": "alister-mcgrath",
+      "name_pt": "Alister McGrath",
+      "dates": "1953–",
+      "tradition": "teologia/ciência",
+      "domains": [
+        "ciência",
+        "fé",
+        "história da teologia"
+      ],
+      "core_questions_pt": [
+        "Que problema de ciência, fé este autor tentou responder?",
+        "Como seus conceitos podem ser estudados historicamente sem reduzi-los a slogans?"
+      ],
+      "key_works_pt": [
+        "O Enigma da Ciência",
+        "Teologia Sistemática"
+      ],
+      "deep_track": false,
+      "source_group": "longlist-interdisciplinar"
+    }
+  ]
+}

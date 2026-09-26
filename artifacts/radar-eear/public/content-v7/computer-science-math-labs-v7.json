@@ -1,0 +1,1087 @@
+{
+  "schema_version": "7.0",
+  "language": "pt-BR",
+  "count": 40,
+  "items": [
+    {
+      "id": "cs-01-binario",
+      "slug": "binario",
+      "title_pt": "Binário: como o computador representa números",
+      "body_pt": "Converta inteiros entre decimal e binário e veja cada potência de 2 acender.",
+      "mathematical_anchor": "base 2",
+      "ux": {
+        "mode": "interactive",
+        "sequence": [
+          "pergunta",
+          "modelo",
+          "manipulação",
+          "resultado",
+          "explicação",
+          "mini-desafio",
+          "fonte"
+        ],
+        "interaction": "slider de bits + decomposição visual",
+        "reduced_motion": "preserva a compreensão sem animação"
+      },
+      "sources": [
+        "cs50_2026",
+        "khan_algorithms_pt",
+        "eear_edital_2027"
+      ],
+      "ee_ar_relevance": "extensão cultural/computacional; não substituir o conteúdo oficial do edital"
+    },
+    {
+      "id": "cs-02-bits_bytes",
+      "slug": "bits_bytes",
+      "title_pt": "Bits, bytes e capacidade",
+      "body_pt": "Entenda por que 8 bits formam um byte e como unidades de armazenamento escalam.",
+      "mathematical_anchor": "1 byte = 8 bits",
+      "ux": {
+        "mode": "interactive",
+        "sequence": [
+          "pergunta",
+          "modelo",
+          "manipulação",
+          "resultado",
+          "explicação",
+          "mini-desafio",
+          "fonte"
+        ],
+        "interaction": "blocos visuais + conversor",
+        "reduced_motion": "preserva a compreensão sem animação"
+      },
+      "sources": [
+        "cs50_2026",
+        "khan_algorithms_pt",
+        "eear_edital_2027"
+      ],
+      "ee_ar_relevance": "extensão cultural/computacional; não substituir o conteúdo oficial do edital"
+    },
+    {
+      "id": "cs-03-ascii_unicode",
+      "slug": "ascii_unicode",
+      "title_pt": "ASCII e Unicode",
+      "body_pt": "Veja como símbolos são codificados numericamente e por que Unicode suporta muito mais idiomas.",
+      "mathematical_anchor": "codificação de caracteres",
+      "ux": {
+        "mode": "interactive",
+        "sequence": [
+          "pergunta",
+          "modelo",
+          "manipulação",
+          "resultado",
+          "explicação",
+          "mini-desafio",
+          "fonte"
+        ],
+        "interaction": "teclado → código → caractere",
+        "reduced_motion": "preserva a compreensão sem animação"
+      },
+      "sources": [
+        "cs50_2026",
+        "khan_algorithms_pt",
+        "eear_edital_2027"
+      ],
+      "ee_ar_relevance": "extensão cultural/computacional; não substituir o conteúdo oficial do edital"
+    },
+    {
+      "id": "cs-04-and_or_xor",
+      "slug": "and_or_xor",
+      "title_pt": "AND, OR e XOR",
+      "body_pt": "Manipule bits em operações lógicas e veja o resultado bit a bit.",
+      "mathematical_anchor": "lógica booleana",
+      "ux": {
+        "mode": "interactive",
+        "sequence": [
+          "pergunta",
+          "modelo",
+          "manipulação",
+          "resultado",
+          "explicação",
+          "mini-desafio",
+          "fonte"
+        ],
+        "interaction": "portas lógicas arrastáveis",
+        "reduced_motion": "preserva a compreensão sem animação"
+      },
+      "sources": [
+        "cs50_2026",
+        "khan_algorithms_pt",
+        "khan_crypto_pt"
+      ],
+      "ee_ar_relevance": "extensão cultural/computacional; não substituir o conteúdo oficial do edital"
+    },
+    {
+      "id": "cs-05-binary_search",
+      "slug": "binary_search",
+      "title_pt": "Busca binária",
+      "body_pt": "Observe como ordenar permite cortar o espaço de busca pela metade a cada passo.",
+      "mathematical_anchor": "O(log n)",
+      "ux": {
+        "mode": "interactive",
+        "sequence": [
+          "pergunta",
+          "modelo",
+          "manipulação",
+          "resultado",
+          "explicação",
+          "mini-desafio",
+          "fonte"
+        ],
+        "interaction": "lista visual + ponteiro",
+        "reduced_motion": "preserva a compreensão sem animação"
+      },
+      "sources": [
+        "cs50_2026",
+        "khan_algorithms_pt",
+        "eear_edital_2027"
+      ],
+      "ee_ar_relevance": "extensão cultural/computacional; não substituir o conteúdo oficial do edital"
+    },
+    {
+      "id": "cs-06-big_o",
+      "slug": "big_o",
+      "title_pt": "Grande-O",
+      "body_pt": "Compare a taxa de crescimento de algoritmos sem depender de um computador específico.",
+      "mathematical_anchor": "O(1), O(log n), O(n), O(n log n), O(n²)",
+      "ux": {
+        "mode": "interactive",
+        "sequence": [
+          "pergunta",
+          "modelo",
+          "manipulação",
+          "resultado",
+          "explicação",
+          "mini-desafio",
+          "fonte"
+        ],
+        "interaction": "gráfico de crescimento",
+        "reduced_motion": "preserva a compreensão sem animação"
+      },
+      "sources": [
+        "cs50_2026",
+        "khan_algorithms_pt",
+        "eear_edital_2027"
+      ],
+      "ee_ar_relevance": "extensão cultural/computacional; não substituir o conteúdo oficial do edital"
+    },
+    {
+      "id": "cs-07-sorting",
+      "slug": "sorting",
+      "title_pt": "Ordenação",
+      "body_pt": "Compare bolha, seleção, inserção, merge sort e quicksort por animação de passos.",
+      "mathematical_anchor": "comparação de algoritmos",
+      "ux": {
+        "mode": "interactive",
+        "sequence": [
+          "pergunta",
+          "modelo",
+          "manipulação",
+          "resultado",
+          "explicação",
+          "mini-desafio",
+          "fonte"
+        ],
+        "interaction": "corrida visual + contador",
+        "reduced_motion": "preserva a compreensão sem animação"
+      },
+      "sources": [
+        "cs50_2026",
+        "khan_algorithms_pt",
+        "eear_edital_2027"
+      ],
+      "ee_ar_relevance": "extensão cultural/computacional; não substituir o conteúdo oficial do edital"
+    },
+    {
+      "id": "cs-08-recursion",
+      "slug": "recursion",
+      "title_pt": "Recursão",
+      "body_pt": "Veja uma função chamar a si mesma até atingir um caso-base.",
+      "mathematical_anchor": "caso-base",
+      "ux": {
+        "mode": "interactive",
+        "sequence": [
+          "pergunta",
+          "modelo",
+          "manipulação",
+          "resultado",
+          "explicação",
+          "mini-desafio",
+          "fonte"
+        ],
+        "interaction": "pilha de chamadas",
+        "reduced_motion": "preserva a compreensão sem animação"
+      },
+      "sources": [
+        "cs50_2026",
+        "khan_algorithms_pt",
+        "eear_edital_2027"
+      ],
+      "ee_ar_relevance": "extensão cultural/computacional; não substituir o conteúdo oficial do edital"
+    },
+    {
+      "id": "cs-09-stack_queue",
+      "slug": "stack_queue",
+      "title_pt": "Pilha e fila",
+      "body_pt": "Simule LIFO e FIFO com objetos reais.",
+      "mathematical_anchor": "estruturas de dados",
+      "ux": {
+        "mode": "interactive",
+        "sequence": [
+          "pergunta",
+          "modelo",
+          "manipulação",
+          "resultado",
+          "explicação",
+          "mini-desafio",
+          "fonte"
+        ],
+        "interaction": "drag-and-drop",
+        "reduced_motion": "preserva a compreensão sem animação"
+      },
+      "sources": [
+        "cs50_2026",
+        "khan_algorithms_pt",
+        "eear_edital_2027"
+      ],
+      "ee_ar_relevance": "extensão cultural/computacional; não substituir o conteúdo oficial do edital"
+    },
+    {
+      "id": "cs-10-hashing",
+      "slug": "hashing",
+      "title_pt": "Hashing",
+      "body_pt": "Mostre como uma função transforma uma chave em uma posição e onde colisões aparecem.",
+      "mathematical_anchor": "função hash",
+      "ux": {
+        "mode": "interactive",
+        "sequence": [
+          "pergunta",
+          "modelo",
+          "manipulação",
+          "resultado",
+          "explicação",
+          "mini-desafio",
+          "fonte"
+        ],
+        "interaction": "buckets + colisões",
+        "reduced_motion": "preserva a compreensão sem animação"
+      },
+      "sources": [
+        "cs50_2026",
+        "khan_algorithms_pt",
+        "eear_edital_2027"
+      ],
+      "ee_ar_relevance": "extensão cultural/computacional; não substituir o conteúdo oficial do edital"
+    },
+    {
+      "id": "cs-11-compression",
+      "slug": "compression",
+      "title_pt": "Compressão",
+      "body_pt": "Explore por que redundância pode ser representada com menos informação.",
+      "mathematical_anchor": "codificação",
+      "ux": {
+        "mode": "interactive",
+        "sequence": [
+          "pergunta",
+          "modelo",
+          "manipulação",
+          "resultado",
+          "explicação",
+          "mini-desafio",
+          "fonte"
+        ],
+        "interaction": "comparador antes/depois",
+        "reduced_motion": "preserva a compreensão sem animação"
+      },
+      "sources": [
+        "cs50_2026",
+        "khan_algorithms_pt",
+        "eear_edital_2027"
+      ],
+      "ee_ar_relevance": "extensão cultural/computacional; não substituir o conteúdo oficial do edital"
+    },
+    {
+      "id": "cs-12-encryption",
+      "slug": "encryption",
+      "title_pt": "Criptografia",
+      "body_pt": "Experimente cifras simples e entenda chave, mensagem e texto cifrado.",
+      "mathematical_anchor": "cifra de substituição / XOR",
+      "ux": {
+        "mode": "interactive",
+        "sequence": [
+          "pergunta",
+          "modelo",
+          "manipulação",
+          "resultado",
+          "explicação",
+          "mini-desafio",
+          "fonte"
+        ],
+        "interaction": "entrada → cifra → decifra",
+        "reduced_motion": "preserva a compreensão sem animação"
+      },
+      "sources": [
+        "cs50_2026",
+        "khan_algorithms_pt",
+        "khan_crypto_pt"
+      ],
+      "ee_ar_relevance": "extensão cultural/computacional; não substituir o conteúdo oficial do edital"
+    },
+    {
+      "id": "cs-13-rsa_story",
+      "slug": "rsa_story",
+      "title_pt": "RSA sem matemática assustadora",
+      "body_pt": "Visualize chave pública/privada e o papel da aritmética modular.",
+      "mathematical_anchor": "aritmética modular",
+      "ux": {
+        "mode": "interactive",
+        "sequence": [
+          "pergunta",
+          "modelo",
+          "manipulação",
+          "resultado",
+          "explicação",
+          "mini-desafio",
+          "fonte"
+        ],
+        "interaction": "cofre interativo",
+        "reduced_motion": "preserva a compreensão sem animação"
+      },
+      "sources": [
+        "cs50_2026",
+        "khan_algorithms_pt",
+        "khan_crypto_pt"
+      ],
+      "ee_ar_relevance": "extensão cultural/computacional; não substituir o conteúdo oficial do edital"
+    },
+    {
+      "id": "cs-14-error_correction",
+      "slug": "error_correction",
+      "title_pt": "Correção de erros",
+      "body_pt": "Veja como redundância permite detectar e em alguns códigos corrigir erros.",
+      "mathematical_anchor": "paridade / redundância",
+      "ux": {
+        "mode": "interactive",
+        "sequence": [
+          "pergunta",
+          "modelo",
+          "manipulação",
+          "resultado",
+          "explicação",
+          "mini-desafio",
+          "fonte"
+        ],
+        "interaction": "transmissor → canal com ruído → receptor",
+        "reduced_motion": "preserva a compreensão sem animação"
+      },
+      "sources": [
+        "cs50_2026",
+        "khan_algorithms_pt",
+        "eear_edital_2027"
+      ],
+      "ee_ar_relevance": "extensão cultural/computacional; não substituir o conteúdo oficial do edital"
+    },
+    {
+      "id": "cs-15-pixels",
+      "slug": "pixels",
+      "title_pt": "Pixels e cor",
+      "body_pt": "Converta números RGB em pontos luminosos e compare resolução/quantidade de dados.",
+      "mathematical_anchor": "RGB",
+      "ux": {
+        "mode": "interactive",
+        "sequence": [
+          "pergunta",
+          "modelo",
+          "manipulação",
+          "resultado",
+          "explicação",
+          "mini-desafio",
+          "fonte"
+        ],
+        "interaction": "grade de pixels",
+        "reduced_motion": "preserva a compreensão sem animação"
+      },
+      "sources": [
+        "cs50_2026",
+        "khan_algorithms_pt",
+        "eear_edital_2027"
+      ],
+      "ee_ar_relevance": "extensão cultural/computacional; não substituir o conteúdo oficial do edital"
+    },
+    {
+      "id": "cs-16-audio_sampling",
+      "slug": "audio_sampling",
+      "title_pt": "Som digital",
+      "body_pt": "Transforme uma onda contínua em amostras e veja aliasing aparecer.",
+      "mathematical_anchor": "amostragem",
+      "ux": {
+        "mode": "interactive",
+        "sequence": [
+          "pergunta",
+          "modelo",
+          "manipulação",
+          "resultado",
+          "explicação",
+          "mini-desafio",
+          "fonte"
+        ],
+        "interaction": "slider de taxa de amostragem",
+        "reduced_motion": "preserva a compreensão sem animação"
+      },
+      "sources": [
+        "cs50_2026",
+        "khan_algorithms_pt",
+        "eear_edital_2027"
+      ],
+      "ee_ar_relevance": "extensão cultural/computacional; não substituir o conteúdo oficial do edital"
+    },
+    {
+      "id": "cs-17-fourier",
+      "slug": "fourier",
+      "title_pt": "Fourier: decompondo sons",
+      "body_pt": "Mostre como uma forma complexa pode ser expressa como combinação de componentes senoidais.",
+      "mathematical_anchor": "soma de senos",
+      "ux": {
+        "mode": "interactive",
+        "sequence": [
+          "pergunta",
+          "modelo",
+          "manipulação",
+          "resultado",
+          "explicação",
+          "mini-desafio",
+          "fonte"
+        ],
+        "interaction": "equalizador visual",
+        "reduced_motion": "preserva a compreensão sem animação"
+      },
+      "sources": [
+        "cs50_2026",
+        "khan_algorithms_pt",
+        "eear_edital_2027"
+      ],
+      "ee_ar_relevance": "extensão cultural/computacional; não substituir o conteúdo oficial do edital"
+    },
+    {
+      "id": "cs-18-gps",
+      "slug": "gps",
+      "title_pt": "Como o GPS estima posição",
+      "body_pt": "Mostre a ideia de trilateração por tempos/distâncias e relógios sincronizados.",
+      "mathematical_anchor": "geometria espacial",
+      "ux": {
+        "mode": "interactive",
+        "sequence": [
+          "pergunta",
+          "modelo",
+          "manipulação",
+          "resultado",
+          "explicação",
+          "mini-desafio",
+          "fonte"
+        ],
+        "interaction": "mapa + esferas de distância",
+        "reduced_motion": "preserva a compreensão sem animação"
+      },
+      "sources": [
+        "cs50_2026",
+        "khan_algorithms_pt",
+        "eear_edital_2027"
+      ],
+      "ee_ar_relevance": "extensão cultural/computacional; não substituir o conteúdo oficial do edital"
+    },
+    {
+      "id": "cs-19-networks",
+      "slug": "networks",
+      "title_pt": "Grafos e redes",
+      "body_pt": "Modele rotas, amizades, cadeia alimentar e internet como nós e arestas.",
+      "mathematical_anchor": "grafo",
+      "ux": {
+        "mode": "interactive",
+        "sequence": [
+          "pergunta",
+          "modelo",
+          "manipulação",
+          "resultado",
+          "explicação",
+          "mini-desafio",
+          "fonte"
+        ],
+        "interaction": "arrastar nós",
+        "reduced_motion": "preserva a compreensão sem animação"
+      },
+      "sources": [
+        "cs50_2026",
+        "khan_algorithms_pt",
+        "eear_edital_2027"
+      ],
+      "ee_ar_relevance": "extensão cultural/computacional; não substituir o conteúdo oficial do edital"
+    },
+    {
+      "id": "cs-20-traffic",
+      "slug": "traffic",
+      "title_pt": "Trânsito e teoria de filas",
+      "body_pt": "Veja como pequenas mudanças de entrada podem afetar filas.",
+      "mathematical_anchor": "fluxo / capacidade",
+      "ux": {
+        "mode": "interactive",
+        "sequence": [
+          "pergunta",
+          "modelo",
+          "manipulação",
+          "resultado",
+          "explicação",
+          "mini-desafio",
+          "fonte"
+        ],
+        "interaction": "simulação de carros",
+        "reduced_motion": "preserva a compreensão sem animação"
+      },
+      "sources": [
+        "cs50_2026",
+        "khan_algorithms_pt",
+        "eear_edital_2027"
+      ],
+      "ee_ar_relevance": "extensão cultural/computacional; não substituir o conteúdo oficial do edital"
+    },
+    {
+      "id": "cs-21-randomness",
+      "slug": "randomness",
+      "title_pt": "Aleatoriedade e Monte Carlo",
+      "body_pt": "Use amostras aleatórias para aproximar probabilidades e constantes.",
+      "mathematical_anchor": "amostragem",
+      "ux": {
+        "mode": "interactive",
+        "sequence": [
+          "pergunta",
+          "modelo",
+          "manipulação",
+          "resultado",
+          "explicação",
+          "mini-desafio",
+          "fonte"
+        ],
+        "interaction": "milhares de pontos",
+        "reduced_motion": "preserva a compreensão sem animação"
+      },
+      "sources": [
+        "cs50_2026",
+        "khan_algorithms_pt",
+        "eear_edital_2027"
+      ],
+      "ee_ar_relevance": "extensão cultural/computacional; não substituir o conteúdo oficial do edital"
+    },
+    {
+      "id": "cs-22-cellular_automata",
+      "slug": "cellular_automata",
+      "title_pt": "Autômatos celulares",
+      "body_pt": "Regras locais simples podem formar padrões complexos.",
+      "mathematical_anchor": "estado discreto",
+      "ux": {
+        "mode": "interactive",
+        "sequence": [
+          "pergunta",
+          "modelo",
+          "manipulação",
+          "resultado",
+          "explicação",
+          "mini-desafio",
+          "fonte"
+        ],
+        "interaction": "grade interativa",
+        "reduced_motion": "preserva a compreensão sem animação"
+      },
+      "sources": [
+        "cs50_2026",
+        "khan_algorithms_pt",
+        "eear_edital_2027"
+      ],
+      "ee_ar_relevance": "extensão cultural/computacional; não substituir o conteúdo oficial do edital"
+    },
+    {
+      "id": "cs-23-game_of_life",
+      "slug": "game_of_life",
+      "title_pt": "Jogo da Vida",
+      "body_pt": "Explore emergência, padrões e regras locais.",
+      "mathematical_anchor": "autômato celular",
+      "ux": {
+        "mode": "interactive",
+        "sequence": [
+          "pergunta",
+          "modelo",
+          "manipulação",
+          "resultado",
+          "explicação",
+          "mini-desafio",
+          "fonte"
+        ],
+        "interaction": "grade + play",
+        "reduced_motion": "preserva a compreensão sem animação"
+      },
+      "sources": [
+        "cs50_2026",
+        "khan_algorithms_pt",
+        "eear_edital_2027"
+      ],
+      "ee_ar_relevance": "extensão cultural/computacional; não substituir o conteúdo oficial do edital"
+    },
+    {
+      "id": "cs-24-machine_learning",
+      "slug": "machine_learning",
+      "title_pt": "Aprendizado de máquina sem mágica",
+      "body_pt": "Mostre treino, erro, ajuste de parâmetros e generalização em um modelo simples.",
+      "mathematical_anchor": "otimização",
+      "ux": {
+        "mode": "interactive",
+        "sequence": [
+          "pergunta",
+          "modelo",
+          "manipulação",
+          "resultado",
+          "explicação",
+          "mini-desafio",
+          "fonte"
+        ],
+        "interaction": "pontos + reta",
+        "reduced_motion": "preserva a compreensão sem animação"
+      },
+      "sources": [
+        "cs50_2026",
+        "khan_algorithms_pt",
+        "eear_edital_2027"
+      ],
+      "ee_ar_relevance": "extensão cultural/computacional; não substituir o conteúdo oficial do edital"
+    },
+    {
+      "id": "cs-25-data_structures",
+      "slug": "data_structures",
+      "title_pt": "Estruturas de dados",
+      "body_pt": "Compare lista, pilha, fila, árvore e grafo por comportamento.",
+      "mathematical_anchor": "organização de dados",
+      "ux": {
+        "mode": "interactive",
+        "sequence": [
+          "pergunta",
+          "modelo",
+          "manipulação",
+          "resultado",
+          "explicação",
+          "mini-desafio",
+          "fonte"
+        ],
+        "interaction": "visualizador",
+        "reduced_motion": "preserva a compreensão sem animação"
+      },
+      "sources": [
+        "cs50_2026",
+        "khan_algorithms_pt",
+        "eear_edital_2027"
+      ],
+      "ee_ar_relevance": "extensão cultural/computacional; não substituir o conteúdo oficial do edital"
+    },
+    {
+      "id": "cs-26-sql",
+      "slug": "sql",
+      "title_pt": "Banco de dados e SQL",
+      "body_pt": "Consulte pequenas tabelas e veja como SELECT/JOIN transforma dados em informação.",
+      "mathematical_anchor": "relacionamento entre tabelas",
+      "ux": {
+        "mode": "interactive",
+        "sequence": [
+          "pergunta",
+          "modelo",
+          "manipulação",
+          "resultado",
+          "explicação",
+          "mini-desafio",
+          "fonte"
+        ],
+        "interaction": "consulta guiada",
+        "reduced_motion": "preserva a compreensão sem animação"
+      },
+      "sources": [
+        "cs50_2026",
+        "khan_algorithms_pt",
+        "eear_edital_2027"
+      ],
+      "ee_ar_relevance": "extensão cultural/computacional; não substituir o conteúdo oficial do edital"
+    },
+    {
+      "id": "cs-27-web",
+      "slug": "web",
+      "title_pt": "Como uma página chega até você",
+      "body_pt": "Siga navegador, DNS, HTTP, servidor e navegador em uma viagem visual.",
+      "mathematical_anchor": "requisição/resposta",
+      "ux": {
+        "mode": "interactive",
+        "sequence": [
+          "pergunta",
+          "modelo",
+          "manipulação",
+          "resultado",
+          "explicação",
+          "mini-desafio",
+          "fonte"
+        ],
+        "interaction": "timeline de rede",
+        "reduced_motion": "preserva a compreensão sem animação"
+      },
+      "sources": [
+        "cs50_2026",
+        "khan_algorithms_pt",
+        "eear_edital_2027"
+      ],
+      "ee_ar_relevance": "extensão cultural/computacional; não substituir o conteúdo oficial do edital"
+    },
+    {
+      "id": "cs-28-internet_packet",
+      "slug": "internet_packet",
+      "title_pt": "Pacotes",
+      "body_pt": "Veja uma mensagem ser dividida em pacotes e remontada no destino.",
+      "mathematical_anchor": "fragmentação/reassemblagem",
+      "ux": {
+        "mode": "interactive",
+        "sequence": [
+          "pergunta",
+          "modelo",
+          "manipulação",
+          "resultado",
+          "explicação",
+          "mini-desafio",
+          "fonte"
+        ],
+        "interaction": "animação de pacotes",
+        "reduced_motion": "preserva a compreensão sem animação"
+      },
+      "sources": [
+        "cs50_2026",
+        "khan_algorithms_pt",
+        "eear_edital_2027"
+      ],
+      "ee_ar_relevance": "extensão cultural/computacional; não substituir o conteúdo oficial do edital"
+    },
+    {
+      "id": "cs-29-logic",
+      "slug": "logic",
+      "title_pt": "Lógica proposicional",
+      "body_pt": "Monte proposições e tabelas-verdade para raciocinar sobre condições.",
+      "mathematical_anchor": "AND/OR/NOT/implicação",
+      "ux": {
+        "mode": "interactive",
+        "sequence": [
+          "pergunta",
+          "modelo",
+          "manipulação",
+          "resultado",
+          "explicação",
+          "mini-desafio",
+          "fonte"
+        ],
+        "interaction": "tabela verdade",
+        "reduced_motion": "preserva a compreensão sem animação"
+      },
+      "sources": [
+        "cs50_2026",
+        "khan_algorithms_pt",
+        "eear_edital_2027"
+      ],
+      "ee_ar_relevance": "extensão cultural/computacional; não substituir o conteúdo oficial do edital"
+    },
+    {
+      "id": "cs-30-number_systems",
+      "slug": "number_systems",
+      "title_pt": "Bases numéricas",
+      "body_pt": "Compare decimal, binário, hexadecimal e outras bases com o mesmo número.",
+      "mathematical_anchor": "base b",
+      "ux": {
+        "mode": "interactive",
+        "sequence": [
+          "pergunta",
+          "modelo",
+          "manipulação",
+          "resultado",
+          "explicação",
+          "mini-desafio",
+          "fonte"
+        ],
+        "interaction": "roleta de base",
+        "reduced_motion": "preserva a compreensão sem animação"
+      },
+      "sources": [
+        "cs50_2026",
+        "khan_algorithms_pt",
+        "eear_edital_2027"
+      ],
+      "ee_ar_relevance": "extensão cultural/computacional; não substituir o conteúdo oficial do edital"
+    },
+    {
+      "id": "cs-31-modular",
+      "slug": "modular",
+      "title_pt": "Aritmética modular",
+      "body_pt": "Entenda restos como um sistema de relógio e conecte com ciclos e criptografia.",
+      "mathematical_anchor": "a mod n",
+      "ux": {
+        "mode": "interactive",
+        "sequence": [
+          "pergunta",
+          "modelo",
+          "manipulação",
+          "resultado",
+          "explicação",
+          "mini-desafio",
+          "fonte"
+        ],
+        "interaction": "relógio modular",
+        "reduced_motion": "preserva a compreensão sem animação"
+      },
+      "sources": [
+        "cs50_2026",
+        "khan_algorithms_pt",
+        "eear_edital_2027"
+      ],
+      "ee_ar_relevance": "extensão cultural/computacional; não substituir o conteúdo oficial do edital"
+    },
+    {
+      "id": "cs-32-graphs_paths",
+      "slug": "graphs_paths",
+      "title_pt": "Caminhos mínimos",
+      "body_pt": "Visualize por que pesos mudam a melhor rota e introduza Dijkstra.",
+      "mathematical_anchor": "menor caminho",
+      "ux": {
+        "mode": "interactive",
+        "sequence": [
+          "pergunta",
+          "modelo",
+          "manipulação",
+          "resultado",
+          "explicação",
+          "mini-desafio",
+          "fonte"
+        ],
+        "interaction": "mapa de nós",
+        "reduced_motion": "preserva a compreensão sem animação"
+      },
+      "sources": [
+        "cs50_2026",
+        "khan_algorithms_pt",
+        "eear_edital_2027"
+      ],
+      "ee_ar_relevance": "extensão cultural/computacional; não substituir o conteúdo oficial do edital"
+    },
+    {
+      "id": "cs-33-trees",
+      "slug": "trees",
+      "title_pt": "Árvores e busca",
+      "body_pt": "Veja hierarquias e busca em árvore.",
+      "mathematical_anchor": "árvore binária",
+      "ux": {
+        "mode": "interactive",
+        "sequence": [
+          "pergunta",
+          "modelo",
+          "manipulação",
+          "resultado",
+          "explicação",
+          "mini-desafio",
+          "fonte"
+        ],
+        "interaction": "inserção animada",
+        "reduced_motion": "preserva a compreensão sem animação"
+      },
+      "sources": [
+        "cs50_2026",
+        "khan_algorithms_pt",
+        "eear_edital_2027"
+      ],
+      "ee_ar_relevance": "extensão cultural/computacional; não substituir o conteúdo oficial do edital"
+    },
+    {
+      "id": "cs-34-regex",
+      "slug": "regex",
+      "title_pt": "Padrões em texto",
+      "body_pt": "Aprenda como uma expressão regular descreve famílias de textos.",
+      "mathematical_anchor": "padrões",
+      "ux": {
+        "mode": "interactive",
+        "sequence": [
+          "pergunta",
+          "modelo",
+          "manipulação",
+          "resultado",
+          "explicação",
+          "mini-desafio",
+          "fonte"
+        ],
+        "interaction": "editor com destaque",
+        "reduced_motion": "preserva a compreensão sem animação"
+      },
+      "sources": [
+        "cs50_2026",
+        "khan_algorithms_pt",
+        "eear_edital_2027"
+      ],
+      "ee_ar_relevance": "extensão cultural/computacional; não substituir o conteúdo oficial do edital"
+    },
+    {
+      "id": "cs-35-floating_point",
+      "slug": "floating_point",
+      "title_pt": "Números de ponto flutuante",
+      "body_pt": "Descubra por que certos números decimais não têm representação binária exata.",
+      "mathematical_anchor": "aproximação",
+      "ux": {
+        "mode": "interactive",
+        "sequence": [
+          "pergunta",
+          "modelo",
+          "manipulação",
+          "resultado",
+          "explicação",
+          "mini-desafio",
+          "fonte"
+        ],
+        "interaction": "erro ampliado",
+        "reduced_motion": "preserva a compreensão sem animação"
+      },
+      "sources": [
+        "cs50_2026",
+        "khan_algorithms_pt",
+        "eear_edital_2027"
+      ],
+      "ee_ar_relevance": "extensão cultural/computacional; não substituir o conteúdo oficial do edital"
+    },
+    {
+      "id": "cs-36-overflow",
+      "slug": "overflow",
+      "title_pt": "Overflow",
+      "body_pt": "Observe o que acontece quando um número excede a faixa representável de um tipo.",
+      "mathematical_anchor": "limite de bits",
+      "ux": {
+        "mode": "interactive",
+        "sequence": [
+          "pergunta",
+          "modelo",
+          "manipulação",
+          "resultado",
+          "explicação",
+          "mini-desafio",
+          "fonte"
+        ],
+        "interaction": "contador circular",
+        "reduced_motion": "preserva a compreensão sem animação"
+      },
+      "sources": [
+        "cs50_2026",
+        "khan_algorithms_pt",
+        "eear_edital_2027"
+      ],
+      "ee_ar_relevance": "extensão cultural/computacional; não substituir o conteúdo oficial do edital"
+    },
+    {
+      "id": "cs-37-color_depth",
+      "slug": "color_depth",
+      "title_pt": "Profundidade de cor",
+      "body_pt": "Relacione bits por pixel à quantidade de cores possíveis.",
+      "mathematical_anchor": "2^n",
+      "ux": {
+        "mode": "interactive",
+        "sequence": [
+          "pergunta",
+          "modelo",
+          "manipulação",
+          "resultado",
+          "explicação",
+          "mini-desafio",
+          "fonte"
+        ],
+        "interaction": "paleta expansível",
+        "reduced_motion": "preserva a compreensão sem animação"
+      },
+      "sources": [
+        "cs50_2026",
+        "khan_algorithms_pt",
+        "eear_edital_2027"
+      ],
+      "ee_ar_relevance": "extensão cultural/computacional; não substituir o conteúdo oficial do edital"
+    },
+    {
+      "id": "cs-38-sorting_stability",
+      "slug": "sorting_stability",
+      "title_pt": "Estabilidade de ordenação",
+      "body_pt": "Veja por que manter a ordem relativa de empates pode ser importante.",
+      "mathematical_anchor": "estabilidade",
+      "ux": {
+        "mode": "interactive",
+        "sequence": [
+          "pergunta",
+          "modelo",
+          "manipulação",
+          "resultado",
+          "explicação",
+          "mini-desafio",
+          "fonte"
+        ],
+        "interaction": "comparador de registros",
+        "reduced_motion": "preserva a compreensão sem animação"
+      },
+      "sources": [
+        "cs50_2026",
+        "khan_algorithms_pt",
+        "eear_edital_2027"
+      ],
+      "ee_ar_relevance": "extensão cultural/computacional; não substituir o conteúdo oficial do edital"
+    },
+    {
+      "id": "cs-39-algorithm_choice",
+      "slug": "algorithm_choice",
+      "title_pt": "Escolha de algoritmo",
+      "body_pt": "Dê uma tarefa e compare estratégias diferentes conforme tamanho e estrutura do problema.",
+      "mathematical_anchor": "complexidade",
+      "ux": {
+        "mode": "interactive",
+        "sequence": [
+          "pergunta",
+          "modelo",
+          "manipulação",
+          "resultado",
+          "explicação",
+          "mini-desafio",
+          "fonte"
+        ],
+        "interaction": "seletor de cenário",
+        "reduced_motion": "preserva a compreensão sem animação"
+      },
+      "sources": [
+        "cs50_2026",
+        "khan_algorithms_pt",
+        "eear_edital_2027"
+      ],
+      "ee_ar_relevance": "extensão cultural/computacional; não substituir o conteúdo oficial do edital"
+    },
+    {
+      "id": "cs-40-simulation",
+      "slug": "simulation",
+      "title_pt": "Simulação científica",
+      "body_pt": "Mostre hipóteses, parâmetros, estado e observações em um modelo computacional.",
+      "mathematical_anchor": "modelo",
+      "ux": {
+        "mode": "interactive",
+        "sequence": [
+          "pergunta",
+          "modelo",
+          "manipulação",
+          "resultado",
+          "explicação",
+          "mini-desafio",
+          "fonte"
+        ],
+        "interaction": "painel de parâmetros",
+        "reduced_motion": "preserva a compreensão sem animação"
+      },
+      "sources": [
+        "cs50_2026",
+        "khan_algorithms_pt",
+        "eear_edital_2027"
+      ],
+      "ee_ar_relevance": "extensão cultural/computacional; não substituir o conteúdo oficial do edital"
+    }
+  ]
+}

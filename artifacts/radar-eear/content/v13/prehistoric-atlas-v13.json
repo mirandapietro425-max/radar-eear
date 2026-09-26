@@ -1,0 +1,133 @@
+[
+  {
+    "id": "laetoli",
+    "name": "Laetoli",
+    "lat": -3.925,
+    "lon": 35.34,
+    "region": "Tanzânia",
+    "period": "Plioceno",
+    "type": "pegadas hominíneas",
+    "story": "Pegadas preservadas ajudam a discutir locomoção e ambiente.",
+    "sources": [
+      "smithsonian-human-origins-evidence"
+    ]
+  },
+  {
+    "id": "olduvai",
+    "name": "Garganta de Olduvai",
+    "lat": -2.987,
+    "lon": 35.35,
+    "region": "Tanzânia",
+    "period": "Pleistoceno inicial",
+    "type": "arqueologia",
+    "story": "Ferramentas de pedra e depósitos arqueológicos documentam atividades humanas antigas.",
+    "sources": [
+      "smithsonian-tools-food"
+    ]
+  },
+  {
+    "id": "sima-de-los-huesos",
+    "name": "Sima de los Huesos",
+    "lat": 40.151,
+    "lon": -3.51,
+    "region": "Espanha",
+    "period": "Pleistoceno",
+    "type": "fósseis humanos",
+    "story": "DNA e fósseis ajudaram a discutir a história inicial dos neandertais.",
+    "sources": [
+      "smithsonian-human-origins-evidence",
+      "smithsonian-neanderthal"
+    ]
+  },
+  {
+    "id": "neander-valley",
+    "name": "Vale de Neander",
+    "lat": 51.23,
+    "lon": 6.95,
+    "region": "Alemanha",
+    "period": "Pleistoceno",
+    "type": "descoberta histórica",
+    "story": "Local que deu nome aos neandertais.",
+    "sources": [
+      "smithsonian-neanderthal"
+    ]
+  },
+  {
+    "id": "denisova-cave",
+    "name": "Caverna Denisova",
+    "lat": 51.397,
+    "lon": 84.676,
+    "region": "Sibéria",
+    "period": "Pleistoceno",
+    "type": "fósseis e DNA antigo",
+    "story": "Local central para o estudo dos denisovanos.",
+    "sources": [
+      "smithsonian-human-origins-evidence"
+    ]
+  },
+  {
+    "id": "schoningen",
+    "name": "Schöningen",
+    "lat": 52.14,
+    "lon": 10.97,
+    "region": "Alemanha",
+    "period": "Pleistoceno",
+    "type": "lanças de madeira",
+    "story": "Lanças com cerca de 400 mil anos ajudam a discutir caça e tecnologia.",
+    "sources": [
+      "smithsonian-tools-food"
+    ]
+  },
+  {
+    "id": "chauvet",
+    "name": "Caverna Chauvet",
+    "lat": 44.387,
+    "lon": 4.413,
+    "region": "França",
+    "period": "Paleolítico",
+    "type": "arte rupestre",
+    "story": "Arte rupestre para explorar comportamento simbólico e cultura material.",
+    "sources": [
+      "smithsonian-human-origins-evidence"
+    ]
+  },
+  {
+    "id": "serra-da-capivara",
+    "name": "Parque Nacional Serra da Capivara",
+    "lat": -8.827,
+    "lon": -42.553,
+    "region": "Brasil",
+    "period": "Pré-História",
+    "type": "arqueologia e arte rupestre",
+    "story": "Conjunto de sítios arqueológicos brasileiros para explorar ocupação humana e paisagem.",
+    "sources": [
+      "ufrj-museum"
+    ]
+  },
+  {
+    "id": "lagoa-santa",
+    "name": "Lagoa Santa",
+    "lat": -19.63,
+    "lon": -43.89,
+    "region": "Brasil",
+    "period": "Holoceno/ocupações antigas",
+    "type": "paleoantropologia",
+    "story": "Região importante para a pesquisa paleoantropológica no Brasil.",
+    "sources": [
+      "ufrj-museum"
+    ]
+  },
+  {
+    "id": "pampas-la-plata",
+    "name": "Museo de La Plata — megafauna",
+    "lat": -34.921,
+    "lon": -57.955,
+    "region": "Argentina",
+    "period": "Pleistoceno",
+    "type": "megafauna",
+    "story": "Exposição de megafauna quaternária sul-americana, incluindo Toxodon.",
+    "sources": [
+      "museum-la-plata-cenozoic"
+    ]
+  }
+]

@@ -1,0 +1,5 @@
+{
+  "bible-commentary": "src/features/bible-study/BibleCommentaryExplorer.tsx",
+  "computer-maintenance": "src/features/hardware/ComputerMaintenancePage.tsx",
+  "subject-explainers": "src/features/subject-guides/SubjectExplainerDeck.tsx"
+}

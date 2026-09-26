@@ -1,0 +1,125 @@
+{
+  "version": "v15",
+  "audit": [
+    {
+      "id": "a01",
+      "request": "Mapa/globo girável com curiosidades e clique contextual",
+      "status": "present",
+      "note": "Globo editorial v14 + modo Google 3D opcional; cobertura por pontos, não por todos os polígonos."
+    },
+    {
+      "id": "a02",
+      "request": "Google Maps / Google Earth",
+      "status": "present_with_external_config",
+      "note": "Código de integração preparado; VITE_GOOGLE_MAPS_API_KEY continua necessária."
+    },
+    {
+      "id": "a03",
+      "request": "66 livros protestantes / 1189 capítulos",
+      "status": "indexed",
+      "note": "Índice completo presente; comentário profundo capítulo a capítulo continua sendo expansão editorial."
+    },
+    {
+      "id": "a04",
+      "request": "Novo Testamento e cartas de Paulo",
+      "status": "present",
+      "note": "Atlas/roteamento de cartas e lugares paulinos incluídos nas camadas anteriores."
+    },
+    {
+      "id": "a05",
+      "request": "Apócrifos / Enoque / formação do cânon",
+      "status": "present",
+      "note": "52 textos e 20 mitos/perguntas na v9; continuar enriquecendo fontes e leitura."
+    },
+    {
+      "id": "a06",
+      "request": "Filósofos, teólogos, matemáticos, físicos e biografias",
+      "status": "present_and_expandable",
+      "note": "Perfis e trilhas existentes; v15 adiciona padrão de ficha e conexões."
+    },
+    {
+      "id": "a07",
+      "request": "Literatura brasileira/mundial e leitura de obras",
+      "status": "present_and_expandable",
+      "note": "Biblioteca presente; direitos de cada edição/tradução continuam sendo verificados individualmente."
+    },
+    {
+      "id": "a08",
+      "request": "Cultura pop ligada a conceitos",
+      "status": "present_and_expandable",
+      "note": "44 referências anteriores; v15 amplia conexões e cria motor de filtros."
+    },
+    {
+      "id": "a09",
+      "request": "Biologia / ecologia / fauna pré-histórica",
+      "status": "present_and_expandable",
+      "note": "Camada v13 presente; v15 adiciona mais modos de experiência e conexões."
+    },
+    {
+      "id": "a10",
+      "request": "História da arte / matemática / física / português / inglês",
+      "status": "present_and_expandable",
+      "note": "Hubs históricos existentes; v15 formaliza trilhas de história por disciplina."
+    },
+    {
+      "id": "a11",
+      "request": "Resumos das 4 matérias EEAR",
+      "status": "present",
+      "note": "Componente de resumo presente; v15 adiciona estrutura de mapa de domínio."
+    },
+    {
+      "id": "a12",
+      "request": "Jogos de Português / Inglês / Matemática / Física",
+      "status": "present_and_expandable",
+      "note": "Jogos v10 presentes; v15 adiciona 120 novos blueprints pedagógicos."
+    },
+    {
+      "id": "a13",
+      "request": "Laboratórios interativos",
+      "status": "present_and_expandable",
+      "note": "Labs de matemática/física/computação existentes; v15 acrescenta padrões de desafio e feedback."
+    },
+    {
+      "id": "a14",
+      "request": "Montagem e manutenção de computadores",
+      "status": "present",
+      "note": "Trilha básica de hardware/software existente."
+    },
+    {
+      "id": "a15",
+      "request": "Questões de provas antigas",
+      "status": "partial",
+      "note": "Catálogo oficial existe; ingestão integral de todos os PDFs ainda não foi concluída."
+    },
+    {
+      "id": "a16",
+      "request": "Push / diário / repetição",
+      "status": "present_and_expandable",
+      "note": "Rotação diária existe; v15 reforça composição por domínio, revisão e curiosidade."
+    },
+    {
+      "id": "a17",
+      "request": "Acessibilidade / performance / baixo consumo",
+      "status": "needs_hardening",
+      "note": "Redução de movimento e lazy-load existem; v15 cria orçamento explícito e checklist WCAG."
+    },
+    {
+      "id": "a18",
+      "request": "Busca global e conexões entre conteúdos",
+      "status": "needs_hardening",
+      "note": "Há buscas locais; v15 cria contrato de grafo de conhecimento unificado."
+    },
+    {
+      "id": "a19",
+      "request": "Proveniência / direitos / fontes",
+      "status": "present_and_expandable",
+      "note": "Registros de mídia e fontes já existem; v15 cria estados uniformes de confiança/licença."
+    },
+    {
+      "id": "a20",
+      "request": "Área social / sociologia / pensamento social",
+      "status": "present_and_expandable",
+      "note": "Marx, Weber e outros já catalogados; v15 adiciona conexão com cultura e história."
+    }
+  ]
+}

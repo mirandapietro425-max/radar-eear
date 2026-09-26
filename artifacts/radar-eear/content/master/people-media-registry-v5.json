@@ -1,0 +1,62 @@
+{
+  "schema_version": "5.1",
+  "language": "pt-BR",
+  "policy": "Lazy-load remoto; só empacotar localmente após verificação item a item.",
+  "media": [
+    {
+      "id": "newton-kneller-1689",
+      "person_id": "isaac-newton",
+      "provider": "Wikimedia Commons",
+      "type": "portrait",
+      "source_url": "https://commons.wikimedia.org/wiki/Category:Portraits_of_Isaac_Newton",
+      "asset_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Portrait_of_Sir_Isaac_Newton,_1689.jpg",
+      "license_status": "verificar página do arquivo antes de produção",
+      "caption_pt": "Isaac Newton — retrato histórico atribuído a Godfrey Kneller",
+      "alt_pt": "Retrato histórico de Isaac Newton"
+    },
+    {
+      "id": "marx-1875",
+      "person_id": "karl-marx",
+      "provider": "Wikimedia Commons",
+      "type": "portrait",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Karl_Marx_by_John_Jabez_Edwin_Mayall_1875_-_Restored.png",
+      "asset_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Karl_Marx_by_John_Jabez_Edwin_Mayall_1875_-_Restored.png",
+      "license_status": "Public Domain Mark na página do arquivo",
+      "caption_pt": "Karl Marx — retrato de 1875",
+      "alt_pt": "Retrato histórico de Karl Marx"
+    },
+    {
+      "id": "weber-1918",
+      "person_id": "max-weber",
+      "provider": "Wikimedia Commons",
+      "type": "portrait",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Max_Weber,_1918.jpg",
+      "asset_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Max_Weber,_1918.jpg",
+      "license_status": "verificar página do arquivo antes de produção",
+      "caption_pt": "Max Weber, 1918",
+      "alt_pt": "Fotografia histórica de Max Weber"
+    },
+    {
+      "id": "machado-ferrez",
+      "person_id": "machado-de-assis",
+      "provider": "Wikimedia Commons",
+      "type": "portrait",
+      "source_url": "https://commons.wikimedia.org/wiki/Category:Machado_de_Assis",
+      "asset_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Machado_de_Assis_by_Marc_Ferrez.jpg",
+      "license_status": "verificar página do arquivo antes de produção",
+      "caption_pt": "Machado de Assis — fotografia histórica",
+      "alt_pt": "Fotografia histórica de Machado de Assis"
+    },
+    {
+      "id": "tolstoy-kramskoi",
+      "person_id": "leo-tolstoy",
+      "provider": "Wikimedia Commons",
+      "type": "portrait",
+      "source_url": "https://commons.wikimedia.org/wiki/Category:Portraits_of_Leo_Tolstoy",
+      "asset_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Ivan_Nikolayevich_Kramskoi_-_Portrait_of_Leo_Tolstoy,_1873.jpg",
+      "license_status": "verificar página do arquivo antes de produção",
+      "caption_pt": "Liev Tolstói — retrato histórico",
+      "alt_pt": "Retrato histórico de Liev Tolstói"
+    }
+  ]
+}

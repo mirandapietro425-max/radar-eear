@@ -1,0 +1,80 @@
+{
+  "version": "v15",
+  "node_types": [
+    "person",
+    "work",
+    "place",
+    "event",
+    "concept",
+    "question",
+    "game",
+    "lab",
+    "scripture_passage",
+    "bible_book",
+    "apocrypha_text",
+    "film",
+    "series",
+    "animal",
+    "species",
+    "artwork",
+    "source",
+    "media",
+    "subject_topic",
+    "historical_period"
+  ],
+  "edge_types": [
+    "influenced",
+    "wrote",
+    "lived_in",
+    "happened_at",
+    "mentions",
+    "illustrates",
+    "requires",
+    "contrasts_with",
+    "related_to",
+    "appears_in",
+    "adaptation_of",
+    "source_for",
+    "question_about",
+    "lab_for",
+    "game_for",
+    "book_contains",
+    "chapter_of",
+    "same_place_as",
+    "same_period_as"
+  ],
+  "node_minimum_fields": [
+    "id",
+    "type",
+    "title_pt",
+    "summary_pt",
+    "tags",
+    "source_ids",
+    "media_ids",
+    "status"
+  ],
+  "source_status": [
+    "primary",
+    "academic",
+    "institutional",
+    "editorial",
+    "secondary",
+    "user_generated"
+  ],
+  "confidence_status": [
+    "verified",
+    "supported_inference",
+    "tradition",
+    "uncertain",
+    "research_pending"
+  ],
+  "rights_status": [
+    "public_domain",
+    "cc0",
+    "cc_by",
+    "cc_by_sa",
+    "licensed",
+    "external_link_only",
+    "unknown_review_required"
+  ]
+}

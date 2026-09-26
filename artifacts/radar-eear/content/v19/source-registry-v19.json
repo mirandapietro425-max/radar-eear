@@ -1,0 +1,40 @@
+{
+  "schema_version": "19.0",
+  "sources": [
+    {
+      "id": "src_eear_cfs_2_2027",
+      "title": "IE/EA CFS 2/2027 — Anexo III",
+      "url": "https://ingresso.eear.fab.mil.br/SOO/editais/CFS%202%202027/ie.pdf",
+      "language": "pt-BR",
+      "type": "official"
+    },
+    {
+      "id": "src_phet_pt",
+      "title": "PhET — Simulações Interativas",
+      "url": "https://phet.colorado.edu/pt_BR",
+      "language": "pt-BR",
+      "type": "education"
+    },
+    {
+      "id": "src_geogebra_pt",
+      "title": "GeoGebra — Materiais em português",
+      "url": "https://www.geogebra.org/materials?lang=pt",
+      "language": "pt",
+      "type": "education"
+    },
+    {
+      "id": "src_capacitor_v8",
+      "title": "Capacitor v8 Documentation",
+      "url": "https://capacitorjs.com/docs",
+      "language": "en",
+      "type": "technology"
+    },
+    {
+      "id": "src_pwa_manifest",
+      "title": "web.dev — Manifesto de app da Web",
+      "url": "https://web.dev/learn/pwa/web-app-manifest?hl=pt-br",
+      "language": "pt-BR",
+      "type": "technology"
+    }
+  ]
+}

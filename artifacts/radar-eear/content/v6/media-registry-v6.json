@@ -1,0 +1,88 @@
+{
+  "schema_version": "6.0",
+  "language": "pt-BR",
+  "items": [
+    {
+      "id": "img-newton-kneller",
+      "subject_id": "isaac-newton",
+      "provider": "Wikimedia Commons",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Portrait_of_Sir_Isaac_Newton,_1689.jpg",
+      "status": "visual-reference-verified",
+      "license_note": "A página marca a obra retratada como domínio público; verificar o arquivo/reprodução específica antes do uso em produção.",
+      "alt_pt": "Retrato histórico de Isaac Newton de 1689."
+    },
+    {
+      "id": "img-marx-1875",
+      "subject_id": "karl-marx",
+      "provider": "Wikimedia Commons",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Karl_Marx,_1875.jpg",
+      "status": "visual-reference",
+      "license_note": "Verificar a página do arquivo específico antes da redistribuição.",
+      "alt_pt": "Retrato histórico de Karl Marx em 1875."
+    },
+    {
+      "id": "img-weber-1918",
+      "subject_id": "max-weber",
+      "provider": "Wikimedia Commons",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Max_Weber,_1918.jpg",
+      "status": "visual-reference",
+      "license_note": "Verificar a licença do arquivo específico.",
+      "alt_pt": "Retrato histórico de Max Weber em 1918."
+    },
+    {
+      "id": "img-galileo-1636",
+      "subject_id": "galileo-galilei",
+      "provider": "Wikimedia Commons",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Justus_Sustermans_-_Portrait_of_Galileo_Galilei,_1636.jpg",
+      "status": "visual-reference",
+      "license_note": "Verificar a licença da reprodução específica.",
+      "alt_pt": "Retrato histórico de Galileu Galilei."
+    },
+    {
+      "id": "img-smithsonian-animals",
+      "subject_id": "biology",
+      "provider": "Smithsonian National Museum of Natural History",
+      "source_url": "https://naturalhistory.si.edu/explore/animals",
+      "status": "institutional-gallery",
+      "license_note": "Preferir imagens identificadas como Open Access quando houver essa marca.",
+      "alt_pt": "Galeria de animais e histórias de ciência do Smithsonian."
+    },
+    {
+      "id": "img-smithsonian-ecosystems",
+      "subject_id": "ecology",
+      "provider": "Smithsonian Institution",
+      "source_url": "https://www.si.edu/explore/science/animals-and-environment",
+      "status": "institutional-gallery",
+      "license_note": "Usar itens identificados como Open Access ou obter autorização quando necessário.",
+      "alt_pt": "Recursos sobre animais e ecossistemas do Smithsonian."
+    },
+    {
+      "id": "img-smithsonian-life-science",
+      "subject_id": "biology",
+      "provider": "Smithsonian National Museum of Natural History",
+      "source_url": "https://naturalhistory.si.edu/education/teaching-resources/life-science",
+      "status": "institutional-gallery",
+      "license_note": "Checar cada asset individual.",
+      "alt_pt": "Recursos visuais e educativos de ciências da vida."
+    },
+    {
+      "id": "img-nyse-floor",
+      "subject_id": "nyse",
+      "provider": "NYSE",
+      "source_url": "https://www.nyse.com/history-of-nyse",
+      "status": "editorial-reference",
+      "license_note": "Não copiar automaticamente imagens; linkar para a fonte ou obter permissão/licença.",
+      "alt_pt": "Material histórico da Bolsa de Nova York."
+    },
+    {
+      "id": "img-nasa-library",
+      "subject_id": "space",
+      "provider": "NASA Image and Video Library",
+      "source_url": "https://images.nasa.gov/",
+      "status": "api-source",
+      "license_note": "Verificar cada asset, terceiros, marcas e pessoas identificáveis.",
+      "alt_pt": "Biblioteca de imagens e vídeos da NASA."
+    }
+  ],
+  "policy": "Imagens ficam ligadas ao sujeito e à licença/proveniência. O app não deve baixar/copiar automaticamente um asset sem conferir os termos do item específico."
+}

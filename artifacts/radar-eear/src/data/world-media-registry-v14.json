@@ -1,0 +1,1014 @@
+{
+  "version": "v14",
+  "count": 112,
+  "items": [
+    {
+      "id": "hub-babylon-commons",
+      "place_id": "hub-babylon",
+      "provider": "Wikimedia Commons",
+      "query": "Babilônia",
+      "search_url": "https://commons.wikimedia.org/w/index.php?search=Babilônia&title=Special:MediaSearch&type=image",
+      "license": "verificar no arquivo individual",
+      "use": "fallback visual do lugar"
+    },
+    {
+      "id": "hub-uruk-commons",
+      "place_id": "hub-uruk",
+      "provider": "Wikimedia Commons",
+      "query": "Uruk",
+      "search_url": "https://commons.wikimedia.org/w/index.php?search=Uruk&title=Special:MediaSearch&type=image",
+      "license": "verificar no arquivo individual",
+      "use": "fallback visual do lugar"
+    },
+    {
+      "id": "hub-giza-commons",
+      "place_id": "hub-giza",
+      "provider": "Wikimedia Commons",
+      "query": "Gizé",
+      "search_url": "https://commons.wikimedia.org/w/index.php?search=Gizé&title=Special:MediaSearch&type=image",
+      "license": "verificar no arquivo individual",
+      "use": "fallback visual do lugar"
+    },
+    {
+      "id": "hub-alexandria-commons",
+      "place_id": "hub-alexandria",
+      "provider": "Wikimedia Commons",
+      "query": "Alexandria",
+      "search_url": "https://commons.wikimedia.org/w/index.php?search=Alexandria&title=Special:MediaSearch&type=image",
+      "license": "verificar no arquivo individual",
+      "use": "fallback visual do lugar"
+    },
+    {
+      "id": "hub-jerusalem-commons",
+      "place_id": "hub-jerusalem",
+      "provider": "Wikimedia Commons",
+      "query": "Jerusalém",
+      "search_url": "https://commons.wikimedia.org/w/index.php?search=Jerusalém&title=Special:MediaSearch&type=image",
+      "license": "verificar no arquivo individual",
+      "use": "fallback visual do lugar"
+    },
+    {
+      "id": "hub-qumran-commons",
+      "place_id": "hub-qumran",
+      "provider": "Wikimedia Commons",
+      "query": "Qumran",
+      "search_url": "https://commons.wikimedia.org/w/index.php?search=Qumran&title=Special:MediaSearch&type=image",
+      "license": "verificar no arquivo individual",
+      "use": "fallback visual do lugar"
+    },
+    {
+      "id": "hub-athens-commons",
+      "place_id": "hub-athens",
+      "provider": "Wikimedia Commons",
+      "query": "Atenas",
+      "search_url": "https://commons.wikimedia.org/w/index.php?search=Atenas&title=Special:MediaSearch&type=image",
+      "license": "verificar no arquivo individual",
+      "use": "fallback visual do lugar"
+    },
+    {
+      "id": "hub-rome-commons",
+      "place_id": "hub-rome",
+      "provider": "Wikimedia Commons",
+      "query": "Roma",
+      "search_url": "https://commons.wikimedia.org/w/index.php?search=Roma&title=Special:MediaSearch&type=image",
+      "license": "verificar no arquivo individual",
+      "use": "fallback visual do lugar"
+    },
+    {
+      "id": "hub-corinth-commons",
+      "place_id": "hub-corinth",
+      "provider": "Wikimedia Commons",
+      "query": "Corinto",
+      "search_url": "https://commons.wikimedia.org/w/index.php?search=Corinto&title=Special:MediaSearch&type=image",
+      "license": "verificar no arquivo individual",
+      "use": "fallback visual do lugar"
+    },
+    {
+      "id": "hub-ephesus-commons",
+      "place_id": "hub-ephesus",
+      "provider": "Wikimedia Commons",
+      "query": "Éfeso",
+      "search_url": "https://commons.wikimedia.org/w/index.php?search=Éfeso&title=Special:MediaSearch&type=image",
+      "license": "verificar no arquivo individual",
+      "use": "fallback visual do lugar"
+    },
+    {
+      "id": "hub-tarsus-commons",
+      "place_id": "hub-tarsus",
+      "provider": "Wikimedia Commons",
+      "query": "Tarso",
+      "search_url": "https://commons.wikimedia.org/w/index.php?search=Tarso&title=Special:MediaSearch&type=image",
+      "license": "verificar no arquivo individual",
+      "use": "fallback visual do lugar"
+    },
+    {
+      "id": "hub-damascus-commons",
+      "place_id": "hub-damascus",
+      "provider": "Wikimedia Commons",
+      "query": "Damasco",
+      "search_url": "https://commons.wikimedia.org/w/index.php?search=Damasco&title=Special:MediaSearch&type=image",
+      "license": "verificar no arquivo individual",
+      "use": "fallback visual do lugar"
+    },
+    {
+      "id": "hub-antioch-commons",
+      "place_id": "hub-antioch",
+      "provider": "Wikimedia Commons",
+      "query": "Antioquia",
+      "search_url": "https://commons.wikimedia.org/w/index.php?search=Antioquia&title=Special:MediaSearch&type=image",
+      "license": "verificar no arquivo individual",
+      "use": "fallback visual do lugar"
+    },
+    {
+      "id": "hub-baghdad-commons",
+      "place_id": "hub-baghdad",
+      "provider": "Wikimedia Commons",
+      "query": "Bagdá",
+      "search_url": "https://commons.wikimedia.org/w/index.php?search=Bagdá&title=Special:MediaSearch&type=image",
+      "license": "verificar no arquivo individual",
+      "use": "fallback visual do lugar"
+    },
+    {
+      "id": "hub-samarkand-commons",
+      "place_id": "hub-samarkand",
+      "provider": "Wikimedia Commons",
+      "query": "Samarcanda",
+      "search_url": "https://commons.wikimedia.org/w/index.php?search=Samarcanda&title=Special:MediaSearch&type=image",
+      "license": "verificar no arquivo individual",
+      "use": "fallback visual do lugar"
+    },
+    {
+      "id": "hub-cordoba-commons",
+      "place_id": "hub-cordoba",
+      "provider": "Wikimedia Commons",
+      "query": "Córdoba",
+      "search_url": "https://commons.wikimedia.org/w/index.php?search=Córdoba&title=Special:MediaSearch&type=image",
+      "license": "verificar no arquivo individual",
+      "use": "fallback visual do lugar"
+    },
+    {
+      "id": "hub-florence-commons",
+      "place_id": "hub-florence",
+      "provider": "Wikimedia Commons",
+      "query": "Florença",
+      "search_url": "https://commons.wikimedia.org/w/index.php?search=Florença&title=Special:MediaSearch&type=image",
+      "license": "verificar no arquivo individual",
+      "use": "fallback visual do lugar"
+    },
+    {
+      "id": "hub-pisa-commons",
+      "place_id": "hub-pisa",
+      "provider": "Wikimedia Commons",
+      "query": "Pisa",
+      "search_url": "https://commons.wikimedia.org/w/index.php?search=Pisa&title=Special:MediaSearch&type=image",
+      "license": "verificar no arquivo individual",
+      "use": "fallback visual do lugar"
+    },
+    {
+      "id": "hub-padua-commons",
+      "place_id": "hub-padua",
+      "provider": "Wikimedia Commons",
+      "query": "Pádua",
+      "search_url": "https://commons.wikimedia.org/w/index.php?search=Pádua&title=Special:MediaSearch&type=image",
+      "license": "verificar no arquivo individual",
+      "use": "fallback visual do lugar"
+    },
+    {
+      "id": "hub-paris-commons",
+      "place_id": "hub-paris",
+      "provider": "Wikimedia Commons",
+      "query": "Paris",
+      "search_url": "https://commons.wikimedia.org/w/index.php?search=Paris&title=Special:MediaSearch&type=image",
+      "license": "verificar no arquivo individual",
+      "use": "fallback visual do lugar"
+    },
+    {
+      "id": "hub-london-commons",
+      "place_id": "hub-london",
+      "provider": "Wikimedia Commons",
+      "query": "Londres",
+      "search_url": "https://commons.wikimedia.org/w/index.php?search=Londres&title=Special:MediaSearch&type=image",
+      "license": "verificar no arquivo individual",
+      "use": "fallback visual do lugar"
+    },
+    {
+      "id": "hub-cambridge-commons",
+      "place_id": "hub-cambridge",
+      "provider": "Wikimedia Commons",
+      "query": "Cambridge",
+      "search_url": "https://commons.wikimedia.org/w/index.php?search=Cambridge&title=Special:MediaSearch&type=image",
+      "license": "verificar no arquivo individual",
+      "use": "fallback visual do lugar"
+    },
+    {
+      "id": "hub-oxford-commons",
+      "place_id": "hub-oxford",
+      "provider": "Wikimedia Commons",
+      "query": "Oxford",
+      "search_url": "https://commons.wikimedia.org/w/index.php?search=Oxford&title=Special:MediaSearch&type=image",
+      "license": "verificar no arquivo individual",
+      "use": "fallback visual do lugar"
+    },
+    {
+      "id": "hub-lisbon-commons",
+      "place_id": "hub-lisbon",
+      "provider": "Wikimedia Commons",
+      "query": "Lisboa",
+      "search_url": "https://commons.wikimedia.org/w/index.php?search=Lisboa&title=Special:MediaSearch&type=image",
+      "license": "verificar no arquivo individual",
+      "use": "fallback visual do lugar"
+    },
+    {
+      "id": "hub-salamanca-commons",
+      "place_id": "hub-salamanca",
+      "provider": "Wikimedia Commons",
+      "query": "Salamanca",
+      "search_url": "https://commons.wikimedia.org/w/index.php?search=Salamanca&title=Special:MediaSearch&type=image",
+      "license": "verificar no arquivo individual",
+      "use": "fallback visual do lugar"
+    },
+    {
+      "id": "hub-kathmandu-commons",
+      "place_id": "hub-kathmandu",
+      "provider": "Wikimedia Commons",
+      "query": "Katmandu",
+      "search_url": "https://commons.wikimedia.org/w/index.php?search=Katmandu&title=Special:MediaSearch&type=image",
+      "license": "verificar no arquivo individual",
+      "use": "fallback visual do lugar"
+    },
+    {
+      "id": "hub-varanasi-commons",
+      "place_id": "hub-varanasi",
+      "provider": "Wikimedia Commons",
+      "query": "Varanasi",
+      "search_url": "https://commons.wikimedia.org/w/index.php?search=Varanasi&title=Special:MediaSearch&type=image",
+      "license": "verificar no arquivo individual",
+      "use": "fallback visual do lugar"
+    },
+    {
+      "id": "hub-pataliputra-commons",
+      "place_id": "hub-pataliputra",
+      "provider": "Wikimedia Commons",
+      "query": "Pataliputra",
+      "search_url": "https://commons.wikimedia.org/w/index.php?search=Pataliputra&title=Special:MediaSearch&type=image",
+      "license": "verificar no arquivo individual",
+      "use": "fallback visual do lugar"
+    },
+    {
+      "id": "hub-delhi-commons",
+      "place_id": "hub-delhi",
+      "provider": "Wikimedia Commons",
+      "query": "Delhi",
+      "search_url": "https://commons.wikimedia.org/w/index.php?search=Delhi&title=Special:MediaSearch&type=image",
+      "license": "verificar no arquivo individual",
+      "use": "fallback visual do lugar"
+    },
+    {
+      "id": "hub-beijing-commons",
+      "place_id": "hub-beijing",
+      "provider": "Wikimedia Commons",
+      "query": "Pequim",
+      "search_url": "https://commons.wikimedia.org/w/index.php?search=Pequim&title=Special:MediaSearch&type=image",
+      "license": "verificar no arquivo individual",
+      "use": "fallback visual do lugar"
+    },
+    {
+      "id": "hub-xi-an-commons",
+      "place_id": "hub-xi-an",
+      "provider": "Wikimedia Commons",
+      "query": "Xi’an",
+      "search_url": "https://commons.wikimedia.org/w/index.php?search=Xi’an&title=Special:MediaSearch&type=image",
+      "license": "verificar no arquivo individual",
+      "use": "fallback visual do lugar"
+    },
+    {
+      "id": "hub-nanjing-commons",
+      "place_id": "hub-nanjing",
+      "provider": "Wikimedia Commons",
+      "query": "Nanjing",
+      "search_url": "https://commons.wikimedia.org/w/index.php?search=Nanjing&title=Special:MediaSearch&type=image",
+      "license": "verificar no arquivo individual",
+      "use": "fallback visual do lugar"
+    },
+    {
+      "id": "hub-kyoto-commons",
+      "place_id": "hub-kyoto",
+      "provider": "Wikimedia Commons",
+      "query": "Kyoto",
+      "search_url": "https://commons.wikimedia.org/w/index.php?search=Kyoto&title=Special:MediaSearch&type=image",
+      "license": "verificar no arquivo individual",
+      "use": "fallback visual do lugar"
+    },
+    {
+      "id": "hub-tokyo-commons",
+      "place_id": "hub-tokyo",
+      "provider": "Wikimedia Commons",
+      "query": "Tóquio",
+      "search_url": "https://commons.wikimedia.org/w/index.php?search=Tóquio&title=Special:MediaSearch&type=image",
+      "license": "verificar no arquivo individual",
+      "use": "fallback visual do lugar"
+    },
+    {
+      "id": "hub-seoul-commons",
+      "place_id": "hub-seoul",
+      "provider": "Wikimedia Commons",
+      "query": "Seul",
+      "search_url": "https://commons.wikimedia.org/w/index.php?search=Seul&title=Special:MediaSearch&type=image",
+      "license": "verificar no arquivo individual",
+      "use": "fallback visual do lugar"
+    },
+    {
+      "id": "hub-isfahan-commons",
+      "place_id": "hub-isfahan",
+      "provider": "Wikimedia Commons",
+      "query": "Isfahan",
+      "search_url": "https://commons.wikimedia.org/w/index.php?search=Isfahan&title=Special:MediaSearch&type=image",
+      "license": "verificar no arquivo individual",
+      "use": "fallback visual do lugar"
+    },
+    {
+      "id": "hub-persepolis-commons",
+      "place_id": "hub-persepolis",
+      "provider": "Wikimedia Commons",
+      "query": "Persépolis",
+      "search_url": "https://commons.wikimedia.org/w/index.php?search=Persépolis&title=Special:MediaSearch&type=image",
+      "license": "verificar no arquivo individual",
+      "use": "fallback visual do lugar"
+    },
+    {
+      "id": "hub-istanbul-commons",
+      "place_id": "hub-istanbul",
+      "provider": "Wikimedia Commons",
+      "query": "Istambul",
+      "search_url": "https://commons.wikimedia.org/w/index.php?search=Istambul&title=Special:MediaSearch&type=image",
+      "license": "verificar no arquivo individual",
+      "use": "fallback visual do lugar"
+    },
+    {
+      "id": "hub-cairo-commons",
+      "place_id": "hub-cairo",
+      "provider": "Wikimedia Commons",
+      "query": "Cairo",
+      "search_url": "https://commons.wikimedia.org/w/index.php?search=Cairo&title=Special:MediaSearch&type=image",
+      "license": "verificar no arquivo individual",
+      "use": "fallback visual do lugar"
+    },
+    {
+      "id": "hub-timbuktu-commons",
+      "place_id": "hub-timbuktu",
+      "provider": "Wikimedia Commons",
+      "query": "Tombuctu",
+      "search_url": "https://commons.wikimedia.org/w/index.php?search=Tombuctu&title=Special:MediaSearch&type=image",
+      "license": "verificar no arquivo individual",
+      "use": "fallback visual do lugar"
+    },
+    {
+      "id": "hub-great-zimbabwe-commons",
+      "place_id": "hub-great-zimbabwe",
+      "provider": "Wikimedia Commons",
+      "query": "Grande Zimbábue",
+      "search_url": "https://commons.wikimedia.org/w/index.php?search=Grande+Zimbábue&title=Special:MediaSearch&type=image",
+      "license": "verificar no arquivo individual",
+      "use": "fallback visual do lugar"
+    },
+    {
+      "id": "hub-lalibela-commons",
+      "place_id": "hub-lalibela",
+      "provider": "Wikimedia Commons",
+      "query": "Lalibela",
+      "search_url": "https://commons.wikimedia.org/w/index.php?search=Lalibela&title=Special:MediaSearch&type=image",
+      "license": "verificar no arquivo individual",
+      "use": "fallback visual do lugar"
+    },
+    {
+      "id": "hub-axum-commons",
+      "place_id": "hub-axum",
+      "provider": "Wikimedia Commons",
+      "query": "Axum",
+      "search_url": "https://commons.wikimedia.org/w/index.php?search=Axum&title=Special:MediaSearch&type=image",
+      "license": "verificar no arquivo individual",
+      "use": "fallback visual do lugar"
+    },
+    {
+      "id": "hub-benin-city-commons",
+      "place_id": "hub-benin-city",
+      "provider": "Wikimedia Commons",
+      "query": "Benin City",
+      "search_url": "https://commons.wikimedia.org/w/index.php?search=Benin+City&title=Special:MediaSearch&type=image",
+      "license": "verificar no arquivo individual",
+      "use": "fallback visual do lugar"
+    },
+    {
+      "id": "hub-kilimanjaro-commons",
+      "place_id": "hub-kilimanjaro",
+      "provider": "Wikimedia Commons",
+      "query": "Kilimanjaro",
+      "search_url": "https://commons.wikimedia.org/w/index.php?search=Kilimanjaro&title=Special:MediaSearch&type=image",
+      "license": "verificar no arquivo individual",
+      "use": "fallback visual do lugar"
+    },
+    {
+      "id": "hub-serengeti-commons",
+      "place_id": "hub-serengeti",
+      "provider": "Wikimedia Commons",
+      "query": "Serengeti",
+      "search_url": "https://commons.wikimedia.org/w/index.php?search=Serengeti&title=Special:MediaSearch&type=image",
+      "license": "verificar no arquivo individual",
+      "use": "fallback visual do lugar"
+    },
+    {
+      "id": "hub-okavango-commons",
+      "place_id": "hub-okavango",
+      "provider": "Wikimedia Commons",
+      "query": "Delta do Okavango",
+      "search_url": "https://commons.wikimedia.org/w/index.php?search=Delta+do+Okavango&title=Special:MediaSearch&type=image",
+      "license": "verificar no arquivo individual",
+      "use": "fallback visual do lugar"
+    },
+    {
+      "id": "hub-madagascar-commons",
+      "place_id": "hub-madagascar",
+      "provider": "Wikimedia Commons",
+      "query": "Madagascar",
+      "search_url": "https://commons.wikimedia.org/w/index.php?search=Madagascar&title=Special:MediaSearch&type=image",
+      "license": "verificar no arquivo individual",
+      "use": "fallback visual do lugar"
+    },
+    {
+      "id": "hub-cape-town-commons",
+      "place_id": "hub-cape-town",
+      "provider": "Wikimedia Commons",
+      "query": "Cidade do Cabo",
+      "search_url": "https://commons.wikimedia.org/w/index.php?search=Cidade+do+Cabo&title=Special:MediaSearch&type=image",
+      "license": "verificar no arquivo individual",
+      "use": "fallback visual do lugar"
+    },
+    {
+      "id": "hub-amazon-commons",
+      "place_id": "hub-amazon",
+      "provider": "Wikimedia Commons",
+      "query": "Amazônia",
+      "search_url": "https://commons.wikimedia.org/w/index.php?search=Amazônia&title=Special:MediaSearch&type=image",
+      "license": "verificar no arquivo individual",
+      "use": "fallback visual do lugar"
+    },
+    {
+      "id": "hub-serra-capivara-commons",
+      "place_id": "hub-serra-capivara",
+      "provider": "Wikimedia Commons",
+      "query": "Serra da Capivara",
+      "search_url": "https://commons.wikimedia.org/w/index.php?search=Serra+da+Capivara&title=Special:MediaSearch&type=image",
+      "license": "verificar no arquivo individual",
+      "use": "fallback visual do lugar"
+    },
+    {
+      "id": "hub-lagoa-santa-commons",
+      "place_id": "hub-lagoa-santa",
+      "provider": "Wikimedia Commons",
+      "query": "Lagoa Santa",
+      "search_url": "https://commons.wikimedia.org/w/index.php?search=Lagoa+Santa&title=Special:MediaSearch&type=image",
+      "license": "verificar no arquivo individual",
+      "use": "fallback visual do lugar"
+    },
+    {
+      "id": "hub-ouro-preto-commons",
+      "place_id": "hub-ouro-preto",
+      "provider": "Wikimedia Commons",
+      "query": "Ouro Preto",
+      "search_url": "https://commons.wikimedia.org/w/index.php?search=Ouro+Preto&title=Special:MediaSearch&type=image",
+      "license": "verificar no arquivo individual",
+      "use": "fallback visual do lugar"
+    },
+    {
+      "id": "hub-salvador-commons",
+      "place_id": "hub-salvador",
+      "provider": "Wikimedia Commons",
+      "query": "Salvador",
+      "search_url": "https://commons.wikimedia.org/w/index.php?search=Salvador&title=Special:MediaSearch&type=image",
+      "license": "verificar no arquivo individual",
+      "use": "fallback visual do lugar"
+    },
+    {
+      "id": "hub-recife-commons",
+      "place_id": "hub-recife",
+      "provider": "Wikimedia Commons",
+      "query": "Recife",
+      "search_url": "https://commons.wikimedia.org/w/index.php?search=Recife&title=Special:MediaSearch&type=image",
+      "license": "verificar no arquivo individual",
+      "use": "fallback visual do lugar"
+    },
+    {
+      "id": "hub-sao-paulo-commons",
+      "place_id": "hub-sao-paulo",
+      "provider": "Wikimedia Commons",
+      "query": "São Paulo",
+      "search_url": "https://commons.wikimedia.org/w/index.php?search=São+Paulo&title=Special:MediaSearch&type=image",
+      "license": "verificar no arquivo individual",
+      "use": "fallback visual do lugar"
+    },
+    {
+      "id": "hub-cusco-commons",
+      "place_id": "hub-cusco",
+      "provider": "Wikimedia Commons",
+      "query": "Cusco",
+      "search_url": "https://commons.wikimedia.org/w/index.php?search=Cusco&title=Special:MediaSearch&type=image",
+      "license": "verificar no arquivo individual",
+      "use": "fallback visual do lugar"
+    },
+    {
+      "id": "hub-machu-picchu-commons",
+      "place_id": "hub-machu-picchu",
+      "provider": "Wikimedia Commons",
+      "query": "Machu Picchu",
+      "search_url": "https://commons.wikimedia.org/w/index.php?search=Machu+Picchu&title=Special:MediaSearch&type=image",
+      "license": "verificar no arquivo individual",
+      "use": "fallback visual do lugar"
+    },
+    {
+      "id": "hub-nazca-commons",
+      "place_id": "hub-nazca",
+      "provider": "Wikimedia Commons",
+      "query": "Nazca",
+      "search_url": "https://commons.wikimedia.org/w/index.php?search=Nazca&title=Special:MediaSearch&type=image",
+      "license": "verificar no arquivo individual",
+      "use": "fallback visual do lugar"
+    },
+    {
+      "id": "hub-la-plata-commons",
+      "place_id": "hub-la-plata",
+      "provider": "Wikimedia Commons",
+      "query": "La Plata",
+      "search_url": "https://commons.wikimedia.org/w/index.php?search=La+Plata&title=Special:MediaSearch&type=image",
+      "license": "verificar no arquivo individual",
+      "use": "fallback visual do lugar"
+    },
+    {
+      "id": "hub-ushuaia-commons",
+      "place_id": "hub-ushuaia",
+      "provider": "Wikimedia Commons",
+      "query": "Ushuaia",
+      "search_url": "https://commons.wikimedia.org/w/index.php?search=Ushuaia&title=Special:MediaSearch&type=image",
+      "license": "verificar no arquivo individual",
+      "use": "fallback visual do lugar"
+    },
+    {
+      "id": "hub-chichen-itza-commons",
+      "place_id": "hub-chichen-itza",
+      "provider": "Wikimedia Commons",
+      "query": "Chichén Itzá",
+      "search_url": "https://commons.wikimedia.org/w/index.php?search=Chichén+Itzá&title=Special:MediaSearch&type=image",
+      "license": "verificar no arquivo individual",
+      "use": "fallback visual do lugar"
+    },
+    {
+      "id": "hub-teotihuacan-commons",
+      "place_id": "hub-teotihuacan",
+      "provider": "Wikimedia Commons",
+      "query": "Teotihuacan",
+      "search_url": "https://commons.wikimedia.org/w/index.php?search=Teotihuacan&title=Special:MediaSearch&type=image",
+      "license": "verificar no arquivo individual",
+      "use": "fallback visual do lugar"
+    },
+    {
+      "id": "hub-tikal-commons",
+      "place_id": "hub-tikal",
+      "provider": "Wikimedia Commons",
+      "query": "Tikal",
+      "search_url": "https://commons.wikimedia.org/w/index.php?search=Tikal&title=Special:MediaSearch&type=image",
+      "license": "verificar no arquivo individual",
+      "use": "fallback visual do lugar"
+    },
+    {
+      "id": "hub-york-commons",
+      "place_id": "hub-york",
+      "provider": "Wikimedia Commons",
+      "query": "York",
+      "search_url": "https://commons.wikimedia.org/w/index.php?search=York&title=Special:MediaSearch&type=image",
+      "license": "verificar no arquivo individual",
+      "use": "fallback visual do lugar"
+    },
+    {
+      "id": "hub-stonehenge-commons",
+      "place_id": "hub-stonehenge",
+      "provider": "Wikimedia Commons",
+      "query": "Stonehenge",
+      "search_url": "https://commons.wikimedia.org/w/index.php?search=Stonehenge&title=Special:MediaSearch&type=image",
+      "license": "verificar no arquivo individual",
+      "use": "fallback visual do lugar"
+    },
+    {
+      "id": "hub-geneva-commons",
+      "place_id": "hub-geneva",
+      "provider": "Wikimedia Commons",
+      "query": "Genebra",
+      "search_url": "https://commons.wikimedia.org/w/index.php?search=Genebra&title=Special:MediaSearch&type=image",
+      "license": "verificar no arquivo individual",
+      "use": "fallback visual do lugar"
+    },
+    {
+      "id": "hub-berlin-commons",
+      "place_id": "hub-berlin",
+      "provider": "Wikimedia Commons",
+      "query": "Berlim",
+      "search_url": "https://commons.wikimedia.org/w/index.php?search=Berlim&title=Special:MediaSearch&type=image",
+      "license": "verificar no arquivo individual",
+      "use": "fallback visual do lugar"
+    },
+    {
+      "id": "hub-vienna-commons",
+      "place_id": "hub-vienna",
+      "provider": "Wikimedia Commons",
+      "query": "Viena",
+      "search_url": "https://commons.wikimedia.org/w/index.php?search=Viena&title=Special:MediaSearch&type=image",
+      "license": "verificar no arquivo individual",
+      "use": "fallback visual do lugar"
+    },
+    {
+      "id": "hub-prague-commons",
+      "place_id": "hub-prague",
+      "provider": "Wikimedia Commons",
+      "query": "Praga",
+      "search_url": "https://commons.wikimedia.org/w/index.php?search=Praga&title=Special:MediaSearch&type=image",
+      "license": "verificar no arquivo individual",
+      "use": "fallback visual do lugar"
+    },
+    {
+      "id": "hub-stockholm-commons",
+      "place_id": "hub-stockholm",
+      "provider": "Wikimedia Commons",
+      "query": "Estocolmo",
+      "search_url": "https://commons.wikimedia.org/w/index.php?search=Estocolmo&title=Special:MediaSearch&type=image",
+      "license": "verificar no arquivo individual",
+      "use": "fallback visual do lugar"
+    },
+    {
+      "id": "hub-reykjavik-commons",
+      "place_id": "hub-reykjavik",
+      "provider": "Wikimedia Commons",
+      "query": "Reykjavík",
+      "search_url": "https://commons.wikimedia.org/w/index.php?search=Reykjavík&title=Special:MediaSearch&type=image",
+      "license": "verificar no arquivo individual",
+      "use": "fallback visual do lugar"
+    },
+    {
+      "id": "hub-greenwich-commons",
+      "place_id": "hub-greenwich",
+      "provider": "Wikimedia Commons",
+      "query": "Greenwich",
+      "search_url": "https://commons.wikimedia.org/w/index.php?search=Greenwich&title=Special:MediaSearch&type=image",
+      "license": "verificar no arquivo individual",
+      "use": "fallback visual do lugar"
+    },
+    {
+      "id": "hub-new-york-commons",
+      "place_id": "hub-new-york",
+      "provider": "Wikimedia Commons",
+      "query": "Nova York",
+      "search_url": "https://commons.wikimedia.org/w/index.php?search=Nova+York&title=Special:MediaSearch&type=image",
+      "license": "verificar no arquivo individual",
+      "use": "fallback visual do lugar"
+    },
+    {
+      "id": "hub-washington-commons",
+      "place_id": "hub-washington",
+      "provider": "Wikimedia Commons",
+      "query": "Washington D.C.",
+      "search_url": "https://commons.wikimedia.org/w/index.php?search=Washington+D.C.&title=Special:MediaSearch&type=image",
+      "license": "verificar no arquivo individual",
+      "use": "fallback visual do lugar"
+    },
+    {
+      "id": "hub-silicon-valley-commons",
+      "place_id": "hub-silicon-valley",
+      "provider": "Wikimedia Commons",
+      "query": "Vale do Silício",
+      "search_url": "https://commons.wikimedia.org/w/index.php?search=Vale+do+Silício&title=Special:MediaSearch&type=image",
+      "license": "verificar no arquivo individual",
+      "use": "fallback visual do lugar"
+    },
+    {
+      "id": "hub-cambridge-ma-commons",
+      "place_id": "hub-cambridge-ma",
+      "provider": "Wikimedia Commons",
+      "query": "Cambridge, Massachusetts",
+      "search_url": "https://commons.wikimedia.org/w/index.php?search=Cambridge,+Massachusetts&title=Special:MediaSearch&type=image",
+      "license": "verificar no arquivo individual",
+      "use": "fallback visual do lugar"
+    },
+    {
+      "id": "hub-cape-canaveral-commons",
+      "place_id": "hub-cape-canaveral",
+      "provider": "Wikimedia Commons",
+      "query": "Cabo Canaveral",
+      "search_url": "https://commons.wikimedia.org/w/index.php?search=Cabo+Canaveral&title=Special:MediaSearch&type=image",
+      "license": "verificar no arquivo individual",
+      "use": "fallback visual do lugar"
+    },
+    {
+      "id": "hub-hawaii-commons",
+      "place_id": "hub-hawaii",
+      "provider": "Wikimedia Commons",
+      "query": "Havaí",
+      "search_url": "https://commons.wikimedia.org/w/index.php?search=Havaí&title=Special:MediaSearch&type=image",
+      "license": "verificar no arquivo individual",
+      "use": "fallback visual do lugar"
+    },
+    {
+      "id": "hub-quito-commons",
+      "place_id": "hub-quito",
+      "provider": "Wikimedia Commons",
+      "query": "Quito",
+      "search_url": "https://commons.wikimedia.org/w/index.php?search=Quito&title=Special:MediaSearch&type=image",
+      "license": "verificar no arquivo individual",
+      "use": "fallback visual do lugar"
+    },
+    {
+      "id": "hub-galapagos-commons",
+      "place_id": "hub-galapagos",
+      "provider": "Wikimedia Commons",
+      "query": "Galápagos",
+      "search_url": "https://commons.wikimedia.org/w/index.php?search=Galápagos&title=Special:MediaSearch&type=image",
+      "license": "verificar no arquivo individual",
+      "use": "fallback visual do lugar"
+    },
+    {
+      "id": "hub-easter-island-commons",
+      "place_id": "hub-easter-island",
+      "provider": "Wikimedia Commons",
+      "query": "Rapa Nui",
+      "search_url": "https://commons.wikimedia.org/w/index.php?search=Rapa+Nui&title=Special:MediaSearch&type=image",
+      "license": "verificar no arquivo individual",
+      "use": "fallback visual do lugar"
+    },
+    {
+      "id": "hub-sydney-commons",
+      "place_id": "hub-sydney",
+      "provider": "Wikimedia Commons",
+      "query": "Sydney",
+      "search_url": "https://commons.wikimedia.org/w/index.php?search=Sydney&title=Special:MediaSearch&type=image",
+      "license": "verificar no arquivo individual",
+      "use": "fallback visual do lugar"
+    },
+    {
+      "id": "hub-uluru-commons",
+      "place_id": "hub-uluru",
+      "provider": "Wikimedia Commons",
+      "query": "Uluru",
+      "search_url": "https://commons.wikimedia.org/w/index.php?search=Uluru&title=Special:MediaSearch&type=image",
+      "license": "verificar no arquivo individual",
+      "use": "fallback visual do lugar"
+    },
+    {
+      "id": "hub-great-barrier-reef-commons",
+      "place_id": "hub-great-barrier-reef",
+      "provider": "Wikimedia Commons",
+      "query": "Grande Barreira de Corais",
+      "search_url": "https://commons.wikimedia.org/w/index.php?search=Grande+Barreira+de+Corais&title=Special:MediaSearch&type=image",
+      "license": "verificar no arquivo individual",
+      "use": "fallback visual do lugar"
+    },
+    {
+      "id": "hub-papua-commons",
+      "place_id": "hub-papua",
+      "provider": "Wikimedia Commons",
+      "query": "Port Moresby",
+      "search_url": "https://commons.wikimedia.org/w/index.php?search=Port+Moresby&title=Special:MediaSearch&type=image",
+      "license": "verificar no arquivo individual",
+      "use": "fallback visual do lugar"
+    },
+    {
+      "id": "hub-santiago-commons",
+      "place_id": "hub-santiago",
+      "provider": "Wikimedia Commons",
+      "query": "Santiago",
+      "search_url": "https://commons.wikimedia.org/w/index.php?search=Santiago&title=Special:MediaSearch&type=image",
+      "license": "verificar no arquivo individual",
+      "use": "fallback visual do lugar"
+    },
+    {
+      "id": "hub-atacama-commons",
+      "place_id": "hub-atacama",
+      "provider": "Wikimedia Commons",
+      "query": "Deserto do Atacama",
+      "search_url": "https://commons.wikimedia.org/w/index.php?search=Deserto+do+Atacama&title=Special:MediaSearch&type=image",
+      "license": "verificar no arquivo individual",
+      "use": "fallback visual do lugar"
+    },
+    {
+      "id": "hub-andes-commons",
+      "place_id": "hub-andes",
+      "provider": "Wikimedia Commons",
+      "query": "Andes Centrais",
+      "search_url": "https://commons.wikimedia.org/w/index.php?search=Andes+Centrais&title=Special:MediaSearch&type=image",
+      "license": "verificar no arquivo individual",
+      "use": "fallback visual do lugar"
+    },
+    {
+      "id": "hub-himalaya-commons",
+      "place_id": "hub-himalaya",
+      "provider": "Wikimedia Commons",
+      "query": "Himalaia",
+      "search_url": "https://commons.wikimedia.org/w/index.php?search=Himalaia&title=Special:MediaSearch&type=image",
+      "license": "verificar no arquivo individual",
+      "use": "fallback visual do lugar"
+    },
+    {
+      "id": "hub-ganges-commons",
+      "place_id": "hub-ganges",
+      "provider": "Wikimedia Commons",
+      "query": "Bacia do Ganges",
+      "search_url": "https://commons.wikimedia.org/w/index.php?search=Bacia+do+Ganges&title=Special:MediaSearch&type=image",
+      "license": "verificar no arquivo individual",
+      "use": "fallback visual do lugar"
+    },
+    {
+      "id": "hub-indus-commons",
+      "place_id": "hub-indus",
+      "provider": "Wikimedia Commons",
+      "query": "Vale do Indo",
+      "search_url": "https://commons.wikimedia.org/w/index.php?search=Vale+do+Indo&title=Special:MediaSearch&type=image",
+      "license": "verificar no arquivo individual",
+      "use": "fallback visual do lugar"
+    },
+    {
+      "id": "hub-mekong-commons",
+      "place_id": "hub-mekong",
+      "provider": "Wikimedia Commons",
+      "query": "Rio Mekong",
+      "search_url": "https://commons.wikimedia.org/w/index.php?search=Rio+Mekong&title=Special:MediaSearch&type=image",
+      "license": "verificar no arquivo individual",
+      "use": "fallback visual do lugar"
+    },
+    {
+      "id": "hub-angkor-commons",
+      "place_id": "hub-angkor",
+      "provider": "Wikimedia Commons",
+      "query": "Angkor",
+      "search_url": "https://commons.wikimedia.org/w/index.php?search=Angkor&title=Special:MediaSearch&type=image",
+      "license": "verificar no arquivo individual",
+      "use": "fallback visual do lugar"
+    },
+    {
+      "id": "hub-borobudur-commons",
+      "place_id": "hub-borobudur",
+      "provider": "Wikimedia Commons",
+      "query": "Borobudur",
+      "search_url": "https://commons.wikimedia.org/w/index.php?search=Borobudur&title=Special:MediaSearch&type=image",
+      "license": "verificar no arquivo individual",
+      "use": "fallback visual do lugar"
+    },
+    {
+      "id": "hub-malacca-commons",
+      "place_id": "hub-malacca",
+      "provider": "Wikimedia Commons",
+      "query": "Malaca",
+      "search_url": "https://commons.wikimedia.org/w/index.php?search=Malaca&title=Special:MediaSearch&type=image",
+      "license": "verificar no arquivo individual",
+      "use": "fallback visual do lugar"
+    },
+    {
+      "id": "hub-ceylon-commons",
+      "place_id": "hub-ceylon",
+      "provider": "Wikimedia Commons",
+      "query": "Sri Lanka",
+      "search_url": "https://commons.wikimedia.org/w/index.php?search=Sri+Lanka&title=Special:MediaSearch&type=image",
+      "license": "verificar no arquivo individual",
+      "use": "fallback visual do lugar"
+    },
+    {
+      "id": "hub-sukhothai-commons",
+      "place_id": "hub-sukhothai",
+      "provider": "Wikimedia Commons",
+      "query": "Sukhothai",
+      "search_url": "https://commons.wikimedia.org/w/index.php?search=Sukhothai&title=Special:MediaSearch&type=image",
+      "license": "verificar no arquivo individual",
+      "use": "fallback visual do lugar"
+    },
+    {
+      "id": "hub-kyiv-commons",
+      "place_id": "hub-kyiv",
+      "provider": "Wikimedia Commons",
+      "query": "Kyiv",
+      "search_url": "https://commons.wikimedia.org/w/index.php?search=Kyiv&title=Special:MediaSearch&type=image",
+      "license": "verificar no arquivo individual",
+      "use": "fallback visual do lugar"
+    },
+    {
+      "id": "hub-moscow-commons",
+      "place_id": "hub-moscow",
+      "provider": "Wikimedia Commons",
+      "query": "Moscou",
+      "search_url": "https://commons.wikimedia.org/w/index.php?search=Moscou&title=Special:MediaSearch&type=image",
+      "license": "verificar no arquivo individual",
+      "use": "fallback visual do lugar"
+    },
+    {
+      "id": "hub-st-petersburg-commons",
+      "place_id": "hub-st-petersburg",
+      "provider": "Wikimedia Commons",
+      "query": "São Petersburgo",
+      "search_url": "https://commons.wikimedia.org/w/index.php?search=São+Petersburgo&title=Special:MediaSearch&type=image",
+      "license": "verificar no arquivo individual",
+      "use": "fallback visual do lugar"
+    },
+    {
+      "id": "hub-constantinople-commons",
+      "place_id": "hub-constantinople",
+      "provider": "Wikimedia Commons",
+      "query": "Constantinopla",
+      "search_url": "https://commons.wikimedia.org/w/index.php?search=Constantinopla&title=Special:MediaSearch&type=image",
+      "license": "verificar no arquivo individual",
+      "use": "fallback visual do lugar"
+    },
+    {
+      "id": "hub-mecca-commons",
+      "place_id": "hub-mecca",
+      "provider": "Wikimedia Commons",
+      "query": "Meca",
+      "search_url": "https://commons.wikimedia.org/w/index.php?search=Meca&title=Special:MediaSearch&type=image",
+      "license": "verificar no arquivo individual",
+      "use": "fallback visual do lugar"
+    },
+    {
+      "id": "hub-medina-commons",
+      "place_id": "hub-medina",
+      "provider": "Wikimedia Commons",
+      "query": "Medina",
+      "search_url": "https://commons.wikimedia.org/w/index.php?search=Medina&title=Special:MediaSearch&type=image",
+      "license": "verificar no arquivo individual",
+      "use": "fallback visual do lugar"
+    },
+    {
+      "id": "hub-jericho-commons",
+      "place_id": "hub-jericho",
+      "provider": "Wikimedia Commons",
+      "query": "Jericó",
+      "search_url": "https://commons.wikimedia.org/w/index.php?search=Jericó&title=Special:MediaSearch&type=image",
+      "license": "verificar no arquivo individual",
+      "use": "fallback visual do lugar"
+    },
+    {
+      "id": "hub-palmyra-commons",
+      "place_id": "hub-palmyra",
+      "provider": "Wikimedia Commons",
+      "query": "Palmira",
+      "search_url": "https://commons.wikimedia.org/w/index.php?search=Palmira&title=Special:MediaSearch&type=image",
+      "license": "verificar no arquivo individual",
+      "use": "fallback visual do lugar"
+    },
+    {
+      "id": "hub-petra-commons",
+      "place_id": "hub-petra",
+      "provider": "Wikimedia Commons",
+      "query": "Petra",
+      "search_url": "https://commons.wikimedia.org/w/index.php?search=Petra&title=Special:MediaSearch&type=image",
+      "license": "verificar no arquivo individual",
+      "use": "fallback visual do lugar"
+    },
+    {
+      "id": "hub-jerash-commons",
+      "place_id": "hub-jerash",
+      "provider": "Wikimedia Commons",
+      "query": "Jerash",
+      "search_url": "https://commons.wikimedia.org/w/index.php?search=Jerash&title=Special:MediaSearch&type=image",
+      "license": "verificar no arquivo individual",
+      "use": "fallback visual do lugar"
+    },
+    {
+      "id": "hub-damascus-old-commons",
+      "place_id": "hub-damascus-old",
+      "provider": "Wikimedia Commons",
+      "query": "Damasco histórica",
+      "search_url": "https://commons.wikimedia.org/w/index.php?search=Damasco+histórica&title=Special:MediaSearch&type=image",
+      "license": "verificar no arquivo individual",
+      "use": "fallback visual do lugar"
+    },
+    {
+      "id": "hub-tombouctou-commons",
+      "place_id": "hub-tombouctou",
+      "provider": "Wikimedia Commons",
+      "query": "Região de Tombuctu",
+      "search_url": "https://commons.wikimedia.org/w/index.php?search=Região+de+Tombuctu&title=Special:MediaSearch&type=image",
+      "license": "verificar no arquivo individual",
+      "use": "fallback visual do lugar"
+    },
+    {
+      "id": "hub-zanzibar-commons",
+      "place_id": "hub-zanzibar",
+      "provider": "Wikimedia Commons",
+      "query": "Zanzibar",
+      "search_url": "https://commons.wikimedia.org/w/index.php?search=Zanzibar&title=Special:MediaSearch&type=image",
+      "license": "verificar no arquivo individual",
+      "use": "fallback visual do lugar"
+    },
+    {
+      "id": "hub-cape-verde-commons",
+      "place_id": "hub-cape-verde",
+      "provider": "Wikimedia Commons",
+      "query": "Praia",
+      "search_url": "https://commons.wikimedia.org/w/index.php?search=Praia&title=Special:MediaSearch&type=image",
+      "license": "verificar no arquivo individual",
+      "use": "fallback visual do lugar"
+    }
+  ]
+}

@@ -1,8 +1,6 @@
 import { createContext, useContext, useEffect, useMemo, useState, type ReactNode } from 'react';
 import { QueryClient, QueryClientProvider } from '@tanstack/react-query';
 import { ErrorBoundary } from '@/components/error-boundary';
-import { Toaster } from '@/components/ui/toaster';
-import { TooltipProvider } from '@/components/ui/tooltip';
 import {
   ArrowRight,
   BarChart3,
@@ -44,9 +42,25 @@ import {
   Route,
   Switch,
   useLocation,
+  useRoute,
   Router as WouterRouter,
 } from 'wouter';
 import NotFound from '@/pages/not-found';
+import RadarDayPage from '@/features/radar-day/RadarDayPage';
+import NotesPage from '@/features/notes/NotesPage';
+import NotificationsSettingsPage from '@/features/notes/NotificationsSettingsPage';
+import LearningProgressPage from '@/features/final/LearningProgressPage';
+import GlobalSearchPage from '@/features/final/GlobalSearchPage';
+import { KnowledgeAtlasPage } from '@/features/atlas/KnowledgeAtlasPage';
+import ReadingLibraryPage from '@/features/library/ReadingLibraryPage';
+import BookReaderPage from '@/features/library/BookReaderPage';
+import EducationalGamesPage from '@/features/games/EducationalGamesPage';
+import InteractiveMathLab from '@/features/labs/InteractiveMathLab';
+import PhysicsFormulaLab from '@/features/labs/PhysicsFormulaLab';
+import KnowledgeExplorePage from '@/features/explore/KnowledgeExplorePage';
+import BibleCuriositiesPage from '@/features/bible/BibleCuriositiesPage';
+import ApocryphaPage from '@/features/apocrypha/ApocryphaPage';
+import ThinkerTrailsPage from '@/features/thinkers/ThinkerTrailsPage';
 
 const queryClient = new QueryClient();
 
@@ -69,6 +83,13 @@ const navItems: { href: string; label: string; icon: IconType }[] = [
   { href: '/cronometro', label: 'Cronômetro', icon: Timer },
   { href: '/simulados', label: 'Simulados', icon: Timer },
   { href: '/revisoes', label: 'Revisões', icon: CalendarDays },
+  { href: '/radar-do-dia', label: 'Radar de hoje', icon: Sparkles },
+  { href: '/explorar', label: 'Explorar', icon: Navigation },
+  { href: '/atlas', label: 'Atlas', icon: Navigation },
+  { href: '/biblioteca', label: 'Biblioteca', icon: BookOpen },
+  { href: '/pesquisar', label: 'Pesquisar', icon: SlidersHorizontal },
+  { href: '/progresso', label: 'Progresso', icon: BarChart3 },
+  { href: '/jogos', label: 'Jogos', icon: Trophy },
 ];
 
 const editalSubjects: { subject: Subject; code: string; description: string; topics: string[]; progress: number; color: string }[] = [
@@ -238,7 +259,7 @@ function Sidebar({ open, onClose }: { open: boolean; onClose: () => void }) {
         </nav>
         <div className="mb-3 rounded-xl border border-[hsl(var(--sidebar-border))] bg-[hsl(var(--sidebar-accent)/.6)] p-3.5">
           <div className="flex items-center gap-2 text-[hsl(var(--sidebar-primary))]"><Target size={15} /><span className="font-mono text-[10px] uppercase tracking-wider">Alvo em foco</span></div>
-          <p className="mt-2 text-xs font-semibold text-[hsl(var(--sidebar-accent-foreground))]">CFS 2/2025</p>
+          <p className="mt-2 text-xs font-semibold text-[hsl(var(--sidebar-accent-foreground))]">CFS 2/2027</p>
           <div className="mt-2 flex items-center justify-between font-mono text-[10px] text-[hsl(var(--sidebar-foreground)/.62)]"><span>84 dias restantes</span><span>62%</span></div>
           <div className="mt-2 h-1.5 overflow-hidden rounded-full bg-[hsl(var(--sidebar)/.7)]"><div className="h-full w-[62%] rounded-full bg-[hsl(var(--sidebar-primary))]" /></div>
         </div>
@@ -271,7 +292,7 @@ function Topbar({ onMenu }: { onMenu: () => void }) {
     <header className="sticky top-0 z-20 flex h-[72px] items-center justify-between border-b border-[hsl(var(--border))] bg-[hsl(var(--background)/.88)] px-4 backdrop-blur-md sm:px-7 lg:px-10">
       <div className="flex items-center gap-3">
         <button data-testid="button-open-menu" aria-label="Abrir menu" onClick={onMenu} className="rounded-lg p-2 text-[hsl(var(--foreground))] hover:bg-[hsl(var(--muted))] md:hidden"><Menu size={21} /></button>
-        <div><p className="eyebrow">{current}</p><p className="mt-1 hidden text-xs text-[hsl(var(--muted-foreground))] sm:block">Quinta-feira, 17 de outubro de 2024</p></div>
+        <div><p className="eyebrow">{current}</p><p className="mt-1 hidden text-xs text-[hsl(var(--muted-foreground))] sm:block">Atualizado em tempo real</p></div>
       </div>
       <div className="flex items-center gap-2 sm:gap-4">
         <div className="hidden items-center gap-2 rounded-full border border-[hsl(var(--border))] bg-[hsl(var(--card))] px-3 py-1.5 sm:flex"><span className="h-2 w-2 rounded-full bg-emerald-500" /><span className="font-mono text-[10px] text-[hsl(var(--muted-foreground))]">SISTEMA ONLINE</span></div>
@@ -463,22 +484,50 @@ function EditalPage() {
 
 function ProfilePage() {
   const [name, setName] = useState('Marina Santos');
-  const [target, setTarget] = useState('CFS 2/2025');
+  const [target, setTarget] = useState('CFS 2/2027');
   const [dailyGoal, setDailyGoal] = useState('2 horas');
   const [saved, setSaved] = useState(false);
   const save = () => { setSaved(true); window.setTimeout(() => setSaved(false), 2200); };
-  return <div className="mx-auto max-w-[960px]"><SectionHeader kicker="Configuração pessoal" title="Perfil" description="Deixe o cockpit com a sua medida. Essas escolhas calibram sua rota diária." /><div className="grid gap-6 lg:grid-cols-[260px_1fr]"><aside className="panel rounded-2xl p-5"><div className="flex items-center gap-3 lg:block"><div className="flex h-16 w-16 items-center justify-center rounded-2xl bg-[hsl(var(--primary))] font-display text-xl font-bold text-[hsl(var(--primary-foreground))]">MS</div><div className="mt-0 lg:mt-5"><p className="font-display text-lg font-bold">Marina Santos</p><p className="mt-1 text-xs text-[hsl(var(--muted-foreground))]">Candidata ativa</p></div></div><div className="mt-6 hidden border-t border-[hsl(var(--border))] pt-5 lg:block"><p className="eyebrow">Progresso geral</p><p className="mt-2 font-display text-2xl font-bold">62%</p><div className="progress-track mt-3"><div className="progress-fill w-[62%]" /></div></div></aside><section className="panel rounded-2xl p-5 sm:p-7"><div className="flex items-center justify-between border-b border-[hsl(var(--border))] pb-5"><div><p className="eyebrow">Preferências do radar</p><h2 className="mt-1 font-display text-xl font-bold">Seu comando</h2></div><Settings2 size={18} className="text-[hsl(var(--muted-foreground))]" /></div><div className="mt-6 space-y-5"><label className="block"><span className="mb-2 block text-xs font-bold">Nome de chamada</span><input data-testid="input-profile-name" value={name} onChange={(e) => setName(e.target.value)} className="w-full rounded-lg border border-[hsl(var(--input))] bg-[hsl(var(--background))] px-3 py-2.5 text-sm outline-none focus:border-[hsl(var(--accent))]" /></label><label className="block"><span className="mb-2 block text-xs font-bold">Prova-alvo</span><select data-testid="select-profile-target" value={target} onChange={(e) => setTarget(e.target.value)} className="w-full rounded-lg border border-[hsl(var(--input))] bg-[hsl(var(--background))] px-3 py-2.5 text-sm outline-none focus:border-[hsl(var(--accent))]"><option>CFS 2/2025</option><option>CFS 1/2026</option><option>Próximo edital</option></select></label><label className="block"><span className="mb-2 block text-xs font-bold">Meta diária</span><select data-testid="select-profile-goal" value={dailyGoal} onChange={(e) => setDailyGoal(e.target.value)} className="w-full rounded-lg border border-[hsl(var(--input))] bg-[hsl(var(--background))] px-3 py-2.5 text-sm outline-none focus:border-[hsl(var(--accent))]"><option>1 hora</option><option>2 horas</option><option>3 horas</option><option>4 horas ou mais</option></select></label><div className="rounded-xl bg-[hsl(var(--secondary)/.46)] p-4"><div className="flex items-center gap-2"><Flag size={16} className="text-[hsl(var(--accent))]" /><p className="text-xs font-bold">Especialidade monitorada</p></div><p className="mt-2 text-sm font-semibold">Controle de Tráfego Aéreo</p><p className="mt-1 text-xs text-[hsl(var(--muted-foreground))]">A trilha de conteúdo está ajustada para CFS/EEAR.</p></div></div><div className="mt-7 flex items-center justify-end gap-3 border-t border-[hsl(var(--border))] pt-5">{saved && <span data-testid="status-profile-saved" className="flex items-center gap-1.5 text-xs font-semibold text-emerald-700"><Check size={14} /> Preferências salvas</span>}<button data-testid="button-save-profile" onClick={save} className="inline-flex items-center gap-2 rounded-lg bg-[hsl(var(--primary))] px-4 py-2.5 text-xs font-bold text-[hsl(var(--primary-foreground))]"><Save size={14} /> Salvar preferências</button></div></section></div></div>;
+  return <div className="mx-auto max-w-[960px]"><SectionHeader kicker="Configuração pessoal" title="Perfil" description="Deixe o cockpit com a sua medida. Essas escolhas calibram sua rota diária." /><div className="grid gap-6 lg:grid-cols-[260px_1fr]"><aside className="panel rounded-2xl p-5"><div className="flex items-center gap-3 lg:block"><div className="flex h-16 w-16 items-center justify-center rounded-2xl bg-[hsl(var(--primary))] font-display text-xl font-bold text-[hsl(var(--primary-foreground))]">MS</div><div className="mt-0 lg:mt-5"><p className="font-display text-lg font-bold">Marina Santos</p><p className="mt-1 text-xs text-[hsl(var(--muted-foreground))]">Candidata ativa</p></div></div><div className="mt-6 hidden border-t border-[hsl(var(--border))] pt-5 lg:block"><p className="eyebrow">Progresso geral</p><p className="mt-2 font-display text-2xl font-bold">62%</p><div className="progress-track mt-3"><div className="progress-fill w-[62%]" /></div></div></aside><section className="panel rounded-2xl p-5 sm:p-7"><div className="flex items-center justify-between border-b border-[hsl(var(--border))] pb-5"><div><p className="eyebrow">Preferências do radar</p><h2 className="mt-1 font-display text-xl font-bold">Seu comando</h2></div><Settings2 size={18} className="text-[hsl(var(--muted-foreground))]" /></div><div className="mt-6 space-y-5"><label className="block"><span className="mb-2 block text-xs font-bold">Nome de chamada</span><input data-testid="input-profile-name" value={name} onChange={(e) => setName(e.target.value)} className="w-full rounded-lg border border-[hsl(var(--input))] bg-[hsl(var(--background))] px-3 py-2.5 text-sm outline-none focus:border-[hsl(var(--accent))]" /></label><label className="block"><span className="mb-2 block text-xs font-bold">Prova-alvo</span><select data-testid="select-profile-target" value={target} onChange={(e) => setTarget(e.target.value)} className="w-full rounded-lg border border-[hsl(var(--input))] bg-[hsl(var(--background))] px-3 py-2.5 text-sm outline-none focus:border-[hsl(var(--accent))]"><option>CFS 2/2027</option><option>CFS 1/2026</option><option>Próximo edital</option></select></label><label className="block"><span className="mb-2 block text-xs font-bold">Meta diária</span><select data-testid="select-profile-goal" value={dailyGoal} onChange={(e) => setDailyGoal(e.target.value)} className="w-full rounded-lg border border-[hsl(var(--input))] bg-[hsl(var(--background))] px-3 py-2.5 text-sm outline-none focus:border-[hsl(var(--accent))]"><option>1 hora</option><option>2 horas</option><option>3 horas</option><option>4 horas ou mais</option></select></label><div className="rounded-xl bg-[hsl(var(--secondary)/.46)] p-4"><div className="flex items-center gap-2"><Flag size={16} className="text-[hsl(var(--accent))]" /><p className="text-xs font-bold">Especialidade monitorada</p></div><p className="mt-2 text-sm font-semibold">Controle de Tráfego Aéreo</p><p className="mt-1 text-xs text-[hsl(var(--muted-foreground))]">A trilha de conteúdo está ajustada para CFS/EEAR.</p></div></div><div className="mt-7 flex items-center justify-end gap-3 border-t border-[hsl(var(--border))] pt-5">{saved && <span data-testid="status-profile-saved" className="flex items-center gap-1.5 text-xs font-semibold text-emerald-700"><Check size={14} /> Preferências salvas</span>}<button data-testid="button-save-profile" onClick={save} className="inline-flex items-center gap-2 rounded-lg bg-[hsl(var(--primary))] px-4 py-2.5 text-xs font-bold text-[hsl(var(--primary-foreground))]"><Save size={14} /> Salvar preferências</button></div></section></div></div>;
 }
 
+function BookRoute() {
+  const [, params] = useRoute('/livros/:bookId');
+  return <BookReaderPage bookId={params?.bookId ?? 'guerra-e-paz'} />;
+}
 function Router({ favorites, onToggleFavorite }: { favorites: number[]; onToggleFavorite: (id: number) => void }) {
   const [location] = useLocation();
-  return <ErrorBoundary resetKey={location}><AppShell><Switch><Route path="/" component={Dashboard} /><Route path="/ciclo" component={CyclePage} /><Route path="/questoes"><QuestionsPage favorites={favorites} onToggleFavorite={onToggleFavorite} /></Route><Route path="/edital" component={EditalPage} /><Route path="/cronometro" component={TimerPage} /><Route path="/simulados" component={SimuladosPage} /><Route path="/revisoes" component={ReviewsPage} /><Route path="/perfil" component={ProfilePage} /><Route component={NotFound} /></Switch></AppShell></ErrorBoundary>;
+  return <ErrorBoundary resetKey={location}><AppShell><Switch>
+    <Route path="/" component={Dashboard} />
+    <Route path="/ciclo" component={CyclePage} />
+    <Route path="/questoes"><QuestionsPage favorites={favorites} onToggleFavorite={onToggleFavorite} /></Route>
+    <Route path="/edital" component={EditalPage} />
+    <Route path="/cronometro" component={TimerPage} />
+    <Route path="/simulados" component={SimuladosPage} />
+    <Route path="/revisoes" component={ReviewsPage} />
+    <Route path="/perfil" component={ProfilePage} />
+    <Route path="/radar-do-dia" component={RadarDayPage} />
+    <Route path="/anotacoes" component={NotesPage} />
+    <Route path="/notificacoes" component={NotificationsSettingsPage} />
+    <Route path="/progresso" component={LearningProgressPage} />
+    <Route path="/pesquisar" component={GlobalSearchPage} />
+    <Route path="/atlas" component={KnowledgeAtlasPage} />
+    <Route path="/explorar" component={KnowledgeExplorePage} />
+    <Route path="/biblioteca" component={ReadingLibraryPage} />
+    <Route path="/livros/:bookId" component={BookRoute} />
+    <Route path="/jogos" component={EducationalGamesPage} />
+    <Route path="/biblia" component={BibleCuriositiesPage} />
+    <Route path="/apocrifos" component={ApocryphaPage} />
+    <Route path="/pensadores" component={ThinkerTrailsPage} />
+    <Route path="/laboratorios/matematica" component={InteractiveMathLab} />
+    <Route path="/laboratorios/fisica" component={PhysicsFormulaLab} />
+    <Route component={NotFound} />
+  </Switch></AppShell></ErrorBoundary>;
 }
-
 function App() {
   const [favorites, setFavorites] = useState<number[]>([2]);
   const toggleFavorite = (id: number) => setFavorites((current) => current.includes(id) ? current.filter((favorite) => favorite !== id) : [...current, id]);
-  return <QueryClientProvider client={queryClient}><TooltipProvider><StudyTimerProvider><WouterRouter base={import.meta.env.BASE_URL.replace(/\/$/, '')}><Router favorites={favorites} onToggleFavorite={toggleFavorite} /></WouterRouter><Toaster /></StudyTimerProvider></TooltipProvider></QueryClientProvider>;
+  return <QueryClientProvider client={queryClient}><StudyTimerProvider><WouterRouter base={import.meta.env.BASE_URL.replace(/\/$/, '')}><Router favorites={favorites} onToggleFavorite={toggleFavorite} /></WouterRouter></StudyTimerProvider></QueryClientProvider>;
 }
 
 export default App;

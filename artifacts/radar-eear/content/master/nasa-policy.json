@@ -1,0 +1,13 @@
+{
+  "api": "https://images-api.nasa.gov",
+  "documentation": "https://images.nasa.gov/docs/images.nasa.gov_api_docs.pdf",
+  "usage_pt": "Pesquisar imagens, vídeos e áudio da NASA, guardar metadados, explicar missão/instrumento/descoberta e registrar a origem de cada mídia.",
+  "endpoints": [
+    "/search",
+    "/asset/{nasa_id}",
+    "/metadata/{nasa_id}",
+    "/captions/{nasa_id}",
+    "/album/{album_name}"
+  ],
+  "rights_policy_pt": "Não assumir que toda mídia é automaticamente livre para qualquer uso. Verificar Media Usage Guidelines e conteúdo de terceiros, marcas, logotipos e pessoas identificáveis."
+}

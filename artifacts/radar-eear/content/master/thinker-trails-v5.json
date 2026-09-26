@@ -1,0 +1,2957 @@
+{
+  "schema_version": "5.1",
+  "language": "pt-BR",
+  "note": "Trilhas editoriais neutras e históricas; autores são estudados por ideias e obras, sem ranking. Conteúdo integral só via fontes com direitos adequados.",
+  "trails": [
+    {
+      "id": "trilha-iris-murdoch",
+      "person_id": "iris-murdoch",
+      "title_pt": "Trilha Iris Murdoch",
+      "format": "micro → contexto → obra → aprofundamento",
+      "modules": [
+        {
+          "order": 1,
+          "title_pt": "contexto histórico",
+          "duration_min": 5
+        },
+        {
+          "order": 2,
+          "title_pt": "pergunta central",
+          "duration_min": 5
+        },
+        {
+          "order": 3,
+          "title_pt": "conceitos fundamentais",
+          "duration_min": 12
+        },
+        {
+          "order": 4,
+          "title_pt": "obra introdutória",
+          "duration_min": 12
+        },
+        {
+          "order": 5,
+          "title_pt": "obra principal",
+          "duration_min": 12
+        },
+        {
+          "order": 6,
+          "title_pt": "debates e críticas",
+          "duration_min": 12
+        },
+        {
+          "order": 7,
+          "title_pt": "ligações com ciência/matemática",
+          "duration_min": 12
+        },
+        {
+          "order": 8,
+          "title_pt": "ligações com sociedade",
+          "duration_min": 12
+        },
+        {
+          "order": 9,
+          "title_pt": "curiosidade contextual",
+          "duration_min": 12
+        },
+        {
+          "order": 10,
+          "title_pt": "leitura guiada",
+          "duration_min": 12
+        }
+      ]
+    },
+    {
+      "id": "trilha-baruch-spinoza",
+      "person_id": "baruch-spinoza",
+      "title_pt": "Trilha Baruch Spinoza",
+      "format": "micro → contexto → obra → aprofundamento",
+      "modules": [
+        {
+          "order": 1,
+          "title_pt": "contexto histórico",
+          "duration_min": 5
+        },
+        {
+          "order": 2,
+          "title_pt": "pergunta central",
+          "duration_min": 5
+        },
+        {
+          "order": 3,
+          "title_pt": "conceitos fundamentais",
+          "duration_min": 12
+        },
+        {
+          "order": 4,
+          "title_pt": "obra introdutória",
+          "duration_min": 12
+        },
+        {
+          "order": 5,
+          "title_pt": "obra principal",
+          "duration_min": 12
+        },
+        {
+          "order": 6,
+          "title_pt": "debates e críticas",
+          "duration_min": 12
+        },
+        {
+          "order": 7,
+          "title_pt": "ligações com ciência/matemática",
+          "duration_min": 12
+        },
+        {
+          "order": 8,
+          "title_pt": "ligações com sociedade",
+          "duration_min": 12
+        },
+        {
+          "order": 9,
+          "title_pt": "curiosidade contextual",
+          "duration_min": 12
+        },
+        {
+          "order": 10,
+          "title_pt": "leitura guiada",
+          "duration_min": 12
+        }
+      ]
+    },
+    {
+      "id": "trilha-karl-marx",
+      "person_id": "karl-marx",
+      "title_pt": "Trilha Karl Marx",
+      "format": "micro → contexto → obra → aprofundamento",
+      "modules": [
+        {
+          "order": 1,
+          "title_pt": "biografia intelectual",
+          "duration_min": 5
+        },
+        {
+          "order": 2,
+          "title_pt": "trabalho e alienação",
+          "duration_min": 5
+        },
+        {
+          "order": 3,
+          "title_pt": "mercadoria e valor",
+          "duration_min": 12
+        },
+        {
+          "order": 4,
+          "title_pt": "classes sociais",
+          "duration_min": 12
+        },
+        {
+          "order": 5,
+          "title_pt": "história e materialismo histórico",
+          "duration_min": 12
+        },
+        {
+          "order": 6,
+          "title_pt": "ideologia",
+          "duration_min": 12
+        },
+        {
+          "order": 7,
+          "title_pt": "capital e produção",
+          "duration_min": 12
+        },
+        {
+          "order": 8,
+          "title_pt": "Estado e sociedade",
+          "duration_min": 12
+        },
+        {
+          "order": 9,
+          "title_pt": "Manifesto Comunista",
+          "duration_min": 12
+        },
+        {
+          "order": 10,
+          "title_pt": "O Capital",
+          "duration_min": 12
+        },
+        {
+          "order": 11,
+          "title_pt": "debates e críticas",
+          "duration_min": 12
+        },
+        {
+          "order": 12,
+          "title_pt": "leitura guiada",
+          "duration_min": 12
+        }
+      ]
+    },
+    {
+      "id": "trilha-c-s-lewis",
+      "person_id": "c-s-lewis",
+      "title_pt": "Trilha C. S. Lewis",
+      "format": "micro → contexto → obra → aprofundamento",
+      "modules": [
+        {
+          "order": 1,
+          "title_pt": "contexto histórico",
+          "duration_min": 5
+        },
+        {
+          "order": 2,
+          "title_pt": "pergunta central",
+          "duration_min": 5
+        },
+        {
+          "order": 3,
+          "title_pt": "conceitos fundamentais",
+          "duration_min": 12
+        },
+        {
+          "order": 4,
+          "title_pt": "obra introdutória",
+          "duration_min": 12
+        },
+        {
+          "order": 5,
+          "title_pt": "obra principal",
+          "duration_min": 12
+        },
+        {
+          "order": 6,
+          "title_pt": "debates e críticas",
+          "duration_min": 12
+        },
+        {
+          "order": 7,
+          "title_pt": "ligações com ciência/matemática",
+          "duration_min": 12
+        },
+        {
+          "order": 8,
+          "title_pt": "ligações com sociedade",
+          "duration_min": 12
+        },
+        {
+          "order": 9,
+          "title_pt": "curiosidade contextual",
+          "duration_min": 12
+        },
+        {
+          "order": 10,
+          "title_pt": "leitura guiada",
+          "duration_min": 12
+        }
+      ]
+    },
+    {
+      "id": "trilha-norbert-elias",
+      "person_id": "norbert-elias",
+      "title_pt": "Trilha Norbert Elias",
+      "format": "micro → contexto → obra → aprofundamento",
+      "modules": [
+        {
+          "order": 1,
+          "title_pt": "contexto histórico",
+          "duration_min": 5
+        },
+        {
+          "order": 2,
+          "title_pt": "pergunta central",
+          "duration_min": 5
+        },
+        {
+          "order": 3,
+          "title_pt": "conceitos fundamentais",
+          "duration_min": 12
+        },
+        {
+          "order": 4,
+          "title_pt": "obra introdutória",
+          "duration_min": 12
+        },
+        {
+          "order": 5,
+          "title_pt": "obra principal",
+          "duration_min": 12
+        },
+        {
+          "order": 6,
+          "title_pt": "debates e críticas",
+          "duration_min": 12
+        },
+        {
+          "order": 7,
+          "title_pt": "ligações com ciência/matemática",
+          "duration_min": 12
+        },
+        {
+          "order": 8,
+          "title_pt": "ligações com sociedade",
+          "duration_min": 12
+        },
+        {
+          "order": 9,
+          "title_pt": "curiosidade contextual",
+          "duration_min": 12
+        },
+        {
+          "order": 10,
+          "title_pt": "leitura guiada",
+          "duration_min": 12
+        }
+      ]
+    },
+    {
+      "id": "trilha-rudolf-otto",
+      "person_id": "rudolf-otto",
+      "title_pt": "Trilha Rudolf Otto",
+      "format": "micro → contexto → obra → aprofundamento",
+      "modules": [
+        {
+          "order": 1,
+          "title_pt": "contexto histórico",
+          "duration_min": 5
+        },
+        {
+          "order": 2,
+          "title_pt": "pergunta central",
+          "duration_min": 5
+        },
+        {
+          "order": 3,
+          "title_pt": "conceitos fundamentais",
+          "duration_min": 12
+        },
+        {
+          "order": 4,
+          "title_pt": "obra introdutória",
+          "duration_min": 12
+        },
+        {
+          "order": 5,
+          "title_pt": "obra principal",
+          "duration_min": 12
+        },
+        {
+          "order": 6,
+          "title_pt": "debates e críticas",
+          "duration_min": 12
+        },
+        {
+          "order": 7,
+          "title_pt": "ligações com ciência/matemática",
+          "duration_min": 12
+        },
+        {
+          "order": 8,
+          "title_pt": "ligações com sociedade",
+          "duration_min": 12
+        },
+        {
+          "order": 9,
+          "title_pt": "curiosidade contextual",
+          "duration_min": 12
+        },
+        {
+          "order": 10,
+          "title_pt": "leitura guiada",
+          "duration_min": 12
+        }
+      ]
+    },
+    {
+      "id": "trilha-bertrand-russell",
+      "person_id": "bertrand-russell",
+      "title_pt": "Trilha Bertrand Russell",
+      "format": "micro → contexto → obra → aprofundamento",
+      "modules": [
+        {
+          "order": 1,
+          "title_pt": "contexto histórico",
+          "duration_min": 5
+        },
+        {
+          "order": 2,
+          "title_pt": "pergunta central",
+          "duration_min": 5
+        },
+        {
+          "order": 3,
+          "title_pt": "conceitos fundamentais",
+          "duration_min": 12
+        },
+        {
+          "order": 4,
+          "title_pt": "obra introdutória",
+          "duration_min": 12
+        },
+        {
+          "order": 5,
+          "title_pt": "obra principal",
+          "duration_min": 12
+        },
+        {
+          "order": 6,
+          "title_pt": "debates e críticas",
+          "duration_min": 12
+        },
+        {
+          "order": 7,
+          "title_pt": "ligações com ciência/matemática",
+          "duration_min": 12
+        },
+        {
+          "order": 8,
+          "title_pt": "ligações com sociedade",
+          "duration_min": 12
+        },
+        {
+          "order": 9,
+          "title_pt": "curiosidade contextual",
+          "duration_min": 12
+        },
+        {
+          "order": 10,
+          "title_pt": "leitura guiada",
+          "duration_min": 12
+        }
+      ]
+    },
+    {
+      "id": "trilha-michel-foucault",
+      "person_id": "michel-foucault",
+      "title_pt": "Trilha Michel Foucault",
+      "format": "micro → contexto → obra → aprofundamento",
+      "modules": [
+        {
+          "order": 1,
+          "title_pt": "contexto histórico",
+          "duration_min": 5
+        },
+        {
+          "order": 2,
+          "title_pt": "pergunta central",
+          "duration_min": 5
+        },
+        {
+          "order": 3,
+          "title_pt": "conceitos fundamentais",
+          "duration_min": 12
+        },
+        {
+          "order": 4,
+          "title_pt": "obra introdutória",
+          "duration_min": 12
+        },
+        {
+          "order": 5,
+          "title_pt": "obra principal",
+          "duration_min": 12
+        },
+        {
+          "order": 6,
+          "title_pt": "debates e críticas",
+          "duration_min": 12
+        },
+        {
+          "order": 7,
+          "title_pt": "ligações com ciência/matemática",
+          "duration_min": 12
+        },
+        {
+          "order": 8,
+          "title_pt": "ligações com sociedade",
+          "duration_min": 12
+        },
+        {
+          "order": 9,
+          "title_pt": "curiosidade contextual",
+          "duration_min": 12
+        },
+        {
+          "order": 10,
+          "title_pt": "leitura guiada",
+          "duration_min": 12
+        }
+      ]
+    },
+    {
+      "id": "trilha-socrates",
+      "person_id": "socrates",
+      "title_pt": "Trilha Sócrates",
+      "format": "micro → contexto → obra → aprofundamento",
+      "modules": [
+        {
+          "order": 1,
+          "title_pt": "contexto histórico",
+          "duration_min": 5
+        },
+        {
+          "order": 2,
+          "title_pt": "pergunta central",
+          "duration_min": 5
+        },
+        {
+          "order": 3,
+          "title_pt": "conceitos fundamentais",
+          "duration_min": 12
+        },
+        {
+          "order": 4,
+          "title_pt": "obra introdutória",
+          "duration_min": 12
+        },
+        {
+          "order": 5,
+          "title_pt": "obra principal",
+          "duration_min": 12
+        },
+        {
+          "order": 6,
+          "title_pt": "debates e críticas",
+          "duration_min": 12
+        },
+        {
+          "order": 7,
+          "title_pt": "ligações com ciência/matemática",
+          "duration_min": 12
+        },
+        {
+          "order": 8,
+          "title_pt": "ligações com sociedade",
+          "duration_min": 12
+        },
+        {
+          "order": 9,
+          "title_pt": "curiosidade contextual",
+          "duration_min": 12
+        },
+        {
+          "order": 10,
+          "title_pt": "leitura guiada",
+          "duration_min": 12
+        }
+      ]
+    },
+    {
+      "id": "trilha-c-wright-mills",
+      "person_id": "c-wright-mills",
+      "title_pt": "Trilha C. Wright Mills",
+      "format": "micro → contexto → obra → aprofundamento",
+      "modules": [
+        {
+          "order": 1,
+          "title_pt": "contexto histórico",
+          "duration_min": 5
+        },
+        {
+          "order": 2,
+          "title_pt": "pergunta central",
+          "duration_min": 5
+        },
+        {
+          "order": 3,
+          "title_pt": "conceitos fundamentais",
+          "duration_min": 12
+        },
+        {
+          "order": 4,
+          "title_pt": "obra introdutória",
+          "duration_min": 12
+        },
+        {
+          "order": 5,
+          "title_pt": "obra principal",
+          "duration_min": 12
+        },
+        {
+          "order": 6,
+          "title_pt": "debates e críticas",
+          "duration_min": 12
+        },
+        {
+          "order": 7,
+          "title_pt": "ligações com ciência/matemática",
+          "duration_min": 12
+        },
+        {
+          "order": 8,
+          "title_pt": "ligações com sociedade",
+          "duration_min": 12
+        },
+        {
+          "order": 9,
+          "title_pt": "curiosidade contextual",
+          "duration_min": 12
+        },
+        {
+          "order": 10,
+          "title_pt": "leitura guiada",
+          "duration_min": 12
+        }
+      ]
+    },
+    {
+      "id": "trilha-david-hume",
+      "person_id": "david-hume",
+      "title_pt": "Trilha David Hume",
+      "format": "micro → contexto → obra → aprofundamento",
+      "modules": [
+        {
+          "order": 1,
+          "title_pt": "contexto histórico",
+          "duration_min": 5
+        },
+        {
+          "order": 2,
+          "title_pt": "pergunta central",
+          "duration_min": 5
+        },
+        {
+          "order": 3,
+          "title_pt": "conceitos fundamentais",
+          "duration_min": 12
+        },
+        {
+          "order": 4,
+          "title_pt": "obra introdutória",
+          "duration_min": 12
+        },
+        {
+          "order": 5,
+          "title_pt": "obra principal",
+          "duration_min": 12
+        },
+        {
+          "order": 6,
+          "title_pt": "debates e críticas",
+          "duration_min": 12
+        },
+        {
+          "order": 7,
+          "title_pt": "ligações com ciência/matemática",
+          "duration_min": 12
+        },
+        {
+          "order": 8,
+          "title_pt": "ligações com sociedade",
+          "duration_min": 12
+        },
+        {
+          "order": 9,
+          "title_pt": "curiosidade contextual",
+          "duration_min": 12
+        },
+        {
+          "order": 10,
+          "title_pt": "leitura guiada",
+          "duration_min": 12
+        }
+      ]
+    },
+    {
+      "id": "trilha-ludwig-wittgenstein",
+      "person_id": "ludwig-wittgenstein",
+      "title_pt": "Trilha Ludwig Wittgenstein",
+      "format": "micro → contexto → obra → aprofundamento",
+      "modules": [
+        {
+          "order": 1,
+          "title_pt": "contexto histórico",
+          "duration_min": 5
+        },
+        {
+          "order": 2,
+          "title_pt": "pergunta central",
+          "duration_min": 5
+        },
+        {
+          "order": 3,
+          "title_pt": "conceitos fundamentais",
+          "duration_min": 12
+        },
+        {
+          "order": 4,
+          "title_pt": "obra introdutória",
+          "duration_min": 12
+        },
+        {
+          "order": 5,
+          "title_pt": "obra principal",
+          "duration_min": 12
+        },
+        {
+          "order": 6,
+          "title_pt": "debates e críticas",
+          "duration_min": 12
+        },
+        {
+          "order": 7,
+          "title_pt": "ligações com ciência/matemática",
+          "duration_min": 12
+        },
+        {
+          "order": 8,
+          "title_pt": "ligações com sociedade",
+          "duration_min": 12
+        },
+        {
+          "order": 9,
+          "title_pt": "curiosidade contextual",
+          "duration_min": 12
+        },
+        {
+          "order": 10,
+          "title_pt": "leitura guiada",
+          "duration_min": 12
+        }
+      ]
+    },
+    {
+      "id": "trilha-soren-kierkegaard",
+      "person_id": "soren-kierkegaard",
+      "title_pt": "Trilha Søren Kierkegaard",
+      "format": "micro → contexto → obra → aprofundamento",
+      "modules": [
+        {
+          "order": 1,
+          "title_pt": "contexto histórico",
+          "duration_min": 5
+        },
+        {
+          "order": 2,
+          "title_pt": "pergunta central",
+          "duration_min": 5
+        },
+        {
+          "order": 3,
+          "title_pt": "conceitos fundamentais",
+          "duration_min": 12
+        },
+        {
+          "order": 4,
+          "title_pt": "obra introdutória",
+          "duration_min": 12
+        },
+        {
+          "order": 5,
+          "title_pt": "obra principal",
+          "duration_min": 12
+        },
+        {
+          "order": 6,
+          "title_pt": "debates e críticas",
+          "duration_min": 12
+        },
+        {
+          "order": 7,
+          "title_pt": "ligações com ciência/matemática",
+          "duration_min": 12
+        },
+        {
+          "order": 8,
+          "title_pt": "ligações com sociedade",
+          "duration_min": 12
+        },
+        {
+          "order": 9,
+          "title_pt": "curiosidade contextual",
+          "duration_min": 12
+        },
+        {
+          "order": 10,
+          "title_pt": "leitura guiada",
+          "duration_min": 12
+        }
+      ]
+    },
+    {
+      "id": "trilha-mircea-eliade",
+      "person_id": "mircea-eliade",
+      "title_pt": "Trilha Mircea Eliade",
+      "format": "micro → contexto → obra → aprofundamento",
+      "modules": [
+        {
+          "order": 1,
+          "title_pt": "contexto histórico",
+          "duration_min": 5
+        },
+        {
+          "order": 2,
+          "title_pt": "pergunta central",
+          "duration_min": 5
+        },
+        {
+          "order": 3,
+          "title_pt": "conceitos fundamentais",
+          "duration_min": 12
+        },
+        {
+          "order": 4,
+          "title_pt": "obra introdutória",
+          "duration_min": 12
+        },
+        {
+          "order": 5,
+          "title_pt": "obra principal",
+          "duration_min": 12
+        },
+        {
+          "order": 6,
+          "title_pt": "debates e críticas",
+          "duration_min": 12
+        },
+        {
+          "order": 7,
+          "title_pt": "ligações com ciência/matemática",
+          "duration_min": 12
+        },
+        {
+          "order": 8,
+          "title_pt": "ligações com sociedade",
+          "duration_min": 12
+        },
+        {
+          "order": 9,
+          "title_pt": "curiosidade contextual",
+          "duration_min": 12
+        },
+        {
+          "order": 10,
+          "title_pt": "leitura guiada",
+          "duration_min": 12
+        }
+      ]
+    },
+    {
+      "id": "trilha-laozi",
+      "person_id": "laozi",
+      "title_pt": "Trilha Laozi",
+      "format": "micro → contexto → obra → aprofundamento",
+      "modules": [
+        {
+          "order": 1,
+          "title_pt": "contexto histórico",
+          "duration_min": 5
+        },
+        {
+          "order": 2,
+          "title_pt": "pergunta central",
+          "duration_min": 5
+        },
+        {
+          "order": 3,
+          "title_pt": "conceitos fundamentais",
+          "duration_min": 12
+        },
+        {
+          "order": 4,
+          "title_pt": "obra introdutória",
+          "duration_min": 12
+        },
+        {
+          "order": 5,
+          "title_pt": "obra principal",
+          "duration_min": 12
+        },
+        {
+          "order": 6,
+          "title_pt": "debates e críticas",
+          "duration_min": 12
+        },
+        {
+          "order": 7,
+          "title_pt": "ligações com ciência/matemática",
+          "duration_min": 12
+        },
+        {
+          "order": 8,
+          "title_pt": "ligações com sociedade",
+          "duration_min": 12
+        },
+        {
+          "order": 9,
+          "title_pt": "curiosidade contextual",
+          "duration_min": 12
+        },
+        {
+          "order": 10,
+          "title_pt": "leitura guiada",
+          "duration_min": 12
+        }
+      ]
+    },
+    {
+      "id": "trilha-albert-camus",
+      "person_id": "albert-camus",
+      "title_pt": "Trilha Albert Camus",
+      "format": "micro → contexto → obra → aprofundamento",
+      "modules": [
+        {
+          "order": 1,
+          "title_pt": "contexto histórico",
+          "duration_min": 5
+        },
+        {
+          "order": 2,
+          "title_pt": "pergunta central",
+          "duration_min": 5
+        },
+        {
+          "order": 3,
+          "title_pt": "conceitos fundamentais",
+          "duration_min": 12
+        },
+        {
+          "order": 4,
+          "title_pt": "obra introdutória",
+          "duration_min": 12
+        },
+        {
+          "order": 5,
+          "title_pt": "obra principal",
+          "duration_min": 12
+        },
+        {
+          "order": 6,
+          "title_pt": "debates e críticas",
+          "duration_min": 12
+        },
+        {
+          "order": 7,
+          "title_pt": "ligações com ciência/matemática",
+          "duration_min": 12
+        },
+        {
+          "order": 8,
+          "title_pt": "ligações com sociedade",
+          "duration_min": 12
+        },
+        {
+          "order": 9,
+          "title_pt": "curiosidade contextual",
+          "duration_min": 12
+        },
+        {
+          "order": 10,
+          "title_pt": "leitura guiada",
+          "duration_min": 12
+        }
+      ]
+    },
+    {
+      "id": "trilha-sergio-buarque",
+      "person_id": "sergio-buarque",
+      "title_pt": "Trilha Sérgio Buarque de Holanda",
+      "format": "micro → contexto → obra → aprofundamento",
+      "modules": [
+        {
+          "order": 1,
+          "title_pt": "contexto histórico",
+          "duration_min": 5
+        },
+        {
+          "order": 2,
+          "title_pt": "pergunta central",
+          "duration_min": 5
+        },
+        {
+          "order": 3,
+          "title_pt": "conceitos fundamentais",
+          "duration_min": 12
+        },
+        {
+          "order": 4,
+          "title_pt": "obra introdutória",
+          "duration_min": 12
+        },
+        {
+          "order": 5,
+          "title_pt": "obra principal",
+          "duration_min": 12
+        },
+        {
+          "order": 6,
+          "title_pt": "debates e críticas",
+          "duration_min": 12
+        },
+        {
+          "order": 7,
+          "title_pt": "ligações com ciência/matemática",
+          "duration_min": 12
+        },
+        {
+          "order": 8,
+          "title_pt": "ligações com sociedade",
+          "duration_min": 12
+        },
+        {
+          "order": 9,
+          "title_pt": "curiosidade contextual",
+          "duration_min": 12
+        },
+        {
+          "order": 10,
+          "title_pt": "leitura guiada",
+          "duration_min": 12
+        }
+      ]
+    },
+    {
+      "id": "trilha-max-weber",
+      "person_id": "max-weber",
+      "title_pt": "Trilha Max Weber",
+      "format": "micro → contexto → obra → aprofundamento",
+      "modules": [
+        {
+          "order": 1,
+          "title_pt": "biografia intelectual",
+          "duration_min": 5
+        },
+        {
+          "order": 2,
+          "title_pt": "ação social",
+          "duration_min": 5
+        },
+        {
+          "order": 3,
+          "title_pt": "tipos ideais",
+          "duration_min": 12
+        },
+        {
+          "order": 4,
+          "title_pt": "racionalização",
+          "duration_min": 12
+        },
+        {
+          "order": 5,
+          "title_pt": "burocracia",
+          "duration_min": 12
+        },
+        {
+          "order": 6,
+          "title_pt": "dominação",
+          "duration_min": 12
+        },
+        {
+          "order": 7,
+          "title_pt": "religião e capitalismo",
+          "duration_min": 12
+        },
+        {
+          "order": 8,
+          "title_pt": "A Ética Protestante",
+          "duration_min": 12
+        },
+        {
+          "order": 9,
+          "title_pt": "Economia e Sociedade",
+          "duration_min": 12
+        },
+        {
+          "order": 10,
+          "title_pt": "ciência como vocação",
+          "duration_min": 12
+        },
+        {
+          "order": 11,
+          "title_pt": "debates interpretativos",
+          "duration_min": 12
+        },
+        {
+          "order": 12,
+          "title_pt": "leitura guiada",
+          "duration_min": 12
+        }
+      ]
+    },
+    {
+      "id": "trilha-alexis-de-tocqueville",
+      "person_id": "alexis-de-tocqueville",
+      "title_pt": "Trilha Alexis de Tocqueville",
+      "format": "micro → contexto → obra → aprofundamento",
+      "modules": [
+        {
+          "order": 1,
+          "title_pt": "contexto histórico",
+          "duration_min": 5
+        },
+        {
+          "order": 2,
+          "title_pt": "pergunta central",
+          "duration_min": 5
+        },
+        {
+          "order": 3,
+          "title_pt": "conceitos fundamentais",
+          "duration_min": 12
+        },
+        {
+          "order": 4,
+          "title_pt": "obra introdutória",
+          "duration_min": 12
+        },
+        {
+          "order": 5,
+          "title_pt": "obra principal",
+          "duration_min": 12
+        },
+        {
+          "order": 6,
+          "title_pt": "debates e críticas",
+          "duration_min": 12
+        },
+        {
+          "order": 7,
+          "title_pt": "ligações com ciência/matemática",
+          "duration_min": 12
+        },
+        {
+          "order": 8,
+          "title_pt": "ligações com sociedade",
+          "duration_min": 12
+        },
+        {
+          "order": 9,
+          "title_pt": "curiosidade contextual",
+          "duration_min": 12
+        },
+        {
+          "order": 10,
+          "title_pt": "leitura guiada",
+          "duration_min": 12
+        }
+      ]
+    },
+    {
+      "id": "trilha-milton-santos",
+      "person_id": "milton-santos",
+      "title_pt": "Trilha Milton Santos",
+      "format": "micro → contexto → obra → aprofundamento",
+      "modules": [
+        {
+          "order": 1,
+          "title_pt": "contexto histórico",
+          "duration_min": 5
+        },
+        {
+          "order": 2,
+          "title_pt": "pergunta central",
+          "duration_min": 5
+        },
+        {
+          "order": 3,
+          "title_pt": "conceitos fundamentais",
+          "duration_min": 12
+        },
+        {
+          "order": 4,
+          "title_pt": "obra introdutória",
+          "duration_min": 12
+        },
+        {
+          "order": 5,
+          "title_pt": "obra principal",
+          "duration_min": 12
+        },
+        {
+          "order": 6,
+          "title_pt": "debates e críticas",
+          "duration_min": 12
+        },
+        {
+          "order": 7,
+          "title_pt": "ligações com ciência/matemática",
+          "duration_min": 12
+        },
+        {
+          "order": 8,
+          "title_pt": "ligações com sociedade",
+          "duration_min": 12
+        },
+        {
+          "order": 9,
+          "title_pt": "curiosidade contextual",
+          "duration_min": 12
+        },
+        {
+          "order": 10,
+          "title_pt": "leitura guiada",
+          "duration_min": 12
+        }
+      ]
+    },
+    {
+      "id": "trilha-confucio",
+      "person_id": "confucio",
+      "title_pt": "Trilha Confúcio",
+      "format": "micro → contexto → obra → aprofundamento",
+      "modules": [
+        {
+          "order": 1,
+          "title_pt": "contexto histórico",
+          "duration_min": 5
+        },
+        {
+          "order": 2,
+          "title_pt": "pergunta central",
+          "duration_min": 5
+        },
+        {
+          "order": 3,
+          "title_pt": "conceitos fundamentais",
+          "duration_min": 12
+        },
+        {
+          "order": 4,
+          "title_pt": "obra introdutória",
+          "duration_min": 12
+        },
+        {
+          "order": 5,
+          "title_pt": "obra principal",
+          "duration_min": 12
+        },
+        {
+          "order": 6,
+          "title_pt": "debates e críticas",
+          "duration_min": 12
+        },
+        {
+          "order": 7,
+          "title_pt": "ligações com ciência/matemática",
+          "duration_min": 12
+        },
+        {
+          "order": 8,
+          "title_pt": "ligações com sociedade",
+          "duration_min": 12
+        },
+        {
+          "order": 9,
+          "title_pt": "curiosidade contextual",
+          "duration_min": 12
+        },
+        {
+          "order": 10,
+          "title_pt": "leitura guiada",
+          "duration_min": 12
+        }
+      ]
+    },
+    {
+      "id": "trilha-immanuel-kant",
+      "person_id": "immanuel-kant",
+      "title_pt": "Trilha Immanuel Kant",
+      "format": "micro → contexto → obra → aprofundamento",
+      "modules": [
+        {
+          "order": 1,
+          "title_pt": "contexto histórico",
+          "duration_min": 5
+        },
+        {
+          "order": 2,
+          "title_pt": "pergunta central",
+          "duration_min": 5
+        },
+        {
+          "order": 3,
+          "title_pt": "conceitos fundamentais",
+          "duration_min": 12
+        },
+        {
+          "order": 4,
+          "title_pt": "obra introdutória",
+          "duration_min": 12
+        },
+        {
+          "order": 5,
+          "title_pt": "obra principal",
+          "duration_min": 12
+        },
+        {
+          "order": 6,
+          "title_pt": "debates e críticas",
+          "duration_min": 12
+        },
+        {
+          "order": 7,
+          "title_pt": "ligações com ciência/matemática",
+          "duration_min": 12
+        },
+        {
+          "order": 8,
+          "title_pt": "ligações com sociedade",
+          "duration_min": 12
+        },
+        {
+          "order": 9,
+          "title_pt": "curiosidade contextual",
+          "duration_min": 12
+        },
+        {
+          "order": 10,
+          "title_pt": "leitura guiada",
+          "duration_min": 12
+        }
+      ]
+    },
+    {
+      "id": "trilha-edward-said",
+      "person_id": "edward-said",
+      "title_pt": "Trilha Edward Said",
+      "format": "micro → contexto → obra → aprofundamento",
+      "modules": [
+        {
+          "order": 1,
+          "title_pt": "contexto histórico",
+          "duration_min": 5
+        },
+        {
+          "order": 2,
+          "title_pt": "pergunta central",
+          "duration_min": 5
+        },
+        {
+          "order": 3,
+          "title_pt": "conceitos fundamentais",
+          "duration_min": 12
+        },
+        {
+          "order": 4,
+          "title_pt": "obra introdutória",
+          "duration_min": 12
+        },
+        {
+          "order": 5,
+          "title_pt": "obra principal",
+          "duration_min": 12
+        },
+        {
+          "order": 6,
+          "title_pt": "debates e críticas",
+          "duration_min": 12
+        },
+        {
+          "order": 7,
+          "title_pt": "ligações com ciência/matemática",
+          "duration_min": 12
+        },
+        {
+          "order": 8,
+          "title_pt": "ligações com sociedade",
+          "duration_min": 12
+        },
+        {
+          "order": 9,
+          "title_pt": "curiosidade contextual",
+          "duration_min": 12
+        },
+        {
+          "order": 10,
+          "title_pt": "leitura guiada",
+          "duration_min": 12
+        }
+      ]
+    },
+    {
+      "id": "trilha-tomas-de-more",
+      "person_id": "tomas-de-more",
+      "title_pt": "Trilha Thomas More",
+      "format": "micro → contexto → obra → aprofundamento",
+      "modules": [
+        {
+          "order": 1,
+          "title_pt": "contexto histórico",
+          "duration_min": 5
+        },
+        {
+          "order": 2,
+          "title_pt": "pergunta central",
+          "duration_min": 5
+        },
+        {
+          "order": 3,
+          "title_pt": "conceitos fundamentais",
+          "duration_min": 12
+        },
+        {
+          "order": 4,
+          "title_pt": "obra introdutória",
+          "duration_min": 12
+        },
+        {
+          "order": 5,
+          "title_pt": "obra principal",
+          "duration_min": 12
+        },
+        {
+          "order": 6,
+          "title_pt": "debates e críticas",
+          "duration_min": 12
+        },
+        {
+          "order": 7,
+          "title_pt": "ligações com ciência/matemática",
+          "duration_min": 12
+        },
+        {
+          "order": 8,
+          "title_pt": "ligações com sociedade",
+          "duration_min": 12
+        },
+        {
+          "order": 9,
+          "title_pt": "curiosidade contextual",
+          "duration_min": 12
+        },
+        {
+          "order": 10,
+          "title_pt": "leitura guiada",
+          "duration_min": 12
+        }
+      ]
+    },
+    {
+      "id": "trilha-simone-de-beauvoir",
+      "person_id": "simone-de-beauvoir",
+      "title_pt": "Trilha Simone de Beauvoir",
+      "format": "micro → contexto → obra → aprofundamento",
+      "modules": [
+        {
+          "order": 1,
+          "title_pt": "contexto histórico",
+          "duration_min": 5
+        },
+        {
+          "order": 2,
+          "title_pt": "pergunta central",
+          "duration_min": 5
+        },
+        {
+          "order": 3,
+          "title_pt": "conceitos fundamentais",
+          "duration_min": 12
+        },
+        {
+          "order": 4,
+          "title_pt": "obra introdutória",
+          "duration_min": 12
+        },
+        {
+          "order": 5,
+          "title_pt": "obra principal",
+          "duration_min": 12
+        },
+        {
+          "order": 6,
+          "title_pt": "debates e críticas",
+          "duration_min": 12
+        },
+        {
+          "order": 7,
+          "title_pt": "ligações com ciência/matemática",
+          "duration_min": 12
+        },
+        {
+          "order": 8,
+          "title_pt": "ligações com sociedade",
+          "duration_min": 12
+        },
+        {
+          "order": 9,
+          "title_pt": "curiosidade contextual",
+          "duration_min": 12
+        },
+        {
+          "order": 10,
+          "title_pt": "leitura guiada",
+          "duration_min": 12
+        }
+      ]
+    },
+    {
+      "id": "trilha-hannah-arendt",
+      "person_id": "hannah-arendt",
+      "title_pt": "Trilha Hannah Arendt",
+      "format": "micro → contexto → obra → aprofundamento",
+      "modules": [
+        {
+          "order": 1,
+          "title_pt": "contexto histórico",
+          "duration_min": 5
+        },
+        {
+          "order": 2,
+          "title_pt": "pergunta central",
+          "duration_min": 5
+        },
+        {
+          "order": 3,
+          "title_pt": "conceitos fundamentais",
+          "duration_min": 12
+        },
+        {
+          "order": 4,
+          "title_pt": "obra introdutória",
+          "duration_min": 12
+        },
+        {
+          "order": 5,
+          "title_pt": "obra principal",
+          "duration_min": 12
+        },
+        {
+          "order": 6,
+          "title_pt": "debates e críticas",
+          "duration_min": 12
+        },
+        {
+          "order": 7,
+          "title_pt": "ligações com ciência/matemática",
+          "duration_min": 12
+        },
+        {
+          "order": 8,
+          "title_pt": "ligações com sociedade",
+          "duration_min": 12
+        },
+        {
+          "order": 9,
+          "title_pt": "curiosidade contextual",
+          "duration_min": 12
+        },
+        {
+          "order": 10,
+          "title_pt": "leitura guiada",
+          "duration_min": 12
+        }
+      ]
+    },
+    {
+      "id": "trilha-aristoteles",
+      "person_id": "aristoteles",
+      "title_pt": "Trilha Aristóteles",
+      "format": "micro → contexto → obra → aprofundamento",
+      "modules": [
+        {
+          "order": 1,
+          "title_pt": "lógica",
+          "duration_min": 5
+        },
+        {
+          "order": 2,
+          "title_pt": "substância e causas",
+          "duration_min": 5
+        },
+        {
+          "order": 3,
+          "title_pt": "física",
+          "duration_min": 12
+        },
+        {
+          "order": 4,
+          "title_pt": "alma",
+          "duration_min": 12
+        },
+        {
+          "order": 5,
+          "title_pt": "ética",
+          "duration_min": 12
+        },
+        {
+          "order": 6,
+          "title_pt": "virtude",
+          "duration_min": 12
+        },
+        {
+          "order": 7,
+          "title_pt": "política",
+          "duration_min": 12
+        },
+        {
+          "order": 8,
+          "title_pt": "retórica",
+          "duration_min": 12
+        },
+        {
+          "order": 9,
+          "title_pt": "Poética",
+          "duration_min": 12
+        },
+        {
+          "order": 10,
+          "title_pt": "Metafísica",
+          "duration_min": 12
+        },
+        {
+          "order": 11,
+          "title_pt": "ciência e demonstração",
+          "duration_min": 12
+        },
+        {
+          "order": 12,
+          "title_pt": "leitura guiada",
+          "duration_min": 12
+        }
+      ]
+    },
+    {
+      "id": "trilha-paulo-freire",
+      "person_id": "paulo-freire",
+      "title_pt": "Trilha Paulo Freire",
+      "format": "micro → contexto → obra → aprofundamento",
+      "modules": [
+        {
+          "order": 1,
+          "title_pt": "contexto histórico",
+          "duration_min": 5
+        },
+        {
+          "order": 2,
+          "title_pt": "pergunta central",
+          "duration_min": 5
+        },
+        {
+          "order": 3,
+          "title_pt": "conceitos fundamentais",
+          "duration_min": 12
+        },
+        {
+          "order": 4,
+          "title_pt": "obra introdutória",
+          "duration_min": 12
+        },
+        {
+          "order": 5,
+          "title_pt": "obra principal",
+          "duration_min": 12
+        },
+        {
+          "order": 6,
+          "title_pt": "debates e críticas",
+          "duration_min": 12
+        },
+        {
+          "order": 7,
+          "title_pt": "ligações com ciência/matemática",
+          "duration_min": 12
+        },
+        {
+          "order": 8,
+          "title_pt": "ligações com sociedade",
+          "duration_min": 12
+        },
+        {
+          "order": 9,
+          "title_pt": "curiosidade contextual",
+          "duration_min": 12
+        },
+        {
+          "order": 10,
+          "title_pt": "leitura guiada",
+          "duration_min": 12
+        }
+      ]
+    },
+    {
+      "id": "trilha-blaise-pascal",
+      "person_id": "blaise-pascal",
+      "title_pt": "Trilha Blaise Pascal",
+      "format": "micro → contexto → obra → aprofundamento",
+      "modules": [
+        {
+          "order": 1,
+          "title_pt": "contexto histórico",
+          "duration_min": 5
+        },
+        {
+          "order": 2,
+          "title_pt": "pergunta central",
+          "duration_min": 5
+        },
+        {
+          "order": 3,
+          "title_pt": "conceitos fundamentais",
+          "duration_min": 12
+        },
+        {
+          "order": 4,
+          "title_pt": "obra introdutória",
+          "duration_min": 12
+        },
+        {
+          "order": 5,
+          "title_pt": "obra principal",
+          "duration_min": 12
+        },
+        {
+          "order": 6,
+          "title_pt": "debates e críticas",
+          "duration_min": 12
+        },
+        {
+          "order": 7,
+          "title_pt": "ligações com ciência/matemática",
+          "duration_min": 12
+        },
+        {
+          "order": 8,
+          "title_pt": "ligações com sociedade",
+          "duration_min": 12
+        },
+        {
+          "order": 9,
+          "title_pt": "curiosidade contextual",
+          "duration_min": 12
+        },
+        {
+          "order": 10,
+          "title_pt": "leitura guiada",
+          "duration_min": 12
+        }
+      ]
+    },
+    {
+      "id": "trilha-paul-tillich",
+      "person_id": "paul-tillich",
+      "title_pt": "Trilha Paul Tillich",
+      "format": "micro → contexto → obra → aprofundamento",
+      "modules": [
+        {
+          "order": 1,
+          "title_pt": "contexto histórico",
+          "duration_min": 5
+        },
+        {
+          "order": 2,
+          "title_pt": "pergunta central",
+          "duration_min": 5
+        },
+        {
+          "order": 3,
+          "title_pt": "conceitos fundamentais",
+          "duration_min": 12
+        },
+        {
+          "order": 4,
+          "title_pt": "obra introdutória",
+          "duration_min": 12
+        },
+        {
+          "order": 5,
+          "title_pt": "obra principal",
+          "duration_min": 12
+        },
+        {
+          "order": 6,
+          "title_pt": "debates e críticas",
+          "duration_min": 12
+        },
+        {
+          "order": 7,
+          "title_pt": "ligações com ciência/matemática",
+          "duration_min": 12
+        },
+        {
+          "order": 8,
+          "title_pt": "ligações com sociedade",
+          "duration_min": 12
+        },
+        {
+          "order": 9,
+          "title_pt": "curiosidade contextual",
+          "duration_min": 12
+        },
+        {
+          "order": 10,
+          "title_pt": "leitura guiada",
+          "duration_min": 12
+        }
+      ]
+    },
+    {
+      "id": "trilha-friedrich-nietzsche",
+      "person_id": "friedrich-nietzsche",
+      "title_pt": "Trilha Friedrich Nietzsche",
+      "format": "micro → contexto → obra → aprofundamento",
+      "modules": [
+        {
+          "order": 1,
+          "title_pt": "contexto histórico",
+          "duration_min": 5
+        },
+        {
+          "order": 2,
+          "title_pt": "pergunta central",
+          "duration_min": 5
+        },
+        {
+          "order": 3,
+          "title_pt": "conceitos fundamentais",
+          "duration_min": 12
+        },
+        {
+          "order": 4,
+          "title_pt": "obra introdutória",
+          "duration_min": 12
+        },
+        {
+          "order": 5,
+          "title_pt": "obra principal",
+          "duration_min": 12
+        },
+        {
+          "order": 6,
+          "title_pt": "debates e críticas",
+          "duration_min": 12
+        },
+        {
+          "order": 7,
+          "title_pt": "ligações com ciência/matemática",
+          "duration_min": 12
+        },
+        {
+          "order": 8,
+          "title_pt": "ligações com sociedade",
+          "duration_min": 12
+        },
+        {
+          "order": 9,
+          "title_pt": "curiosidade contextual",
+          "duration_min": 12
+        },
+        {
+          "order": 10,
+          "title_pt": "leitura guiada",
+          "duration_min": 12
+        }
+      ]
+    },
+    {
+      "id": "trilha-mary-wollstonecraft",
+      "person_id": "mary-wollstonecraft",
+      "title_pt": "Trilha Mary Wollstonecraft",
+      "format": "micro → contexto → obra → aprofundamento",
+      "modules": [
+        {
+          "order": 1,
+          "title_pt": "contexto histórico",
+          "duration_min": 5
+        },
+        {
+          "order": 2,
+          "title_pt": "pergunta central",
+          "duration_min": 5
+        },
+        {
+          "order": 3,
+          "title_pt": "conceitos fundamentais",
+          "duration_min": 12
+        },
+        {
+          "order": 4,
+          "title_pt": "obra introdutória",
+          "duration_min": 12
+        },
+        {
+          "order": 5,
+          "title_pt": "obra principal",
+          "duration_min": 12
+        },
+        {
+          "order": 6,
+          "title_pt": "debates e críticas",
+          "duration_min": 12
+        },
+        {
+          "order": 7,
+          "title_pt": "ligações com ciência/matemática",
+          "duration_min": 12
+        },
+        {
+          "order": 8,
+          "title_pt": "ligações com sociedade",
+          "duration_min": 12
+        },
+        {
+          "order": 9,
+          "title_pt": "curiosidade contextual",
+          "duration_min": 12
+        },
+        {
+          "order": 10,
+          "title_pt": "leitura guiada",
+          "duration_min": 12
+        }
+      ]
+    },
+    {
+      "id": "trilha-maimonides",
+      "person_id": "maimonides",
+      "title_pt": "Trilha Maimônides",
+      "format": "micro → contexto → obra → aprofundamento",
+      "modules": [
+        {
+          "order": 1,
+          "title_pt": "contexto histórico",
+          "duration_min": 5
+        },
+        {
+          "order": 2,
+          "title_pt": "pergunta central",
+          "duration_min": 5
+        },
+        {
+          "order": 3,
+          "title_pt": "conceitos fundamentais",
+          "duration_min": 12
+        },
+        {
+          "order": 4,
+          "title_pt": "obra introdutória",
+          "duration_min": 12
+        },
+        {
+          "order": 5,
+          "title_pt": "obra principal",
+          "duration_min": 12
+        },
+        {
+          "order": 6,
+          "title_pt": "debates e críticas",
+          "duration_min": 12
+        },
+        {
+          "order": 7,
+          "title_pt": "ligações com ciência/matemática",
+          "duration_min": 12
+        },
+        {
+          "order": 8,
+          "title_pt": "ligações com sociedade",
+          "duration_min": 12
+        },
+        {
+          "order": 9,
+          "title_pt": "curiosidade contextual",
+          "duration_min": 12
+        },
+        {
+          "order": 10,
+          "title_pt": "leitura guiada",
+          "duration_min": 12
+        }
+      ]
+    },
+    {
+      "id": "trilha-isaac-newton",
+      "person_id": "isaac-newton",
+      "title_pt": "Trilha Isaac Newton",
+      "format": "micro → contexto → obra → aprofundamento",
+      "modules": [
+        {
+          "order": 1,
+          "title_pt": "biografia intelectual",
+          "duration_min": 5
+        },
+        {
+          "order": 2,
+          "title_pt": "matemática e cálculo",
+          "duration_min": 5
+        },
+        {
+          "order": 3,
+          "title_pt": "leis do movimento",
+          "duration_min": 12
+        },
+        {
+          "order": 4,
+          "title_pt": "gravitação universal",
+          "duration_min": 12
+        },
+        {
+          "order": 5,
+          "title_pt": "óptica",
+          "duration_min": 12
+        },
+        {
+          "order": 6,
+          "title_pt": "filosofia natural",
+          "duration_min": 12
+        },
+        {
+          "order": 7,
+          "title_pt": "cronologia bíblica",
+          "duration_min": 12
+        },
+        {
+          "order": 8,
+          "title_pt": "teologia e manuscritos",
+          "duration_min": 12
+        },
+        {
+          "order": 9,
+          "title_pt": "profecias como objeto histórico",
+          "duration_min": 12
+        },
+        {
+          "order": 10,
+          "title_pt": "fontes primárias",
+          "duration_min": 12
+        },
+        {
+          "order": 11,
+          "title_pt": "curiosidades",
+          "duration_min": 12
+        },
+        {
+          "order": 12,
+          "title_pt": "leitura guiada",
+          "duration_min": 12
+        }
+      ]
+    },
+    {
+      "id": "trilha-raymond-williams",
+      "person_id": "raymond-williams",
+      "title_pt": "Trilha Raymond Williams",
+      "format": "micro → contexto → obra → aprofundamento",
+      "modules": [
+        {
+          "order": 1,
+          "title_pt": "contexto histórico",
+          "duration_min": 5
+        },
+        {
+          "order": 2,
+          "title_pt": "pergunta central",
+          "duration_min": 5
+        },
+        {
+          "order": 3,
+          "title_pt": "conceitos fundamentais",
+          "duration_min": 12
+        },
+        {
+          "order": 4,
+          "title_pt": "obra introdutória",
+          "duration_min": 12
+        },
+        {
+          "order": 5,
+          "title_pt": "obra principal",
+          "duration_min": 12
+        },
+        {
+          "order": 6,
+          "title_pt": "debates e críticas",
+          "duration_min": 12
+        },
+        {
+          "order": 7,
+          "title_pt": "ligações com ciência/matemática",
+          "duration_min": 12
+        },
+        {
+          "order": 8,
+          "title_pt": "ligações com sociedade",
+          "duration_min": 12
+        },
+        {
+          "order": 9,
+          "title_pt": "curiosidade contextual",
+          "duration_min": 12
+        },
+        {
+          "order": 10,
+          "title_pt": "leitura guiada",
+          "duration_min": 12
+        }
+      ]
+    },
+    {
+      "id": "trilha-pierre-bourdieu",
+      "person_id": "pierre-bourdieu",
+      "title_pt": "Trilha Pierre Bourdieu",
+      "format": "micro → contexto → obra → aprofundamento",
+      "modules": [
+        {
+          "order": 1,
+          "title_pt": "contexto histórico",
+          "duration_min": 5
+        },
+        {
+          "order": 2,
+          "title_pt": "pergunta central",
+          "duration_min": 5
+        },
+        {
+          "order": 3,
+          "title_pt": "conceitos fundamentais",
+          "duration_min": 12
+        },
+        {
+          "order": 4,
+          "title_pt": "obra introdutória",
+          "duration_min": 12
+        },
+        {
+          "order": 5,
+          "title_pt": "obra principal",
+          "duration_min": 12
+        },
+        {
+          "order": 6,
+          "title_pt": "debates e críticas",
+          "duration_min": 12
+        },
+        {
+          "order": 7,
+          "title_pt": "ligações com ciência/matemática",
+          "duration_min": 12
+        },
+        {
+          "order": 8,
+          "title_pt": "ligações com sociedade",
+          "duration_min": 12
+        },
+        {
+          "order": 9,
+          "title_pt": "curiosidade contextual",
+          "duration_min": 12
+        },
+        {
+          "order": 10,
+          "title_pt": "leitura guiada",
+          "duration_min": 12
+        }
+      ]
+    },
+    {
+      "id": "trilha-anthony-giddens",
+      "person_id": "anthony-giddens",
+      "title_pt": "Trilha Anthony Giddens",
+      "format": "micro → contexto → obra → aprofundamento",
+      "modules": [
+        {
+          "order": 1,
+          "title_pt": "contexto histórico",
+          "duration_min": 5
+        },
+        {
+          "order": 2,
+          "title_pt": "pergunta central",
+          "duration_min": 5
+        },
+        {
+          "order": 3,
+          "title_pt": "conceitos fundamentais",
+          "duration_min": 12
+        },
+        {
+          "order": 4,
+          "title_pt": "obra introdutória",
+          "duration_min": 12
+        },
+        {
+          "order": 5,
+          "title_pt": "obra principal",
+          "duration_min": 12
+        },
+        {
+          "order": 6,
+          "title_pt": "debates e críticas",
+          "duration_min": 12
+        },
+        {
+          "order": 7,
+          "title_pt": "ligações com ciência/matemática",
+          "duration_min": 12
+        },
+        {
+          "order": 8,
+          "title_pt": "ligações com sociedade",
+          "duration_min": 12
+        },
+        {
+          "order": 9,
+          "title_pt": "curiosidade contextual",
+          "duration_min": 12
+        },
+        {
+          "order": 10,
+          "title_pt": "leitura guiada",
+          "duration_min": 12
+        }
+      ]
+    },
+    {
+      "id": "trilha-montaigne",
+      "person_id": "montaigne",
+      "title_pt": "Trilha Michel de Montaigne",
+      "format": "micro → contexto → obra → aprofundamento",
+      "modules": [
+        {
+          "order": 1,
+          "title_pt": "contexto histórico",
+          "duration_min": 5
+        },
+        {
+          "order": 2,
+          "title_pt": "pergunta central",
+          "duration_min": 5
+        },
+        {
+          "order": 3,
+          "title_pt": "conceitos fundamentais",
+          "duration_min": 12
+        },
+        {
+          "order": 4,
+          "title_pt": "obra introdutória",
+          "duration_min": 12
+        },
+        {
+          "order": 5,
+          "title_pt": "obra principal",
+          "duration_min": 12
+        },
+        {
+          "order": 6,
+          "title_pt": "debates e críticas",
+          "duration_min": 12
+        },
+        {
+          "order": 7,
+          "title_pt": "ligações com ciência/matemática",
+          "duration_min": 12
+        },
+        {
+          "order": 8,
+          "title_pt": "ligações com sociedade",
+          "duration_min": 12
+        },
+        {
+          "order": 9,
+          "title_pt": "curiosidade contextual",
+          "duration_min": 12
+        },
+        {
+          "order": 10,
+          "title_pt": "leitura guiada",
+          "duration_min": 12
+        }
+      ]
+    },
+    {
+      "id": "trilha-darcy-ribeiro",
+      "person_id": "darcy-ribeiro",
+      "title_pt": "Trilha Darcy Ribeiro",
+      "format": "micro → contexto → obra → aprofundamento",
+      "modules": [
+        {
+          "order": 1,
+          "title_pt": "contexto histórico",
+          "duration_min": 5
+        },
+        {
+          "order": 2,
+          "title_pt": "pergunta central",
+          "duration_min": 5
+        },
+        {
+          "order": 3,
+          "title_pt": "conceitos fundamentais",
+          "duration_min": 12
+        },
+        {
+          "order": 4,
+          "title_pt": "obra introdutória",
+          "duration_min": 12
+        },
+        {
+          "order": 5,
+          "title_pt": "obra principal",
+          "duration_min": 12
+        },
+        {
+          "order": 6,
+          "title_pt": "debates e críticas",
+          "duration_min": 12
+        },
+        {
+          "order": 7,
+          "title_pt": "ligações com ciência/matemática",
+          "duration_min": 12
+        },
+        {
+          "order": 8,
+          "title_pt": "ligações com sociedade",
+          "duration_min": 12
+        },
+        {
+          "order": 9,
+          "title_pt": "curiosidade contextual",
+          "duration_min": 12
+        },
+        {
+          "order": 10,
+          "title_pt": "leitura guiada",
+          "duration_min": 12
+        }
+      ]
+    },
+    {
+      "id": "trilha-frantz-fanon",
+      "person_id": "frantz-fanon",
+      "title_pt": "Trilha Frantz Fanon",
+      "format": "micro → contexto → obra → aprofundamento",
+      "modules": [
+        {
+          "order": 1,
+          "title_pt": "contexto histórico",
+          "duration_min": 5
+        },
+        {
+          "order": 2,
+          "title_pt": "pergunta central",
+          "duration_min": 5
+        },
+        {
+          "order": 3,
+          "title_pt": "conceitos fundamentais",
+          "duration_min": 12
+        },
+        {
+          "order": 4,
+          "title_pt": "obra introdutória",
+          "duration_min": 12
+        },
+        {
+          "order": 5,
+          "title_pt": "obra principal",
+          "duration_min": 12
+        },
+        {
+          "order": 6,
+          "title_pt": "debates e críticas",
+          "duration_min": 12
+        },
+        {
+          "order": 7,
+          "title_pt": "ligações com ciência/matemática",
+          "duration_min": 12
+        },
+        {
+          "order": 8,
+          "title_pt": "ligações com sociedade",
+          "duration_min": 12
+        },
+        {
+          "order": 9,
+          "title_pt": "curiosidade contextual",
+          "duration_min": 12
+        },
+        {
+          "order": 10,
+          "title_pt": "leitura guiada",
+          "duration_min": 12
+        }
+      ]
+    },
+    {
+      "id": "trilha-rene-descartes",
+      "person_id": "rene-descartes",
+      "title_pt": "Trilha René Descartes",
+      "format": "micro → contexto → obra → aprofundamento",
+      "modules": [
+        {
+          "order": 1,
+          "title_pt": "contexto histórico",
+          "duration_min": 5
+        },
+        {
+          "order": 2,
+          "title_pt": "pergunta central",
+          "duration_min": 5
+        },
+        {
+          "order": 3,
+          "title_pt": "conceitos fundamentais",
+          "duration_min": 12
+        },
+        {
+          "order": 4,
+          "title_pt": "obra introdutória",
+          "duration_min": 12
+        },
+        {
+          "order": 5,
+          "title_pt": "obra principal",
+          "duration_min": 12
+        },
+        {
+          "order": 6,
+          "title_pt": "debates e críticas",
+          "duration_min": 12
+        },
+        {
+          "order": 7,
+          "title_pt": "ligações com ciência/matemática",
+          "duration_min": 12
+        },
+        {
+          "order": 8,
+          "title_pt": "ligações com sociedade",
+          "duration_min": 12
+        },
+        {
+          "order": 9,
+          "title_pt": "curiosidade contextual",
+          "duration_min": 12
+        },
+        {
+          "order": 10,
+          "title_pt": "leitura guiada",
+          "duration_min": 12
+        }
+      ]
+    },
+    {
+      "id": "trilha-galileo-galilei",
+      "person_id": "galileo-galilei",
+      "title_pt": "Trilha Galileu Galilei",
+      "format": "micro → contexto → obra → aprofundamento",
+      "modules": [
+        {
+          "order": 1,
+          "title_pt": "contexto histórico",
+          "duration_min": 5
+        },
+        {
+          "order": 2,
+          "title_pt": "pergunta central",
+          "duration_min": 5
+        },
+        {
+          "order": 3,
+          "title_pt": "conceitos fundamentais",
+          "duration_min": 12
+        },
+        {
+          "order": 4,
+          "title_pt": "obra introdutória",
+          "duration_min": 12
+        },
+        {
+          "order": 5,
+          "title_pt": "obra principal",
+          "duration_min": 12
+        },
+        {
+          "order": 6,
+          "title_pt": "debates e críticas",
+          "duration_min": 12
+        },
+        {
+          "order": 7,
+          "title_pt": "ligações com ciência/matemática",
+          "duration_min": 12
+        },
+        {
+          "order": 8,
+          "title_pt": "ligações com sociedade",
+          "duration_min": 12
+        },
+        {
+          "order": 9,
+          "title_pt": "curiosidade contextual",
+          "duration_min": 12
+        },
+        {
+          "order": 10,
+          "title_pt": "leitura guiada",
+          "duration_min": 12
+        }
+      ]
+    },
+    {
+      "id": "trilha-al-ghazali",
+      "person_id": "al-ghazali",
+      "title_pt": "Trilha Al-Ghazali",
+      "format": "micro → contexto → obra → aprofundamento",
+      "modules": [
+        {
+          "order": 1,
+          "title_pt": "contexto histórico",
+          "duration_min": 5
+        },
+        {
+          "order": 2,
+          "title_pt": "pergunta central",
+          "duration_min": 5
+        },
+        {
+          "order": 3,
+          "title_pt": "conceitos fundamentais",
+          "duration_min": 12
+        },
+        {
+          "order": 4,
+          "title_pt": "obra introdutória",
+          "duration_min": 12
+        },
+        {
+          "order": 5,
+          "title_pt": "obra principal",
+          "duration_min": 12
+        },
+        {
+          "order": 6,
+          "title_pt": "debates e críticas",
+          "duration_min": 12
+        },
+        {
+          "order": 7,
+          "title_pt": "ligações com ciência/matemática",
+          "duration_min": 12
+        },
+        {
+          "order": 8,
+          "title_pt": "ligações com sociedade",
+          "duration_min": 12
+        },
+        {
+          "order": 9,
+          "title_pt": "curiosidade contextual",
+          "duration_min": 12
+        },
+        {
+          "order": 10,
+          "title_pt": "leitura guiada",
+          "duration_min": 12
+        }
+      ]
+    },
+    {
+      "id": "trilha-amartya-sen",
+      "person_id": "amartya-sen",
+      "title_pt": "Trilha Amartya Sen",
+      "format": "micro → contexto → obra → aprofundamento",
+      "modules": [
+        {
+          "order": 1,
+          "title_pt": "contexto histórico",
+          "duration_min": 5
+        },
+        {
+          "order": 2,
+          "title_pt": "pergunta central",
+          "duration_min": 5
+        },
+        {
+          "order": 3,
+          "title_pt": "conceitos fundamentais",
+          "duration_min": 12
+        },
+        {
+          "order": 4,
+          "title_pt": "obra introdutória",
+          "duration_min": 12
+        },
+        {
+          "order": 5,
+          "title_pt": "obra principal",
+          "duration_min": 12
+        },
+        {
+          "order": 6,
+          "title_pt": "debates e críticas",
+          "duration_min": 12
+        },
+        {
+          "order": 7,
+          "title_pt": "ligações com ciência/matemática",
+          "duration_min": 12
+        },
+        {
+          "order": 8,
+          "title_pt": "ligações com sociedade",
+          "duration_min": 12
+        },
+        {
+          "order": 9,
+          "title_pt": "curiosidade contextual",
+          "duration_min": 12
+        },
+        {
+          "order": 10,
+          "title_pt": "leitura guiada",
+          "duration_min": 12
+        }
+      ]
+    },
+    {
+      "id": "trilha-georg-hegel",
+      "person_id": "georg-hegel",
+      "title_pt": "Trilha Georg Wilhelm Friedrich Hegel",
+      "format": "micro → contexto → obra → aprofundamento",
+      "modules": [
+        {
+          "order": 1,
+          "title_pt": "contexto histórico",
+          "duration_min": 5
+        },
+        {
+          "order": 2,
+          "title_pt": "pergunta central",
+          "duration_min": 5
+        },
+        {
+          "order": 3,
+          "title_pt": "conceitos fundamentais",
+          "duration_min": 12
+        },
+        {
+          "order": 4,
+          "title_pt": "obra introdutória",
+          "duration_min": 12
+        },
+        {
+          "order": 5,
+          "title_pt": "obra principal",
+          "duration_min": 12
+        },
+        {
+          "order": 6,
+          "title_pt": "debates e críticas",
+          "duration_min": 12
+        },
+        {
+          "order": 7,
+          "title_pt": "ligações com ciência/matemática",
+          "duration_min": 12
+        },
+        {
+          "order": 8,
+          "title_pt": "ligações com sociedade",
+          "duration_min": 12
+        },
+        {
+          "order": 9,
+          "title_pt": "curiosidade contextual",
+          "duration_min": 12
+        },
+        {
+          "order": 10,
+          "title_pt": "leitura guiada",
+          "duration_min": 12
+        }
+      ]
+    },
+    {
+      "id": "trilha-ibn-khaldun",
+      "person_id": "ibn-khaldun",
+      "title_pt": "Trilha Ibn Khaldun",
+      "format": "micro → contexto → obra → aprofundamento",
+      "modules": [
+        {
+          "order": 1,
+          "title_pt": "contexto histórico",
+          "duration_min": 5
+        },
+        {
+          "order": 2,
+          "title_pt": "pergunta central",
+          "duration_min": 5
+        },
+        {
+          "order": 3,
+          "title_pt": "conceitos fundamentais",
+          "duration_min": 12
+        },
+        {
+          "order": 4,
+          "title_pt": "obra introdutória",
+          "duration_min": 12
+        },
+        {
+          "order": 5,
+          "title_pt": "obra principal",
+          "duration_min": 12
+        },
+        {
+          "order": 6,
+          "title_pt": "debates e críticas",
+          "duration_min": 12
+        },
+        {
+          "order": 7,
+          "title_pt": "ligações com ciência/matemática",
+          "duration_min": 12
+        },
+        {
+          "order": 8,
+          "title_pt": "ligações com sociedade",
+          "duration_min": 12
+        },
+        {
+          "order": 9,
+          "title_pt": "curiosidade contextual",
+          "duration_min": 12
+        },
+        {
+          "order": 10,
+          "title_pt": "leitura guiada",
+          "duration_min": 12
+        }
+      ]
+    },
+    {
+      "id": "trilha-charles-taylor",
+      "person_id": "charles-taylor",
+      "title_pt": "Trilha Charles Taylor",
+      "format": "micro → contexto → obra → aprofundamento",
+      "modules": [
+        {
+          "order": 1,
+          "title_pt": "contexto histórico",
+          "duration_min": 5
+        },
+        {
+          "order": 2,
+          "title_pt": "pergunta central",
+          "duration_min": 5
+        },
+        {
+          "order": 3,
+          "title_pt": "conceitos fundamentais",
+          "duration_min": 12
+        },
+        {
+          "order": 4,
+          "title_pt": "obra introdutória",
+          "duration_min": 12
+        },
+        {
+          "order": 5,
+          "title_pt": "obra principal",
+          "duration_min": 12
+        },
+        {
+          "order": 6,
+          "title_pt": "debates e críticas",
+          "duration_min": 12
+        },
+        {
+          "order": 7,
+          "title_pt": "ligações com ciência/matemática",
+          "duration_min": 12
+        },
+        {
+          "order": 8,
+          "title_pt": "ligações com sociedade",
+          "duration_min": 12
+        },
+        {
+          "order": 9,
+          "title_pt": "curiosidade contextual",
+          "duration_min": 12
+        },
+        {
+          "order": 10,
+          "title_pt": "leitura guiada",
+          "duration_min": 12
+        }
+      ]
+    },
+    {
+      "id": "trilha-stuart-hall",
+      "person_id": "stuart-hall",
+      "title_pt": "Trilha Stuart Hall",
+      "format": "micro → contexto → obra → aprofundamento",
+      "modules": [
+        {
+          "order": 1,
+          "title_pt": "contexto histórico",
+          "duration_min": 5
+        },
+        {
+          "order": 2,
+          "title_pt": "pergunta central",
+          "duration_min": 5
+        },
+        {
+          "order": 3,
+          "title_pt": "conceitos fundamentais",
+          "duration_min": 12
+        },
+        {
+          "order": 4,
+          "title_pt": "obra introdutória",
+          "duration_min": 12
+        },
+        {
+          "order": 5,
+          "title_pt": "obra principal",
+          "duration_min": 12
+        },
+        {
+          "order": 6,
+          "title_pt": "debates e críticas",
+          "duration_min": 12
+        },
+        {
+          "order": 7,
+          "title_pt": "ligações com ciência/matemática",
+          "duration_min": 12
+        },
+        {
+          "order": 8,
+          "title_pt": "ligações com sociedade",
+          "duration_min": 12
+        },
+        {
+          "order": 9,
+          "title_pt": "curiosidade contextual",
+          "duration_min": 12
+        },
+        {
+          "order": 10,
+          "title_pt": "leitura guiada",
+          "duration_min": 12
+        }
+      ]
+    },
+    {
+      "id": "trilha-platao",
+      "person_id": "platao",
+      "title_pt": "Trilha Platão",
+      "format": "micro → contexto → obra → aprofundamento",
+      "modules": [
+        {
+          "order": 1,
+          "title_pt": "Sócrates e diálogo",
+          "duration_min": 5
+        },
+        {
+          "order": 2,
+          "title_pt": "Teoria das Formas",
+          "duration_min": 5
+        },
+        {
+          "order": 3,
+          "title_pt": "conhecimento",
+          "duration_min": 12
+        },
+        {
+          "order": 4,
+          "title_pt": "alma",
+          "duration_min": 12
+        },
+        {
+          "order": 5,
+          "title_pt": "Alegoria da Caverna",
+          "duration_min": 12
+        },
+        {
+          "order": 6,
+          "title_pt": "educação",
+          "duration_min": 12
+        },
+        {
+          "order": 7,
+          "title_pt": "justiça",
+          "duration_min": 12
+        },
+        {
+          "order": 8,
+          "title_pt": "cidade",
+          "duration_min": 12
+        },
+        {
+          "order": 9,
+          "title_pt": "A República por livro",
+          "duration_min": 12
+        },
+        {
+          "order": 10,
+          "title_pt": "retórica",
+          "duration_min": 12
+        },
+        {
+          "order": 11,
+          "title_pt": "ética",
+          "duration_min": 12
+        },
+        {
+          "order": 12,
+          "title_pt": "leitura guiada",
+          "duration_min": 12
+        }
+      ]
+    },
+    {
+      "id": "trilha-emile-durkheim",
+      "person_id": "emile-durkheim",
+      "title_pt": "Trilha Émile Durkheim",
+      "format": "micro → contexto → obra → aprofundamento",
+      "modules": [
+        {
+          "order": 1,
+          "title_pt": "contexto histórico",
+          "duration_min": 5
+        },
+        {
+          "order": 2,
+          "title_pt": "pergunta central",
+          "duration_min": 5
+        },
+        {
+          "order": 3,
+          "title_pt": "conceitos fundamentais",
+          "duration_min": 12
+        },
+        {
+          "order": 4,
+          "title_pt": "obra introdutória",
+          "duration_min": 12
+        },
+        {
+          "order": 5,
+          "title_pt": "obra principal",
+          "duration_min": 12
+        },
+        {
+          "order": 6,
+          "title_pt": "debates e críticas",
+          "duration_min": 12
+        },
+        {
+          "order": 7,
+          "title_pt": "ligações com ciência/matemática",
+          "duration_min": 12
+        },
+        {
+          "order": 8,
+          "title_pt": "ligações com sociedade",
+          "duration_min": 12
+        },
+        {
+          "order": 9,
+          "title_pt": "curiosidade contextual",
+          "duration_min": 12
+        },
+        {
+          "order": 10,
+          "title_pt": "leitura guiada",
+          "duration_min": 12
+        }
+      ]
+    }
+  ]
+}

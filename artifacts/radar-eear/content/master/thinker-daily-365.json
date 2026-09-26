@@ -1,0 +1,3660 @@
+{
+  "rotation": [
+    {
+      "day": 1,
+      "content_type": "thinker",
+      "content_id": "isaac-newton",
+      "title_pt": "Isaac Newton",
+      "hook_pt": "Newton fora da fórmula: como um dos maiores matemáticos e físicos de seu período também dedicou enorme energia a questões religiosas, cronologia e profecia.",
+      "mode": "micro_to_deep",
+      "duration_min": 6,
+      "cooldown_days": 90
+    },
+    {
+      "day": 2,
+      "content_type": "thinker",
+      "content_id": "johannes-kepler",
+      "title_pt": "Johannes Kepler",
+      "hook_pt": "Kepler começou profissionalmente ligado à teologia e levou a geometria para o coração da investigação astronômica.",
+      "mode": "micro_to_deep",
+      "duration_min": 6,
+      "cooldown_days": 90
+    },
+    {
+      "day": 3,
+      "content_type": "thinker",
+      "content_id": "rene-descartes",
+      "title_pt": "René Descartes",
+      "hook_pt": "A geometria analítica tornou visível uma ponte histórica entre figura e equação.",
+      "mode": "micro_to_deep",
+      "duration_min": 4,
+      "cooldown_days": 90
+    },
+    {
+      "day": 4,
+      "content_type": "thinker",
+      "content_id": "blaise-pascal",
+      "title_pt": "Blaise Pascal",
+      "hook_pt": "Pascal une matemática de probabilidade a uma reflexão intensa sobre fé, razão e existência.",
+      "mode": "micro_to_deep",
+      "duration_min": 6,
+      "cooldown_days": 90
+    },
+    {
+      "day": 5,
+      "content_type": "thinker",
+      "content_id": "galileo-galilei",
+      "title_pt": "Galileu Galilei",
+      "hook_pt": "Galileu é uma ótima ponte para estudar simultaneamente movimento, astronomia e o debate histórico sobre ciência e interpretação bíblica.",
+      "mode": "micro_to_deep",
+      "duration_min": 4,
+      "cooldown_days": 90
+    },
+    {
+      "day": 6,
+      "content_type": "thinker",
+      "content_id": "robert-boyle",
+      "title_pt": "Robert Boyle",
+      "hook_pt": "Pressão e volume podem abrir uma janela para a história da química e para a ideia de teologia natural.",
+      "mode": "micro_to_deep",
+      "duration_min": 4,
+      "cooldown_days": 90
+    },
+    {
+      "day": 7,
+      "content_type": "thinker",
+      "content_id": "michael-faraday",
+      "title_pt": "Michael Faraday",
+      "hook_pt": "Faraday mostra como um tema de laboratório pode virar uma narrativa histórica sobre ciência e fé.",
+      "mode": "micro_to_deep",
+      "duration_min": 4,
+      "cooldown_days": 90
+    },
+    {
+      "day": 8,
+      "content_type": "thinker",
+      "content_id": "james-clerk-maxwell",
+      "title_pt": "James Clerk Maxwell",
+      "hook_pt": "Maxwell: quatro equações compactando uma enorme paisagem física.",
+      "mode": "micro_to_deep",
+      "duration_min": 4,
+      "cooldown_days": 90
+    },
+    {
+      "day": 9,
+      "content_type": "thinker",
+      "content_id": "georges-lemaitre",
+      "title_pt": "Georges Lemaître",
+      "hook_pt": "Lemaître é uma conexão elegante entre cosmologia matemática e história intelectual cristã.",
+      "mode": "micro_to_deep",
+      "duration_min": 4,
+      "cooldown_days": 90
+    },
+    {
+      "day": 10,
+      "content_type": "thinker",
+      "content_id": "gregor-mendel",
+      "title_pt": "Gregor Mendel",
+      "hook_pt": "Mendel transforma experimentos de jardim em padrões matemáticos de hereditariedade.",
+      "mode": "micro_to_deep",
+      "duration_min": 4,
+      "cooldown_days": 90
+    },
+    {
+      "day": 11,
+      "content_type": "thinker",
+      "content_id": "kurt-godel",
+      "title_pt": "Kurt Gödel",
+      "hook_pt": "Gödel: quando a própria matemática começou a perguntar pelos limites de seus sistemas.",
+      "mode": "micro_to_deep",
+      "duration_min": 4,
+      "cooldown_days": 90
+    },
+    {
+      "day": 12,
+      "content_type": "thinker",
+      "content_id": "karl-marx",
+      "title_pt": "Karl Marx",
+      "hook_pt": "Marx pode ser estudado como filósofo e pensador social: conceitos, argumentos, obras e críticas posteriores, sem transformar o estudo em propaganda.",
+      "mode": "micro_to_deep",
+      "duration_min": 6,
+      "cooldown_days": 90
+    },
+    {
+      "day": 13,
+      "content_type": "thinker",
+      "content_id": "max-weber",
+      "title_pt": "Max Weber",
+      "hook_pt": "Weber é uma porta para estudar como religião, economia, cultura e instituições podem ser analisadas sem reduzir a sociedade a uma única causa.",
+      "mode": "micro_to_deep",
+      "duration_min": 6,
+      "cooldown_days": 90
+    },
+    {
+      "day": 14,
+      "content_type": "thinker",
+      "content_id": "emile-durkheim",
+      "title_pt": "Émile Durkheim",
+      "hook_pt": "Durkheim ajuda a perceber como indivíduos vivem em redes de normas, instituições e formas de solidariedade.",
+      "mode": "micro_to_deep",
+      "duration_min": 4,
+      "cooldown_days": 90
+    },
+    {
+      "day": 15,
+      "content_type": "thinker",
+      "content_id": "auguste-comte",
+      "title_pt": "Auguste Comte",
+      "hook_pt": "Comte é útil para entender a história da própria palavra e do projeto de “sociologia”.",
+      "mode": "micro_to_deep",
+      "duration_min": 4,
+      "cooldown_days": 90
+    },
+    {
+      "day": 16,
+      "content_type": "thinker",
+      "content_id": "georg-simmel",
+      "title_pt": "Georg Simmel",
+      "hook_pt": "Simmel olha para a sociedade de perto: formas de interação, cidade, moda e dinheiro.",
+      "mode": "micro_to_deep",
+      "duration_min": 4,
+      "cooldown_days": 90
+    },
+    {
+      "day": 17,
+      "content_type": "thinker",
+      "content_id": "pierre-bourdieu",
+      "title_pt": "Pierre Bourdieu",
+      "hook_pt": "Bourdieu permite estudar como hábitos, instituições e recursos culturais se combinam na vida social.",
+      "mode": "micro_to_deep",
+      "duration_min": 4,
+      "cooldown_days": 90
+    },
+    {
+      "day": 18,
+      "content_type": "thinker",
+      "content_id": "erving-goffman",
+      "title_pt": "Erving Goffman",
+      "hook_pt": "Goffman mostra que sociologia também pode começar numa conversa, numa fila ou numa sala.",
+      "mode": "micro_to_deep",
+      "duration_min": 4,
+      "cooldown_days": 90
+    },
+    {
+      "day": 19,
+      "content_type": "thinker",
+      "content_id": "w-e-b-du-bois",
+      "title_pt": "W. E. B. Du Bois",
+      "hook_pt": "Du Bois é uma ponte entre pesquisa de campo, estatística, história e teoria social.",
+      "mode": "micro_to_deep",
+      "duration_min": 4,
+      "cooldown_days": 90
+    },
+    {
+      "day": 20,
+      "content_type": "thinker",
+      "content_id": "robert-k-merton",
+      "title_pt": "Robert K. Merton",
+      "hook_pt": "Merton ajuda a pensar como uma instituição pode produzir efeitos pretendidos e não pretendidos.",
+      "mode": "micro_to_deep",
+      "duration_min": 4,
+      "cooldown_days": 90
+    },
+    {
+      "day": 21,
+      "content_type": "thinker",
+      "content_id": "karl-mannheim",
+      "title_pt": "Karl Mannheim",
+      "hook_pt": "Mannheim pergunta como o lugar social e histórico de alguém participa da produção das ideias.",
+      "mode": "micro_to_deep",
+      "duration_min": 4,
+      "cooldown_days": 90
+    },
+    {
+      "day": 22,
+      "content_type": "thinker",
+      "content_id": "alexis-de-tocqueville",
+      "title_pt": "Alexis de Tocqueville",
+      "hook_pt": "Tocqueville observa instituições e costumes juntos, mostrando que estruturas políticas também têm dimensões sociais.",
+      "mode": "micro_to_deep",
+      "duration_min": 4,
+      "cooldown_days": 90
+    },
+    {
+      "day": 23,
+      "content_type": "thinker",
+      "content_id": "isaac-newton",
+      "title_pt": "Isaac Newton",
+      "hook_pt": "Newton fora da fórmula: como um dos maiores matemáticos e físicos de seu período também dedicou enorme energia a questões religiosas, cronologia e profecia.",
+      "mode": "micro_to_deep",
+      "duration_min": 6,
+      "cooldown_days": 90
+    },
+    {
+      "day": 24,
+      "content_type": "thinker",
+      "content_id": "johannes-kepler",
+      "title_pt": "Johannes Kepler",
+      "hook_pt": "Kepler começou profissionalmente ligado à teologia e levou a geometria para o coração da investigação astronômica.",
+      "mode": "micro_to_deep",
+      "duration_min": 6,
+      "cooldown_days": 90
+    },
+    {
+      "day": 25,
+      "content_type": "thinker",
+      "content_id": "rene-descartes",
+      "title_pt": "René Descartes",
+      "hook_pt": "A geometria analítica tornou visível uma ponte histórica entre figura e equação.",
+      "mode": "micro_to_deep",
+      "duration_min": 4,
+      "cooldown_days": 90
+    },
+    {
+      "day": 26,
+      "content_type": "thinker",
+      "content_id": "blaise-pascal",
+      "title_pt": "Blaise Pascal",
+      "hook_pt": "Pascal une matemática de probabilidade a uma reflexão intensa sobre fé, razão e existência.",
+      "mode": "micro_to_deep",
+      "duration_min": 6,
+      "cooldown_days": 90
+    },
+    {
+      "day": 27,
+      "content_type": "thinker",
+      "content_id": "galileo-galilei",
+      "title_pt": "Galileu Galilei",
+      "hook_pt": "Galileu é uma ótima ponte para estudar simultaneamente movimento, astronomia e o debate histórico sobre ciência e interpretação bíblica.",
+      "mode": "micro_to_deep",
+      "duration_min": 4,
+      "cooldown_days": 90
+    },
+    {
+      "day": 28,
+      "content_type": "thinker",
+      "content_id": "robert-boyle",
+      "title_pt": "Robert Boyle",
+      "hook_pt": "Pressão e volume podem abrir uma janela para a história da química e para a ideia de teologia natural.",
+      "mode": "micro_to_deep",
+      "duration_min": 4,
+      "cooldown_days": 90
+    },
+    {
+      "day": 29,
+      "content_type": "thinker",
+      "content_id": "michael-faraday",
+      "title_pt": "Michael Faraday",
+      "hook_pt": "Faraday mostra como um tema de laboratório pode virar uma narrativa histórica sobre ciência e fé.",
+      "mode": "micro_to_deep",
+      "duration_min": 4,
+      "cooldown_days": 90
+    },
+    {
+      "day": 30,
+      "content_type": "thinker",
+      "content_id": "james-clerk-maxwell",
+      "title_pt": "James Clerk Maxwell",
+      "hook_pt": "Maxwell: quatro equações compactando uma enorme paisagem física.",
+      "mode": "micro_to_deep",
+      "duration_min": 4,
+      "cooldown_days": 90
+    },
+    {
+      "day": 31,
+      "content_type": "thinker",
+      "content_id": "georges-lemaitre",
+      "title_pt": "Georges Lemaître",
+      "hook_pt": "Lemaître é uma conexão elegante entre cosmologia matemática e história intelectual cristã.",
+      "mode": "micro_to_deep",
+      "duration_min": 4,
+      "cooldown_days": 90
+    },
+    {
+      "day": 32,
+      "content_type": "thinker",
+      "content_id": "gregor-mendel",
+      "title_pt": "Gregor Mendel",
+      "hook_pt": "Mendel transforma experimentos de jardim em padrões matemáticos de hereditariedade.",
+      "mode": "micro_to_deep",
+      "duration_min": 4,
+      "cooldown_days": 90
+    },
+    {
+      "day": 33,
+      "content_type": "thinker",
+      "content_id": "kurt-godel",
+      "title_pt": "Kurt Gödel",
+      "hook_pt": "Gödel: quando a própria matemática começou a perguntar pelos limites de seus sistemas.",
+      "mode": "micro_to_deep",
+      "duration_min": 4,
+      "cooldown_days": 90
+    },
+    {
+      "day": 34,
+      "content_type": "thinker",
+      "content_id": "karl-marx",
+      "title_pt": "Karl Marx",
+      "hook_pt": "Marx pode ser estudado como filósofo e pensador social: conceitos, argumentos, obras e críticas posteriores, sem transformar o estudo em propaganda.",
+      "mode": "micro_to_deep",
+      "duration_min": 6,
+      "cooldown_days": 90
+    },
+    {
+      "day": 35,
+      "content_type": "thinker",
+      "content_id": "max-weber",
+      "title_pt": "Max Weber",
+      "hook_pt": "Weber é uma porta para estudar como religião, economia, cultura e instituições podem ser analisadas sem reduzir a sociedade a uma única causa.",
+      "mode": "micro_to_deep",
+      "duration_min": 6,
+      "cooldown_days": 90
+    },
+    {
+      "day": 36,
+      "content_type": "thinker",
+      "content_id": "emile-durkheim",
+      "title_pt": "Émile Durkheim",
+      "hook_pt": "Durkheim ajuda a perceber como indivíduos vivem em redes de normas, instituições e formas de solidariedade.",
+      "mode": "micro_to_deep",
+      "duration_min": 4,
+      "cooldown_days": 90
+    },
+    {
+      "day": 37,
+      "content_type": "thinker",
+      "content_id": "auguste-comte",
+      "title_pt": "Auguste Comte",
+      "hook_pt": "Comte é útil para entender a história da própria palavra e do projeto de “sociologia”.",
+      "mode": "micro_to_deep",
+      "duration_min": 4,
+      "cooldown_days": 90
+    },
+    {
+      "day": 38,
+      "content_type": "thinker",
+      "content_id": "georg-simmel",
+      "title_pt": "Georg Simmel",
+      "hook_pt": "Simmel olha para a sociedade de perto: formas de interação, cidade, moda e dinheiro.",
+      "mode": "micro_to_deep",
+      "duration_min": 4,
+      "cooldown_days": 90
+    },
+    {
+      "day": 39,
+      "content_type": "thinker",
+      "content_id": "pierre-bourdieu",
+      "title_pt": "Pierre Bourdieu",
+      "hook_pt": "Bourdieu permite estudar como hábitos, instituições e recursos culturais se combinam na vida social.",
+      "mode": "micro_to_deep",
+      "duration_min": 4,
+      "cooldown_days": 90
+    },
+    {
+      "day": 40,
+      "content_type": "thinker",
+      "content_id": "erving-goffman",
+      "title_pt": "Erving Goffman",
+      "hook_pt": "Goffman mostra que sociologia também pode começar numa conversa, numa fila ou numa sala.",
+      "mode": "micro_to_deep",
+      "duration_min": 4,
+      "cooldown_days": 90
+    },
+    {
+      "day": 41,
+      "content_type": "thinker",
+      "content_id": "w-e-b-du-bois",
+      "title_pt": "W. E. B. Du Bois",
+      "hook_pt": "Du Bois é uma ponte entre pesquisa de campo, estatística, história e teoria social.",
+      "mode": "micro_to_deep",
+      "duration_min": 4,
+      "cooldown_days": 90
+    },
+    {
+      "day": 42,
+      "content_type": "thinker",
+      "content_id": "robert-k-merton",
+      "title_pt": "Robert K. Merton",
+      "hook_pt": "Merton ajuda a pensar como uma instituição pode produzir efeitos pretendidos e não pretendidos.",
+      "mode": "micro_to_deep",
+      "duration_min": 4,
+      "cooldown_days": 90
+    },
+    {
+      "day": 43,
+      "content_type": "thinker",
+      "content_id": "karl-mannheim",
+      "title_pt": "Karl Mannheim",
+      "hook_pt": "Mannheim pergunta como o lugar social e histórico de alguém participa da produção das ideias.",
+      "mode": "micro_to_deep",
+      "duration_min": 4,
+      "cooldown_days": 90
+    },
+    {
+      "day": 44,
+      "content_type": "thinker",
+      "content_id": "alexis-de-tocqueville",
+      "title_pt": "Alexis de Tocqueville",
+      "hook_pt": "Tocqueville observa instituições e costumes juntos, mostrando que estruturas políticas também têm dimensões sociais.",
+      "mode": "micro_to_deep",
+      "duration_min": 4,
+      "cooldown_days": 90
+    },
+    {
+      "day": 45,
+      "content_type": "thinker",
+      "content_id": "isaac-newton",
+      "title_pt": "Isaac Newton",
+      "hook_pt": "Newton fora da fórmula: como um dos maiores matemáticos e físicos de seu período também dedicou enorme energia a questões religiosas, cronologia e profecia.",
+      "mode": "micro_to_deep",
+      "duration_min": 6,
+      "cooldown_days": 90
+    },
+    {
+      "day": 46,
+      "content_type": "thinker",
+      "content_id": "johannes-kepler",
+      "title_pt": "Johannes Kepler",
+      "hook_pt": "Kepler começou profissionalmente ligado à teologia e levou a geometria para o coração da investigação astronômica.",
+      "mode": "micro_to_deep",
+      "duration_min": 6,
+      "cooldown_days": 90
+    },
+    {
+      "day": 47,
+      "content_type": "thinker",
+      "content_id": "rene-descartes",
+      "title_pt": "René Descartes",
+      "hook_pt": "A geometria analítica tornou visível uma ponte histórica entre figura e equação.",
+      "mode": "micro_to_deep",
+      "duration_min": 4,
+      "cooldown_days": 90
+    },
+    {
+      "day": 48,
+      "content_type": "thinker",
+      "content_id": "blaise-pascal",
+      "title_pt": "Blaise Pascal",
+      "hook_pt": "Pascal une matemática de probabilidade a uma reflexão intensa sobre fé, razão e existência.",
+      "mode": "micro_to_deep",
+      "duration_min": 6,
+      "cooldown_days": 90
+    },
+    {
+      "day": 49,
+      "content_type": "thinker",
+      "content_id": "galileo-galilei",
+      "title_pt": "Galileu Galilei",
+      "hook_pt": "Galileu é uma ótima ponte para estudar simultaneamente movimento, astronomia e o debate histórico sobre ciência e interpretação bíblica.",
+      "mode": "micro_to_deep",
+      "duration_min": 4,
+      "cooldown_days": 90
+    },
+    {
+      "day": 50,
+      "content_type": "thinker",
+      "content_id": "robert-boyle",
+      "title_pt": "Robert Boyle",
+      "hook_pt": "Pressão e volume podem abrir uma janela para a história da química e para a ideia de teologia natural.",
+      "mode": "micro_to_deep",
+      "duration_min": 4,
+      "cooldown_days": 90
+    },
+    {
+      "day": 51,
+      "content_type": "thinker",
+      "content_id": "michael-faraday",
+      "title_pt": "Michael Faraday",
+      "hook_pt": "Faraday mostra como um tema de laboratório pode virar uma narrativa histórica sobre ciência e fé.",
+      "mode": "micro_to_deep",
+      "duration_min": 4,
+      "cooldown_days": 90
+    },
+    {
+      "day": 52,
+      "content_type": "thinker",
+      "content_id": "james-clerk-maxwell",
+      "title_pt": "James Clerk Maxwell",
+      "hook_pt": "Maxwell: quatro equações compactando uma enorme paisagem física.",
+      "mode": "micro_to_deep",
+      "duration_min": 4,
+      "cooldown_days": 90
+    },
+    {
+      "day": 53,
+      "content_type": "thinker",
+      "content_id": "georges-lemaitre",
+      "title_pt": "Georges Lemaître",
+      "hook_pt": "Lemaître é uma conexão elegante entre cosmologia matemática e história intelectual cristã.",
+      "mode": "micro_to_deep",
+      "duration_min": 4,
+      "cooldown_days": 90
+    },
+    {
+      "day": 54,
+      "content_type": "thinker",
+      "content_id": "gregor-mendel",
+      "title_pt": "Gregor Mendel",
+      "hook_pt": "Mendel transforma experimentos de jardim em padrões matemáticos de hereditariedade.",
+      "mode": "micro_to_deep",
+      "duration_min": 4,
+      "cooldown_days": 90
+    },
+    {
+      "day": 55,
+      "content_type": "thinker",
+      "content_id": "kurt-godel",
+      "title_pt": "Kurt Gödel",
+      "hook_pt": "Gödel: quando a própria matemática começou a perguntar pelos limites de seus sistemas.",
+      "mode": "micro_to_deep",
+      "duration_min": 4,
+      "cooldown_days": 90
+    },
+    {
+      "day": 56,
+      "content_type": "thinker",
+      "content_id": "karl-marx",
+      "title_pt": "Karl Marx",
+      "hook_pt": "Marx pode ser estudado como filósofo e pensador social: conceitos, argumentos, obras e críticas posteriores, sem transformar o estudo em propaganda.",
+      "mode": "micro_to_deep",
+      "duration_min": 6,
+      "cooldown_days": 90
+    },
+    {
+      "day": 57,
+      "content_type": "thinker",
+      "content_id": "max-weber",
+      "title_pt": "Max Weber",
+      "hook_pt": "Weber é uma porta para estudar como religião, economia, cultura e instituições podem ser analisadas sem reduzir a sociedade a uma única causa.",
+      "mode": "micro_to_deep",
+      "duration_min": 6,
+      "cooldown_days": 90
+    },
+    {
+      "day": 58,
+      "content_type": "thinker",
+      "content_id": "emile-durkheim",
+      "title_pt": "Émile Durkheim",
+      "hook_pt": "Durkheim ajuda a perceber como indivíduos vivem em redes de normas, instituições e formas de solidariedade.",
+      "mode": "micro_to_deep",
+      "duration_min": 4,
+      "cooldown_days": 90
+    },
+    {
+      "day": 59,
+      "content_type": "thinker",
+      "content_id": "auguste-comte",
+      "title_pt": "Auguste Comte",
+      "hook_pt": "Comte é útil para entender a história da própria palavra e do projeto de “sociologia”.",
+      "mode": "micro_to_deep",
+      "duration_min": 4,
+      "cooldown_days": 90
+    },
+    {
+      "day": 60,
+      "content_type": "thinker",
+      "content_id": "georg-simmel",
+      "title_pt": "Georg Simmel",
+      "hook_pt": "Simmel olha para a sociedade de perto: formas de interação, cidade, moda e dinheiro.",
+      "mode": "micro_to_deep",
+      "duration_min": 4,
+      "cooldown_days": 90
+    },
+    {
+      "day": 61,
+      "content_type": "thinker",
+      "content_id": "pierre-bourdieu",
+      "title_pt": "Pierre Bourdieu",
+      "hook_pt": "Bourdieu permite estudar como hábitos, instituições e recursos culturais se combinam na vida social.",
+      "mode": "micro_to_deep",
+      "duration_min": 4,
+      "cooldown_days": 90
+    },
+    {
+      "day": 62,
+      "content_type": "thinker",
+      "content_id": "erving-goffman",
+      "title_pt": "Erving Goffman",
+      "hook_pt": "Goffman mostra que sociologia também pode começar numa conversa, numa fila ou numa sala.",
+      "mode": "micro_to_deep",
+      "duration_min": 4,
+      "cooldown_days": 90
+    },
+    {
+      "day": 63,
+      "content_type": "thinker",
+      "content_id": "w-e-b-du-bois",
+      "title_pt": "W. E. B. Du Bois",
+      "hook_pt": "Du Bois é uma ponte entre pesquisa de campo, estatística, história e teoria social.",
+      "mode": "micro_to_deep",
+      "duration_min": 4,
+      "cooldown_days": 90
+    },
+    {
+      "day": 64,
+      "content_type": "thinker",
+      "content_id": "robert-k-merton",
+      "title_pt": "Robert K. Merton",
+      "hook_pt": "Merton ajuda a pensar como uma instituição pode produzir efeitos pretendidos e não pretendidos.",
+      "mode": "micro_to_deep",
+      "duration_min": 4,
+      "cooldown_days": 90
+    },
+    {
+      "day": 65,
+      "content_type": "thinker",
+      "content_id": "karl-mannheim",
+      "title_pt": "Karl Mannheim",
+      "hook_pt": "Mannheim pergunta como o lugar social e histórico de alguém participa da produção das ideias.",
+      "mode": "micro_to_deep",
+      "duration_min": 4,
+      "cooldown_days": 90
+    },
+    {
+      "day": 66,
+      "content_type": "thinker",
+      "content_id": "alexis-de-tocqueville",
+      "title_pt": "Alexis de Tocqueville",
+      "hook_pt": "Tocqueville observa instituições e costumes juntos, mostrando que estruturas políticas também têm dimensões sociais.",
+      "mode": "micro_to_deep",
+      "duration_min": 4,
+      "cooldown_days": 90
+    },
+    {
+      "day": 67,
+      "content_type": "thinker",
+      "content_id": "isaac-newton",
+      "title_pt": "Isaac Newton",
+      "hook_pt": "Newton fora da fórmula: como um dos maiores matemáticos e físicos de seu período também dedicou enorme energia a questões religiosas, cronologia e profecia.",
+      "mode": "micro_to_deep",
+      "duration_min": 6,
+      "cooldown_days": 90
+    },
+    {
+      "day": 68,
+      "content_type": "thinker",
+      "content_id": "johannes-kepler",
+      "title_pt": "Johannes Kepler",
+      "hook_pt": "Kepler começou profissionalmente ligado à teologia e levou a geometria para o coração da investigação astronômica.",
+      "mode": "micro_to_deep",
+      "duration_min": 6,
+      "cooldown_days": 90
+    },
+    {
+      "day": 69,
+      "content_type": "thinker",
+      "content_id": "rene-descartes",
+      "title_pt": "René Descartes",
+      "hook_pt": "A geometria analítica tornou visível uma ponte histórica entre figura e equação.",
+      "mode": "micro_to_deep",
+      "duration_min": 4,
+      "cooldown_days": 90
+    },
+    {
+      "day": 70,
+      "content_type": "thinker",
+      "content_id": "blaise-pascal",
+      "title_pt": "Blaise Pascal",
+      "hook_pt": "Pascal une matemática de probabilidade a uma reflexão intensa sobre fé, razão e existência.",
+      "mode": "micro_to_deep",
+      "duration_min": 6,
+      "cooldown_days": 90
+    },
+    {
+      "day": 71,
+      "content_type": "thinker",
+      "content_id": "galileo-galilei",
+      "title_pt": "Galileu Galilei",
+      "hook_pt": "Galileu é uma ótima ponte para estudar simultaneamente movimento, astronomia e o debate histórico sobre ciência e interpretação bíblica.",
+      "mode": "micro_to_deep",
+      "duration_min": 4,
+      "cooldown_days": 90
+    },
+    {
+      "day": 72,
+      "content_type": "thinker",
+      "content_id": "robert-boyle",
+      "title_pt": "Robert Boyle",
+      "hook_pt": "Pressão e volume podem abrir uma janela para a história da química e para a ideia de teologia natural.",
+      "mode": "micro_to_deep",
+      "duration_min": 4,
+      "cooldown_days": 90
+    },
+    {
+      "day": 73,
+      "content_type": "thinker",
+      "content_id": "michael-faraday",
+      "title_pt": "Michael Faraday",
+      "hook_pt": "Faraday mostra como um tema de laboratório pode virar uma narrativa histórica sobre ciência e fé.",
+      "mode": "micro_to_deep",
+      "duration_min": 4,
+      "cooldown_days": 90
+    },
+    {
+      "day": 74,
+      "content_type": "thinker",
+      "content_id": "james-clerk-maxwell",
+      "title_pt": "James Clerk Maxwell",
+      "hook_pt": "Maxwell: quatro equações compactando uma enorme paisagem física.",
+      "mode": "micro_to_deep",
+      "duration_min": 4,
+      "cooldown_days": 90
+    },
+    {
+      "day": 75,
+      "content_type": "thinker",
+      "content_id": "georges-lemaitre",
+      "title_pt": "Georges Lemaître",
+      "hook_pt": "Lemaître é uma conexão elegante entre cosmologia matemática e história intelectual cristã.",
+      "mode": "micro_to_deep",
+      "duration_min": 4,
+      "cooldown_days": 90
+    },
+    {
+      "day": 76,
+      "content_type": "thinker",
+      "content_id": "gregor-mendel",
+      "title_pt": "Gregor Mendel",
+      "hook_pt": "Mendel transforma experimentos de jardim em padrões matemáticos de hereditariedade.",
+      "mode": "micro_to_deep",
+      "duration_min": 4,
+      "cooldown_days": 90
+    },
+    {
+      "day": 77,
+      "content_type": "thinker",
+      "content_id": "kurt-godel",
+      "title_pt": "Kurt Gödel",
+      "hook_pt": "Gödel: quando a própria matemática começou a perguntar pelos limites de seus sistemas.",
+      "mode": "micro_to_deep",
+      "duration_min": 4,
+      "cooldown_days": 90
+    },
+    {
+      "day": 78,
+      "content_type": "thinker",
+      "content_id": "karl-marx",
+      "title_pt": "Karl Marx",
+      "hook_pt": "Marx pode ser estudado como filósofo e pensador social: conceitos, argumentos, obras e críticas posteriores, sem transformar o estudo em propaganda.",
+      "mode": "micro_to_deep",
+      "duration_min": 6,
+      "cooldown_days": 90
+    },
+    {
+      "day": 79,
+      "content_type": "thinker",
+      "content_id": "max-weber",
+      "title_pt": "Max Weber",
+      "hook_pt": "Weber é uma porta para estudar como religião, economia, cultura e instituições podem ser analisadas sem reduzir a sociedade a uma única causa.",
+      "mode": "micro_to_deep",
+      "duration_min": 6,
+      "cooldown_days": 90
+    },
+    {
+      "day": 80,
+      "content_type": "thinker",
+      "content_id": "emile-durkheim",
+      "title_pt": "Émile Durkheim",
+      "hook_pt": "Durkheim ajuda a perceber como indivíduos vivem em redes de normas, instituições e formas de solidariedade.",
+      "mode": "micro_to_deep",
+      "duration_min": 4,
+      "cooldown_days": 90
+    },
+    {
+      "day": 81,
+      "content_type": "thinker",
+      "content_id": "auguste-comte",
+      "title_pt": "Auguste Comte",
+      "hook_pt": "Comte é útil para entender a história da própria palavra e do projeto de “sociologia”.",
+      "mode": "micro_to_deep",
+      "duration_min": 4,
+      "cooldown_days": 90
+    },
+    {
+      "day": 82,
+      "content_type": "thinker",
+      "content_id": "georg-simmel",
+      "title_pt": "Georg Simmel",
+      "hook_pt": "Simmel olha para a sociedade de perto: formas de interação, cidade, moda e dinheiro.",
+      "mode": "micro_to_deep",
+      "duration_min": 4,
+      "cooldown_days": 90
+    },
+    {
+      "day": 83,
+      "content_type": "thinker",
+      "content_id": "pierre-bourdieu",
+      "title_pt": "Pierre Bourdieu",
+      "hook_pt": "Bourdieu permite estudar como hábitos, instituições e recursos culturais se combinam na vida social.",
+      "mode": "micro_to_deep",
+      "duration_min": 4,
+      "cooldown_days": 90
+    },
+    {
+      "day": 84,
+      "content_type": "thinker",
+      "content_id": "erving-goffman",
+      "title_pt": "Erving Goffman",
+      "hook_pt": "Goffman mostra que sociologia também pode começar numa conversa, numa fila ou numa sala.",
+      "mode": "micro_to_deep",
+      "duration_min": 4,
+      "cooldown_days": 90
+    },
+    {
+      "day": 85,
+      "content_type": "thinker",
+      "content_id": "w-e-b-du-bois",
+      "title_pt": "W. E. B. Du Bois",
+      "hook_pt": "Du Bois é uma ponte entre pesquisa de campo, estatística, história e teoria social.",
+      "mode": "micro_to_deep",
+      "duration_min": 4,
+      "cooldown_days": 90
+    },
+    {
+      "day": 86,
+      "content_type": "thinker",
+      "content_id": "robert-k-merton",
+      "title_pt": "Robert K. Merton",
+      "hook_pt": "Merton ajuda a pensar como uma instituição pode produzir efeitos pretendidos e não pretendidos.",
+      "mode": "micro_to_deep",
+      "duration_min": 4,
+      "cooldown_days": 90
+    },
+    {
+      "day": 87,
+      "content_type": "thinker",
+      "content_id": "karl-mannheim",
+      "title_pt": "Karl Mannheim",
+      "hook_pt": "Mannheim pergunta como o lugar social e histórico de alguém participa da produção das ideias.",
+      "mode": "micro_to_deep",
+      "duration_min": 4,
+      "cooldown_days": 90
+    },
+    {
+      "day": 88,
+      "content_type": "thinker",
+      "content_id": "alexis-de-tocqueville",
+      "title_pt": "Alexis de Tocqueville",
+      "hook_pt": "Tocqueville observa instituições e costumes juntos, mostrando que estruturas políticas também têm dimensões sociais.",
+      "mode": "micro_to_deep",
+      "duration_min": 4,
+      "cooldown_days": 90
+    },
+    {
+      "day": 89,
+      "content_type": "thinker",
+      "content_id": "isaac-newton",
+      "title_pt": "Isaac Newton",
+      "hook_pt": "Newton fora da fórmula: como um dos maiores matemáticos e físicos de seu período também dedicou enorme energia a questões religiosas, cronologia e profecia.",
+      "mode": "micro_to_deep",
+      "duration_min": 6,
+      "cooldown_days": 90
+    },
+    {
+      "day": 90,
+      "content_type": "thinker",
+      "content_id": "johannes-kepler",
+      "title_pt": "Johannes Kepler",
+      "hook_pt": "Kepler começou profissionalmente ligado à teologia e levou a geometria para o coração da investigação astronômica.",
+      "mode": "micro_to_deep",
+      "duration_min": 6,
+      "cooldown_days": 90
+    },
+    {
+      "day": 91,
+      "content_type": "thinker",
+      "content_id": "rene-descartes",
+      "title_pt": "René Descartes",
+      "hook_pt": "A geometria analítica tornou visível uma ponte histórica entre figura e equação.",
+      "mode": "micro_to_deep",
+      "duration_min": 4,
+      "cooldown_days": 90
+    },
+    {
+      "day": 92,
+      "content_type": "thinker",
+      "content_id": "blaise-pascal",
+      "title_pt": "Blaise Pascal",
+      "hook_pt": "Pascal une matemática de probabilidade a uma reflexão intensa sobre fé, razão e existência.",
+      "mode": "micro_to_deep",
+      "duration_min": 6,
+      "cooldown_days": 90
+    },
+    {
+      "day": 93,
+      "content_type": "thinker",
+      "content_id": "galileo-galilei",
+      "title_pt": "Galileu Galilei",
+      "hook_pt": "Galileu é uma ótima ponte para estudar simultaneamente movimento, astronomia e o debate histórico sobre ciência e interpretação bíblica.",
+      "mode": "micro_to_deep",
+      "duration_min": 4,
+      "cooldown_days": 90
+    },
+    {
+      "day": 94,
+      "content_type": "thinker",
+      "content_id": "robert-boyle",
+      "title_pt": "Robert Boyle",
+      "hook_pt": "Pressão e volume podem abrir uma janela para a história da química e para a ideia de teologia natural.",
+      "mode": "micro_to_deep",
+      "duration_min": 4,
+      "cooldown_days": 90
+    },
+    {
+      "day": 95,
+      "content_type": "thinker",
+      "content_id": "michael-faraday",
+      "title_pt": "Michael Faraday",
+      "hook_pt": "Faraday mostra como um tema de laboratório pode virar uma narrativa histórica sobre ciência e fé.",
+      "mode": "micro_to_deep",
+      "duration_min": 4,
+      "cooldown_days": 90
+    },
+    {
+      "day": 96,
+      "content_type": "thinker",
+      "content_id": "james-clerk-maxwell",
+      "title_pt": "James Clerk Maxwell",
+      "hook_pt": "Maxwell: quatro equações compactando uma enorme paisagem física.",
+      "mode": "micro_to_deep",
+      "duration_min": 4,
+      "cooldown_days": 90
+    },
+    {
+      "day": 97,
+      "content_type": "thinker",
+      "content_id": "georges-lemaitre",
+      "title_pt": "Georges Lemaître",
+      "hook_pt": "Lemaître é uma conexão elegante entre cosmologia matemática e história intelectual cristã.",
+      "mode": "micro_to_deep",
+      "duration_min": 4,
+      "cooldown_days": 90
+    },
+    {
+      "day": 98,
+      "content_type": "thinker",
+      "content_id": "gregor-mendel",
+      "title_pt": "Gregor Mendel",
+      "hook_pt": "Mendel transforma experimentos de jardim em padrões matemáticos de hereditariedade.",
+      "mode": "micro_to_deep",
+      "duration_min": 4,
+      "cooldown_days": 90
+    },
+    {
+      "day": 99,
+      "content_type": "thinker",
+      "content_id": "kurt-godel",
+      "title_pt": "Kurt Gödel",
+      "hook_pt": "Gödel: quando a própria matemática começou a perguntar pelos limites de seus sistemas.",
+      "mode": "micro_to_deep",
+      "duration_min": 4,
+      "cooldown_days": 90
+    },
+    {
+      "day": 100,
+      "content_type": "thinker",
+      "content_id": "karl-marx",
+      "title_pt": "Karl Marx",
+      "hook_pt": "Marx pode ser estudado como filósofo e pensador social: conceitos, argumentos, obras e críticas posteriores, sem transformar o estudo em propaganda.",
+      "mode": "micro_to_deep",
+      "duration_min": 6,
+      "cooldown_days": 90
+    },
+    {
+      "day": 101,
+      "content_type": "thinker",
+      "content_id": "max-weber",
+      "title_pt": "Max Weber",
+      "hook_pt": "Weber é uma porta para estudar como religião, economia, cultura e instituições podem ser analisadas sem reduzir a sociedade a uma única causa.",
+      "mode": "micro_to_deep",
+      "duration_min": 6,
+      "cooldown_days": 90
+    },
+    {
+      "day": 102,
+      "content_type": "thinker",
+      "content_id": "emile-durkheim",
+      "title_pt": "Émile Durkheim",
+      "hook_pt": "Durkheim ajuda a perceber como indivíduos vivem em redes de normas, instituições e formas de solidariedade.",
+      "mode": "micro_to_deep",
+      "duration_min": 4,
+      "cooldown_days": 90
+    },
+    {
+      "day": 103,
+      "content_type": "thinker",
+      "content_id": "auguste-comte",
+      "title_pt": "Auguste Comte",
+      "hook_pt": "Comte é útil para entender a história da própria palavra e do projeto de “sociologia”.",
+      "mode": "micro_to_deep",
+      "duration_min": 4,
+      "cooldown_days": 90
+    },
+    {
+      "day": 104,
+      "content_type": "thinker",
+      "content_id": "georg-simmel",
+      "title_pt": "Georg Simmel",
+      "hook_pt": "Simmel olha para a sociedade de perto: formas de interação, cidade, moda e dinheiro.",
+      "mode": "micro_to_deep",
+      "duration_min": 4,
+      "cooldown_days": 90
+    },
+    {
+      "day": 105,
+      "content_type": "thinker",
+      "content_id": "pierre-bourdieu",
+      "title_pt": "Pierre Bourdieu",
+      "hook_pt": "Bourdieu permite estudar como hábitos, instituições e recursos culturais se combinam na vida social.",
+      "mode": "micro_to_deep",
+      "duration_min": 4,
+      "cooldown_days": 90
+    },
+    {
+      "day": 106,
+      "content_type": "thinker",
+      "content_id": "erving-goffman",
+      "title_pt": "Erving Goffman",
+      "hook_pt": "Goffman mostra que sociologia também pode começar numa conversa, numa fila ou numa sala.",
+      "mode": "micro_to_deep",
+      "duration_min": 4,
+      "cooldown_days": 90
+    },
+    {
+      "day": 107,
+      "content_type": "thinker",
+      "content_id": "w-e-b-du-bois",
+      "title_pt": "W. E. B. Du Bois",
+      "hook_pt": "Du Bois é uma ponte entre pesquisa de campo, estatística, história e teoria social.",
+      "mode": "micro_to_deep",
+      "duration_min": 4,
+      "cooldown_days": 90
+    },
+    {
+      "day": 108,
+      "content_type": "thinker",
+      "content_id": "robert-k-merton",
+      "title_pt": "Robert K. Merton",
+      "hook_pt": "Merton ajuda a pensar como uma instituição pode produzir efeitos pretendidos e não pretendidos.",
+      "mode": "micro_to_deep",
+      "duration_min": 4,
+      "cooldown_days": 90
+    },
+    {
+      "day": 109,
+      "content_type": "thinker",
+      "content_id": "karl-mannheim",
+      "title_pt": "Karl Mannheim",
+      "hook_pt": "Mannheim pergunta como o lugar social e histórico de alguém participa da produção das ideias.",
+      "mode": "micro_to_deep",
+      "duration_min": 4,
+      "cooldown_days": 90
+    },
+    {
+      "day": 110,
+      "content_type": "thinker",
+      "content_id": "alexis-de-tocqueville",
+      "title_pt": "Alexis de Tocqueville",
+      "hook_pt": "Tocqueville observa instituições e costumes juntos, mostrando que estruturas políticas também têm dimensões sociais.",
+      "mode": "micro_to_deep",
+      "duration_min": 4,
+      "cooldown_days": 90
+    },
+    {
+      "day": 111,
+      "content_type": "thinker",
+      "content_id": "isaac-newton",
+      "title_pt": "Isaac Newton",
+      "hook_pt": "Newton fora da fórmula: como um dos maiores matemáticos e físicos de seu período também dedicou enorme energia a questões religiosas, cronologia e profecia.",
+      "mode": "micro_to_deep",
+      "duration_min": 6,
+      "cooldown_days": 90
+    },
+    {
+      "day": 112,
+      "content_type": "thinker",
+      "content_id": "johannes-kepler",
+      "title_pt": "Johannes Kepler",
+      "hook_pt": "Kepler começou profissionalmente ligado à teologia e levou a geometria para o coração da investigação astronômica.",
+      "mode": "micro_to_deep",
+      "duration_min": 6,
+      "cooldown_days": 90
+    },
+    {
+      "day": 113,
+      "content_type": "thinker",
+      "content_id": "rene-descartes",
+      "title_pt": "René Descartes",
+      "hook_pt": "A geometria analítica tornou visível uma ponte histórica entre figura e equação.",
+      "mode": "micro_to_deep",
+      "duration_min": 4,
+      "cooldown_days": 90
+    },
+    {
+      "day": 114,
+      "content_type": "thinker",
+      "content_id": "blaise-pascal",
+      "title_pt": "Blaise Pascal",
+      "hook_pt": "Pascal une matemática de probabilidade a uma reflexão intensa sobre fé, razão e existência.",
+      "mode": "micro_to_deep",
+      "duration_min": 6,
+      "cooldown_days": 90
+    },
+    {
+      "day": 115,
+      "content_type": "thinker",
+      "content_id": "galileo-galilei",
+      "title_pt": "Galileu Galilei",
+      "hook_pt": "Galileu é uma ótima ponte para estudar simultaneamente movimento, astronomia e o debate histórico sobre ciência e interpretação bíblica.",
+      "mode": "micro_to_deep",
+      "duration_min": 4,
+      "cooldown_days": 90
+    },
+    {
+      "day": 116,
+      "content_type": "thinker",
+      "content_id": "robert-boyle",
+      "title_pt": "Robert Boyle",
+      "hook_pt": "Pressão e volume podem abrir uma janela para a história da química e para a ideia de teologia natural.",
+      "mode": "micro_to_deep",
+      "duration_min": 4,
+      "cooldown_days": 90
+    },
+    {
+      "day": 117,
+      "content_type": "thinker",
+      "content_id": "michael-faraday",
+      "title_pt": "Michael Faraday",
+      "hook_pt": "Faraday mostra como um tema de laboratório pode virar uma narrativa histórica sobre ciência e fé.",
+      "mode": "micro_to_deep",
+      "duration_min": 4,
+      "cooldown_days": 90
+    },
+    {
+      "day": 118,
+      "content_type": "thinker",
+      "content_id": "james-clerk-maxwell",
+      "title_pt": "James Clerk Maxwell",
+      "hook_pt": "Maxwell: quatro equações compactando uma enorme paisagem física.",
+      "mode": "micro_to_deep",
+      "duration_min": 4,
+      "cooldown_days": 90
+    },
+    {
+      "day": 119,
+      "content_type": "thinker",
+      "content_id": "georges-lemaitre",
+      "title_pt": "Georges Lemaître",
+      "hook_pt": "Lemaître é uma conexão elegante entre cosmologia matemática e história intelectual cristã.",
+      "mode": "micro_to_deep",
+      "duration_min": 4,
+      "cooldown_days": 90
+    },
+    {
+      "day": 120,
+      "content_type": "thinker",
+      "content_id": "gregor-mendel",
+      "title_pt": "Gregor Mendel",
+      "hook_pt": "Mendel transforma experimentos de jardim em padrões matemáticos de hereditariedade.",
+      "mode": "micro_to_deep",
+      "duration_min": 4,
+      "cooldown_days": 90
+    },
+    {
+      "day": 121,
+      "content_type": "thinker",
+      "content_id": "kurt-godel",
+      "title_pt": "Kurt Gödel",
+      "hook_pt": "Gödel: quando a própria matemática começou a perguntar pelos limites de seus sistemas.",
+      "mode": "micro_to_deep",
+      "duration_min": 4,
+      "cooldown_days": 90
+    },
+    {
+      "day": 122,
+      "content_type": "thinker",
+      "content_id": "karl-marx",
+      "title_pt": "Karl Marx",
+      "hook_pt": "Marx pode ser estudado como filósofo e pensador social: conceitos, argumentos, obras e críticas posteriores, sem transformar o estudo em propaganda.",
+      "mode": "micro_to_deep",
+      "duration_min": 6,
+      "cooldown_days": 90
+    },
+    {
+      "day": 123,
+      "content_type": "thinker",
+      "content_id": "max-weber",
+      "title_pt": "Max Weber",
+      "hook_pt": "Weber é uma porta para estudar como religião, economia, cultura e instituições podem ser analisadas sem reduzir a sociedade a uma única causa.",
+      "mode": "micro_to_deep",
+      "duration_min": 6,
+      "cooldown_days": 90
+    },
+    {
+      "day": 124,
+      "content_type": "thinker",
+      "content_id": "emile-durkheim",
+      "title_pt": "Émile Durkheim",
+      "hook_pt": "Durkheim ajuda a perceber como indivíduos vivem em redes de normas, instituições e formas de solidariedade.",
+      "mode": "micro_to_deep",
+      "duration_min": 4,
+      "cooldown_days": 90
+    },
+    {
+      "day": 125,
+      "content_type": "thinker",
+      "content_id": "auguste-comte",
+      "title_pt": "Auguste Comte",
+      "hook_pt": "Comte é útil para entender a história da própria palavra e do projeto de “sociologia”.",
+      "mode": "micro_to_deep",
+      "duration_min": 4,
+      "cooldown_days": 90
+    },
+    {
+      "day": 126,
+      "content_type": "thinker",
+      "content_id": "georg-simmel",
+      "title_pt": "Georg Simmel",
+      "hook_pt": "Simmel olha para a sociedade de perto: formas de interação, cidade, moda e dinheiro.",
+      "mode": "micro_to_deep",
+      "duration_min": 4,
+      "cooldown_days": 90
+    },
+    {
+      "day": 127,
+      "content_type": "thinker",
+      "content_id": "pierre-bourdieu",
+      "title_pt": "Pierre Bourdieu",
+      "hook_pt": "Bourdieu permite estudar como hábitos, instituições e recursos culturais se combinam na vida social.",
+      "mode": "micro_to_deep",
+      "duration_min": 4,
+      "cooldown_days": 90
+    },
+    {
+      "day": 128,
+      "content_type": "thinker",
+      "content_id": "erving-goffman",
+      "title_pt": "Erving Goffman",
+      "hook_pt": "Goffman mostra que sociologia também pode começar numa conversa, numa fila ou numa sala.",
+      "mode": "micro_to_deep",
+      "duration_min": 4,
+      "cooldown_days": 90
+    },
+    {
+      "day": 129,
+      "content_type": "thinker",
+      "content_id": "w-e-b-du-bois",
+      "title_pt": "W. E. B. Du Bois",
+      "hook_pt": "Du Bois é uma ponte entre pesquisa de campo, estatística, história e teoria social.",
+      "mode": "micro_to_deep",
+      "duration_min": 4,
+      "cooldown_days": 90
+    },
+    {
+      "day": 130,
+      "content_type": "thinker",
+      "content_id": "robert-k-merton",
+      "title_pt": "Robert K. Merton",
+      "hook_pt": "Merton ajuda a pensar como uma instituição pode produzir efeitos pretendidos e não pretendidos.",
+      "mode": "micro_to_deep",
+      "duration_min": 4,
+      "cooldown_days": 90
+    },
+    {
+      "day": 131,
+      "content_type": "thinker",
+      "content_id": "karl-mannheim",
+      "title_pt": "Karl Mannheim",
+      "hook_pt": "Mannheim pergunta como o lugar social e histórico de alguém participa da produção das ideias.",
+      "mode": "micro_to_deep",
+      "duration_min": 4,
+      "cooldown_days": 90
+    },
+    {
+      "day": 132,
+      "content_type": "thinker",
+      "content_id": "alexis-de-tocqueville",
+      "title_pt": "Alexis de Tocqueville",
+      "hook_pt": "Tocqueville observa instituições e costumes juntos, mostrando que estruturas políticas também têm dimensões sociais.",
+      "mode": "micro_to_deep",
+      "duration_min": 4,
+      "cooldown_days": 90
+    },
+    {
+      "day": 133,
+      "content_type": "thinker",
+      "content_id": "isaac-newton",
+      "title_pt": "Isaac Newton",
+      "hook_pt": "Newton fora da fórmula: como um dos maiores matemáticos e físicos de seu período também dedicou enorme energia a questões religiosas, cronologia e profecia.",
+      "mode": "micro_to_deep",
+      "duration_min": 6,
+      "cooldown_days": 90
+    },
+    {
+      "day": 134,
+      "content_type": "thinker",
+      "content_id": "johannes-kepler",
+      "title_pt": "Johannes Kepler",
+      "hook_pt": "Kepler começou profissionalmente ligado à teologia e levou a geometria para o coração da investigação astronômica.",
+      "mode": "micro_to_deep",
+      "duration_min": 6,
+      "cooldown_days": 90
+    },
+    {
+      "day": 135,
+      "content_type": "thinker",
+      "content_id": "rene-descartes",
+      "title_pt": "René Descartes",
+      "hook_pt": "A geometria analítica tornou visível uma ponte histórica entre figura e equação.",
+      "mode": "micro_to_deep",
+      "duration_min": 4,
+      "cooldown_days": 90
+    },
+    {
+      "day": 136,
+      "content_type": "thinker",
+      "content_id": "blaise-pascal",
+      "title_pt": "Blaise Pascal",
+      "hook_pt": "Pascal une matemática de probabilidade a uma reflexão intensa sobre fé, razão e existência.",
+      "mode": "micro_to_deep",
+      "duration_min": 6,
+      "cooldown_days": 90
+    },
+    {
+      "day": 137,
+      "content_type": "thinker",
+      "content_id": "galileo-galilei",
+      "title_pt": "Galileu Galilei",
+      "hook_pt": "Galileu é uma ótima ponte para estudar simultaneamente movimento, astronomia e o debate histórico sobre ciência e interpretação bíblica.",
+      "mode": "micro_to_deep",
+      "duration_min": 4,
+      "cooldown_days": 90
+    },
+    {
+      "day": 138,
+      "content_type": "thinker",
+      "content_id": "robert-boyle",
+      "title_pt": "Robert Boyle",
+      "hook_pt": "Pressão e volume podem abrir uma janela para a história da química e para a ideia de teologia natural.",
+      "mode": "micro_to_deep",
+      "duration_min": 4,
+      "cooldown_days": 90
+    },
+    {
+      "day": 139,
+      "content_type": "thinker",
+      "content_id": "michael-faraday",
+      "title_pt": "Michael Faraday",
+      "hook_pt": "Faraday mostra como um tema de laboratório pode virar uma narrativa histórica sobre ciência e fé.",
+      "mode": "micro_to_deep",
+      "duration_min": 4,
+      "cooldown_days": 90
+    },
+    {
+      "day": 140,
+      "content_type": "thinker",
+      "content_id": "james-clerk-maxwell",
+      "title_pt": "James Clerk Maxwell",
+      "hook_pt": "Maxwell: quatro equações compactando uma enorme paisagem física.",
+      "mode": "micro_to_deep",
+      "duration_min": 4,
+      "cooldown_days": 90
+    },
+    {
+      "day": 141,
+      "content_type": "thinker",
+      "content_id": "georges-lemaitre",
+      "title_pt": "Georges Lemaître",
+      "hook_pt": "Lemaître é uma conexão elegante entre cosmologia matemática e história intelectual cristã.",
+      "mode": "micro_to_deep",
+      "duration_min": 4,
+      "cooldown_days": 90
+    },
+    {
+      "day": 142,
+      "content_type": "thinker",
+      "content_id": "gregor-mendel",
+      "title_pt": "Gregor Mendel",
+      "hook_pt": "Mendel transforma experimentos de jardim em padrões matemáticos de hereditariedade.",
+      "mode": "micro_to_deep",
+      "duration_min": 4,
+      "cooldown_days": 90
+    },
+    {
+      "day": 143,
+      "content_type": "thinker",
+      "content_id": "kurt-godel",
+      "title_pt": "Kurt Gödel",
+      "hook_pt": "Gödel: quando a própria matemática começou a perguntar pelos limites de seus sistemas.",
+      "mode": "micro_to_deep",
+      "duration_min": 4,
+      "cooldown_days": 90
+    },
+    {
+      "day": 144,
+      "content_type": "thinker",
+      "content_id": "karl-marx",
+      "title_pt": "Karl Marx",
+      "hook_pt": "Marx pode ser estudado como filósofo e pensador social: conceitos, argumentos, obras e críticas posteriores, sem transformar o estudo em propaganda.",
+      "mode": "micro_to_deep",
+      "duration_min": 6,
+      "cooldown_days": 90
+    },
+    {
+      "day": 145,
+      "content_type": "thinker",
+      "content_id": "max-weber",
+      "title_pt": "Max Weber",
+      "hook_pt": "Weber é uma porta para estudar como religião, economia, cultura e instituições podem ser analisadas sem reduzir a sociedade a uma única causa.",
+      "mode": "micro_to_deep",
+      "duration_min": 6,
+      "cooldown_days": 90
+    },
+    {
+      "day": 146,
+      "content_type": "thinker",
+      "content_id": "emile-durkheim",
+      "title_pt": "Émile Durkheim",
+      "hook_pt": "Durkheim ajuda a perceber como indivíduos vivem em redes de normas, instituições e formas de solidariedade.",
+      "mode": "micro_to_deep",
+      "duration_min": 4,
+      "cooldown_days": 90
+    },
+    {
+      "day": 147,
+      "content_type": "thinker",
+      "content_id": "auguste-comte",
+      "title_pt": "Auguste Comte",
+      "hook_pt": "Comte é útil para entender a história da própria palavra e do projeto de “sociologia”.",
+      "mode": "micro_to_deep",
+      "duration_min": 4,
+      "cooldown_days": 90
+    },
+    {
+      "day": 148,
+      "content_type": "thinker",
+      "content_id": "georg-simmel",
+      "title_pt": "Georg Simmel",
+      "hook_pt": "Simmel olha para a sociedade de perto: formas de interação, cidade, moda e dinheiro.",
+      "mode": "micro_to_deep",
+      "duration_min": 4,
+      "cooldown_days": 90
+    },
+    {
+      "day": 149,
+      "content_type": "thinker",
+      "content_id": "pierre-bourdieu",
+      "title_pt": "Pierre Bourdieu",
+      "hook_pt": "Bourdieu permite estudar como hábitos, instituições e recursos culturais se combinam na vida social.",
+      "mode": "micro_to_deep",
+      "duration_min": 4,
+      "cooldown_days": 90
+    },
+    {
+      "day": 150,
+      "content_type": "thinker",
+      "content_id": "erving-goffman",
+      "title_pt": "Erving Goffman",
+      "hook_pt": "Goffman mostra que sociologia também pode começar numa conversa, numa fila ou numa sala.",
+      "mode": "micro_to_deep",
+      "duration_min": 4,
+      "cooldown_days": 90
+    },
+    {
+      "day": 151,
+      "content_type": "thinker",
+      "content_id": "w-e-b-du-bois",
+      "title_pt": "W. E. B. Du Bois",
+      "hook_pt": "Du Bois é uma ponte entre pesquisa de campo, estatística, história e teoria social.",
+      "mode": "micro_to_deep",
+      "duration_min": 4,
+      "cooldown_days": 90
+    },
+    {
+      "day": 152,
+      "content_type": "thinker",
+      "content_id": "robert-k-merton",
+      "title_pt": "Robert K. Merton",
+      "hook_pt": "Merton ajuda a pensar como uma instituição pode produzir efeitos pretendidos e não pretendidos.",
+      "mode": "micro_to_deep",
+      "duration_min": 4,
+      "cooldown_days": 90
+    },
+    {
+      "day": 153,
+      "content_type": "thinker",
+      "content_id": "karl-mannheim",
+      "title_pt": "Karl Mannheim",
+      "hook_pt": "Mannheim pergunta como o lugar social e histórico de alguém participa da produção das ideias.",
+      "mode": "micro_to_deep",
+      "duration_min": 4,
+      "cooldown_days": 90
+    },
+    {
+      "day": 154,
+      "content_type": "thinker",
+      "content_id": "alexis-de-tocqueville",
+      "title_pt": "Alexis de Tocqueville",
+      "hook_pt": "Tocqueville observa instituições e costumes juntos, mostrando que estruturas políticas também têm dimensões sociais.",
+      "mode": "micro_to_deep",
+      "duration_min": 4,
+      "cooldown_days": 90
+    },
+    {
+      "day": 155,
+      "content_type": "thinker",
+      "content_id": "isaac-newton",
+      "title_pt": "Isaac Newton",
+      "hook_pt": "Newton fora da fórmula: como um dos maiores matemáticos e físicos de seu período também dedicou enorme energia a questões religiosas, cronologia e profecia.",
+      "mode": "micro_to_deep",
+      "duration_min": 6,
+      "cooldown_days": 90
+    },
+    {
+      "day": 156,
+      "content_type": "thinker",
+      "content_id": "johannes-kepler",
+      "title_pt": "Johannes Kepler",
+      "hook_pt": "Kepler começou profissionalmente ligado à teologia e levou a geometria para o coração da investigação astronômica.",
+      "mode": "micro_to_deep",
+      "duration_min": 6,
+      "cooldown_days": 90
+    },
+    {
+      "day": 157,
+      "content_type": "thinker",
+      "content_id": "rene-descartes",
+      "title_pt": "René Descartes",
+      "hook_pt": "A geometria analítica tornou visível uma ponte histórica entre figura e equação.",
+      "mode": "micro_to_deep",
+      "duration_min": 4,
+      "cooldown_days": 90
+    },
+    {
+      "day": 158,
+      "content_type": "thinker",
+      "content_id": "blaise-pascal",
+      "title_pt": "Blaise Pascal",
+      "hook_pt": "Pascal une matemática de probabilidade a uma reflexão intensa sobre fé, razão e existência.",
+      "mode": "micro_to_deep",
+      "duration_min": 6,
+      "cooldown_days": 90
+    },
+    {
+      "day": 159,
+      "content_type": "thinker",
+      "content_id": "galileo-galilei",
+      "title_pt": "Galileu Galilei",
+      "hook_pt": "Galileu é uma ótima ponte para estudar simultaneamente movimento, astronomia e o debate histórico sobre ciência e interpretação bíblica.",
+      "mode": "micro_to_deep",
+      "duration_min": 4,
+      "cooldown_days": 90
+    },
+    {
+      "day": 160,
+      "content_type": "thinker",
+      "content_id": "robert-boyle",
+      "title_pt": "Robert Boyle",
+      "hook_pt": "Pressão e volume podem abrir uma janela para a história da química e para a ideia de teologia natural.",
+      "mode": "micro_to_deep",
+      "duration_min": 4,
+      "cooldown_days": 90
+    },
+    {
+      "day": 161,
+      "content_type": "thinker",
+      "content_id": "michael-faraday",
+      "title_pt": "Michael Faraday",
+      "hook_pt": "Faraday mostra como um tema de laboratório pode virar uma narrativa histórica sobre ciência e fé.",
+      "mode": "micro_to_deep",
+      "duration_min": 4,
+      "cooldown_days": 90
+    },
+    {
+      "day": 162,
+      "content_type": "thinker",
+      "content_id": "james-clerk-maxwell",
+      "title_pt": "James Clerk Maxwell",
+      "hook_pt": "Maxwell: quatro equações compactando uma enorme paisagem física.",
+      "mode": "micro_to_deep",
+      "duration_min": 4,
+      "cooldown_days": 90
+    },
+    {
+      "day": 163,
+      "content_type": "thinker",
+      "content_id": "georges-lemaitre",
+      "title_pt": "Georges Lemaître",
+      "hook_pt": "Lemaître é uma conexão elegante entre cosmologia matemática e história intelectual cristã.",
+      "mode": "micro_to_deep",
+      "duration_min": 4,
+      "cooldown_days": 90
+    },
+    {
+      "day": 164,
+      "content_type": "thinker",
+      "content_id": "gregor-mendel",
+      "title_pt": "Gregor Mendel",
+      "hook_pt": "Mendel transforma experimentos de jardim em padrões matemáticos de hereditariedade.",
+      "mode": "micro_to_deep",
+      "duration_min": 4,
+      "cooldown_days": 90
+    },
+    {
+      "day": 165,
+      "content_type": "thinker",
+      "content_id": "kurt-godel",
+      "title_pt": "Kurt Gödel",
+      "hook_pt": "Gödel: quando a própria matemática começou a perguntar pelos limites de seus sistemas.",
+      "mode": "micro_to_deep",
+      "duration_min": 4,
+      "cooldown_days": 90
+    },
+    {
+      "day": 166,
+      "content_type": "thinker",
+      "content_id": "karl-marx",
+      "title_pt": "Karl Marx",
+      "hook_pt": "Marx pode ser estudado como filósofo e pensador social: conceitos, argumentos, obras e críticas posteriores, sem transformar o estudo em propaganda.",
+      "mode": "micro_to_deep",
+      "duration_min": 6,
+      "cooldown_days": 90
+    },
+    {
+      "day": 167,
+      "content_type": "thinker",
+      "content_id": "max-weber",
+      "title_pt": "Max Weber",
+      "hook_pt": "Weber é uma porta para estudar como religião, economia, cultura e instituições podem ser analisadas sem reduzir a sociedade a uma única causa.",
+      "mode": "micro_to_deep",
+      "duration_min": 6,
+      "cooldown_days": 90
+    },
+    {
+      "day": 168,
+      "content_type": "thinker",
+      "content_id": "emile-durkheim",
+      "title_pt": "Émile Durkheim",
+      "hook_pt": "Durkheim ajuda a perceber como indivíduos vivem em redes de normas, instituições e formas de solidariedade.",
+      "mode": "micro_to_deep",
+      "duration_min": 4,
+      "cooldown_days": 90
+    },
+    {
+      "day": 169,
+      "content_type": "thinker",
+      "content_id": "auguste-comte",
+      "title_pt": "Auguste Comte",
+      "hook_pt": "Comte é útil para entender a história da própria palavra e do projeto de “sociologia”.",
+      "mode": "micro_to_deep",
+      "duration_min": 4,
+      "cooldown_days": 90
+    },
+    {
+      "day": 170,
+      "content_type": "thinker",
+      "content_id": "georg-simmel",
+      "title_pt": "Georg Simmel",
+      "hook_pt": "Simmel olha para a sociedade de perto: formas de interação, cidade, moda e dinheiro.",
+      "mode": "micro_to_deep",
+      "duration_min": 4,
+      "cooldown_days": 90
+    },
+    {
+      "day": 171,
+      "content_type": "thinker",
+      "content_id": "pierre-bourdieu",
+      "title_pt": "Pierre Bourdieu",
+      "hook_pt": "Bourdieu permite estudar como hábitos, instituições e recursos culturais se combinam na vida social.",
+      "mode": "micro_to_deep",
+      "duration_min": 4,
+      "cooldown_days": 90
+    },
+    {
+      "day": 172,
+      "content_type": "thinker",
+      "content_id": "erving-goffman",
+      "title_pt": "Erving Goffman",
+      "hook_pt": "Goffman mostra que sociologia também pode começar numa conversa, numa fila ou numa sala.",
+      "mode": "micro_to_deep",
+      "duration_min": 4,
+      "cooldown_days": 90
+    },
+    {
+      "day": 173,
+      "content_type": "thinker",
+      "content_id": "w-e-b-du-bois",
+      "title_pt": "W. E. B. Du Bois",
+      "hook_pt": "Du Bois é uma ponte entre pesquisa de campo, estatística, história e teoria social.",
+      "mode": "micro_to_deep",
+      "duration_min": 4,
+      "cooldown_days": 90
+    },
+    {
+      "day": 174,
+      "content_type": "thinker",
+      "content_id": "robert-k-merton",
+      "title_pt": "Robert K. Merton",
+      "hook_pt": "Merton ajuda a pensar como uma instituição pode produzir efeitos pretendidos e não pretendidos.",
+      "mode": "micro_to_deep",
+      "duration_min": 4,
+      "cooldown_days": 90
+    },
+    {
+      "day": 175,
+      "content_type": "thinker",
+      "content_id": "karl-mannheim",
+      "title_pt": "Karl Mannheim",
+      "hook_pt": "Mannheim pergunta como o lugar social e histórico de alguém participa da produção das ideias.",
+      "mode": "micro_to_deep",
+      "duration_min": 4,
+      "cooldown_days": 90
+    },
+    {
+      "day": 176,
+      "content_type": "thinker",
+      "content_id": "alexis-de-tocqueville",
+      "title_pt": "Alexis de Tocqueville",
+      "hook_pt": "Tocqueville observa instituições e costumes juntos, mostrando que estruturas políticas também têm dimensões sociais.",
+      "mode": "micro_to_deep",
+      "duration_min": 4,
+      "cooldown_days": 90
+    },
+    {
+      "day": 177,
+      "content_type": "thinker",
+      "content_id": "isaac-newton",
+      "title_pt": "Isaac Newton",
+      "hook_pt": "Newton fora da fórmula: como um dos maiores matemáticos e físicos de seu período também dedicou enorme energia a questões religiosas, cronologia e profecia.",
+      "mode": "micro_to_deep",
+      "duration_min": 6,
+      "cooldown_days": 90
+    },
+    {
+      "day": 178,
+      "content_type": "thinker",
+      "content_id": "johannes-kepler",
+      "title_pt": "Johannes Kepler",
+      "hook_pt": "Kepler começou profissionalmente ligado à teologia e levou a geometria para o coração da investigação astronômica.",
+      "mode": "micro_to_deep",
+      "duration_min": 6,
+      "cooldown_days": 90
+    },
+    {
+      "day": 179,
+      "content_type": "thinker",
+      "content_id": "rene-descartes",
+      "title_pt": "René Descartes",
+      "hook_pt": "A geometria analítica tornou visível uma ponte histórica entre figura e equação.",
+      "mode": "micro_to_deep",
+      "duration_min": 4,
+      "cooldown_days": 90
+    },
+    {
+      "day": 180,
+      "content_type": "thinker",
+      "content_id": "blaise-pascal",
+      "title_pt": "Blaise Pascal",
+      "hook_pt": "Pascal une matemática de probabilidade a uma reflexão intensa sobre fé, razão e existência.",
+      "mode": "micro_to_deep",
+      "duration_min": 6,
+      "cooldown_days": 90
+    },
+    {
+      "day": 181,
+      "content_type": "thinker",
+      "content_id": "galileo-galilei",
+      "title_pt": "Galileu Galilei",
+      "hook_pt": "Galileu é uma ótima ponte para estudar simultaneamente movimento, astronomia e o debate histórico sobre ciência e interpretação bíblica.",
+      "mode": "micro_to_deep",
+      "duration_min": 4,
+      "cooldown_days": 90
+    },
+    {
+      "day": 182,
+      "content_type": "thinker",
+      "content_id": "robert-boyle",
+      "title_pt": "Robert Boyle",
+      "hook_pt": "Pressão e volume podem abrir uma janela para a história da química e para a ideia de teologia natural.",
+      "mode": "micro_to_deep",
+      "duration_min": 4,
+      "cooldown_days": 90
+    },
+    {
+      "day": 183,
+      "content_type": "thinker",
+      "content_id": "michael-faraday",
+      "title_pt": "Michael Faraday",
+      "hook_pt": "Faraday mostra como um tema de laboratório pode virar uma narrativa histórica sobre ciência e fé.",
+      "mode": "micro_to_deep",
+      "duration_min": 4,
+      "cooldown_days": 90
+    },
+    {
+      "day": 184,
+      "content_type": "thinker",
+      "content_id": "james-clerk-maxwell",
+      "title_pt": "James Clerk Maxwell",
+      "hook_pt": "Maxwell: quatro equações compactando uma enorme paisagem física.",
+      "mode": "micro_to_deep",
+      "duration_min": 4,
+      "cooldown_days": 90
+    },
+    {
+      "day": 185,
+      "content_type": "thinker",
+      "content_id": "georges-lemaitre",
+      "title_pt": "Georges Lemaître",
+      "hook_pt": "Lemaître é uma conexão elegante entre cosmologia matemática e história intelectual cristã.",
+      "mode": "micro_to_deep",
+      "duration_min": 4,
+      "cooldown_days": 90
+    },
+    {
+      "day": 186,
+      "content_type": "thinker",
+      "content_id": "gregor-mendel",
+      "title_pt": "Gregor Mendel",
+      "hook_pt": "Mendel transforma experimentos de jardim em padrões matemáticos de hereditariedade.",
+      "mode": "micro_to_deep",
+      "duration_min": 4,
+      "cooldown_days": 90
+    },
+    {
+      "day": 187,
+      "content_type": "thinker",
+      "content_id": "kurt-godel",
+      "title_pt": "Kurt Gödel",
+      "hook_pt": "Gödel: quando a própria matemática começou a perguntar pelos limites de seus sistemas.",
+      "mode": "micro_to_deep",
+      "duration_min": 4,
+      "cooldown_days": 90
+    },
+    {
+      "day": 188,
+      "content_type": "thinker",
+      "content_id": "karl-marx",
+      "title_pt": "Karl Marx",
+      "hook_pt": "Marx pode ser estudado como filósofo e pensador social: conceitos, argumentos, obras e críticas posteriores, sem transformar o estudo em propaganda.",
+      "mode": "micro_to_deep",
+      "duration_min": 6,
+      "cooldown_days": 90
+    },
+    {
+      "day": 189,
+      "content_type": "thinker",
+      "content_id": "max-weber",
+      "title_pt": "Max Weber",
+      "hook_pt": "Weber é uma porta para estudar como religião, economia, cultura e instituições podem ser analisadas sem reduzir a sociedade a uma única causa.",
+      "mode": "micro_to_deep",
+      "duration_min": 6,
+      "cooldown_days": 90
+    },
+    {
+      "day": 190,
+      "content_type": "thinker",
+      "content_id": "emile-durkheim",
+      "title_pt": "Émile Durkheim",
+      "hook_pt": "Durkheim ajuda a perceber como indivíduos vivem em redes de normas, instituições e formas de solidariedade.",
+      "mode": "micro_to_deep",
+      "duration_min": 4,
+      "cooldown_days": 90
+    },
+    {
+      "day": 191,
+      "content_type": "thinker",
+      "content_id": "auguste-comte",
+      "title_pt": "Auguste Comte",
+      "hook_pt": "Comte é útil para entender a história da própria palavra e do projeto de “sociologia”.",
+      "mode": "micro_to_deep",
+      "duration_min": 4,
+      "cooldown_days": 90
+    },
+    {
+      "day": 192,
+      "content_type": "thinker",
+      "content_id": "georg-simmel",
+      "title_pt": "Georg Simmel",
+      "hook_pt": "Simmel olha para a sociedade de perto: formas de interação, cidade, moda e dinheiro.",
+      "mode": "micro_to_deep",
+      "duration_min": 4,
+      "cooldown_days": 90
+    },
+    {
+      "day": 193,
+      "content_type": "thinker",
+      "content_id": "pierre-bourdieu",
+      "title_pt": "Pierre Bourdieu",
+      "hook_pt": "Bourdieu permite estudar como hábitos, instituições e recursos culturais se combinam na vida social.",
+      "mode": "micro_to_deep",
+      "duration_min": 4,
+      "cooldown_days": 90
+    },
+    {
+      "day": 194,
+      "content_type": "thinker",
+      "content_id": "erving-goffman",
+      "title_pt": "Erving Goffman",
+      "hook_pt": "Goffman mostra que sociologia também pode começar numa conversa, numa fila ou numa sala.",
+      "mode": "micro_to_deep",
+      "duration_min": 4,
+      "cooldown_days": 90
+    },
+    {
+      "day": 195,
+      "content_type": "thinker",
+      "content_id": "w-e-b-du-bois",
+      "title_pt": "W. E. B. Du Bois",
+      "hook_pt": "Du Bois é uma ponte entre pesquisa de campo, estatística, história e teoria social.",
+      "mode": "micro_to_deep",
+      "duration_min": 4,
+      "cooldown_days": 90
+    },
+    {
+      "day": 196,
+      "content_type": "thinker",
+      "content_id": "robert-k-merton",
+      "title_pt": "Robert K. Merton",
+      "hook_pt": "Merton ajuda a pensar como uma instituição pode produzir efeitos pretendidos e não pretendidos.",
+      "mode": "micro_to_deep",
+      "duration_min": 4,
+      "cooldown_days": 90
+    },
+    {
+      "day": 197,
+      "content_type": "thinker",
+      "content_id": "karl-mannheim",
+      "title_pt": "Karl Mannheim",
+      "hook_pt": "Mannheim pergunta como o lugar social e histórico de alguém participa da produção das ideias.",
+      "mode": "micro_to_deep",
+      "duration_min": 4,
+      "cooldown_days": 90
+    },
+    {
+      "day": 198,
+      "content_type": "thinker",
+      "content_id": "alexis-de-tocqueville",
+      "title_pt": "Alexis de Tocqueville",
+      "hook_pt": "Tocqueville observa instituições e costumes juntos, mostrando que estruturas políticas também têm dimensões sociais.",
+      "mode": "micro_to_deep",
+      "duration_min": 4,
+      "cooldown_days": 90
+    },
+    {
+      "day": 199,
+      "content_type": "thinker",
+      "content_id": "isaac-newton",
+      "title_pt": "Isaac Newton",
+      "hook_pt": "Newton fora da fórmula: como um dos maiores matemáticos e físicos de seu período também dedicou enorme energia a questões religiosas, cronologia e profecia.",
+      "mode": "micro_to_deep",
+      "duration_min": 6,
+      "cooldown_days": 90
+    },
+    {
+      "day": 200,
+      "content_type": "thinker",
+      "content_id": "johannes-kepler",
+      "title_pt": "Johannes Kepler",
+      "hook_pt": "Kepler começou profissionalmente ligado à teologia e levou a geometria para o coração da investigação astronômica.",
+      "mode": "micro_to_deep",
+      "duration_min": 6,
+      "cooldown_days": 90
+    },
+    {
+      "day": 201,
+      "content_type": "thinker",
+      "content_id": "rene-descartes",
+      "title_pt": "René Descartes",
+      "hook_pt": "A geometria analítica tornou visível uma ponte histórica entre figura e equação.",
+      "mode": "micro_to_deep",
+      "duration_min": 4,
+      "cooldown_days": 90
+    },
+    {
+      "day": 202,
+      "content_type": "thinker",
+      "content_id": "blaise-pascal",
+      "title_pt": "Blaise Pascal",
+      "hook_pt": "Pascal une matemática de probabilidade a uma reflexão intensa sobre fé, razão e existência.",
+      "mode": "micro_to_deep",
+      "duration_min": 6,
+      "cooldown_days": 90
+    },
+    {
+      "day": 203,
+      "content_type": "thinker",
+      "content_id": "galileo-galilei",
+      "title_pt": "Galileu Galilei",
+      "hook_pt": "Galileu é uma ótima ponte para estudar simultaneamente movimento, astronomia e o debate histórico sobre ciência e interpretação bíblica.",
+      "mode": "micro_to_deep",
+      "duration_min": 4,
+      "cooldown_days": 90
+    },
+    {
+      "day": 204,
+      "content_type": "thinker",
+      "content_id": "robert-boyle",
+      "title_pt": "Robert Boyle",
+      "hook_pt": "Pressão e volume podem abrir uma janela para a história da química e para a ideia de teologia natural.",
+      "mode": "micro_to_deep",
+      "duration_min": 4,
+      "cooldown_days": 90
+    },
+    {
+      "day": 205,
+      "content_type": "thinker",
+      "content_id": "michael-faraday",
+      "title_pt": "Michael Faraday",
+      "hook_pt": "Faraday mostra como um tema de laboratório pode virar uma narrativa histórica sobre ciência e fé.",
+      "mode": "micro_to_deep",
+      "duration_min": 4,
+      "cooldown_days": 90
+    },
+    {
+      "day": 206,
+      "content_type": "thinker",
+      "content_id": "james-clerk-maxwell",
+      "title_pt": "James Clerk Maxwell",
+      "hook_pt": "Maxwell: quatro equações compactando uma enorme paisagem física.",
+      "mode": "micro_to_deep",
+      "duration_min": 4,
+      "cooldown_days": 90
+    },
+    {
+      "day": 207,
+      "content_type": "thinker",
+      "content_id": "georges-lemaitre",
+      "title_pt": "Georges Lemaître",
+      "hook_pt": "Lemaître é uma conexão elegante entre cosmologia matemática e história intelectual cristã.",
+      "mode": "micro_to_deep",
+      "duration_min": 4,
+      "cooldown_days": 90
+    },
+    {
+      "day": 208,
+      "content_type": "thinker",
+      "content_id": "gregor-mendel",
+      "title_pt": "Gregor Mendel",
+      "hook_pt": "Mendel transforma experimentos de jardim em padrões matemáticos de hereditariedade.",
+      "mode": "micro_to_deep",
+      "duration_min": 4,
+      "cooldown_days": 90
+    },
+    {
+      "day": 209,
+      "content_type": "thinker",
+      "content_id": "kurt-godel",
+      "title_pt": "Kurt Gödel",
+      "hook_pt": "Gödel: quando a própria matemática começou a perguntar pelos limites de seus sistemas.",
+      "mode": "micro_to_deep",
+      "duration_min": 4,
+      "cooldown_days": 90
+    },
+    {
+      "day": 210,
+      "content_type": "thinker",
+      "content_id": "karl-marx",
+      "title_pt": "Karl Marx",
+      "hook_pt": "Marx pode ser estudado como filósofo e pensador social: conceitos, argumentos, obras e críticas posteriores, sem transformar o estudo em propaganda.",
+      "mode": "micro_to_deep",
+      "duration_min": 6,
+      "cooldown_days": 90
+    },
+    {
+      "day": 211,
+      "content_type": "thinker",
+      "content_id": "max-weber",
+      "title_pt": "Max Weber",
+      "hook_pt": "Weber é uma porta para estudar como religião, economia, cultura e instituições podem ser analisadas sem reduzir a sociedade a uma única causa.",
+      "mode": "micro_to_deep",
+      "duration_min": 6,
+      "cooldown_days": 90
+    },
+    {
+      "day": 212,
+      "content_type": "thinker",
+      "content_id": "emile-durkheim",
+      "title_pt": "Émile Durkheim",
+      "hook_pt": "Durkheim ajuda a perceber como indivíduos vivem em redes de normas, instituições e formas de solidariedade.",
+      "mode": "micro_to_deep",
+      "duration_min": 4,
+      "cooldown_days": 90
+    },
+    {
+      "day": 213,
+      "content_type": "thinker",
+      "content_id": "auguste-comte",
+      "title_pt": "Auguste Comte",
+      "hook_pt": "Comte é útil para entender a história da própria palavra e do projeto de “sociologia”.",
+      "mode": "micro_to_deep",
+      "duration_min": 4,
+      "cooldown_days": 90
+    },
+    {
+      "day": 214,
+      "content_type": "thinker",
+      "content_id": "georg-simmel",
+      "title_pt": "Georg Simmel",
+      "hook_pt": "Simmel olha para a sociedade de perto: formas de interação, cidade, moda e dinheiro.",
+      "mode": "micro_to_deep",
+      "duration_min": 4,
+      "cooldown_days": 90
+    },
+    {
+      "day": 215,
+      "content_type": "thinker",
+      "content_id": "pierre-bourdieu",
+      "title_pt": "Pierre Bourdieu",
+      "hook_pt": "Bourdieu permite estudar como hábitos, instituições e recursos culturais se combinam na vida social.",
+      "mode": "micro_to_deep",
+      "duration_min": 4,
+      "cooldown_days": 90
+    },
+    {
+      "day": 216,
+      "content_type": "thinker",
+      "content_id": "erving-goffman",
+      "title_pt": "Erving Goffman",
+      "hook_pt": "Goffman mostra que sociologia também pode começar numa conversa, numa fila ou numa sala.",
+      "mode": "micro_to_deep",
+      "duration_min": 4,
+      "cooldown_days": 90
+    },
+    {
+      "day": 217,
+      "content_type": "thinker",
+      "content_id": "w-e-b-du-bois",
+      "title_pt": "W. E. B. Du Bois",
+      "hook_pt": "Du Bois é uma ponte entre pesquisa de campo, estatística, história e teoria social.",
+      "mode": "micro_to_deep",
+      "duration_min": 4,
+      "cooldown_days": 90
+    },
+    {
+      "day": 218,
+      "content_type": "thinker",
+      "content_id": "robert-k-merton",
+      "title_pt": "Robert K. Merton",
+      "hook_pt": "Merton ajuda a pensar como uma instituição pode produzir efeitos pretendidos e não pretendidos.",
+      "mode": "micro_to_deep",
+      "duration_min": 4,
+      "cooldown_days": 90
+    },
+    {
+      "day": 219,
+      "content_type": "thinker",
+      "content_id": "karl-mannheim",
+      "title_pt": "Karl Mannheim",
+      "hook_pt": "Mannheim pergunta como o lugar social e histórico de alguém participa da produção das ideias.",
+      "mode": "micro_to_deep",
+      "duration_min": 4,
+      "cooldown_days": 90
+    },
+    {
+      "day": 220,
+      "content_type": "thinker",
+      "content_id": "alexis-de-tocqueville",
+      "title_pt": "Alexis de Tocqueville",
+      "hook_pt": "Tocqueville observa instituições e costumes juntos, mostrando que estruturas políticas também têm dimensões sociais.",
+      "mode": "micro_to_deep",
+      "duration_min": 4,
+      "cooldown_days": 90
+    },
+    {
+      "day": 221,
+      "content_type": "thinker",
+      "content_id": "isaac-newton",
+      "title_pt": "Isaac Newton",
+      "hook_pt": "Newton fora da fórmula: como um dos maiores matemáticos e físicos de seu período também dedicou enorme energia a questões religiosas, cronologia e profecia.",
+      "mode": "micro_to_deep",
+      "duration_min": 6,
+      "cooldown_days": 90
+    },
+    {
+      "day": 222,
+      "content_type": "thinker",
+      "content_id": "johannes-kepler",
+      "title_pt": "Johannes Kepler",
+      "hook_pt": "Kepler começou profissionalmente ligado à teologia e levou a geometria para o coração da investigação astronômica.",
+      "mode": "micro_to_deep",
+      "duration_min": 6,
+      "cooldown_days": 90
+    },
+    {
+      "day": 223,
+      "content_type": "thinker",
+      "content_id": "rene-descartes",
+      "title_pt": "René Descartes",
+      "hook_pt": "A geometria analítica tornou visível uma ponte histórica entre figura e equação.",
+      "mode": "micro_to_deep",
+      "duration_min": 4,
+      "cooldown_days": 90
+    },
+    {
+      "day": 224,
+      "content_type": "thinker",
+      "content_id": "blaise-pascal",
+      "title_pt": "Blaise Pascal",
+      "hook_pt": "Pascal une matemática de probabilidade a uma reflexão intensa sobre fé, razão e existência.",
+      "mode": "micro_to_deep",
+      "duration_min": 6,
+      "cooldown_days": 90
+    },
+    {
+      "day": 225,
+      "content_type": "thinker",
+      "content_id": "galileo-galilei",
+      "title_pt": "Galileu Galilei",
+      "hook_pt": "Galileu é uma ótima ponte para estudar simultaneamente movimento, astronomia e o debate histórico sobre ciência e interpretação bíblica.",
+      "mode": "micro_to_deep",
+      "duration_min": 4,
+      "cooldown_days": 90
+    },
+    {
+      "day": 226,
+      "content_type": "thinker",
+      "content_id": "robert-boyle",
+      "title_pt": "Robert Boyle",
+      "hook_pt": "Pressão e volume podem abrir uma janela para a história da química e para a ideia de teologia natural.",
+      "mode": "micro_to_deep",
+      "duration_min": 4,
+      "cooldown_days": 90
+    },
+    {
+      "day": 227,
+      "content_type": "thinker",
+      "content_id": "michael-faraday",
+      "title_pt": "Michael Faraday",
+      "hook_pt": "Faraday mostra como um tema de laboratório pode virar uma narrativa histórica sobre ciência e fé.",
+      "mode": "micro_to_deep",
+      "duration_min": 4,
+      "cooldown_days": 90
+    },
+    {
+      "day": 228,
+      "content_type": "thinker",
+      "content_id": "james-clerk-maxwell",
+      "title_pt": "James Clerk Maxwell",
+      "hook_pt": "Maxwell: quatro equações compactando uma enorme paisagem física.",
+      "mode": "micro_to_deep",
+      "duration_min": 4,
+      "cooldown_days": 90
+    },
+    {
+      "day": 229,
+      "content_type": "thinker",
+      "content_id": "georges-lemaitre",
+      "title_pt": "Georges Lemaître",
+      "hook_pt": "Lemaître é uma conexão elegante entre cosmologia matemática e história intelectual cristã.",
+      "mode": "micro_to_deep",
+      "duration_min": 4,
+      "cooldown_days": 90
+    },
+    {
+      "day": 230,
+      "content_type": "thinker",
+      "content_id": "gregor-mendel",
+      "title_pt": "Gregor Mendel",
+      "hook_pt": "Mendel transforma experimentos de jardim em padrões matemáticos de hereditariedade.",
+      "mode": "micro_to_deep",
+      "duration_min": 4,
+      "cooldown_days": 90
+    },
+    {
+      "day": 231,
+      "content_type": "thinker",
+      "content_id": "kurt-godel",
+      "title_pt": "Kurt Gödel",
+      "hook_pt": "Gödel: quando a própria matemática começou a perguntar pelos limites de seus sistemas.",
+      "mode": "micro_to_deep",
+      "duration_min": 4,
+      "cooldown_days": 90
+    },
+    {
+      "day": 232,
+      "content_type": "thinker",
+      "content_id": "karl-marx",
+      "title_pt": "Karl Marx",
+      "hook_pt": "Marx pode ser estudado como filósofo e pensador social: conceitos, argumentos, obras e críticas posteriores, sem transformar o estudo em propaganda.",
+      "mode": "micro_to_deep",
+      "duration_min": 6,
+      "cooldown_days": 90
+    },
+    {
+      "day": 233,
+      "content_type": "thinker",
+      "content_id": "max-weber",
+      "title_pt": "Max Weber",
+      "hook_pt": "Weber é uma porta para estudar como religião, economia, cultura e instituições podem ser analisadas sem reduzir a sociedade a uma única causa.",
+      "mode": "micro_to_deep",
+      "duration_min": 6,
+      "cooldown_days": 90
+    },
+    {
+      "day": 234,
+      "content_type": "thinker",
+      "content_id": "emile-durkheim",
+      "title_pt": "Émile Durkheim",
+      "hook_pt": "Durkheim ajuda a perceber como indivíduos vivem em redes de normas, instituições e formas de solidariedade.",
+      "mode": "micro_to_deep",
+      "duration_min": 4,
+      "cooldown_days": 90
+    },
+    {
+      "day": 235,
+      "content_type": "thinker",
+      "content_id": "auguste-comte",
+      "title_pt": "Auguste Comte",
+      "hook_pt": "Comte é útil para entender a história da própria palavra e do projeto de “sociologia”.",
+      "mode": "micro_to_deep",
+      "duration_min": 4,
+      "cooldown_days": 90
+    },
+    {
+      "day": 236,
+      "content_type": "thinker",
+      "content_id": "georg-simmel",
+      "title_pt": "Georg Simmel",
+      "hook_pt": "Simmel olha para a sociedade de perto: formas de interação, cidade, moda e dinheiro.",
+      "mode": "micro_to_deep",
+      "duration_min": 4,
+      "cooldown_days": 90
+    },
+    {
+      "day": 237,
+      "content_type": "thinker",
+      "content_id": "pierre-bourdieu",
+      "title_pt": "Pierre Bourdieu",
+      "hook_pt": "Bourdieu permite estudar como hábitos, instituições e recursos culturais se combinam na vida social.",
+      "mode": "micro_to_deep",
+      "duration_min": 4,
+      "cooldown_days": 90
+    },
+    {
+      "day": 238,
+      "content_type": "thinker",
+      "content_id": "erving-goffman",
+      "title_pt": "Erving Goffman",
+      "hook_pt": "Goffman mostra que sociologia também pode começar numa conversa, numa fila ou numa sala.",
+      "mode": "micro_to_deep",
+      "duration_min": 4,
+      "cooldown_days": 90
+    },
+    {
+      "day": 239,
+      "content_type": "thinker",
+      "content_id": "w-e-b-du-bois",
+      "title_pt": "W. E. B. Du Bois",
+      "hook_pt": "Du Bois é uma ponte entre pesquisa de campo, estatística, história e teoria social.",
+      "mode": "micro_to_deep",
+      "duration_min": 4,
+      "cooldown_days": 90
+    },
+    {
+      "day": 240,
+      "content_type": "thinker",
+      "content_id": "robert-k-merton",
+      "title_pt": "Robert K. Merton",
+      "hook_pt": "Merton ajuda a pensar como uma instituição pode produzir efeitos pretendidos e não pretendidos.",
+      "mode": "micro_to_deep",
+      "duration_min": 4,
+      "cooldown_days": 90
+    },
+    {
+      "day": 241,
+      "content_type": "thinker",
+      "content_id": "karl-mannheim",
+      "title_pt": "Karl Mannheim",
+      "hook_pt": "Mannheim pergunta como o lugar social e histórico de alguém participa da produção das ideias.",
+      "mode": "micro_to_deep",
+      "duration_min": 4,
+      "cooldown_days": 90
+    },
+    {
+      "day": 242,
+      "content_type": "thinker",
+      "content_id": "alexis-de-tocqueville",
+      "title_pt": "Alexis de Tocqueville",
+      "hook_pt": "Tocqueville observa instituições e costumes juntos, mostrando que estruturas políticas também têm dimensões sociais.",
+      "mode": "micro_to_deep",
+      "duration_min": 4,
+      "cooldown_days": 90
+    },
+    {
+      "day": 243,
+      "content_type": "thinker",
+      "content_id": "isaac-newton",
+      "title_pt": "Isaac Newton",
+      "hook_pt": "Newton fora da fórmula: como um dos maiores matemáticos e físicos de seu período também dedicou enorme energia a questões religiosas, cronologia e profecia.",
+      "mode": "micro_to_deep",
+      "duration_min": 6,
+      "cooldown_days": 90
+    },
+    {
+      "day": 244,
+      "content_type": "thinker",
+      "content_id": "johannes-kepler",
+      "title_pt": "Johannes Kepler",
+      "hook_pt": "Kepler começou profissionalmente ligado à teologia e levou a geometria para o coração da investigação astronômica.",
+      "mode": "micro_to_deep",
+      "duration_min": 6,
+      "cooldown_days": 90
+    },
+    {
+      "day": 245,
+      "content_type": "thinker",
+      "content_id": "rene-descartes",
+      "title_pt": "René Descartes",
+      "hook_pt": "A geometria analítica tornou visível uma ponte histórica entre figura e equação.",
+      "mode": "micro_to_deep",
+      "duration_min": 4,
+      "cooldown_days": 90
+    },
+    {
+      "day": 246,
+      "content_type": "thinker",
+      "content_id": "blaise-pascal",
+      "title_pt": "Blaise Pascal",
+      "hook_pt": "Pascal une matemática de probabilidade a uma reflexão intensa sobre fé, razão e existência.",
+      "mode": "micro_to_deep",
+      "duration_min": 6,
+      "cooldown_days": 90
+    },
+    {
+      "day": 247,
+      "content_type": "thinker",
+      "content_id": "galileo-galilei",
+      "title_pt": "Galileu Galilei",
+      "hook_pt": "Galileu é uma ótima ponte para estudar simultaneamente movimento, astronomia e o debate histórico sobre ciência e interpretação bíblica.",
+      "mode": "micro_to_deep",
+      "duration_min": 4,
+      "cooldown_days": 90
+    },
+    {
+      "day": 248,
+      "content_type": "thinker",
+      "content_id": "robert-boyle",
+      "title_pt": "Robert Boyle",
+      "hook_pt": "Pressão e volume podem abrir uma janela para a história da química e para a ideia de teologia natural.",
+      "mode": "micro_to_deep",
+      "duration_min": 4,
+      "cooldown_days": 90
+    },
+    {
+      "day": 249,
+      "content_type": "thinker",
+      "content_id": "michael-faraday",
+      "title_pt": "Michael Faraday",
+      "hook_pt": "Faraday mostra como um tema de laboratório pode virar uma narrativa histórica sobre ciência e fé.",
+      "mode": "micro_to_deep",
+      "duration_min": 4,
+      "cooldown_days": 90
+    },
+    {
+      "day": 250,
+      "content_type": "thinker",
+      "content_id": "james-clerk-maxwell",
+      "title_pt": "James Clerk Maxwell",
+      "hook_pt": "Maxwell: quatro equações compactando uma enorme paisagem física.",
+      "mode": "micro_to_deep",
+      "duration_min": 4,
+      "cooldown_days": 90
+    },
+    {
+      "day": 251,
+      "content_type": "thinker",
+      "content_id": "georges-lemaitre",
+      "title_pt": "Georges Lemaître",
+      "hook_pt": "Lemaître é uma conexão elegante entre cosmologia matemática e história intelectual cristã.",
+      "mode": "micro_to_deep",
+      "duration_min": 4,
+      "cooldown_days": 90
+    },
+    {
+      "day": 252,
+      "content_type": "thinker",
+      "content_id": "gregor-mendel",
+      "title_pt": "Gregor Mendel",
+      "hook_pt": "Mendel transforma experimentos de jardim em padrões matemáticos de hereditariedade.",
+      "mode": "micro_to_deep",
+      "duration_min": 4,
+      "cooldown_days": 90
+    },
+    {
+      "day": 253,
+      "content_type": "thinker",
+      "content_id": "kurt-godel",
+      "title_pt": "Kurt Gödel",
+      "hook_pt": "Gödel: quando a própria matemática começou a perguntar pelos limites de seus sistemas.",
+      "mode": "micro_to_deep",
+      "duration_min": 4,
+      "cooldown_days": 90
+    },
+    {
+      "day": 254,
+      "content_type": "thinker",
+      "content_id": "karl-marx",
+      "title_pt": "Karl Marx",
+      "hook_pt": "Marx pode ser estudado como filósofo e pensador social: conceitos, argumentos, obras e críticas posteriores, sem transformar o estudo em propaganda.",
+      "mode": "micro_to_deep",
+      "duration_min": 6,
+      "cooldown_days": 90
+    },
+    {
+      "day": 255,
+      "content_type": "thinker",
+      "content_id": "max-weber",
+      "title_pt": "Max Weber",
+      "hook_pt": "Weber é uma porta para estudar como religião, economia, cultura e instituições podem ser analisadas sem reduzir a sociedade a uma única causa.",
+      "mode": "micro_to_deep",
+      "duration_min": 6,
+      "cooldown_days": 90
+    },
+    {
+      "day": 256,
+      "content_type": "thinker",
+      "content_id": "emile-durkheim",
+      "title_pt": "Émile Durkheim",
+      "hook_pt": "Durkheim ajuda a perceber como indivíduos vivem em redes de normas, instituições e formas de solidariedade.",
+      "mode": "micro_to_deep",
+      "duration_min": 4,
+      "cooldown_days": 90
+    },
+    {
+      "day": 257,
+      "content_type": "thinker",
+      "content_id": "auguste-comte",
+      "title_pt": "Auguste Comte",
+      "hook_pt": "Comte é útil para entender a história da própria palavra e do projeto de “sociologia”.",
+      "mode": "micro_to_deep",
+      "duration_min": 4,
+      "cooldown_days": 90
+    },
+    {
+      "day": 258,
+      "content_type": "thinker",
+      "content_id": "georg-simmel",
+      "title_pt": "Georg Simmel",
+      "hook_pt": "Simmel olha para a sociedade de perto: formas de interação, cidade, moda e dinheiro.",
+      "mode": "micro_to_deep",
+      "duration_min": 4,
+      "cooldown_days": 90
+    },
+    {
+      "day": 259,
+      "content_type": "thinker",
+      "content_id": "pierre-bourdieu",
+      "title_pt": "Pierre Bourdieu",
+      "hook_pt": "Bourdieu permite estudar como hábitos, instituições e recursos culturais se combinam na vida social.",
+      "mode": "micro_to_deep",
+      "duration_min": 4,
+      "cooldown_days": 90
+    },
+    {
+      "day": 260,
+      "content_type": "thinker",
+      "content_id": "erving-goffman",
+      "title_pt": "Erving Goffman",
+      "hook_pt": "Goffman mostra que sociologia também pode começar numa conversa, numa fila ou numa sala.",
+      "mode": "micro_to_deep",
+      "duration_min": 4,
+      "cooldown_days": 90
+    },
+    {
+      "day": 261,
+      "content_type": "thinker",
+      "content_id": "w-e-b-du-bois",
+      "title_pt": "W. E. B. Du Bois",
+      "hook_pt": "Du Bois é uma ponte entre pesquisa de campo, estatística, história e teoria social.",
+      "mode": "micro_to_deep",
+      "duration_min": 4,
+      "cooldown_days": 90
+    },
+    {
+      "day": 262,
+      "content_type": "thinker",
+      "content_id": "robert-k-merton",
+      "title_pt": "Robert K. Merton",
+      "hook_pt": "Merton ajuda a pensar como uma instituição pode produzir efeitos pretendidos e não pretendidos.",
+      "mode": "micro_to_deep",
+      "duration_min": 4,
+      "cooldown_days": 90
+    },
+    {
+      "day": 263,
+      "content_type": "thinker",
+      "content_id": "karl-mannheim",
+      "title_pt": "Karl Mannheim",
+      "hook_pt": "Mannheim pergunta como o lugar social e histórico de alguém participa da produção das ideias.",
+      "mode": "micro_to_deep",
+      "duration_min": 4,
+      "cooldown_days": 90
+    },
+    {
+      "day": 264,
+      "content_type": "thinker",
+      "content_id": "alexis-de-tocqueville",
+      "title_pt": "Alexis de Tocqueville",
+      "hook_pt": "Tocqueville observa instituições e costumes juntos, mostrando que estruturas políticas também têm dimensões sociais.",
+      "mode": "micro_to_deep",
+      "duration_min": 4,
+      "cooldown_days": 90
+    },
+    {
+      "day": 265,
+      "content_type": "thinker",
+      "content_id": "isaac-newton",
+      "title_pt": "Isaac Newton",
+      "hook_pt": "Newton fora da fórmula: como um dos maiores matemáticos e físicos de seu período também dedicou enorme energia a questões religiosas, cronologia e profecia.",
+      "mode": "micro_to_deep",
+      "duration_min": 6,
+      "cooldown_days": 90
+    },
+    {
+      "day": 266,
+      "content_type": "thinker",
+      "content_id": "johannes-kepler",
+      "title_pt": "Johannes Kepler",
+      "hook_pt": "Kepler começou profissionalmente ligado à teologia e levou a geometria para o coração da investigação astronômica.",
+      "mode": "micro_to_deep",
+      "duration_min": 6,
+      "cooldown_days": 90
+    },
+    {
+      "day": 267,
+      "content_type": "thinker",
+      "content_id": "rene-descartes",
+      "title_pt": "René Descartes",
+      "hook_pt": "A geometria analítica tornou visível uma ponte histórica entre figura e equação.",
+      "mode": "micro_to_deep",
+      "duration_min": 4,
+      "cooldown_days": 90
+    },
+    {
+      "day": 268,
+      "content_type": "thinker",
+      "content_id": "blaise-pascal",
+      "title_pt": "Blaise Pascal",
+      "hook_pt": "Pascal une matemática de probabilidade a uma reflexão intensa sobre fé, razão e existência.",
+      "mode": "micro_to_deep",
+      "duration_min": 6,
+      "cooldown_days": 90
+    },
+    {
+      "day": 269,
+      "content_type": "thinker",
+      "content_id": "galileo-galilei",
+      "title_pt": "Galileu Galilei",
+      "hook_pt": "Galileu é uma ótima ponte para estudar simultaneamente movimento, astronomia e o debate histórico sobre ciência e interpretação bíblica.",
+      "mode": "micro_to_deep",
+      "duration_min": 4,
+      "cooldown_days": 90
+    },
+    {
+      "day": 270,
+      "content_type": "thinker",
+      "content_id": "robert-boyle",
+      "title_pt": "Robert Boyle",
+      "hook_pt": "Pressão e volume podem abrir uma janela para a história da química e para a ideia de teologia natural.",
+      "mode": "micro_to_deep",
+      "duration_min": 4,
+      "cooldown_days": 90
+    },
+    {
+      "day": 271,
+      "content_type": "thinker",
+      "content_id": "michael-faraday",
+      "title_pt": "Michael Faraday",
+      "hook_pt": "Faraday mostra como um tema de laboratório pode virar uma narrativa histórica sobre ciência e fé.",
+      "mode": "micro_to_deep",
+      "duration_min": 4,
+      "cooldown_days": 90
+    },
+    {
+      "day": 272,
+      "content_type": "thinker",
+      "content_id": "james-clerk-maxwell",
+      "title_pt": "James Clerk Maxwell",
+      "hook_pt": "Maxwell: quatro equações compactando uma enorme paisagem física.",
+      "mode": "micro_to_deep",
+      "duration_min": 4,
+      "cooldown_days": 90
+    },
+    {
+      "day": 273,
+      "content_type": "thinker",
+      "content_id": "georges-lemaitre",
+      "title_pt": "Georges Lemaître",
+      "hook_pt": "Lemaître é uma conexão elegante entre cosmologia matemática e história intelectual cristã.",
+      "mode": "micro_to_deep",
+      "duration_min": 4,
+      "cooldown_days": 90
+    },
+    {
+      "day": 274,
+      "content_type": "thinker",
+      "content_id": "gregor-mendel",
+      "title_pt": "Gregor Mendel",
+      "hook_pt": "Mendel transforma experimentos de jardim em padrões matemáticos de hereditariedade.",
+      "mode": "micro_to_deep",
+      "duration_min": 4,
+      "cooldown_days": 90
+    },
+    {
+      "day": 275,
+      "content_type": "thinker",
+      "content_id": "kurt-godel",
+      "title_pt": "Kurt Gödel",
+      "hook_pt": "Gödel: quando a própria matemática começou a perguntar pelos limites de seus sistemas.",
+      "mode": "micro_to_deep",
+      "duration_min": 4,
+      "cooldown_days": 90
+    },
+    {
+      "day": 276,
+      "content_type": "thinker",
+      "content_id": "karl-marx",
+      "title_pt": "Karl Marx",
+      "hook_pt": "Marx pode ser estudado como filósofo e pensador social: conceitos, argumentos, obras e críticas posteriores, sem transformar o estudo em propaganda.",
+      "mode": "micro_to_deep",
+      "duration_min": 6,
+      "cooldown_days": 90
+    },
+    {
+      "day": 277,
+      "content_type": "thinker",
+      "content_id": "max-weber",
+      "title_pt": "Max Weber",
+      "hook_pt": "Weber é uma porta para estudar como religião, economia, cultura e instituições podem ser analisadas sem reduzir a sociedade a uma única causa.",
+      "mode": "micro_to_deep",
+      "duration_min": 6,
+      "cooldown_days": 90
+    },
+    {
+      "day": 278,
+      "content_type": "thinker",
+      "content_id": "emile-durkheim",
+      "title_pt": "Émile Durkheim",
+      "hook_pt": "Durkheim ajuda a perceber como indivíduos vivem em redes de normas, instituições e formas de solidariedade.",
+      "mode": "micro_to_deep",
+      "duration_min": 4,
+      "cooldown_days": 90
+    },
+    {
+      "day": 279,
+      "content_type": "thinker",
+      "content_id": "auguste-comte",
+      "title_pt": "Auguste Comte",
+      "hook_pt": "Comte é útil para entender a história da própria palavra e do projeto de “sociologia”.",
+      "mode": "micro_to_deep",
+      "duration_min": 4,
+      "cooldown_days": 90
+    },
+    {
+      "day": 280,
+      "content_type": "thinker",
+      "content_id": "georg-simmel",
+      "title_pt": "Georg Simmel",
+      "hook_pt": "Simmel olha para a sociedade de perto: formas de interação, cidade, moda e dinheiro.",
+      "mode": "micro_to_deep",
+      "duration_min": 4,
+      "cooldown_days": 90
+    },
+    {
+      "day": 281,
+      "content_type": "thinker",
+      "content_id": "pierre-bourdieu",
+      "title_pt": "Pierre Bourdieu",
+      "hook_pt": "Bourdieu permite estudar como hábitos, instituições e recursos culturais se combinam na vida social.",
+      "mode": "micro_to_deep",
+      "duration_min": 4,
+      "cooldown_days": 90
+    },
+    {
+      "day": 282,
+      "content_type": "thinker",
+      "content_id": "erving-goffman",
+      "title_pt": "Erving Goffman",
+      "hook_pt": "Goffman mostra que sociologia também pode começar numa conversa, numa fila ou numa sala.",
+      "mode": "micro_to_deep",
+      "duration_min": 4,
+      "cooldown_days": 90
+    },
+    {
+      "day": 283,
+      "content_type": "thinker",
+      "content_id": "w-e-b-du-bois",
+      "title_pt": "W. E. B. Du Bois",
+      "hook_pt": "Du Bois é uma ponte entre pesquisa de campo, estatística, história e teoria social.",
+      "mode": "micro_to_deep",
+      "duration_min": 4,
+      "cooldown_days": 90
+    },
+    {
+      "day": 284,
+      "content_type": "thinker",
+      "content_id": "robert-k-merton",
+      "title_pt": "Robert K. Merton",
+      "hook_pt": "Merton ajuda a pensar como uma instituição pode produzir efeitos pretendidos e não pretendidos.",
+      "mode": "micro_to_deep",
+      "duration_min": 4,
+      "cooldown_days": 90
+    },
+    {
+      "day": 285,
+      "content_type": "thinker",
+      "content_id": "karl-mannheim",
+      "title_pt": "Karl Mannheim",
+      "hook_pt": "Mannheim pergunta como o lugar social e histórico de alguém participa da produção das ideias.",
+      "mode": "micro_to_deep",
+      "duration_min": 4,
+      "cooldown_days": 90
+    },
+    {
+      "day": 286,
+      "content_type": "thinker",
+      "content_id": "alexis-de-tocqueville",
+      "title_pt": "Alexis de Tocqueville",
+      "hook_pt": "Tocqueville observa instituições e costumes juntos, mostrando que estruturas políticas também têm dimensões sociais.",
+      "mode": "micro_to_deep",
+      "duration_min": 4,
+      "cooldown_days": 90
+    },
+    {
+      "day": 287,
+      "content_type": "thinker",
+      "content_id": "isaac-newton",
+      "title_pt": "Isaac Newton",
+      "hook_pt": "Newton fora da fórmula: como um dos maiores matemáticos e físicos de seu período também dedicou enorme energia a questões religiosas, cronologia e profecia.",
+      "mode": "micro_to_deep",
+      "duration_min": 6,
+      "cooldown_days": 90
+    },
+    {
+      "day": 288,
+      "content_type": "thinker",
+      "content_id": "johannes-kepler",
+      "title_pt": "Johannes Kepler",
+      "hook_pt": "Kepler começou profissionalmente ligado à teologia e levou a geometria para o coração da investigação astronômica.",
+      "mode": "micro_to_deep",
+      "duration_min": 6,
+      "cooldown_days": 90
+    },
+    {
+      "day": 289,
+      "content_type": "thinker",
+      "content_id": "rene-descartes",
+      "title_pt": "René Descartes",
+      "hook_pt": "A geometria analítica tornou visível uma ponte histórica entre figura e equação.",
+      "mode": "micro_to_deep",
+      "duration_min": 4,
+      "cooldown_days": 90
+    },
+    {
+      "day": 290,
+      "content_type": "thinker",
+      "content_id": "blaise-pascal",
+      "title_pt": "Blaise Pascal",
+      "hook_pt": "Pascal une matemática de probabilidade a uma reflexão intensa sobre fé, razão e existência.",
+      "mode": "micro_to_deep",
+      "duration_min": 6,
+      "cooldown_days": 90
+    },
+    {
+      "day": 291,
+      "content_type": "thinker",
+      "content_id": "galileo-galilei",
+      "title_pt": "Galileu Galilei",
+      "hook_pt": "Galileu é uma ótima ponte para estudar simultaneamente movimento, astronomia e o debate histórico sobre ciência e interpretação bíblica.",
+      "mode": "micro_to_deep",
+      "duration_min": 4,
+      "cooldown_days": 90
+    },
+    {
+      "day": 292,
+      "content_type": "thinker",
+      "content_id": "robert-boyle",
+      "title_pt": "Robert Boyle",
+      "hook_pt": "Pressão e volume podem abrir uma janela para a história da química e para a ideia de teologia natural.",
+      "mode": "micro_to_deep",
+      "duration_min": 4,
+      "cooldown_days": 90
+    },
+    {
+      "day": 293,
+      "content_type": "thinker",
+      "content_id": "michael-faraday",
+      "title_pt": "Michael Faraday",
+      "hook_pt": "Faraday mostra como um tema de laboratório pode virar uma narrativa histórica sobre ciência e fé.",
+      "mode": "micro_to_deep",
+      "duration_min": 4,
+      "cooldown_days": 90
+    },
+    {
+      "day": 294,
+      "content_type": "thinker",
+      "content_id": "james-clerk-maxwell",
+      "title_pt": "James Clerk Maxwell",
+      "hook_pt": "Maxwell: quatro equações compactando uma enorme paisagem física.",
+      "mode": "micro_to_deep",
+      "duration_min": 4,
+      "cooldown_days": 90
+    },
+    {
+      "day": 295,
+      "content_type": "thinker",
+      "content_id": "georges-lemaitre",
+      "title_pt": "Georges Lemaître",
+      "hook_pt": "Lemaître é uma conexão elegante entre cosmologia matemática e história intelectual cristã.",
+      "mode": "micro_to_deep",
+      "duration_min": 4,
+      "cooldown_days": 90
+    },
+    {
+      "day": 296,
+      "content_type": "thinker",
+      "content_id": "gregor-mendel",
+      "title_pt": "Gregor Mendel",
+      "hook_pt": "Mendel transforma experimentos de jardim em padrões matemáticos de hereditariedade.",
+      "mode": "micro_to_deep",
+      "duration_min": 4,
+      "cooldown_days": 90
+    },
+    {
+      "day": 297,
+      "content_type": "thinker",
+      "content_id": "kurt-godel",
+      "title_pt": "Kurt Gödel",
+      "hook_pt": "Gödel: quando a própria matemática começou a perguntar pelos limites de seus sistemas.",
+      "mode": "micro_to_deep",
+      "duration_min": 4,
+      "cooldown_days": 90
+    },
+    {
+      "day": 298,
+      "content_type": "thinker",
+      "content_id": "karl-marx",
+      "title_pt": "Karl Marx",
+      "hook_pt": "Marx pode ser estudado como filósofo e pensador social: conceitos, argumentos, obras e críticas posteriores, sem transformar o estudo em propaganda.",
+      "mode": "micro_to_deep",
+      "duration_min": 6,
+      "cooldown_days": 90
+    },
+    {
+      "day": 299,
+      "content_type": "thinker",
+      "content_id": "max-weber",
+      "title_pt": "Max Weber",
+      "hook_pt": "Weber é uma porta para estudar como religião, economia, cultura e instituições podem ser analisadas sem reduzir a sociedade a uma única causa.",
+      "mode": "micro_to_deep",
+      "duration_min": 6,
+      "cooldown_days": 90
+    },
+    {
+      "day": 300,
+      "content_type": "thinker",
+      "content_id": "emile-durkheim",
+      "title_pt": "Émile Durkheim",
+      "hook_pt": "Durkheim ajuda a perceber como indivíduos vivem em redes de normas, instituições e formas de solidariedade.",
+      "mode": "micro_to_deep",
+      "duration_min": 4,
+      "cooldown_days": 90
+    },
+    {
+      "day": 301,
+      "content_type": "thinker",
+      "content_id": "auguste-comte",
+      "title_pt": "Auguste Comte",
+      "hook_pt": "Comte é útil para entender a história da própria palavra e do projeto de “sociologia”.",
+      "mode": "micro_to_deep",
+      "duration_min": 4,
+      "cooldown_days": 90
+    },
+    {
+      "day": 302,
+      "content_type": "thinker",
+      "content_id": "georg-simmel",
+      "title_pt": "Georg Simmel",
+      "hook_pt": "Simmel olha para a sociedade de perto: formas de interação, cidade, moda e dinheiro.",
+      "mode": "micro_to_deep",
+      "duration_min": 4,
+      "cooldown_days": 90
+    },
+    {
+      "day": 303,
+      "content_type": "thinker",
+      "content_id": "pierre-bourdieu",
+      "title_pt": "Pierre Bourdieu",
+      "hook_pt": "Bourdieu permite estudar como hábitos, instituições e recursos culturais se combinam na vida social.",
+      "mode": "micro_to_deep",
+      "duration_min": 4,
+      "cooldown_days": 90
+    },
+    {
+      "day": 304,
+      "content_type": "thinker",
+      "content_id": "erving-goffman",
+      "title_pt": "Erving Goffman",
+      "hook_pt": "Goffman mostra que sociologia também pode começar numa conversa, numa fila ou numa sala.",
+      "mode": "micro_to_deep",
+      "duration_min": 4,
+      "cooldown_days": 90
+    },
+    {
+      "day": 305,
+      "content_type": "thinker",
+      "content_id": "w-e-b-du-bois",
+      "title_pt": "W. E. B. Du Bois",
+      "hook_pt": "Du Bois é uma ponte entre pesquisa de campo, estatística, história e teoria social.",
+      "mode": "micro_to_deep",
+      "duration_min": 4,
+      "cooldown_days": 90
+    },
+    {
+      "day": 306,
+      "content_type": "thinker",
+      "content_id": "robert-k-merton",
+      "title_pt": "Robert K. Merton",
+      "hook_pt": "Merton ajuda a pensar como uma instituição pode produzir efeitos pretendidos e não pretendidos.",
+      "mode": "micro_to_deep",
+      "duration_min": 4,
+      "cooldown_days": 90
+    },
+    {
+      "day": 307,
+      "content_type": "thinker",
+      "content_id": "karl-mannheim",
+      "title_pt": "Karl Mannheim",
+      "hook_pt": "Mannheim pergunta como o lugar social e histórico de alguém participa da produção das ideias.",
+      "mode": "micro_to_deep",
+      "duration_min": 4,
+      "cooldown_days": 90
+    },
+    {
+      "day": 308,
+      "content_type": "thinker",
+      "content_id": "alexis-de-tocqueville",
+      "title_pt": "Alexis de Tocqueville",
+      "hook_pt": "Tocqueville observa instituições e costumes juntos, mostrando que estruturas políticas também têm dimensões sociais.",
+      "mode": "micro_to_deep",
+      "duration_min": 4,
+      "cooldown_days": 90
+    },
+    {
+      "day": 309,
+      "content_type": "thinker",
+      "content_id": "isaac-newton",
+      "title_pt": "Isaac Newton",
+      "hook_pt": "Newton fora da fórmula: como um dos maiores matemáticos e físicos de seu período também dedicou enorme energia a questões religiosas, cronologia e profecia.",
+      "mode": "micro_to_deep",
+      "duration_min": 6,
+      "cooldown_days": 90
+    },
+    {
+      "day": 310,
+      "content_type": "thinker",
+      "content_id": "johannes-kepler",
+      "title_pt": "Johannes Kepler",
+      "hook_pt": "Kepler começou profissionalmente ligado à teologia e levou a geometria para o coração da investigação astronômica.",
+      "mode": "micro_to_deep",
+      "duration_min": 6,
+      "cooldown_days": 90
+    },
+    {
+      "day": 311,
+      "content_type": "thinker",
+      "content_id": "rene-descartes",
+      "title_pt": "René Descartes",
+      "hook_pt": "A geometria analítica tornou visível uma ponte histórica entre figura e equação.",
+      "mode": "micro_to_deep",
+      "duration_min": 4,
+      "cooldown_days": 90
+    },
+    {
+      "day": 312,
+      "content_type": "thinker",
+      "content_id": "blaise-pascal",
+      "title_pt": "Blaise Pascal",
+      "hook_pt": "Pascal une matemática de probabilidade a uma reflexão intensa sobre fé, razão e existência.",
+      "mode": "micro_to_deep",
+      "duration_min": 6,
+      "cooldown_days": 90
+    },
+    {
+      "day": 313,
+      "content_type": "thinker",
+      "content_id": "galileo-galilei",
+      "title_pt": "Galileu Galilei",
+      "hook_pt": "Galileu é uma ótima ponte para estudar simultaneamente movimento, astronomia e o debate histórico sobre ciência e interpretação bíblica.",
+      "mode": "micro_to_deep",
+      "duration_min": 4,
+      "cooldown_days": 90
+    },
+    {
+      "day": 314,
+      "content_type": "thinker",
+      "content_id": "robert-boyle",
+      "title_pt": "Robert Boyle",
+      "hook_pt": "Pressão e volume podem abrir uma janela para a história da química e para a ideia de teologia natural.",
+      "mode": "micro_to_deep",
+      "duration_min": 4,
+      "cooldown_days": 90
+    },
+    {
+      "day": 315,
+      "content_type": "thinker",
+      "content_id": "michael-faraday",
+      "title_pt": "Michael Faraday",
+      "hook_pt": "Faraday mostra como um tema de laboratório pode virar uma narrativa histórica sobre ciência e fé.",
+      "mode": "micro_to_deep",
+      "duration_min": 4,
+      "cooldown_days": 90
+    },
+    {
+      "day": 316,
+      "content_type": "thinker",
+      "content_id": "james-clerk-maxwell",
+      "title_pt": "James Clerk Maxwell",
+      "hook_pt": "Maxwell: quatro equações compactando uma enorme paisagem física.",
+      "mode": "micro_to_deep",
+      "duration_min": 4,
+      "cooldown_days": 90
+    },
+    {
+      "day": 317,
+      "content_type": "thinker",
+      "content_id": "georges-lemaitre",
+      "title_pt": "Georges Lemaître",
+      "hook_pt": "Lemaître é uma conexão elegante entre cosmologia matemática e história intelectual cristã.",
+      "mode": "micro_to_deep",
+      "duration_min": 4,
+      "cooldown_days": 90
+    },
+    {
+      "day": 318,
+      "content_type": "thinker",
+      "content_id": "gregor-mendel",
+      "title_pt": "Gregor Mendel",
+      "hook_pt": "Mendel transforma experimentos de jardim em padrões matemáticos de hereditariedade.",
+      "mode": "micro_to_deep",
+      "duration_min": 4,
+      "cooldown_days": 90
+    },
+    {
+      "day": 319,
+      "content_type": "thinker",
+      "content_id": "kurt-godel",
+      "title_pt": "Kurt Gödel",
+      "hook_pt": "Gödel: quando a própria matemática começou a perguntar pelos limites de seus sistemas.",
+      "mode": "micro_to_deep",
+      "duration_min": 4,
+      "cooldown_days": 90
+    },
+    {
+      "day": 320,
+      "content_type": "thinker",
+      "content_id": "karl-marx",
+      "title_pt": "Karl Marx",
+      "hook_pt": "Marx pode ser estudado como filósofo e pensador social: conceitos, argumentos, obras e críticas posteriores, sem transformar o estudo em propaganda.",
+      "mode": "micro_to_deep",
+      "duration_min": 6,
+      "cooldown_days": 90
+    },
+    {
+      "day": 321,
+      "content_type": "thinker",
+      "content_id": "max-weber",
+      "title_pt": "Max Weber",
+      "hook_pt": "Weber é uma porta para estudar como religião, economia, cultura e instituições podem ser analisadas sem reduzir a sociedade a uma única causa.",
+      "mode": "micro_to_deep",
+      "duration_min": 6,
+      "cooldown_days": 90
+    },
+    {
+      "day": 322,
+      "content_type": "thinker",
+      "content_id": "emile-durkheim",
+      "title_pt": "Émile Durkheim",
+      "hook_pt": "Durkheim ajuda a perceber como indivíduos vivem em redes de normas, instituições e formas de solidariedade.",
+      "mode": "micro_to_deep",
+      "duration_min": 4,
+      "cooldown_days": 90
+    },
+    {
+      "day": 323,
+      "content_type": "thinker",
+      "content_id": "auguste-comte",
+      "title_pt": "Auguste Comte",
+      "hook_pt": "Comte é útil para entender a história da própria palavra e do projeto de “sociologia”.",
+      "mode": "micro_to_deep",
+      "duration_min": 4,
+      "cooldown_days": 90
+    },
+    {
+      "day": 324,
+      "content_type": "thinker",
+      "content_id": "georg-simmel",
+      "title_pt": "Georg Simmel",
+      "hook_pt": "Simmel olha para a sociedade de perto: formas de interação, cidade, moda e dinheiro.",
+      "mode": "micro_to_deep",
+      "duration_min": 4,
+      "cooldown_days": 90
+    },
+    {
+      "day": 325,
+      "content_type": "thinker",
+      "content_id": "pierre-bourdieu",
+      "title_pt": "Pierre Bourdieu",
+      "hook_pt": "Bourdieu permite estudar como hábitos, instituições e recursos culturais se combinam na vida social.",
+      "mode": "micro_to_deep",
+      "duration_min": 4,
+      "cooldown_days": 90
+    },
+    {
+      "day": 326,
+      "content_type": "thinker",
+      "content_id": "erving-goffman",
+      "title_pt": "Erving Goffman",
+      "hook_pt": "Goffman mostra que sociologia também pode começar numa conversa, numa fila ou numa sala.",
+      "mode": "micro_to_deep",
+      "duration_min": 4,
+      "cooldown_days": 90
+    },
+    {
+      "day": 327,
+      "content_type": "thinker",
+      "content_id": "w-e-b-du-bois",
+      "title_pt": "W. E. B. Du Bois",
+      "hook_pt": "Du Bois é uma ponte entre pesquisa de campo, estatística, história e teoria social.",
+      "mode": "micro_to_deep",
+      "duration_min": 4,
+      "cooldown_days": 90
+    },
+    {
+      "day": 328,
+      "content_type": "thinker",
+      "content_id": "robert-k-merton",
+      "title_pt": "Robert K. Merton",
+      "hook_pt": "Merton ajuda a pensar como uma instituição pode produzir efeitos pretendidos e não pretendidos.",
+      "mode": "micro_to_deep",
+      "duration_min": 4,
+      "cooldown_days": 90
+    },
+    {
+      "day": 329,
+      "content_type": "thinker",
+      "content_id": "karl-mannheim",
+      "title_pt": "Karl Mannheim",
+      "hook_pt": "Mannheim pergunta como o lugar social e histórico de alguém participa da produção das ideias.",
+      "mode": "micro_to_deep",
+      "duration_min": 4,
+      "cooldown_days": 90
+    },
+    {
+      "day": 330,
+      "content_type": "thinker",
+      "content_id": "alexis-de-tocqueville",
+      "title_pt": "Alexis de Tocqueville",
+      "hook_pt": "Tocqueville observa instituições e costumes juntos, mostrando que estruturas políticas também têm dimensões sociais.",
+      "mode": "micro_to_deep",
+      "duration_min": 4,
+      "cooldown_days": 90
+    },
+    {
+      "day": 331,
+      "content_type": "thinker",
+      "content_id": "isaac-newton",
+      "title_pt": "Isaac Newton",
+      "hook_pt": "Newton fora da fórmula: como um dos maiores matemáticos e físicos de seu período também dedicou enorme energia a questões religiosas, cronologia e profecia.",
+      "mode": "micro_to_deep",
+      "duration_min": 6,
+      "cooldown_days": 90
+    },
+    {
+      "day": 332,
+      "content_type": "thinker",
+      "content_id": "johannes-kepler",
+      "title_pt": "Johannes Kepler",
+      "hook_pt": "Kepler começou profissionalmente ligado à teologia e levou a geometria para o coração da investigação astronômica.",
+      "mode": "micro_to_deep",
+      "duration_min": 6,
+      "cooldown_days": 90
+    },
+    {
+      "day": 333,
+      "content_type": "thinker",
+      "content_id": "rene-descartes",
+      "title_pt": "René Descartes",
+      "hook_pt": "A geometria analítica tornou visível uma ponte histórica entre figura e equação.",
+      "mode": "micro_to_deep",
+      "duration_min": 4,
+      "cooldown_days": 90
+    },
+    {
+      "day": 334,
+      "content_type": "thinker",
+      "content_id": "blaise-pascal",
+      "title_pt": "Blaise Pascal",
+      "hook_pt": "Pascal une matemática de probabilidade a uma reflexão intensa sobre fé, razão e existência.",
+      "mode": "micro_to_deep",
+      "duration_min": 6,
+      "cooldown_days": 90
+    },
+    {
+      "day": 335,
+      "content_type": "thinker",
+      "content_id": "galileo-galilei",
+      "title_pt": "Galileu Galilei",
+      "hook_pt": "Galileu é uma ótima ponte para estudar simultaneamente movimento, astronomia e o debate histórico sobre ciência e interpretação bíblica.",
+      "mode": "micro_to_deep",
+      "duration_min": 4,
+      "cooldown_days": 90
+    },
+    {
+      "day": 336,
+      "content_type": "thinker",
+      "content_id": "robert-boyle",
+      "title_pt": "Robert Boyle",
+      "hook_pt": "Pressão e volume podem abrir uma janela para a história da química e para a ideia de teologia natural.",
+      "mode": "micro_to_deep",
+      "duration_min": 4,
+      "cooldown_days": 90
+    },
+    {
+      "day": 337,
+      "content_type": "thinker",
+      "content_id": "michael-faraday",
+      "title_pt": "Michael Faraday",
+      "hook_pt": "Faraday mostra como um tema de laboratório pode virar uma narrativa histórica sobre ciência e fé.",
+      "mode": "micro_to_deep",
+      "duration_min": 4,
+      "cooldown_days": 90
+    },
+    {
+      "day": 338,
+      "content_type": "thinker",
+      "content_id": "james-clerk-maxwell",
+      "title_pt": "James Clerk Maxwell",
+      "hook_pt": "Maxwell: quatro equações compactando uma enorme paisagem física.",
+      "mode": "micro_to_deep",
+      "duration_min": 4,
+      "cooldown_days": 90
+    },
+    {
+      "day": 339,
+      "content_type": "thinker",
+      "content_id": "georges-lemaitre",
+      "title_pt": "Georges Lemaître",
+      "hook_pt": "Lemaître é uma conexão elegante entre cosmologia matemática e história intelectual cristã.",
+      "mode": "micro_to_deep",
+      "duration_min": 4,
+      "cooldown_days": 90
+    },
+    {
+      "day": 340,
+      "content_type": "thinker",
+      "content_id": "gregor-mendel",
+      "title_pt": "Gregor Mendel",
+      "hook_pt": "Mendel transforma experimentos de jardim em padrões matemáticos de hereditariedade.",
+      "mode": "micro_to_deep",
+      "duration_min": 4,
+      "cooldown_days": 90
+    },
+    {
+      "day": 341,
+      "content_type": "thinker",
+      "content_id": "kurt-godel",
+      "title_pt": "Kurt Gödel",
+      "hook_pt": "Gödel: quando a própria matemática começou a perguntar pelos limites de seus sistemas.",
+      "mode": "micro_to_deep",
+      "duration_min": 4,
+      "cooldown_days": 90
+    },
+    {
+      "day": 342,
+      "content_type": "thinker",
+      "content_id": "karl-marx",
+      "title_pt": "Karl Marx",
+      "hook_pt": "Marx pode ser estudado como filósofo e pensador social: conceitos, argumentos, obras e críticas posteriores, sem transformar o estudo em propaganda.",
+      "mode": "micro_to_deep",
+      "duration_min": 6,
+      "cooldown_days": 90
+    },
+    {
+      "day": 343,
+      "content_type": "thinker",
+      "content_id": "max-weber",
+      "title_pt": "Max Weber",
+      "hook_pt": "Weber é uma porta para estudar como religião, economia, cultura e instituições podem ser analisadas sem reduzir a sociedade a uma única causa.",
+      "mode": "micro_to_deep",
+      "duration_min": 6,
+      "cooldown_days": 90
+    },
+    {
+      "day": 344,
+      "content_type": "thinker",
+      "content_id": "emile-durkheim",
+      "title_pt": "Émile Durkheim",
+      "hook_pt": "Durkheim ajuda a perceber como indivíduos vivem em redes de normas, instituições e formas de solidariedade.",
+      "mode": "micro_to_deep",
+      "duration_min": 4,
+      "cooldown_days": 90
+    },
+    {
+      "day": 345,
+      "content_type": "thinker",
+      "content_id": "auguste-comte",
+      "title_pt": "Auguste Comte",
+      "hook_pt": "Comte é útil para entender a história da própria palavra e do projeto de “sociologia”.",
+      "mode": "micro_to_deep",
+      "duration_min": 4,
+      "cooldown_days": 90
+    },
+    {
+      "day": 346,
+      "content_type": "thinker",
+      "content_id": "georg-simmel",
+      "title_pt": "Georg Simmel",
+      "hook_pt": "Simmel olha para a sociedade de perto: formas de interação, cidade, moda e dinheiro.",
+      "mode": "micro_to_deep",
+      "duration_min": 4,
+      "cooldown_days": 90
+    },
+    {
+      "day": 347,
+      "content_type": "thinker",
+      "content_id": "pierre-bourdieu",
+      "title_pt": "Pierre Bourdieu",
+      "hook_pt": "Bourdieu permite estudar como hábitos, instituições e recursos culturais se combinam na vida social.",
+      "mode": "micro_to_deep",
+      "duration_min": 4,
+      "cooldown_days": 90
+    },
+    {
+      "day": 348,
+      "content_type": "thinker",
+      "content_id": "erving-goffman",
+      "title_pt": "Erving Goffman",
+      "hook_pt": "Goffman mostra que sociologia também pode começar numa conversa, numa fila ou numa sala.",
+      "mode": "micro_to_deep",
+      "duration_min": 4,
+      "cooldown_days": 90
+    },
+    {
+      "day": 349,
+      "content_type": "thinker",
+      "content_id": "w-e-b-du-bois",
+      "title_pt": "W. E. B. Du Bois",
+      "hook_pt": "Du Bois é uma ponte entre pesquisa de campo, estatística, história e teoria social.",
+      "mode": "micro_to_deep",
+      "duration_min": 4,
+      "cooldown_days": 90
+    },
+    {
+      "day": 350,
+      "content_type": "thinker",
+      "content_id": "robert-k-merton",
+      "title_pt": "Robert K. Merton",
+      "hook_pt": "Merton ajuda a pensar como uma instituição pode produzir efeitos pretendidos e não pretendidos.",
+      "mode": "micro_to_deep",
+      "duration_min": 4,
+      "cooldown_days": 90
+    },
+    {
+      "day": 351,
+      "content_type": "thinker",
+      "content_id": "karl-mannheim",
+      "title_pt": "Karl Mannheim",
+      "hook_pt": "Mannheim pergunta como o lugar social e histórico de alguém participa da produção das ideias.",
+      "mode": "micro_to_deep",
+      "duration_min": 4,
+      "cooldown_days": 90
+    },
+    {
+      "day": 352,
+      "content_type": "thinker",
+      "content_id": "alexis-de-tocqueville",
+      "title_pt": "Alexis de Tocqueville",
+      "hook_pt": "Tocqueville observa instituições e costumes juntos, mostrando que estruturas políticas também têm dimensões sociais.",
+      "mode": "micro_to_deep",
+      "duration_min": 4,
+      "cooldown_days": 90
+    },
+    {
+      "day": 353,
+      "content_type": "thinker",
+      "content_id": "isaac-newton",
+      "title_pt": "Isaac Newton",
+      "hook_pt": "Newton fora da fórmula: como um dos maiores matemáticos e físicos de seu período também dedicou enorme energia a questões religiosas, cronologia e profecia.",
+      "mode": "micro_to_deep",
+      "duration_min": 6,
+      "cooldown_days": 90
+    },
+    {
+      "day": 354,
+      "content_type": "thinker",
+      "content_id": "johannes-kepler",
+      "title_pt": "Johannes Kepler",
+      "hook_pt": "Kepler começou profissionalmente ligado à teologia e levou a geometria para o coração da investigação astronômica.",
+      "mode": "micro_to_deep",
+      "duration_min": 6,
+      "cooldown_days": 90
+    },
+    {
+      "day": 355,
+      "content_type": "thinker",
+      "content_id": "rene-descartes",
+      "title_pt": "René Descartes",
+      "hook_pt": "A geometria analítica tornou visível uma ponte histórica entre figura e equação.",
+      "mode": "micro_to_deep",
+      "duration_min": 4,
+      "cooldown_days": 90
+    },
+    {
+      "day": 356,
+      "content_type": "thinker",
+      "content_id": "blaise-pascal",
+      "title_pt": "Blaise Pascal",
+      "hook_pt": "Pascal une matemática de probabilidade a uma reflexão intensa sobre fé, razão e existência.",
+      "mode": "micro_to_deep",
+      "duration_min": 6,
+      "cooldown_days": 90
+    },
+    {
+      "day": 357,
+      "content_type": "thinker",
+      "content_id": "galileo-galilei",
+      "title_pt": "Galileu Galilei",
+      "hook_pt": "Galileu é uma ótima ponte para estudar simultaneamente movimento, astronomia e o debate histórico sobre ciência e interpretação bíblica.",
+      "mode": "micro_to_deep",
+      "duration_min": 4,
+      "cooldown_days": 90
+    },
+    {
+      "day": 358,
+      "content_type": "thinker",
+      "content_id": "robert-boyle",
+      "title_pt": "Robert Boyle",
+      "hook_pt": "Pressão e volume podem abrir uma janela para a história da química e para a ideia de teologia natural.",
+      "mode": "micro_to_deep",
+      "duration_min": 4,
+      "cooldown_days": 90
+    },
+    {
+      "day": 359,
+      "content_type": "thinker",
+      "content_id": "michael-faraday",
+      "title_pt": "Michael Faraday",
+      "hook_pt": "Faraday mostra como um tema de laboratório pode virar uma narrativa histórica sobre ciência e fé.",
+      "mode": "micro_to_deep",
+      "duration_min": 4,
+      "cooldown_days": 90
+    },
+    {
+      "day": 360,
+      "content_type": "thinker",
+      "content_id": "james-clerk-maxwell",
+      "title_pt": "James Clerk Maxwell",
+      "hook_pt": "Maxwell: quatro equações compactando uma enorme paisagem física.",
+      "mode": "micro_to_deep",
+      "duration_min": 4,
+      "cooldown_days": 90
+    },
+    {
+      "day": 361,
+      "content_type": "thinker",
+      "content_id": "georges-lemaitre",
+      "title_pt": "Georges Lemaître",
+      "hook_pt": "Lemaître é uma conexão elegante entre cosmologia matemática e história intelectual cristã.",
+      "mode": "micro_to_deep",
+      "duration_min": 4,
+      "cooldown_days": 90
+    },
+    {
+      "day": 362,
+      "content_type": "thinker",
+      "content_id": "gregor-mendel",
+      "title_pt": "Gregor Mendel",
+      "hook_pt": "Mendel transforma experimentos de jardim em padrões matemáticos de hereditariedade.",
+      "mode": "micro_to_deep",
+      "duration_min": 4,
+      "cooldown_days": 90
+    },
+    {
+      "day": 363,
+      "content_type": "thinker",
+      "content_id": "kurt-godel",
+      "title_pt": "Kurt Gödel",
+      "hook_pt": "Gödel: quando a própria matemática começou a perguntar pelos limites de seus sistemas.",
+      "mode": "micro_to_deep",
+      "duration_min": 4,
+      "cooldown_days": 90
+    },
+    {
+      "day": 364,
+      "content_type": "thinker",
+      "content_id": "karl-marx",
+      "title_pt": "Karl Marx",
+      "hook_pt": "Marx pode ser estudado como filósofo e pensador social: conceitos, argumentos, obras e críticas posteriores, sem transformar o estudo em propaganda.",
+      "mode": "micro_to_deep",
+      "duration_min": 6,
+      "cooldown_days": 90
+    },
+    {
+      "day": 365,
+      "content_type": "thinker",
+      "content_id": "max-weber",
+      "title_pt": "Max Weber",
+      "hook_pt": "Weber é uma porta para estudar como religião, economia, cultura e instituições podem ser analisadas sem reduzir a sociedade a uma única causa.",
+      "mode": "micro_to_deep",
+      "duration_min": 6,
+      "cooldown_days": 90
+    }
+  ],
+  "rules": {
+    "no_repeat_before_days": 90,
+    "default_view": "curiosity",
+    "deep_view": "works+concepts+sources",
+    "all_ui_language": "pt-BR"
+  }
+}

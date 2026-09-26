@@ -1,0 +1,93 @@
+{
+  "schema_version": "7.0",
+  "language": "pt-BR",
+  "sections": [
+    {
+      "id": "provas",
+      "title_pt": "EEAR: questões, edital e revisão",
+      "data": [
+        "content/master/eear-cfs-question-bank-manifest-v5.json",
+        "content/master/eear-full-ingestion-status-v5.json"
+      ],
+      "status": "catalogo oficial + pipeline; extração integral depende de processamento real de cada PDF"
+    },
+    {
+      "id": "summaries",
+      "title_pt": "Resumo das 4 matérias",
+      "data": [
+        "content/v7/subject-summaries-v7.json"
+      ],
+      "status": "cobertura explícita do Anexo IV do CFS 2/2027"
+    },
+    {
+      "id": "bible",
+      "title_pt": "Bíblia e teologia comparada",
+      "data": [
+        "content/master/bible-books-66.json",
+        "content/master/bible-chapters-1189-manifest.json",
+        "content/master/bible-chapter-deep-study-queue.json"
+      ],
+      "status": "catálogo completo de livros/capítulos; estudos profundos são uma fila de produção e não devem ser fingidos como concluídos"
+    },
+    {
+      "id": "people",
+      "title_pt": "Pensadores, cientistas e teólogos",
+      "data": [
+        "content/v6/person-profiles-v6.json",
+        "content/v6/thinker-catalog-v5.json"
+      ],
+      "status": "182 perfis com nascimento/áreas/contexto + trilhas"
+    },
+    {
+      "id": "reading",
+      "title_pt": "Biblioteca",
+      "data": [
+        "content/v6/reading-corpus-extension-v6.json",
+        "content/master/reading-library-v5.json"
+      ],
+      "status": "obras catalogadas; texto integral apenas quando fonte/licença permitir"
+    },
+    {
+      "id": "biology",
+      "title_pt": "Biologia e ecologia",
+      "data": [
+        "content/v6/biology-ecology-curiosities-v6.json",
+        "content/v7/curiosities-v7.json",
+        "content/v6/bio-math-ecology-v6.json"
+      ],
+      "status": "curiosidades + modelos matemáticos + gráficos/mapas"
+    },
+    {
+      "id": "computing",
+      "title_pt": "Computação e matemática do mundo",
+      "data": [
+        "content/v7/computer-science-math-labs-v7.json"
+      ],
+      "status": "extensão cultural interativa"
+    },
+    {
+      "id": "markets",
+      "title_pt": "Mercados e bolsa",
+      "data": [
+        "content/v6/financial-market-labs-v6.json"
+      ],
+      "status": "educação de mercado; sem recomendação de investimento"
+    },
+    {
+      "id": "media",
+      "title_pt": "Imagens e mídia",
+      "data": [
+        "content/v7/media-registry-v7.json"
+      ],
+      "status": "proveniência registrada; licença do arquivo específico deve ser conferida"
+    },
+    {
+      "id": "ux",
+      "title_pt": "Sistema de experiência",
+      "data": [
+        "content/v7/ux-experience-system-v7.json"
+      ],
+      "status": "padrões UX/UI/inovação + acessibilidade + performance"
+    }
+  ]
+}

@@ -1,0 +1,109 @@
+{
+  "sources": [
+    {
+      "id": "eear",
+      "type": "oficial",
+      "title": "EEAR — CFS 2/2027",
+      "url": "https://ingresso.eear.fab.mil.br/SOO/editais/CFS%202%202027/ie.pdf",
+      "language": "pt-BR",
+      "rights": "fonte oficial; não redistribuir integralmente sem verificar termos"
+    },
+    {
+      "id": "eear-provas",
+      "type": "oficial",
+      "title": "EEAR — Provas anteriores",
+      "url": "https://ingresso.eear.fab.mil.br/SOO/home/provas_anteriores.php",
+      "language": "pt-BR",
+      "rights": "verificar termos de uso por material"
+    },
+    {
+      "id": "bibleproject-pt",
+      "type": "editorial_biblico",
+      "title": "BibleProject Português",
+      "url": "https://bibleproject.com/portuguese/",
+      "language": "pt-BR",
+      "rights": "usar como referência/embeds respeitando termos"
+    },
+    {
+      "id": "gutenberg-almeida-public-domain",
+      "type": "texto_biblico",
+      "title": "João Ferreira de Almeida — edição pública em domínio público (edição histórica)",
+      "url": "https://www.gutenberg.org/ebooks/62383",
+      "language": "pt-BR",
+      "rights": "verificar jurisdição da edição antes de redistribuição"
+    },
+    {
+      "id": "sefaria",
+      "type": "judaico",
+      "title": "Sefaria",
+      "url": "https://www.sefaria.org/",
+      "language": "he/en",
+      "rights": "verificar condições da API e conteúdo"
+    },
+    {
+      "id": "quran",
+      "type": "islamico",
+      "title": "Quran.com / Quran Foundation",
+      "url": "https://quran.com/",
+      "language": "pt-BR/other",
+      "rights": "verificar licença da tradução e uso da API"
+    },
+    {
+      "id": "sep",
+      "type": "academico",
+      "title": "Stanford Encyclopedia of Philosophy",
+      "url": "https://plato.stanford.edu/",
+      "language": "en",
+      "rights": "usar como fonte de pesquisa; produzir síntese própria em português"
+    },
+    {
+      "id": "opc-wcf",
+      "type": "protestante_reformado",
+      "title": "Westminster Confession of Faith",
+      "url": "https://opc.org/wcf.html",
+      "language": "en",
+      "rights": "fonte histórica; apresentar como tradição reformada, não como todo o protestantismo"
+    },
+    {
+      "id": "vatican-catechism",
+      "type": "catolico",
+      "title": "Catecismo da Igreja Católica",
+      "url": "https://www.vatican.va/content/catechism/en.html",
+      "language": "multi",
+      "rights": "usar como fonte comparativa; verificar termos de conteúdo"
+    },
+    {
+      "id": "oca",
+      "type": "ortodoxo",
+      "title": "Orthodox Church in America",
+      "url": "https://www.oca.org/",
+      "language": "en",
+      "rights": "usar como fonte comparativa; produzir síntese própria em português"
+    },
+    {
+      "id": "smithsonian-maya",
+      "type": "museu",
+      "title": "Smithsonian — Living Maya Time",
+      "url": "https://maya.nmai.si.edu/maya",
+      "language": "en",
+      "rights": "usar como fonte/mídia conforme termos"
+    },
+    {
+      "id": "smithsonian-quipu",
+      "type": "museu",
+      "title": "Smithsonian — Quipu",
+      "url": "https://www.si.edu/collections/snapshot/quipu",
+      "language": "en",
+      "rights": "imagens podem ter restrições; verificar item a item"
+    },
+    {
+      "id": "nasa",
+      "type": "ciencia",
+      "title": "NASA Image and Video Library",
+      "url": "https://images.nasa.gov/",
+      "language": "en",
+      "rights": "verificar Media Usage Guidelines e material de terceiros"
+    }
+  ],
+  "language_policy_pt": "Todo conteúdo editorial apresentado ao usuário deve ser escrito em português. O idioma original das fontes pode permanecer registrado apenas nos metadados."
+}

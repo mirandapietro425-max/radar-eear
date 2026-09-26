@@ -1,0 +1,115 @@
+{
+  "media": [
+    {
+      "id": "img-newton-portrait-commons",
+      "person_id": "isaac-newton",
+      "provider": "Wikimedia Commons / Picryl discovery",
+      "type": "portrait",
+      "source_url": "https://commons.wikimedia.org/wiki/Isaac_Newton",
+      "asset_url": "https://picryl.com/media/isaac-newton-by-james-thronill-after-sir-godfrey-kneller-f4db47",
+      "license_status": "verify at source",
+      "caption_pt": "Isaac Newton — retrato histórico",
+      "alt_pt": "Retrato histórico de Isaac Newton"
+    },
+    {
+      "id": "img-newton-manuscript",
+      "person_id": "isaac-newton",
+      "provider": "Newton Project",
+      "type": "manuscript",
+      "source_url": "https://www.newtonproject.ox.ac.uk/about-us/newton-project",
+      "asset_url": "https://www.newtonproject.ox.ac.uk/about-us/newton-project",
+      "license_status": "rights need item-level verification",
+      "caption_pt": "Manuscrito do corpus do Newton Project",
+      "alt_pt": "Página manuscrita do acervo de Isaac Newton"
+    },
+    {
+      "id": "img-marx-1875",
+      "person_id": "karl-marx",
+      "provider": "Wikimedia Commons",
+      "type": "portrait",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Karl_Marx_by_John_Jabez_Edwin_Mayall_1875_-_Restored.png",
+      "asset_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Karl_Marx_by_John_Jabez_Edwin_Mayall_1875_-_Restored.png",
+      "license_status": "Public Domain Mark on file page",
+      "caption_pt": "Karl Marx — retrato de 1875, versão restaurada",
+      "alt_pt": "Retrato de Karl Marx em 1875"
+    },
+    {
+      "id": "img-marx-portrait",
+      "person_id": "karl-marx",
+      "provider": "Wikimedia Commons",
+      "type": "portrait",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Karl_Marx_Portrait.jpg",
+      "asset_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Karl_Marx_Portrait.jpg",
+      "license_status": "Public Domain Mark on file page",
+      "caption_pt": "Karl Marx — retrato histórico",
+      "alt_pt": "Retrato histórico de Karl Marx"
+    },
+    {
+      "id": "img-weber-1918",
+      "person_id": "max-weber",
+      "provider": "Wikimedia Commons",
+      "type": "portrait",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Max_Weber,_1918.jpg",
+      "asset_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Max_Weber,_1918.jpg",
+      "license_status": "verify file page before production use",
+      "caption_pt": "Max Weber, 1918",
+      "alt_pt": "Fotografia em preto e branco de Max Weber em 1918"
+    },
+    {
+      "id": "img-pascal-versailles",
+      "person_id": "blaise-pascal",
+      "provider": "Wikimedia Commons",
+      "type": "portrait",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Blaise_Pascal_Versailles.JPG",
+      "asset_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Blaise_Pascal_Versailles.JPG",
+      "license_status": "verify file page before production use",
+      "caption_pt": "Blaise Pascal — retrato histórico",
+      "alt_pt": "Retrato de Blaise Pascal"
+    },
+    {
+      "id": "img-newton-1689-commons",
+      "person_id": "isaac-newton",
+      "provider": "Wikimedia Commons",
+      "type": "portrait",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Portrait_of_Sir_Isaac_Newton,_1689.jpg",
+      "asset_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Portrait_of_Sir_Isaac_Newton,_1689.jpg",
+      "license_status": "verify file page; historical artwork",
+      "caption_pt": "Retrato de Isaac Newton de 1689, por Godfrey Kneller",
+      "alt_pt": "Retrato histórico de Isaac Newton de 1689"
+    },
+    {
+      "id": "img-kepler-commons",
+      "person_id": "johannes-kepler",
+      "provider": "Wikimedia Commons",
+      "type": "portrait",
+      "source_url": "https://commons.wikimedia.org/wiki/File:JKepler.jpg",
+      "asset_url": "https://commons.wikimedia.org/wiki/Special:FilePath/JKepler.jpg",
+      "license_status": "verify file page; historical artwork",
+      "caption_pt": "Retrato histórico de Johannes Kepler",
+      "alt_pt": "Retrato de Johannes Kepler"
+    },
+    {
+      "id": "img-boyle-commons",
+      "person_id": "robert-boyle",
+      "provider": "Wikimedia Commons",
+      "type": "portrait",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Portrait_of_The_Honourable_Robert_Boyle_(1627_-_1691)_Wellcome_M0006615.jpg",
+      "asset_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Portrait_of_The_Honourable_Robert_Boyle_(1627_-_1691)_Wellcome_M0006615.jpg",
+      "license_status": "verify file page; Wellcome source",
+      "caption_pt": "Retrato histórico de Robert Boyle",
+      "alt_pt": "Retrato de Robert Boyle"
+    },
+    {
+      "id": "img-faraday-commons",
+      "person_id": "michael-faraday",
+      "provider": "Wikimedia Commons / Wellcome",
+      "type": "portrait",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Michael_Faraday._Photograph_by_Maull_%26_Polyblank._Wellcome_V0026348.jpg",
+      "asset_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Michael_Faraday._Photograph_by_Maull_%26_Polyblank._Wellcome_V0026348.jpg",
+      "license_status": "verify file page and Wellcome licence",
+      "caption_pt": "Michael Faraday — fotografia histórica",
+      "alt_pt": "Fotografia histórica de Michael Faraday"
+    }
+  ],
+  "policy": "Do not bundle media automatically unless item-level reuse rights are verified; prefer remote lazy-loading with attribution and fallback placeholders."
+}

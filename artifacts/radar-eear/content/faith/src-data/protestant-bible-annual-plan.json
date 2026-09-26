@@ -1,0 +1,3384 @@
+{
+  "days": [
+    {
+      "day": 1,
+      "references": [
+        "genesis 1",
+        "genesis 2",
+        "genesis 3",
+        "genesis 4"
+      ],
+      "type": "annual-protestant-reading"
+    },
+    {
+      "day": 2,
+      "references": [
+        "genesis 5",
+        "genesis 6",
+        "genesis 7",
+        "genesis 8"
+      ],
+      "type": "annual-protestant-reading"
+    },
+    {
+      "day": 3,
+      "references": [
+        "genesis 9",
+        "genesis 10",
+        "genesis 11",
+        "genesis 12"
+      ],
+      "type": "annual-protestant-reading"
+    },
+    {
+      "day": 4,
+      "references": [
+        "genesis 13",
+        "genesis 14",
+        "genesis 15",
+        "genesis 16"
+      ],
+      "type": "annual-protestant-reading"
+    },
+    {
+      "day": 5,
+      "references": [
+        "genesis 17",
+        "genesis 18",
+        "genesis 19",
+        "genesis 20"
+      ],
+      "type": "annual-protestant-reading"
+    },
+    {
+      "day": 6,
+      "references": [
+        "genesis 21",
+        "genesis 22",
+        "genesis 23",
+        "genesis 24"
+      ],
+      "type": "annual-protestant-reading"
+    },
+    {
+      "day": 7,
+      "references": [
+        "genesis 25",
+        "genesis 26",
+        "genesis 27",
+        "genesis 28"
+      ],
+      "type": "annual-protestant-reading"
+    },
+    {
+      "day": 8,
+      "references": [
+        "genesis 29",
+        "genesis 30",
+        "genesis 31",
+        "genesis 32"
+      ],
+      "type": "annual-protestant-reading"
+    },
+    {
+      "day": 9,
+      "references": [
+        "genesis 33",
+        "genesis 34",
+        "genesis 35",
+        "genesis 36"
+      ],
+      "type": "annual-protestant-reading"
+    },
+    {
+      "day": 10,
+      "references": [
+        "genesis 37",
+        "genesis 38",
+        "genesis 39",
+        "genesis 40"
+      ],
+      "type": "annual-protestant-reading"
+    },
+    {
+      "day": 11,
+      "references": [
+        "genesis 41",
+        "genesis 42",
+        "genesis 43",
+        "genesis 44"
+      ],
+      "type": "annual-protestant-reading"
+    },
+    {
+      "day": 12,
+      "references": [
+        "genesis 45",
+        "genesis 46",
+        "genesis 47",
+        "genesis 48"
+      ],
+      "type": "annual-protestant-reading"
+    },
+    {
+      "day": 13,
+      "references": [
+        "genesis 49",
+        "genesis 50",
+        "exodus 1",
+        "exodus 2"
+      ],
+      "type": "annual-protestant-reading"
+    },
+    {
+      "day": 14,
+      "references": [
+        "exodus 3",
+        "exodus 4",
+        "exodus 5",
+        "exodus 6"
+      ],
+      "type": "annual-protestant-reading"
+    },
+    {
+      "day": 15,
+      "references": [
+        "exodus 7",
+        "exodus 8",
+        "exodus 9",
+        "exodus 10"
+      ],
+      "type": "annual-protestant-reading"
+    },
+    {
+      "day": 16,
+      "references": [
+        "exodus 11",
+        "exodus 12",
+        "exodus 13",
+        "exodus 14"
+      ],
+      "type": "annual-protestant-reading"
+    },
+    {
+      "day": 17,
+      "references": [
+        "exodus 15",
+        "exodus 16",
+        "exodus 17",
+        "exodus 18"
+      ],
+      "type": "annual-protestant-reading"
+    },
+    {
+      "day": 18,
+      "references": [
+        "exodus 19",
+        "exodus 20",
+        "exodus 21",
+        "exodus 22"
+      ],
+      "type": "annual-protestant-reading"
+    },
+    {
+      "day": 19,
+      "references": [
+        "exodus 23",
+        "exodus 24",
+        "exodus 25",
+        "exodus 26"
+      ],
+      "type": "annual-protestant-reading"
+    },
+    {
+      "day": 20,
+      "references": [
+        "exodus 27",
+        "exodus 28",
+        "exodus 29",
+        "exodus 30"
+      ],
+      "type": "annual-protestant-reading"
+    },
+    {
+      "day": 21,
+      "references": [
+        "exodus 31",
+        "exodus 32",
+        "exodus 33",
+        "exodus 34"
+      ],
+      "type": "annual-protestant-reading"
+    },
+    {
+      "day": 22,
+      "references": [
+        "exodus 35",
+        "exodus 36",
+        "exodus 37",
+        "exodus 38"
+      ],
+      "type": "annual-protestant-reading"
+    },
+    {
+      "day": 23,
+      "references": [
+        "exodus 39",
+        "exodus 40",
+        "leviticus 1",
+        "leviticus 2"
+      ],
+      "type": "annual-protestant-reading"
+    },
+    {
+      "day": 24,
+      "references": [
+        "leviticus 3",
+        "leviticus 4",
+        "leviticus 5",
+        "leviticus 6"
+      ],
+      "type": "annual-protestant-reading"
+    },
+    {
+      "day": 25,
+      "references": [
+        "leviticus 7",
+        "leviticus 8",
+        "leviticus 9",
+        "leviticus 10"
+      ],
+      "type": "annual-protestant-reading"
+    },
+    {
+      "day": 26,
+      "references": [
+        "leviticus 11",
+        "leviticus 12",
+        "leviticus 13",
+        "leviticus 14"
+      ],
+      "type": "annual-protestant-reading"
+    },
+    {
+      "day": 27,
+      "references": [
+        "leviticus 15",
+        "leviticus 16",
+        "leviticus 17",
+        "leviticus 18"
+      ],
+      "type": "annual-protestant-reading"
+    },
+    {
+      "day": 28,
+      "references": [
+        "leviticus 19",
+        "leviticus 20",
+        "leviticus 21",
+        "leviticus 22"
+      ],
+      "type": "annual-protestant-reading"
+    },
+    {
+      "day": 29,
+      "references": [
+        "leviticus 23",
+        "leviticus 24",
+        "leviticus 25",
+        "leviticus 26"
+      ],
+      "type": "annual-protestant-reading"
+    },
+    {
+      "day": 30,
+      "references": [
+        "leviticus 27",
+        "numbers 1",
+        "numbers 2",
+        "numbers 3"
+      ],
+      "type": "annual-protestant-reading"
+    },
+    {
+      "day": 31,
+      "references": [
+        "numbers 4",
+        "numbers 5",
+        "numbers 6",
+        "numbers 7"
+      ],
+      "type": "annual-protestant-reading"
+    },
+    {
+      "day": 32,
+      "references": [
+        "numbers 8",
+        "numbers 9",
+        "numbers 10",
+        "numbers 11"
+      ],
+      "type": "annual-protestant-reading"
+    },
+    {
+      "day": 33,
+      "references": [
+        "numbers 12",
+        "numbers 13",
+        "numbers 14",
+        "numbers 15"
+      ],
+      "type": "annual-protestant-reading"
+    },
+    {
+      "day": 34,
+      "references": [
+        "numbers 16",
+        "numbers 17",
+        "numbers 18",
+        "numbers 19"
+      ],
+      "type": "annual-protestant-reading"
+    },
+    {
+      "day": 35,
+      "references": [
+        "numbers 20",
+        "numbers 21",
+        "numbers 22",
+        "numbers 23"
+      ],
+      "type": "annual-protestant-reading"
+    },
+    {
+      "day": 36,
+      "references": [
+        "numbers 24",
+        "numbers 25",
+        "numbers 26",
+        "numbers 27"
+      ],
+      "type": "annual-protestant-reading"
+    },
+    {
+      "day": 37,
+      "references": [
+        "numbers 28",
+        "numbers 29",
+        "numbers 30",
+        "numbers 31"
+      ],
+      "type": "annual-protestant-reading"
+    },
+    {
+      "day": 38,
+      "references": [
+        "numbers 32",
+        "numbers 33",
+        "numbers 34",
+        "numbers 35"
+      ],
+      "type": "annual-protestant-reading"
+    },
+    {
+      "day": 39,
+      "references": [
+        "numbers 36",
+        "deuteronomy 1",
+        "deuteronomy 2",
+        "deuteronomy 3"
+      ],
+      "type": "annual-protestant-reading"
+    },
+    {
+      "day": 40,
+      "references": [
+        "deuteronomy 4",
+        "deuteronomy 5",
+        "deuteronomy 6",
+        "deuteronomy 7"
+      ],
+      "type": "annual-protestant-reading"
+    },
+    {
+      "day": 41,
+      "references": [
+        "deuteronomy 8",
+        "deuteronomy 9",
+        "deuteronomy 10",
+        "deuteronomy 11"
+      ],
+      "type": "annual-protestant-reading"
+    },
+    {
+      "day": 42,
+      "references": [
+        "deuteronomy 12",
+        "deuteronomy 13",
+        "deuteronomy 14",
+        "deuteronomy 15"
+      ],
+      "type": "annual-protestant-reading"
+    },
+    {
+      "day": 43,
+      "references": [
+        "deuteronomy 16",
+        "deuteronomy 17",
+        "deuteronomy 18",
+        "deuteronomy 19"
+      ],
+      "type": "annual-protestant-reading"
+    },
+    {
+      "day": 44,
+      "references": [
+        "deuteronomy 20",
+        "deuteronomy 21",
+        "deuteronomy 22",
+        "deuteronomy 23"
+      ],
+      "type": "annual-protestant-reading"
+    },
+    {
+      "day": 45,
+      "references": [
+        "deuteronomy 24",
+        "deuteronomy 25",
+        "deuteronomy 26",
+        "deuteronomy 27"
+      ],
+      "type": "annual-protestant-reading"
+    },
+    {
+      "day": 46,
+      "references": [
+        "deuteronomy 28",
+        "deuteronomy 29",
+        "deuteronomy 30",
+        "deuteronomy 31"
+      ],
+      "type": "annual-protestant-reading"
+    },
+    {
+      "day": 47,
+      "references": [
+        "deuteronomy 32",
+        "deuteronomy 33",
+        "deuteronomy 34",
+        "joshua 1"
+      ],
+      "type": "annual-protestant-reading"
+    },
+    {
+      "day": 48,
+      "references": [
+        "joshua 2",
+        "joshua 3",
+        "joshua 4",
+        "joshua 5"
+      ],
+      "type": "annual-protestant-reading"
+    },
+    {
+      "day": 49,
+      "references": [
+        "joshua 6",
+        "joshua 7",
+        "joshua 8",
+        "joshua 9"
+      ],
+      "type": "annual-protestant-reading"
+    },
+    {
+      "day": 50,
+      "references": [
+        "joshua 10",
+        "joshua 11",
+        "joshua 12",
+        "joshua 13"
+      ],
+      "type": "annual-protestant-reading"
+    },
+    {
+      "day": 51,
+      "references": [
+        "joshua 14",
+        "joshua 15",
+        "joshua 16",
+        "joshua 17"
+      ],
+      "type": "annual-protestant-reading"
+    },
+    {
+      "day": 52,
+      "references": [
+        "joshua 18",
+        "joshua 19",
+        "joshua 20",
+        "joshua 21"
+      ],
+      "type": "annual-protestant-reading"
+    },
+    {
+      "day": 53,
+      "references": [
+        "joshua 22",
+        "joshua 23",
+        "joshua 24",
+        "judges 1"
+      ],
+      "type": "annual-protestant-reading"
+    },
+    {
+      "day": 54,
+      "references": [
+        "judges 2",
+        "judges 3",
+        "judges 4",
+        "judges 5"
+      ],
+      "type": "annual-protestant-reading"
+    },
+    {
+      "day": 55,
+      "references": [
+        "judges 6",
+        "judges 7",
+        "judges 8",
+        "judges 9"
+      ],
+      "type": "annual-protestant-reading"
+    },
+    {
+      "day": 56,
+      "references": [
+        "judges 10",
+        "judges 11",
+        "judges 12",
+        "judges 13"
+      ],
+      "type": "annual-protestant-reading"
+    },
+    {
+      "day": 57,
+      "references": [
+        "judges 14",
+        "judges 15",
+        "judges 16",
+        "judges 17"
+      ],
+      "type": "annual-protestant-reading"
+    },
+    {
+      "day": 58,
+      "references": [
+        "judges 18",
+        "judges 19",
+        "judges 20",
+        "judges 21"
+      ],
+      "type": "annual-protestant-reading"
+    },
+    {
+      "day": 59,
+      "references": [
+        "ruth 1",
+        "ruth 2",
+        "ruth 3",
+        "ruth 4"
+      ],
+      "type": "annual-protestant-reading"
+    },
+    {
+      "day": 60,
+      "references": [
+        "1-samuel 1",
+        "1-samuel 2",
+        "1-samuel 3",
+        "1-samuel 4"
+      ],
+      "type": "annual-protestant-reading"
+    },
+    {
+      "day": 61,
+      "references": [
+        "1-samuel 5",
+        "1-samuel 6",
+        "1-samuel 7",
+        "1-samuel 8"
+      ],
+      "type": "annual-protestant-reading"
+    },
+    {
+      "day": 62,
+      "references": [
+        "1-samuel 9",
+        "1-samuel 10",
+        "1-samuel 11",
+        "1-samuel 12"
+      ],
+      "type": "annual-protestant-reading"
+    },
+    {
+      "day": 63,
+      "references": [
+        "1-samuel 13",
+        "1-samuel 14",
+        "1-samuel 15",
+        "1-samuel 16"
+      ],
+      "type": "annual-protestant-reading"
+    },
+    {
+      "day": 64,
+      "references": [
+        "1-samuel 17",
+        "1-samuel 18",
+        "1-samuel 19",
+        "1-samuel 20"
+      ],
+      "type": "annual-protestant-reading"
+    },
+    {
+      "day": 65,
+      "references": [
+        "1-samuel 21",
+        "1-samuel 22",
+        "1-samuel 23",
+        "1-samuel 24"
+      ],
+      "type": "annual-protestant-reading"
+    },
+    {
+      "day": 66,
+      "references": [
+        "1-samuel 25",
+        "1-samuel 26",
+        "1-samuel 27",
+        "1-samuel 28"
+      ],
+      "type": "annual-protestant-reading"
+    },
+    {
+      "day": 67,
+      "references": [
+        "1-samuel 29",
+        "1-samuel 30",
+        "1-samuel 31",
+        "2-samuel 1"
+      ],
+      "type": "annual-protestant-reading"
+    },
+    {
+      "day": 68,
+      "references": [
+        "2-samuel 2",
+        "2-samuel 3",
+        "2-samuel 4",
+        "2-samuel 5"
+      ],
+      "type": "annual-protestant-reading"
+    },
+    {
+      "day": 69,
+      "references": [
+        "2-samuel 6",
+        "2-samuel 7",
+        "2-samuel 8",
+        "2-samuel 9"
+      ],
+      "type": "annual-protestant-reading"
+    },
+    {
+      "day": 70,
+      "references": [
+        "2-samuel 10",
+        "2-samuel 11",
+        "2-samuel 12",
+        "2-samuel 13"
+      ],
+      "type": "annual-protestant-reading"
+    },
+    {
+      "day": 71,
+      "references": [
+        "2-samuel 14",
+        "2-samuel 15",
+        "2-samuel 16",
+        "2-samuel 17"
+      ],
+      "type": "annual-protestant-reading"
+    },
+    {
+      "day": 72,
+      "references": [
+        "2-samuel 18",
+        "2-samuel 19",
+        "2-samuel 20",
+        "2-samuel 21"
+      ],
+      "type": "annual-protestant-reading"
+    },
+    {
+      "day": 73,
+      "references": [
+        "2-samuel 22",
+        "2-samuel 23",
+        "2-samuel 24",
+        "1-kings 1"
+      ],
+      "type": "annual-protestant-reading"
+    },
+    {
+      "day": 74,
+      "references": [
+        "1-kings 2",
+        "1-kings 3",
+        "1-kings 4",
+        "1-kings 5"
+      ],
+      "type": "annual-protestant-reading"
+    },
+    {
+      "day": 75,
+      "references": [
+        "1-kings 6",
+        "1-kings 7",
+        "1-kings 8",
+        "1-kings 9"
+      ],
+      "type": "annual-protestant-reading"
+    },
+    {
+      "day": 76,
+      "references": [
+        "1-kings 10",
+        "1-kings 11",
+        "1-kings 12",
+        "1-kings 13"
+      ],
+      "type": "annual-protestant-reading"
+    },
+    {
+      "day": 77,
+      "references": [
+        "1-kings 14",
+        "1-kings 15",
+        "1-kings 16",
+        "1-kings 17"
+      ],
+      "type": "annual-protestant-reading"
+    },
+    {
+      "day": 78,
+      "references": [
+        "1-kings 18",
+        "1-kings 19",
+        "1-kings 20",
+        "1-kings 21"
+      ],
+      "type": "annual-protestant-reading"
+    },
+    {
+      "day": 79,
+      "references": [
+        "1-kings 22",
+        "2-kings 1",
+        "2-kings 2",
+        "2-kings 3"
+      ],
+      "type": "annual-protestant-reading"
+    },
+    {
+      "day": 80,
+      "references": [
+        "2-kings 4",
+        "2-kings 5",
+        "2-kings 6",
+        "2-kings 7"
+      ],
+      "type": "annual-protestant-reading"
+    },
+    {
+      "day": 81,
+      "references": [
+        "2-kings 8",
+        "2-kings 9",
+        "2-kings 10",
+        "2-kings 11"
+      ],
+      "type": "annual-protestant-reading"
+    },
+    {
+      "day": 82,
+      "references": [
+        "2-kings 12",
+        "2-kings 13",
+        "2-kings 14",
+        "2-kings 15"
+      ],
+      "type": "annual-protestant-reading"
+    },
+    {
+      "day": 83,
+      "references": [
+        "2-kings 16",
+        "2-kings 17",
+        "2-kings 18",
+        "2-kings 19"
+      ],
+      "type": "annual-protestant-reading"
+    },
+    {
+      "day": 84,
+      "references": [
+        "2-kings 20",
+        "2-kings 21",
+        "2-kings 22",
+        "2-kings 23"
+      ],
+      "type": "annual-protestant-reading"
+    },
+    {
+      "day": 85,
+      "references": [
+        "2-kings 24",
+        "2-kings 25",
+        "1-chronicles 1",
+        "1-chronicles 2"
+      ],
+      "type": "annual-protestant-reading"
+    },
+    {
+      "day": 86,
+      "references": [
+        "1-chronicles 3",
+        "1-chronicles 4",
+        "1-chronicles 5",
+        "1-chronicles 6"
+      ],
+      "type": "annual-protestant-reading"
+    },
+    {
+      "day": 87,
+      "references": [
+        "1-chronicles 7",
+        "1-chronicles 8",
+        "1-chronicles 9",
+        "1-chronicles 10"
+      ],
+      "type": "annual-protestant-reading"
+    },
+    {
+      "day": 88,
+      "references": [
+        "1-chronicles 11",
+        "1-chronicles 12",
+        "1-chronicles 13",
+        "1-chronicles 14"
+      ],
+      "type": "annual-protestant-reading"
+    },
+    {
+      "day": 89,
+      "references": [
+        "1-chronicles 15",
+        "1-chronicles 16",
+        "1-chronicles 17",
+        "1-chronicles 18"
+      ],
+      "type": "annual-protestant-reading"
+    },
+    {
+      "day": 90,
+      "references": [
+        "1-chronicles 19",
+        "1-chronicles 20",
+        "1-chronicles 21",
+        "1-chronicles 22"
+      ],
+      "type": "annual-protestant-reading"
+    },
+    {
+      "day": 91,
+      "references": [
+        "1-chronicles 23",
+        "1-chronicles 24",
+        "1-chronicles 25",
+        "1-chronicles 26"
+      ],
+      "type": "annual-protestant-reading"
+    },
+    {
+      "day": 92,
+      "references": [
+        "1-chronicles 27",
+        "1-chronicles 28",
+        "1-chronicles 29",
+        "2-chronicles 1"
+      ],
+      "type": "annual-protestant-reading"
+    },
+    {
+      "day": 93,
+      "references": [
+        "2-chronicles 2",
+        "2-chronicles 3",
+        "2-chronicles 4",
+        "2-chronicles 5"
+      ],
+      "type": "annual-protestant-reading"
+    },
+    {
+      "day": 94,
+      "references": [
+        "2-chronicles 6",
+        "2-chronicles 7",
+        "2-chronicles 8",
+        "2-chronicles 9"
+      ],
+      "type": "annual-protestant-reading"
+    },
+    {
+      "day": 95,
+      "references": [
+        "2-chronicles 10",
+        "2-chronicles 11",
+        "2-chronicles 12"
+      ],
+      "type": "annual-protestant-reading"
+    },
+    {
+      "day": 96,
+      "references": [
+        "2-chronicles 13",
+        "2-chronicles 14",
+        "2-chronicles 15"
+      ],
+      "type": "annual-protestant-reading"
+    },
+    {
+      "day": 97,
+      "references": [
+        "2-chronicles 16",
+        "2-chronicles 17",
+        "2-chronicles 18"
+      ],
+      "type": "annual-protestant-reading"
+    },
+    {
+      "day": 98,
+      "references": [
+        "2-chronicles 19",
+        "2-chronicles 20",
+        "2-chronicles 21"
+      ],
+      "type": "annual-protestant-reading"
+    },
+    {
+      "day": 99,
+      "references": [
+        "2-chronicles 22",
+        "2-chronicles 23",
+        "2-chronicles 24"
+      ],
+      "type": "annual-protestant-reading"
+    },
+    {
+      "day": 100,
+      "references": [
+        "2-chronicles 25",
+        "2-chronicles 26",
+        "2-chronicles 27"
+      ],
+      "type": "annual-protestant-reading"
+    },
+    {
+      "day": 101,
+      "references": [
+        "2-chronicles 28",
+        "2-chronicles 29",
+        "2-chronicles 30"
+      ],
+      "type": "annual-protestant-reading"
+    },
+    {
+      "day": 102,
+      "references": [
+        "2-chronicles 31",
+        "2-chronicles 32",
+        "2-chronicles 33"
+      ],
+      "type": "annual-protestant-reading"
+    },
+    {
+      "day": 103,
+      "references": [
+        "2-chronicles 34",
+        "2-chronicles 35",
+        "2-chronicles 36"
+      ],
+      "type": "annual-protestant-reading"
+    },
+    {
+      "day": 104,
+      "references": [
+        "ezra 1",
+        "ezra 2",
+        "ezra 3"
+      ],
+      "type": "annual-protestant-reading"
+    },
+    {
+      "day": 105,
+      "references": [
+        "ezra 4",
+        "ezra 5",
+        "ezra 6"
+      ],
+      "type": "annual-protestant-reading"
+    },
+    {
+      "day": 106,
+      "references": [
+        "ezra 7",
+        "ezra 8",
+        "ezra 9"
+      ],
+      "type": "annual-protestant-reading"
+    },
+    {
+      "day": 107,
+      "references": [
+        "ezra 10",
+        "nehemiah 1",
+        "nehemiah 2"
+      ],
+      "type": "annual-protestant-reading"
+    },
+    {
+      "day": 108,
+      "references": [
+        "nehemiah 3",
+        "nehemiah 4",
+        "nehemiah 5"
+      ],
+      "type": "annual-protestant-reading"
+    },
+    {
+      "day": 109,
+      "references": [
+        "nehemiah 6",
+        "nehemiah 7",
+        "nehemiah 8"
+      ],
+      "type": "annual-protestant-reading"
+    },
+    {
+      "day": 110,
+      "references": [
+        "nehemiah 9",
+        "nehemiah 10",
+        "nehemiah 11"
+      ],
+      "type": "annual-protestant-reading"
+    },
+    {
+      "day": 111,
+      "references": [
+        "nehemiah 12",
+        "nehemiah 13",
+        "esther 1"
+      ],
+      "type": "annual-protestant-reading"
+    },
+    {
+      "day": 112,
+      "references": [
+        "esther 2",
+        "esther 3",
+        "esther 4"
+      ],
+      "type": "annual-protestant-reading"
+    },
+    {
+      "day": 113,
+      "references": [
+        "esther 5",
+        "esther 6",
+        "esther 7"
+      ],
+      "type": "annual-protestant-reading"
+    },
+    {
+      "day": 114,
+      "references": [
+        "esther 8",
+        "esther 9",
+        "esther 10"
+      ],
+      "type": "annual-protestant-reading"
+    },
+    {
+      "day": 115,
+      "references": [
+        "job 1",
+        "job 2",
+        "job 3"
+      ],
+      "type": "annual-protestant-reading"
+    },
+    {
+      "day": 116,
+      "references": [
+        "job 4",
+        "job 5",
+        "job 6"
+      ],
+      "type": "annual-protestant-reading"
+    },
+    {
+      "day": 117,
+      "references": [
+        "job 7",
+        "job 8",
+        "job 9"
+      ],
+      "type": "annual-protestant-reading"
+    },
+    {
+      "day": 118,
+      "references": [
+        "job 10",
+        "job 11",
+        "job 12"
+      ],
+      "type": "annual-protestant-reading"
+    },
+    {
+      "day": 119,
+      "references": [
+        "job 13",
+        "job 14",
+        "job 15"
+      ],
+      "type": "annual-protestant-reading"
+    },
+    {
+      "day": 120,
+      "references": [
+        "job 16",
+        "job 17",
+        "job 18"
+      ],
+      "type": "annual-protestant-reading"
+    },
+    {
+      "day": 121,
+      "references": [
+        "job 19",
+        "job 20",
+        "job 21"
+      ],
+      "type": "annual-protestant-reading"
+    },
+    {
+      "day": 122,
+      "references": [
+        "job 22",
+        "job 23",
+        "job 24"
+      ],
+      "type": "annual-protestant-reading"
+    },
+    {
+      "day": 123,
+      "references": [
+        "job 25",
+        "job 26",
+        "job 27"
+      ],
+      "type": "annual-protestant-reading"
+    },
+    {
+      "day": 124,
+      "references": [
+        "job 28",
+        "job 29",
+        "job 30"
+      ],
+      "type": "annual-protestant-reading"
+    },
+    {
+      "day": 125,
+      "references": [
+        "job 31",
+        "job 32",
+        "job 33"
+      ],
+      "type": "annual-protestant-reading"
+    },
+    {
+      "day": 126,
+      "references": [
+        "job 34",
+        "job 35",
+        "job 36"
+      ],
+      "type": "annual-protestant-reading"
+    },
+    {
+      "day": 127,
+      "references": [
+        "job 37",
+        "job 38",
+        "job 39"
+      ],
+      "type": "annual-protestant-reading"
+    },
+    {
+      "day": 128,
+      "references": [
+        "job 40",
+        "job 41",
+        "job 42"
+      ],
+      "type": "annual-protestant-reading"
+    },
+    {
+      "day": 129,
+      "references": [
+        "psalms 1",
+        "psalms 2",
+        "psalms 3"
+      ],
+      "type": "annual-protestant-reading"
+    },
+    {
+      "day": 130,
+      "references": [
+        "psalms 4",
+        "psalms 5",
+        "psalms 6"
+      ],
+      "type": "annual-protestant-reading"
+    },
+    {
+      "day": 131,
+      "references": [
+        "psalms 7",
+        "psalms 8",
+        "psalms 9"
+      ],
+      "type": "annual-protestant-reading"
+    },
+    {
+      "day": 132,
+      "references": [
+        "psalms 10",
+        "psalms 11",
+        "psalms 12"
+      ],
+      "type": "annual-protestant-reading"
+    },
+    {
+      "day": 133,
+      "references": [
+        "psalms 13",
+        "psalms 14",
+        "psalms 15"
+      ],
+      "type": "annual-protestant-reading"
+    },
+    {
+      "day": 134,
+      "references": [
+        "psalms 16",
+        "psalms 17",
+        "psalms 18"
+      ],
+      "type": "annual-protestant-reading"
+    },
+    {
+      "day": 135,
+      "references": [
+        "psalms 19",
+        "psalms 20",
+        "psalms 21"
+      ],
+      "type": "annual-protestant-reading"
+    },
+    {
+      "day": 136,
+      "references": [
+        "psalms 22",
+        "psalms 23",
+        "psalms 24"
+      ],
+      "type": "annual-protestant-reading"
+    },
+    {
+      "day": 137,
+      "references": [
+        "psalms 25",
+        "psalms 26",
+        "psalms 27"
+      ],
+      "type": "annual-protestant-reading"
+    },
+    {
+      "day": 138,
+      "references": [
+        "psalms 28",
+        "psalms 29",
+        "psalms 30"
+      ],
+      "type": "annual-protestant-reading"
+    },
+    {
+      "day": 139,
+      "references": [
+        "psalms 31",
+        "psalms 32",
+        "psalms 33"
+      ],
+      "type": "annual-protestant-reading"
+    },
+    {
+      "day": 140,
+      "references": [
+        "psalms 34",
+        "psalms 35",
+        "psalms 36"
+      ],
+      "type": "annual-protestant-reading"
+    },
+    {
+      "day": 141,
+      "references": [
+        "psalms 37",
+        "psalms 38",
+        "psalms 39"
+      ],
+      "type": "annual-protestant-reading"
+    },
+    {
+      "day": 142,
+      "references": [
+        "psalms 40",
+        "psalms 41",
+        "psalms 42"
+      ],
+      "type": "annual-protestant-reading"
+    },
+    {
+      "day": 143,
+      "references": [
+        "psalms 43",
+        "psalms 44",
+        "psalms 45"
+      ],
+      "type": "annual-protestant-reading"
+    },
+    {
+      "day": 144,
+      "references": [
+        "psalms 46",
+        "psalms 47",
+        "psalms 48"
+      ],
+      "type": "annual-protestant-reading"
+    },
+    {
+      "day": 145,
+      "references": [
+        "psalms 49",
+        "psalms 50",
+        "psalms 51"
+      ],
+      "type": "annual-protestant-reading"
+    },
+    {
+      "day": 146,
+      "references": [
+        "psalms 52",
+        "psalms 53",
+        "psalms 54"
+      ],
+      "type": "annual-protestant-reading"
+    },
+    {
+      "day": 147,
+      "references": [
+        "psalms 55",
+        "psalms 56",
+        "psalms 57"
+      ],
+      "type": "annual-protestant-reading"
+    },
+    {
+      "day": 148,
+      "references": [
+        "psalms 58",
+        "psalms 59",
+        "psalms 60"
+      ],
+      "type": "annual-protestant-reading"
+    },
+    {
+      "day": 149,
+      "references": [
+        "psalms 61",
+        "psalms 62",
+        "psalms 63"
+      ],
+      "type": "annual-protestant-reading"
+    },
+    {
+      "day": 150,
+      "references": [
+        "psalms 64",
+        "psalms 65",
+        "psalms 66"
+      ],
+      "type": "annual-protestant-reading"
+    },
+    {
+      "day": 151,
+      "references": [
+        "psalms 67",
+        "psalms 68",
+        "psalms 69"
+      ],
+      "type": "annual-protestant-reading"
+    },
+    {
+      "day": 152,
+      "references": [
+        "psalms 70",
+        "psalms 71",
+        "psalms 72"
+      ],
+      "type": "annual-protestant-reading"
+    },
+    {
+      "day": 153,
+      "references": [
+        "psalms 73",
+        "psalms 74",
+        "psalms 75"
+      ],
+      "type": "annual-protestant-reading"
+    },
+    {
+      "day": 154,
+      "references": [
+        "psalms 76",
+        "psalms 77",
+        "psalms 78"
+      ],
+      "type": "annual-protestant-reading"
+    },
+    {
+      "day": 155,
+      "references": [
+        "psalms 79",
+        "psalms 80",
+        "psalms 81"
+      ],
+      "type": "annual-protestant-reading"
+    },
+    {
+      "day": 156,
+      "references": [
+        "psalms 82",
+        "psalms 83",
+        "psalms 84"
+      ],
+      "type": "annual-protestant-reading"
+    },
+    {
+      "day": 157,
+      "references": [
+        "psalms 85",
+        "psalms 86",
+        "psalms 87"
+      ],
+      "type": "annual-protestant-reading"
+    },
+    {
+      "day": 158,
+      "references": [
+        "psalms 88",
+        "psalms 89",
+        "psalms 90"
+      ],
+      "type": "annual-protestant-reading"
+    },
+    {
+      "day": 159,
+      "references": [
+        "psalms 91",
+        "psalms 92",
+        "psalms 93"
+      ],
+      "type": "annual-protestant-reading"
+    },
+    {
+      "day": 160,
+      "references": [
+        "psalms 94",
+        "psalms 95",
+        "psalms 96"
+      ],
+      "type": "annual-protestant-reading"
+    },
+    {
+      "day": 161,
+      "references": [
+        "psalms 97",
+        "psalms 98",
+        "psalms 99"
+      ],
+      "type": "annual-protestant-reading"
+    },
+    {
+      "day": 162,
+      "references": [
+        "psalms 100",
+        "psalms 101",
+        "psalms 102"
+      ],
+      "type": "annual-protestant-reading"
+    },
+    {
+      "day": 163,
+      "references": [
+        "psalms 103",
+        "psalms 104",
+        "psalms 105"
+      ],
+      "type": "annual-protestant-reading"
+    },
+    {
+      "day": 164,
+      "references": [
+        "psalms 106",
+        "psalms 107",
+        "psalms 108"
+      ],
+      "type": "annual-protestant-reading"
+    },
+    {
+      "day": 165,
+      "references": [
+        "psalms 109",
+        "psalms 110",
+        "psalms 111"
+      ],
+      "type": "annual-protestant-reading"
+    },
+    {
+      "day": 166,
+      "references": [
+        "psalms 112",
+        "psalms 113",
+        "psalms 114"
+      ],
+      "type": "annual-protestant-reading"
+    },
+    {
+      "day": 167,
+      "references": [
+        "psalms 115",
+        "psalms 116",
+        "psalms 117"
+      ],
+      "type": "annual-protestant-reading"
+    },
+    {
+      "day": 168,
+      "references": [
+        "psalms 118",
+        "psalms 119",
+        "psalms 120"
+      ],
+      "type": "annual-protestant-reading"
+    },
+    {
+      "day": 169,
+      "references": [
+        "psalms 121",
+        "psalms 122",
+        "psalms 123"
+      ],
+      "type": "annual-protestant-reading"
+    },
+    {
+      "day": 170,
+      "references": [
+        "psalms 124",
+        "psalms 125",
+        "psalms 126"
+      ],
+      "type": "annual-protestant-reading"
+    },
+    {
+      "day": 171,
+      "references": [
+        "psalms 127",
+        "psalms 128",
+        "psalms 129"
+      ],
+      "type": "annual-protestant-reading"
+    },
+    {
+      "day": 172,
+      "references": [
+        "psalms 130",
+        "psalms 131",
+        "psalms 132"
+      ],
+      "type": "annual-protestant-reading"
+    },
+    {
+      "day": 173,
+      "references": [
+        "psalms 133",
+        "psalms 134",
+        "psalms 135"
+      ],
+      "type": "annual-protestant-reading"
+    },
+    {
+      "day": 174,
+      "references": [
+        "psalms 136",
+        "psalms 137",
+        "psalms 138"
+      ],
+      "type": "annual-protestant-reading"
+    },
+    {
+      "day": 175,
+      "references": [
+        "psalms 139",
+        "psalms 140",
+        "psalms 141"
+      ],
+      "type": "annual-protestant-reading"
+    },
+    {
+      "day": 176,
+      "references": [
+        "psalms 142",
+        "psalms 143",
+        "psalms 144"
+      ],
+      "type": "annual-protestant-reading"
+    },
+    {
+      "day": 177,
+      "references": [
+        "psalms 145",
+        "psalms 146",
+        "psalms 147"
+      ],
+      "type": "annual-protestant-reading"
+    },
+    {
+      "day": 178,
+      "references": [
+        "psalms 148",
+        "psalms 149",
+        "psalms 150"
+      ],
+      "type": "annual-protestant-reading"
+    },
+    {
+      "day": 179,
+      "references": [
+        "proverbs 1",
+        "proverbs 2",
+        "proverbs 3"
+      ],
+      "type": "annual-protestant-reading"
+    },
+    {
+      "day": 180,
+      "references": [
+        "proverbs 4",
+        "proverbs 5",
+        "proverbs 6"
+      ],
+      "type": "annual-protestant-reading"
+    },
+    {
+      "day": 181,
+      "references": [
+        "proverbs 7",
+        "proverbs 8",
+        "proverbs 9"
+      ],
+      "type": "annual-protestant-reading"
+    },
+    {
+      "day": 182,
+      "references": [
+        "proverbs 10",
+        "proverbs 11",
+        "proverbs 12"
+      ],
+      "type": "annual-protestant-reading"
+    },
+    {
+      "day": 183,
+      "references": [
+        "proverbs 13",
+        "proverbs 14",
+        "proverbs 15"
+      ],
+      "type": "annual-protestant-reading"
+    },
+    {
+      "day": 184,
+      "references": [
+        "proverbs 16",
+        "proverbs 17",
+        "proverbs 18"
+      ],
+      "type": "annual-protestant-reading"
+    },
+    {
+      "day": 185,
+      "references": [
+        "proverbs 19",
+        "proverbs 20",
+        "proverbs 21"
+      ],
+      "type": "annual-protestant-reading"
+    },
+    {
+      "day": 186,
+      "references": [
+        "proverbs 22",
+        "proverbs 23",
+        "proverbs 24"
+      ],
+      "type": "annual-protestant-reading"
+    },
+    {
+      "day": 187,
+      "references": [
+        "proverbs 25",
+        "proverbs 26",
+        "proverbs 27"
+      ],
+      "type": "annual-protestant-reading"
+    },
+    {
+      "day": 188,
+      "references": [
+        "proverbs 28",
+        "proverbs 29",
+        "proverbs 30"
+      ],
+      "type": "annual-protestant-reading"
+    },
+    {
+      "day": 189,
+      "references": [
+        "proverbs 31",
+        "ecclesiastes 1",
+        "ecclesiastes 2"
+      ],
+      "type": "annual-protestant-reading"
+    },
+    {
+      "day": 190,
+      "references": [
+        "ecclesiastes 3",
+        "ecclesiastes 4",
+        "ecclesiastes 5"
+      ],
+      "type": "annual-protestant-reading"
+    },
+    {
+      "day": 191,
+      "references": [
+        "ecclesiastes 6",
+        "ecclesiastes 7",
+        "ecclesiastes 8"
+      ],
+      "type": "annual-protestant-reading"
+    },
+    {
+      "day": 192,
+      "references": [
+        "ecclesiastes 9",
+        "ecclesiastes 10",
+        "ecclesiastes 11"
+      ],
+      "type": "annual-protestant-reading"
+    },
+    {
+      "day": 193,
+      "references": [
+        "ecclesiastes 12",
+        "song-of-solomon 1",
+        "song-of-solomon 2"
+      ],
+      "type": "annual-protestant-reading"
+    },
+    {
+      "day": 194,
+      "references": [
+        "song-of-solomon 3",
+        "song-of-solomon 4",
+        "song-of-solomon 5"
+      ],
+      "type": "annual-protestant-reading"
+    },
+    {
+      "day": 195,
+      "references": [
+        "song-of-solomon 6",
+        "song-of-solomon 7",
+        "song-of-solomon 8"
+      ],
+      "type": "annual-protestant-reading"
+    },
+    {
+      "day": 196,
+      "references": [
+        "isaiah 1",
+        "isaiah 2",
+        "isaiah 3"
+      ],
+      "type": "annual-protestant-reading"
+    },
+    {
+      "day": 197,
+      "references": [
+        "isaiah 4",
+        "isaiah 5",
+        "isaiah 6"
+      ],
+      "type": "annual-protestant-reading"
+    },
+    {
+      "day": 198,
+      "references": [
+        "isaiah 7",
+        "isaiah 8",
+        "isaiah 9"
+      ],
+      "type": "annual-protestant-reading"
+    },
+    {
+      "day": 199,
+      "references": [
+        "isaiah 10",
+        "isaiah 11",
+        "isaiah 12"
+      ],
+      "type": "annual-protestant-reading"
+    },
+    {
+      "day": 200,
+      "references": [
+        "isaiah 13",
+        "isaiah 14",
+        "isaiah 15"
+      ],
+      "type": "annual-protestant-reading"
+    },
+    {
+      "day": 201,
+      "references": [
+        "isaiah 16",
+        "isaiah 17",
+        "isaiah 18"
+      ],
+      "type": "annual-protestant-reading"
+    },
+    {
+      "day": 202,
+      "references": [
+        "isaiah 19",
+        "isaiah 20",
+        "isaiah 21"
+      ],
+      "type": "annual-protestant-reading"
+    },
+    {
+      "day": 203,
+      "references": [
+        "isaiah 22",
+        "isaiah 23",
+        "isaiah 24"
+      ],
+      "type": "annual-protestant-reading"
+    },
+    {
+      "day": 204,
+      "references": [
+        "isaiah 25",
+        "isaiah 26",
+        "isaiah 27"
+      ],
+      "type": "annual-protestant-reading"
+    },
+    {
+      "day": 205,
+      "references": [
+        "isaiah 28",
+        "isaiah 29",
+        "isaiah 30"
+      ],
+      "type": "annual-protestant-reading"
+    },
+    {
+      "day": 206,
+      "references": [
+        "isaiah 31",
+        "isaiah 32",
+        "isaiah 33"
+      ],
+      "type": "annual-protestant-reading"
+    },
+    {
+      "day": 207,
+      "references": [
+        "isaiah 34",
+        "isaiah 35",
+        "isaiah 36"
+      ],
+      "type": "annual-protestant-reading"
+    },
+    {
+      "day": 208,
+      "references": [
+        "isaiah 37",
+        "isaiah 38",
+        "isaiah 39"
+      ],
+      "type": "annual-protestant-reading"
+    },
+    {
+      "day": 209,
+      "references": [
+        "isaiah 40",
+        "isaiah 41",
+        "isaiah 42"
+      ],
+      "type": "annual-protestant-reading"
+    },
+    {
+      "day": 210,
+      "references": [
+        "isaiah 43",
+        "isaiah 44",
+        "isaiah 45"
+      ],
+      "type": "annual-protestant-reading"
+    },
+    {
+      "day": 211,
+      "references": [
+        "isaiah 46",
+        "isaiah 47",
+        "isaiah 48"
+      ],
+      "type": "annual-protestant-reading"
+    },
+    {
+      "day": 212,
+      "references": [
+        "isaiah 49",
+        "isaiah 50",
+        "isaiah 51"
+      ],
+      "type": "annual-protestant-reading"
+    },
+    {
+      "day": 213,
+      "references": [
+        "isaiah 52",
+        "isaiah 53",
+        "isaiah 54"
+      ],
+      "type": "annual-protestant-reading"
+    },
+    {
+      "day": 214,
+      "references": [
+        "isaiah 55",
+        "isaiah 56",
+        "isaiah 57"
+      ],
+      "type": "annual-protestant-reading"
+    },
+    {
+      "day": 215,
+      "references": [
+        "isaiah 58",
+        "isaiah 59",
+        "isaiah 60"
+      ],
+      "type": "annual-protestant-reading"
+    },
+    {
+      "day": 216,
+      "references": [
+        "isaiah 61",
+        "isaiah 62",
+        "isaiah 63"
+      ],
+      "type": "annual-protestant-reading"
+    },
+    {
+      "day": 217,
+      "references": [
+        "isaiah 64",
+        "isaiah 65",
+        "isaiah 66"
+      ],
+      "type": "annual-protestant-reading"
+    },
+    {
+      "day": 218,
+      "references": [
+        "jeremiah 1",
+        "jeremiah 2",
+        "jeremiah 3"
+      ],
+      "type": "annual-protestant-reading"
+    },
+    {
+      "day": 219,
+      "references": [
+        "jeremiah 4",
+        "jeremiah 5",
+        "jeremiah 6"
+      ],
+      "type": "annual-protestant-reading"
+    },
+    {
+      "day": 220,
+      "references": [
+        "jeremiah 7",
+        "jeremiah 8",
+        "jeremiah 9"
+      ],
+      "type": "annual-protestant-reading"
+    },
+    {
+      "day": 221,
+      "references": [
+        "jeremiah 10",
+        "jeremiah 11",
+        "jeremiah 12"
+      ],
+      "type": "annual-protestant-reading"
+    },
+    {
+      "day": 222,
+      "references": [
+        "jeremiah 13",
+        "jeremiah 14",
+        "jeremiah 15"
+      ],
+      "type": "annual-protestant-reading"
+    },
+    {
+      "day": 223,
+      "references": [
+        "jeremiah 16",
+        "jeremiah 17",
+        "jeremiah 18"
+      ],
+      "type": "annual-protestant-reading"
+    },
+    {
+      "day": 224,
+      "references": [
+        "jeremiah 19",
+        "jeremiah 20",
+        "jeremiah 21"
+      ],
+      "type": "annual-protestant-reading"
+    },
+    {
+      "day": 225,
+      "references": [
+        "jeremiah 22",
+        "jeremiah 23",
+        "jeremiah 24"
+      ],
+      "type": "annual-protestant-reading"
+    },
+    {
+      "day": 226,
+      "references": [
+        "jeremiah 25",
+        "jeremiah 26",
+        "jeremiah 27"
+      ],
+      "type": "annual-protestant-reading"
+    },
+    {
+      "day": 227,
+      "references": [
+        "jeremiah 28",
+        "jeremiah 29",
+        "jeremiah 30"
+      ],
+      "type": "annual-protestant-reading"
+    },
+    {
+      "day": 228,
+      "references": [
+        "jeremiah 31",
+        "jeremiah 32",
+        "jeremiah 33"
+      ],
+      "type": "annual-protestant-reading"
+    },
+    {
+      "day": 229,
+      "references": [
+        "jeremiah 34",
+        "jeremiah 35",
+        "jeremiah 36"
+      ],
+      "type": "annual-protestant-reading"
+    },
+    {
+      "day": 230,
+      "references": [
+        "jeremiah 37",
+        "jeremiah 38",
+        "jeremiah 39"
+      ],
+      "type": "annual-protestant-reading"
+    },
+    {
+      "day": 231,
+      "references": [
+        "jeremiah 40",
+        "jeremiah 41",
+        "jeremiah 42"
+      ],
+      "type": "annual-protestant-reading"
+    },
+    {
+      "day": 232,
+      "references": [
+        "jeremiah 43",
+        "jeremiah 44",
+        "jeremiah 45"
+      ],
+      "type": "annual-protestant-reading"
+    },
+    {
+      "day": 233,
+      "references": [
+        "jeremiah 46",
+        "jeremiah 47",
+        "jeremiah 48"
+      ],
+      "type": "annual-protestant-reading"
+    },
+    {
+      "day": 234,
+      "references": [
+        "jeremiah 49",
+        "jeremiah 50",
+        "jeremiah 51"
+      ],
+      "type": "annual-protestant-reading"
+    },
+    {
+      "day": 235,
+      "references": [
+        "jeremiah 52",
+        "lamentations 1",
+        "lamentations 2"
+      ],
+      "type": "annual-protestant-reading"
+    },
+    {
+      "day": 236,
+      "references": [
+        "lamentations 3",
+        "lamentations 4",
+        "lamentations 5"
+      ],
+      "type": "annual-protestant-reading"
+    },
+    {
+      "day": 237,
+      "references": [
+        "ezekiel 1",
+        "ezekiel 2",
+        "ezekiel 3"
+      ],
+      "type": "annual-protestant-reading"
+    },
+    {
+      "day": 238,
+      "references": [
+        "ezekiel 4",
+        "ezekiel 5",
+        "ezekiel 6"
+      ],
+      "type": "annual-protestant-reading"
+    },
+    {
+      "day": 239,
+      "references": [
+        "ezekiel 7",
+        "ezekiel 8",
+        "ezekiel 9"
+      ],
+      "type": "annual-protestant-reading"
+    },
+    {
+      "day": 240,
+      "references": [
+        "ezekiel 10",
+        "ezekiel 11",
+        "ezekiel 12"
+      ],
+      "type": "annual-protestant-reading"
+    },
+    {
+      "day": 241,
+      "references": [
+        "ezekiel 13",
+        "ezekiel 14",
+        "ezekiel 15"
+      ],
+      "type": "annual-protestant-reading"
+    },
+    {
+      "day": 242,
+      "references": [
+        "ezekiel 16",
+        "ezekiel 17",
+        "ezekiel 18"
+      ],
+      "type": "annual-protestant-reading"
+    },
+    {
+      "day": 243,
+      "references": [
+        "ezekiel 19",
+        "ezekiel 20",
+        "ezekiel 21"
+      ],
+      "type": "annual-protestant-reading"
+    },
+    {
+      "day": 244,
+      "references": [
+        "ezekiel 22",
+        "ezekiel 23",
+        "ezekiel 24"
+      ],
+      "type": "annual-protestant-reading"
+    },
+    {
+      "day": 245,
+      "references": [
+        "ezekiel 25",
+        "ezekiel 26",
+        "ezekiel 27"
+      ],
+      "type": "annual-protestant-reading"
+    },
+    {
+      "day": 246,
+      "references": [
+        "ezekiel 28",
+        "ezekiel 29",
+        "ezekiel 30"
+      ],
+      "type": "annual-protestant-reading"
+    },
+    {
+      "day": 247,
+      "references": [
+        "ezekiel 31",
+        "ezekiel 32",
+        "ezekiel 33"
+      ],
+      "type": "annual-protestant-reading"
+    },
+    {
+      "day": 248,
+      "references": [
+        "ezekiel 34",
+        "ezekiel 35",
+        "ezekiel 36"
+      ],
+      "type": "annual-protestant-reading"
+    },
+    {
+      "day": 249,
+      "references": [
+        "ezekiel 37",
+        "ezekiel 38",
+        "ezekiel 39"
+      ],
+      "type": "annual-protestant-reading"
+    },
+    {
+      "day": 250,
+      "references": [
+        "ezekiel 40",
+        "ezekiel 41",
+        "ezekiel 42"
+      ],
+      "type": "annual-protestant-reading"
+    },
+    {
+      "day": 251,
+      "references": [
+        "ezekiel 43",
+        "ezekiel 44",
+        "ezekiel 45"
+      ],
+      "type": "annual-protestant-reading"
+    },
+    {
+      "day": 252,
+      "references": [
+        "ezekiel 46",
+        "ezekiel 47",
+        "ezekiel 48"
+      ],
+      "type": "annual-protestant-reading"
+    },
+    {
+      "day": 253,
+      "references": [
+        "daniel 1",
+        "daniel 2",
+        "daniel 3"
+      ],
+      "type": "annual-protestant-reading"
+    },
+    {
+      "day": 254,
+      "references": [
+        "daniel 4",
+        "daniel 5",
+        "daniel 6"
+      ],
+      "type": "annual-protestant-reading"
+    },
+    {
+      "day": 255,
+      "references": [
+        "daniel 7",
+        "daniel 8",
+        "daniel 9"
+      ],
+      "type": "annual-protestant-reading"
+    },
+    {
+      "day": 256,
+      "references": [
+        "daniel 10",
+        "daniel 11",
+        "daniel 12"
+      ],
+      "type": "annual-protestant-reading"
+    },
+    {
+      "day": 257,
+      "references": [
+        "hosea 1",
+        "hosea 2",
+        "hosea 3"
+      ],
+      "type": "annual-protestant-reading"
+    },
+    {
+      "day": 258,
+      "references": [
+        "hosea 4",
+        "hosea 5",
+        "hosea 6"
+      ],
+      "type": "annual-protestant-reading"
+    },
+    {
+      "day": 259,
+      "references": [
+        "hosea 7",
+        "hosea 8",
+        "hosea 9"
+      ],
+      "type": "annual-protestant-reading"
+    },
+    {
+      "day": 260,
+      "references": [
+        "hosea 10",
+        "hosea 11",
+        "hosea 12"
+      ],
+      "type": "annual-protestant-reading"
+    },
+    {
+      "day": 261,
+      "references": [
+        "hosea 13",
+        "hosea 14",
+        "joel 1"
+      ],
+      "type": "annual-protestant-reading"
+    },
+    {
+      "day": 262,
+      "references": [
+        "joel 2",
+        "joel 3",
+        "amos 1"
+      ],
+      "type": "annual-protestant-reading"
+    },
+    {
+      "day": 263,
+      "references": [
+        "amos 2",
+        "amos 3",
+        "amos 4"
+      ],
+      "type": "annual-protestant-reading"
+    },
+    {
+      "day": 264,
+      "references": [
+        "amos 5",
+        "amos 6",
+        "amos 7"
+      ],
+      "type": "annual-protestant-reading"
+    },
+    {
+      "day": 265,
+      "references": [
+        "amos 8",
+        "amos 9",
+        "obadiah 1"
+      ],
+      "type": "annual-protestant-reading"
+    },
+    {
+      "day": 266,
+      "references": [
+        "jonah 1",
+        "jonah 2",
+        "jonah 3"
+      ],
+      "type": "annual-protestant-reading"
+    },
+    {
+      "day": 267,
+      "references": [
+        "jonah 4",
+        "micah 1",
+        "micah 2"
+      ],
+      "type": "annual-protestant-reading"
+    },
+    {
+      "day": 268,
+      "references": [
+        "micah 3",
+        "micah 4",
+        "micah 5"
+      ],
+      "type": "annual-protestant-reading"
+    },
+    {
+      "day": 269,
+      "references": [
+        "micah 6",
+        "micah 7",
+        "nahum 1"
+      ],
+      "type": "annual-protestant-reading"
+    },
+    {
+      "day": 270,
+      "references": [
+        "nahum 2",
+        "nahum 3",
+        "habakkuk 1"
+      ],
+      "type": "annual-protestant-reading"
+    },
+    {
+      "day": 271,
+      "references": [
+        "habakkuk 2",
+        "habakkuk 3",
+        "zephaniah 1"
+      ],
+      "type": "annual-protestant-reading"
+    },
+    {
+      "day": 272,
+      "references": [
+        "zephaniah 2",
+        "zephaniah 3",
+        "haggai 1"
+      ],
+      "type": "annual-protestant-reading"
+    },
+    {
+      "day": 273,
+      "references": [
+        "haggai 2",
+        "zechariah 1",
+        "zechariah 2"
+      ],
+      "type": "annual-protestant-reading"
+    },
+    {
+      "day": 274,
+      "references": [
+        "zechariah 3",
+        "zechariah 4",
+        "zechariah 5"
+      ],
+      "type": "annual-protestant-reading"
+    },
+    {
+      "day": 275,
+      "references": [
+        "zechariah 6",
+        "zechariah 7",
+        "zechariah 8"
+      ],
+      "type": "annual-protestant-reading"
+    },
+    {
+      "day": 276,
+      "references": [
+        "zechariah 9",
+        "zechariah 10",
+        "zechariah 11"
+      ],
+      "type": "annual-protestant-reading"
+    },
+    {
+      "day": 277,
+      "references": [
+        "zechariah 12",
+        "zechariah 13",
+        "zechariah 14"
+      ],
+      "type": "annual-protestant-reading"
+    },
+    {
+      "day": 278,
+      "references": [
+        "malachi 1",
+        "malachi 2",
+        "malachi 3"
+      ],
+      "type": "annual-protestant-reading"
+    },
+    {
+      "day": 279,
+      "references": [
+        "malachi 4",
+        "matthew 1",
+        "matthew 2"
+      ],
+      "type": "annual-protestant-reading"
+    },
+    {
+      "day": 280,
+      "references": [
+        "matthew 3",
+        "matthew 4",
+        "matthew 5"
+      ],
+      "type": "annual-protestant-reading"
+    },
+    {
+      "day": 281,
+      "references": [
+        "matthew 6",
+        "matthew 7",
+        "matthew 8"
+      ],
+      "type": "annual-protestant-reading"
+    },
+    {
+      "day": 282,
+      "references": [
+        "matthew 9",
+        "matthew 10",
+        "matthew 11"
+      ],
+      "type": "annual-protestant-reading"
+    },
+    {
+      "day": 283,
+      "references": [
+        "matthew 12",
+        "matthew 13",
+        "matthew 14"
+      ],
+      "type": "annual-protestant-reading"
+    },
+    {
+      "day": 284,
+      "references": [
+        "matthew 15",
+        "matthew 16",
+        "matthew 17"
+      ],
+      "type": "annual-protestant-reading"
+    },
+    {
+      "day": 285,
+      "references": [
+        "matthew 18",
+        "matthew 19",
+        "matthew 20"
+      ],
+      "type": "annual-protestant-reading"
+    },
+    {
+      "day": 286,
+      "references": [
+        "matthew 21",
+        "matthew 22",
+        "matthew 23"
+      ],
+      "type": "annual-protestant-reading"
+    },
+    {
+      "day": 287,
+      "references": [
+        "matthew 24",
+        "matthew 25",
+        "matthew 26"
+      ],
+      "type": "annual-protestant-reading"
+    },
+    {
+      "day": 288,
+      "references": [
+        "matthew 27",
+        "matthew 28",
+        "mark 1"
+      ],
+      "type": "annual-protestant-reading"
+    },
+    {
+      "day": 289,
+      "references": [
+        "mark 2",
+        "mark 3",
+        "mark 4"
+      ],
+      "type": "annual-protestant-reading"
+    },
+    {
+      "day": 290,
+      "references": [
+        "mark 5",
+        "mark 6",
+        "mark 7"
+      ],
+      "type": "annual-protestant-reading"
+    },
+    {
+      "day": 291,
+      "references": [
+        "mark 8",
+        "mark 9",
+        "mark 10"
+      ],
+      "type": "annual-protestant-reading"
+    },
+    {
+      "day": 292,
+      "references": [
+        "mark 11",
+        "mark 12",
+        "mark 13"
+      ],
+      "type": "annual-protestant-reading"
+    },
+    {
+      "day": 293,
+      "references": [
+        "mark 14",
+        "mark 15",
+        "mark 16"
+      ],
+      "type": "annual-protestant-reading"
+    },
+    {
+      "day": 294,
+      "references": [
+        "luke 1",
+        "luke 2",
+        "luke 3"
+      ],
+      "type": "annual-protestant-reading"
+    },
+    {
+      "day": 295,
+      "references": [
+        "luke 4",
+        "luke 5",
+        "luke 6"
+      ],
+      "type": "annual-protestant-reading"
+    },
+    {
+      "day": 296,
+      "references": [
+        "luke 7",
+        "luke 8",
+        "luke 9"
+      ],
+      "type": "annual-protestant-reading"
+    },
+    {
+      "day": 297,
+      "references": [
+        "luke 10",
+        "luke 11",
+        "luke 12"
+      ],
+      "type": "annual-protestant-reading"
+    },
+    {
+      "day": 298,
+      "references": [
+        "luke 13",
+        "luke 14",
+        "luke 15"
+      ],
+      "type": "annual-protestant-reading"
+    },
+    {
+      "day": 299,
+      "references": [
+        "luke 16",
+        "luke 17",
+        "luke 18"
+      ],
+      "type": "annual-protestant-reading"
+    },
+    {
+      "day": 300,
+      "references": [
+        "luke 19",
+        "luke 20",
+        "luke 21"
+      ],
+      "type": "annual-protestant-reading"
+    },
+    {
+      "day": 301,
+      "references": [
+        "luke 22",
+        "luke 23",
+        "luke 24"
+      ],
+      "type": "annual-protestant-reading"
+    },
+    {
+      "day": 302,
+      "references": [
+        "john 1",
+        "john 2",
+        "john 3"
+      ],
+      "type": "annual-protestant-reading"
+    },
+    {
+      "day": 303,
+      "references": [
+        "john 4",
+        "john 5",
+        "john 6"
+      ],
+      "type": "annual-protestant-reading"
+    },
+    {
+      "day": 304,
+      "references": [
+        "john 7",
+        "john 8",
+        "john 9"
+      ],
+      "type": "annual-protestant-reading"
+    },
+    {
+      "day": 305,
+      "references": [
+        "john 10",
+        "john 11",
+        "john 12"
+      ],
+      "type": "annual-protestant-reading"
+    },
+    {
+      "day": 306,
+      "references": [
+        "john 13",
+        "john 14",
+        "john 15"
+      ],
+      "type": "annual-protestant-reading"
+    },
+    {
+      "day": 307,
+      "references": [
+        "john 16",
+        "john 17",
+        "john 18"
+      ],
+      "type": "annual-protestant-reading"
+    },
+    {
+      "day": 308,
+      "references": [
+        "john 19",
+        "john 20",
+        "john 21"
+      ],
+      "type": "annual-protestant-reading"
+    },
+    {
+      "day": 309,
+      "references": [
+        "acts 1",
+        "acts 2",
+        "acts 3"
+      ],
+      "type": "annual-protestant-reading"
+    },
+    {
+      "day": 310,
+      "references": [
+        "acts 4",
+        "acts 5",
+        "acts 6"
+      ],
+      "type": "annual-protestant-reading"
+    },
+    {
+      "day": 311,
+      "references": [
+        "acts 7",
+        "acts 8",
+        "acts 9"
+      ],
+      "type": "annual-protestant-reading"
+    },
+    {
+      "day": 312,
+      "references": [
+        "acts 10",
+        "acts 11",
+        "acts 12"
+      ],
+      "type": "annual-protestant-reading"
+    },
+    {
+      "day": 313,
+      "references": [
+        "acts 13",
+        "acts 14",
+        "acts 15"
+      ],
+      "type": "annual-protestant-reading"
+    },
+    {
+      "day": 314,
+      "references": [
+        "acts 16",
+        "acts 17",
+        "acts 18"
+      ],
+      "type": "annual-protestant-reading"
+    },
+    {
+      "day": 315,
+      "references": [
+        "acts 19",
+        "acts 20",
+        "acts 21"
+      ],
+      "type": "annual-protestant-reading"
+    },
+    {
+      "day": 316,
+      "references": [
+        "acts 22",
+        "acts 23",
+        "acts 24"
+      ],
+      "type": "annual-protestant-reading"
+    },
+    {
+      "day": 317,
+      "references": [
+        "acts 25",
+        "acts 26",
+        "acts 27"
+      ],
+      "type": "annual-protestant-reading"
+    },
+    {
+      "day": 318,
+      "references": [
+        "acts 28",
+        "romans 1",
+        "romans 2"
+      ],
+      "type": "annual-protestant-reading"
+    },
+    {
+      "day": 319,
+      "references": [
+        "romans 3",
+        "romans 4",
+        "romans 5"
+      ],
+      "type": "annual-protestant-reading"
+    },
+    {
+      "day": 320,
+      "references": [
+        "romans 6",
+        "romans 7",
+        "romans 8"
+      ],
+      "type": "annual-protestant-reading"
+    },
+    {
+      "day": 321,
+      "references": [
+        "romans 9",
+        "romans 10",
+        "romans 11"
+      ],
+      "type": "annual-protestant-reading"
+    },
+    {
+      "day": 322,
+      "references": [
+        "romans 12",
+        "romans 13",
+        "romans 14"
+      ],
+      "type": "annual-protestant-reading"
+    },
+    {
+      "day": 323,
+      "references": [
+        "romans 15",
+        "romans 16",
+        "1-corinthians 1"
+      ],
+      "type": "annual-protestant-reading"
+    },
+    {
+      "day": 324,
+      "references": [
+        "1-corinthians 2",
+        "1-corinthians 3",
+        "1-corinthians 4"
+      ],
+      "type": "annual-protestant-reading"
+    },
+    {
+      "day": 325,
+      "references": [
+        "1-corinthians 5",
+        "1-corinthians 6",
+        "1-corinthians 7"
+      ],
+      "type": "annual-protestant-reading"
+    },
+    {
+      "day": 326,
+      "references": [
+        "1-corinthians 8",
+        "1-corinthians 9",
+        "1-corinthians 10"
+      ],
+      "type": "annual-protestant-reading"
+    },
+    {
+      "day": 327,
+      "references": [
+        "1-corinthians 11",
+        "1-corinthians 12",
+        "1-corinthians 13"
+      ],
+      "type": "annual-protestant-reading"
+    },
+    {
+      "day": 328,
+      "references": [
+        "1-corinthians 14",
+        "1-corinthians 15",
+        "1-corinthians 16"
+      ],
+      "type": "annual-protestant-reading"
+    },
+    {
+      "day": 329,
+      "references": [
+        "2-corinthians 1",
+        "2-corinthians 2",
+        "2-corinthians 3"
+      ],
+      "type": "annual-protestant-reading"
+    },
+    {
+      "day": 330,
+      "references": [
+        "2-corinthians 4",
+        "2-corinthians 5",
+        "2-corinthians 6"
+      ],
+      "type": "annual-protestant-reading"
+    },
+    {
+      "day": 331,
+      "references": [
+        "2-corinthians 7",
+        "2-corinthians 8",
+        "2-corinthians 9"
+      ],
+      "type": "annual-protestant-reading"
+    },
+    {
+      "day": 332,
+      "references": [
+        "2-corinthians 10",
+        "2-corinthians 11",
+        "2-corinthians 12"
+      ],
+      "type": "annual-protestant-reading"
+    },
+    {
+      "day": 333,
+      "references": [
+        "2-corinthians 13",
+        "galatians 1",
+        "galatians 2"
+      ],
+      "type": "annual-protestant-reading"
+    },
+    {
+      "day": 334,
+      "references": [
+        "galatians 3",
+        "galatians 4",
+        "galatians 5"
+      ],
+      "type": "annual-protestant-reading"
+    },
+    {
+      "day": 335,
+      "references": [
+        "galatians 6",
+        "ephesians 1",
+        "ephesians 2"
+      ],
+      "type": "annual-protestant-reading"
+    },
+    {
+      "day": 336,
+      "references": [
+        "ephesians 3",
+        "ephesians 4",
+        "ephesians 5"
+      ],
+      "type": "annual-protestant-reading"
+    },
+    {
+      "day": 337,
+      "references": [
+        "ephesians 6",
+        "philippians 1",
+        "philippians 2"
+      ],
+      "type": "annual-protestant-reading"
+    },
+    {
+      "day": 338,
+      "references": [
+        "philippians 3",
+        "philippians 4",
+        "colossians 1"
+      ],
+      "type": "annual-protestant-reading"
+    },
+    {
+      "day": 339,
+      "references": [
+        "colossians 2",
+        "colossians 3",
+        "colossians 4"
+      ],
+      "type": "annual-protestant-reading"
+    },
+    {
+      "day": 340,
+      "references": [
+        "1-thessalonians 1",
+        "1-thessalonians 2",
+        "1-thessalonians 3"
+      ],
+      "type": "annual-protestant-reading"
+    },
+    {
+      "day": 341,
+      "references": [
+        "1-thessalonians 4",
+        "1-thessalonians 5",
+        "2-thessalonians 1"
+      ],
+      "type": "annual-protestant-reading"
+    },
+    {
+      "day": 342,
+      "references": [
+        "2-thessalonians 2",
+        "2-thessalonians 3",
+        "1-timothy 1"
+      ],
+      "type": "annual-protestant-reading"
+    },
+    {
+      "day": 343,
+      "references": [
+        "1-timothy 2",
+        "1-timothy 3",
+        "1-timothy 4"
+      ],
+      "type": "annual-protestant-reading"
+    },
+    {
+      "day": 344,
+      "references": [
+        "1-timothy 5",
+        "1-timothy 6",
+        "2-timothy 1"
+      ],
+      "type": "annual-protestant-reading"
+    },
+    {
+      "day": 345,
+      "references": [
+        "2-timothy 2",
+        "2-timothy 3",
+        "2-timothy 4"
+      ],
+      "type": "annual-protestant-reading"
+    },
+    {
+      "day": 346,
+      "references": [
+        "titus 1",
+        "titus 2",
+        "titus 3"
+      ],
+      "type": "annual-protestant-reading"
+    },
+    {
+      "day": 347,
+      "references": [
+        "philemon 1",
+        "hebrews 1",
+        "hebrews 2"
+      ],
+      "type": "annual-protestant-reading"
+    },
+    {
+      "day": 348,
+      "references": [
+        "hebrews 3",
+        "hebrews 4",
+        "hebrews 5"
+      ],
+      "type": "annual-protestant-reading"
+    },
+    {
+      "day": 349,
+      "references": [
+        "hebrews 6",
+        "hebrews 7",
+        "hebrews 8"
+      ],
+      "type": "annual-protestant-reading"
+    },
+    {
+      "day": 350,
+      "references": [
+        "hebrews 9",
+        "hebrews 10",
+        "hebrews 11"
+      ],
+      "type": "annual-protestant-reading"
+    },
+    {
+      "day": 351,
+      "references": [
+        "hebrews 12",
+        "hebrews 13",
+        "james 1"
+      ],
+      "type": "annual-protestant-reading"
+    },
+    {
+      "day": 352,
+      "references": [
+        "james 2",
+        "james 3",
+        "james 4"
+      ],
+      "type": "annual-protestant-reading"
+    },
+    {
+      "day": 353,
+      "references": [
+        "james 5",
+        "1-peter 1",
+        "1-peter 2"
+      ],
+      "type": "annual-protestant-reading"
+    },
+    {
+      "day": 354,
+      "references": [
+        "1-peter 3",
+        "1-peter 4",
+        "1-peter 5"
+      ],
+      "type": "annual-protestant-reading"
+    },
+    {
+      "day": 355,
+      "references": [
+        "2-peter 1",
+        "2-peter 2",
+        "2-peter 3"
+      ],
+      "type": "annual-protestant-reading"
+    },
+    {
+      "day": 356,
+      "references": [
+        "1-john 1",
+        "1-john 2",
+        "1-john 3"
+      ],
+      "type": "annual-protestant-reading"
+    },
+    {
+      "day": 357,
+      "references": [
+        "1-john 4",
+        "1-john 5",
+        "2-john 1"
+      ],
+      "type": "annual-protestant-reading"
+    },
+    {
+      "day": 358,
+      "references": [
+        "3-john 1",
+        "jude 1",
+        "revelation 1"
+      ],
+      "type": "annual-protestant-reading"
+    },
+    {
+      "day": 359,
+      "references": [
+        "revelation 2",
+        "revelation 3",
+        "revelation 4"
+      ],
+      "type": "annual-protestant-reading"
+    },
+    {
+      "day": 360,
+      "references": [
+        "revelation 5",
+        "revelation 6",
+        "revelation 7"
+      ],
+      "type": "annual-protestant-reading"
+    },
+    {
+      "day": 361,
+      "references": [
+        "revelation 8",
+        "revelation 9",
+        "revelation 10"
+      ],
+      "type": "annual-protestant-reading"
+    },
+    {
+      "day": 362,
+      "references": [
+        "revelation 11",
+        "revelation 12",
+        "revelation 13"
+      ],
+      "type": "annual-protestant-reading"
+    },
+    {
+      "day": 363,
+      "references": [
+        "revelation 14",
+        "revelation 15",
+        "revelation 16"
+      ],
+      "type": "annual-protestant-reading"
+    },
+    {
+      "day": 364,
+      "references": [
+        "revelation 17",
+        "revelation 18",
+        "revelation 19"
+      ],
+      "type": "annual-protestant-reading"
+    },
+    {
+      "day": 365,
+      "references": [
+        "revelation 20",
+        "revelation 21",
+        "revelation 22"
+      ],
+      "type": "annual-protestant-reading"
+    }
+  ],
+  "total_chapters": 1189
+}

@@ -1,0 +1,13 @@
+
+/* Radar EEAR v16 — atlas responsive layer */
+.radar-atlas-shell{--atlas-pad:clamp(12px,2vw,28px);container-type:inline-size}
+.radar-atlas-grid{display:grid;gap:clamp(14px,2vw,24px);grid-template-columns:minmax(0,1.25fr) minmax(300px,.75fr)}
+.radar-atlas-globe{width:100%;max-width:780px;aspect-ratio:1;margin-inline:auto;position:relative}
+.radar-atlas-filters{display:flex;gap:8px;overflow-x:auto;overscroll-behavior-x:contain;scroll-snap-type:x proximity;padding-bottom:2px;-webkit-overflow-scrolling:touch}
+.radar-atlas-filters>*{flex:0 0 auto;scroll-snap-align:start}
+.radar-atlas-detail{min-height:100%;position:relative}
+.radar-atlas-boundary{pointer-events:none}
+.radar-atlas-hit{touch-action:none}
+@container (max-width: 980px){.radar-atlas-grid{grid-template-columns:1fr}.radar-atlas-globe{max-width:720px}.radar-atlas-detail{min-height:unset}}
+@container (max-width: 620px){.radar-atlas-globe{max-width:none;min-height:300px}.radar-atlas-title{font-size:clamp(1.65rem,8vw,2.65rem);line-height:1.03}.radar-atlas-meta{display:grid;grid-template-columns:1fr 1fr}.radar-atlas-actions{position:sticky;bottom:max(8px,env(safe-area-inset-bottom));z-index:20;padding:8px;border-radius:18px;background:color-mix(in srgb,#02050a 82%,transparent);backdrop-filter:blur(10px)}}
+@media (prefers-reduced-motion: reduce){.radar-atlas-shell *{scroll-behavior:auto!important;animation-duration:.001ms!important;animation-iteration-count:1!important;transition-duration:.001ms!important}.radar-atlas-globe{scroll-behavior:auto}}

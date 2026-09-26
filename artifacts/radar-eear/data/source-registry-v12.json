@@ -1,0 +1,148 @@
+{
+  "sources": [
+    {
+      "id": "google_maps_3d",
+      "title": "Google Maps JavaScript API — 3D Maps",
+      "url": "https://developers.google.com/maps/documentation/javascript/3d/overview",
+      "kind": "documentação técnica",
+      "language": "pt-BR",
+      "notes": "3D Maps com globo, câmera, marcadores, linhas, modelos e eventos de interação."
+    },
+    {
+      "id": "google_maps_3d_get_started",
+      "title": "Google Maps JavaScript API — 3D Maps: início rápido",
+      "url": "https://developers.google.com/maps/documentation/javascript/3d/get-started",
+      "kind": "documentação técnica",
+      "language": "pt-BR",
+      "notes": "Exemplo oficial de gmp-map-3d e carregamento da API."
+    },
+    {
+      "id": "google_earth_projects",
+      "title": "Google Earth — Gerenciar projetos",
+      "url": "https://support.google.com/earth/answer/9396280?co=GENIE.Platform%3DDesktop&hl=pt-BR",
+      "kind": "documentação oficial",
+      "language": "pt-BR",
+      "notes": "Projetos, apresentação, compartilhamento e colaboração."
+    },
+    {
+      "id": "google_earth_tours",
+      "title": "Google Earth — Gravar e reproduzir tours",
+      "url": "https://support.google.com/earth/answer/148174?hl=pt-BR",
+      "kind": "documentação oficial",
+      "language": "pt-BR",
+      "notes": "Tours com câmera, quadros-chave e narração."
+    },
+    {
+      "id": "bibleproject_nt",
+      "title": "BibleProject — Novo Testamento",
+      "url": "https://bibleproject.com/pt-br/guides/categories/novo-testamento/",
+      "kind": "guia educacional",
+      "language": "pt-BR",
+      "notes": "Guias dos livros do Novo Testamento em português."
+    },
+    {
+      "id": "bibleproject_atos",
+      "title": "BibleProject — Atos",
+      "url": "https://bibleproject.com/pt-br/guides/atos/",
+      "kind": "guia educacional",
+      "language": "pt-BR",
+      "notes": "Lucas-Atos, viagens de Paulo e chegada a Roma."
+    },
+    {
+      "id": "bibleproject_corinth",
+      "title": "BibleProject — 1Coríntios",
+      "url": "https://bibleproject.com/pt-br/guides/1-corintios/",
+      "kind": "guia educacional",
+      "language": "pt-BR",
+      "notes": "Corinto como cidade portuária e comunidade cristã do século I."
+    },
+    {
+      "id": "bibleproject_ephesians",
+      "title": "BibleProject — Efésios",
+      "url": "https://bibleproject.com/pt-br/guides/efesios/",
+      "kind": "guia educacional",
+      "language": "pt-BR",
+      "notes": "Éfeso, contexto urbano e estrutura da carta."
+    },
+    {
+      "id": "bibleproject_romans",
+      "title": "BibleProject — Romanos",
+      "url": "https://bibleproject.com/pt-br/guides/romanos/",
+      "kind": "guia educacional",
+      "language": "pt-BR",
+      "notes": "Comunidade judaica e gentílica de Roma e temas teológicos."
+    },
+    {
+      "id": "bibleproject_galatians",
+      "title": "BibleProject — Gálatas",
+      "url": "https://bibleproject.com/pt-br/guides/galatas/",
+      "kind": "guia educacional",
+      "language": "pt-BR",
+      "notes": "Comunidades da Galácia e debates sobre identidade e Lei."
+    },
+    {
+      "id": "met_heilbrunn",
+      "title": "The Met — Heilbrunn Timeline of Art History",
+      "url": "https://www.metmuseum.org/pt/essays/timeline-of-art-history",
+      "kind": "história da arte",
+      "language": "pt-BR",
+      "notes": "Mais de 1.000 ensaios e 300 cronologias sobre história global da arte."
+    },
+    {
+      "id": "met_open_access",
+      "title": "The Met — Open Access",
+      "url": "https://www.metmuseum.org/pt/art/collection/search/459016",
+      "kind": "acervo de imagens",
+      "language": "pt-BR",
+      "notes": "Imagens em domínio público/Open Access podem ter reutilização comercial conforme o registro do objeto."
+    },
+    {
+      "id": "museum_language",
+      "title": "Museu da Língua Portuguesa — exposição e memória",
+      "url": "https://www.museudalinguaportuguesa.org.br/memoria/exposicao-principal/",
+      "kind": "história da língua",
+      "language": "pt-BR",
+      "notes": "História, diversidade, etimologia e formação do português brasileiro."
+    },
+    {
+      "id": "mactutor",
+      "title": "MacTutor History of Mathematics",
+      "url": "https://mathshistory.st-andrews.ac.uk/",
+      "kind": "história da matemática",
+      "language": "en",
+      "notes": "Biografias e história de conceitos matemáticos."
+    },
+    {
+      "id": "nobel_education",
+      "title": "Nobel Prize Educational Games",
+      "url": "https://educationalgames.nobelprize.org/educational/index.php",
+      "kind": "educação científica",
+      "language": "en",
+      "notes": "Jogos e experiências educacionais inspiradas em descobertas científicas."
+    },
+    {
+      "id": "phet_pt",
+      "title": "PhET — Simulações em português",
+      "url": "https://phet.colorado.edu/pt_BR",
+      "kind": "simulações",
+      "language": "pt-BR",
+      "notes": "Simulações interativas de física, matemática e ciências."
+    },
+    {
+      "id": "khan_pt",
+      "title": "Khan Academy — Português",
+      "url": "https://pt.khanacademy.org/",
+      "kind": "educação",
+      "language": "pt-BR",
+      "notes": "Prática de matemática, ciências e outros conteúdos em português."
+    },
+    {
+      "id": "wm_reuse_pt",
+      "title": "Wikimedia Commons — Reutilização de conteúdo",
+      "url": "https://commons.wikimedia.org/wiki/Commons:Reusing_content_outside_Wikimedia/pt-br",
+      "kind": "licenças",
+      "language": "pt-BR",
+      "notes": "Cada arquivo possui sua própria indicação de licença; domínio público, CC BY e CC BY-SA têm condições distintas."
+    }
+  ]
+}

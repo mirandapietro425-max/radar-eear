@@ -1,0 +1,65 @@
+{
+  "games": [
+    {
+      "id": "phet",
+      "name": "PhET",
+      "description_pt": "Simulações interativas de Física e Matemática; usar como laboratório complementar.",
+      "url": "https://phet.colorado.edu/pt_BR/",
+      "levels": [
+        "iniciante",
+        "intermediário",
+        "avançado"
+      ],
+      "integration": "embed-or-link"
+    },
+    {
+      "id": "geogebra",
+      "name": "GeoGebra",
+      "description_pt": "Laboratório para funções, geometria, gráficos e construções matemáticas interativas.",
+      "url": "https://www.geogebra.org/",
+      "levels": [
+        "iniciante",
+        "intermediário",
+        "avançado"
+      ],
+      "integration": "embed-or-link"
+    },
+    {
+      "id": "websudoku",
+      "name": "Sudoku web / motor incorporável",
+      "description_pt": "Treino opcional de lógica e atenção; não deve substituir conteúdos do edital.",
+      "url": "https://github.com/jo-tools/sudoku",
+      "levels": [
+        "iniciante",
+        "intermediário",
+        "avançado"
+      ],
+      "integration": "embed-or-link"
+    },
+    {
+      "id": "worldwind",
+      "name": "NASA Web WorldWind",
+      "description_pt": "Globo 3D geoespacial para exploração histórica e científica.",
+      "url": "https://github.com/NASAWorldWind/WebWorldWind",
+      "levels": [
+        "iniciante",
+        "intermediário",
+        "avançado"
+      ],
+      "integration": "embed-or-link"
+    },
+    {
+      "id": "cesium",
+      "name": "CesiumJS",
+      "description_pt": "Globo 3D e visualização geoespacial avançada.",
+      "url": "https://cesium.com/platform/cesiumjs/",
+      "levels": [
+        "iniciante",
+        "intermediário",
+        "avançado"
+      ],
+      "integration": "embed-or-link"
+    }
+  ],
+  "policy_pt": "Priorizar recursos educativos existentes e reutilizáveis. Só implementar um jogo do zero quando o recurso pronto não atender ao objetivo ou à licença."
+}

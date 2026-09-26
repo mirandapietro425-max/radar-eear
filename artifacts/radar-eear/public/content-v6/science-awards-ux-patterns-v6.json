@@ -1,0 +1,73 @@
+{
+  "schema_version": "6.0",
+  "language": "pt-BR",
+  "purpose": "Padrões editoriais para apresentar ciência como descoberta: pessoa + pergunta + evidência + visualização + impacto + fonte; não copiar identidade visual de terceiros.",
+  "sources": [
+    {
+      "id": "nobel",
+      "name": "Nobel Prize",
+      "url": "https://www.nobelprize.org/",
+      "pattern": "perfil biográfico + prêmio + trabalho + material visual"
+    },
+    {
+      "id": "breakthrough",
+      "name": "Breakthrough Prize",
+      "url": "https://breakthroughprize.org/",
+      "pattern": "laureado + pergunta grande + explicação da descoberta + impacto + celebração"
+    },
+    {
+      "id": "smithsonian-life-science",
+      "name": "Smithsonian Life Science",
+      "url": "https://naturalhistory.si.edu/education/teaching-resources/life-science",
+      "pattern": "objeto/animal + história curta + recurso pedagógico + aprofundamento"
+    },
+    {
+      "id": "nasa-images",
+      "name": "NASA Image and Video Library",
+      "url": "https://images.nasa.gov/",
+      "pattern": "imagem + metadado + legenda + asset + origem"
+    }
+  ],
+  "ux_principles": [
+    {
+      "id": "01",
+      "name": "Hero de descoberta",
+      "description": "Abrir com uma pergunta visual e uma frase que explique por que o assunto importa."
+    },
+    {
+      "id": "02",
+      "name": "Pessoa antes da teoria",
+      "description": "Mostrar quem era, onde nasceu, período histórico e caminho intelectual antes de lançar fórmulas."
+    },
+    {
+      "id": "03",
+      "name": "Evidência visível",
+      "description": "Imagem, manuscrito, mapa, gráfico ou simulação devem sustentar a narrativa."
+    },
+    {
+      "id": "04",
+      "name": "Camadas progressivas",
+      "description": "30 segundos → 5 minutos → 15 minutos → fonte primária; o usuário escolhe a profundidade."
+    },
+    {
+      "id": "05",
+      "name": "Interação causal",
+      "description": "Controles alteram parâmetros e mostram o efeito; evitar animação ornamental sem relação com o conteúdo."
+    },
+    {
+      "id": "06",
+      "name": "Fonte na superfície",
+      "description": "A origem aparece no card; o aprofundamento abre a fonte e a licença/proveniência."
+    },
+    {
+      "id": "07",
+      "name": "Conexões",
+      "description": "Cada item aponta para pessoas, livros, lugares, matemática, física, biologia, EEAR e outros módulos relacionados."
+    },
+    {
+      "id": "08",
+      "name": "Diário vivo",
+      "description": "O mesmo assunto pode voltar dias depois com uma nova pergunta ou nível de dificuldade."
+    }
+  ]
+}

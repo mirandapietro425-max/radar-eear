@@ -1,0 +1,1859 @@
+{
+  "schema_version": "6.0",
+  "language": "pt-BR",
+  "count": 59,
+  "items": [
+    {
+      "id": "república",
+      "title_pt": "A República",
+      "author_pt": "Platão",
+      "category": "filosofia",
+      "themes": [
+        "justiça",
+        "educação",
+        "política",
+        "conhecimento"
+      ],
+      "access_status": "full_text_link_or_catalog",
+      "access_note_pt": "Resumo, contexto e guia em português; texto integral somente quando a fonte/edição permitir.",
+      "source_note": "acervo público ou catálogo institucional a verificar por edição",
+      "ux": {
+        "card": [
+          "capa/imagem",
+          "quem escreveu",
+          "por que ler",
+          "3 perguntas"
+        ],
+        "reader": [
+          "progresso",
+          "marcadores",
+          "anotações",
+          "contexto",
+          "notas do Radar",
+          "fonte externa"
+        ],
+        "daily_ready": true
+      }
+    },
+    {
+      "id": "ética-nicomaco",
+      "title_pt": "Ética a Nicômaco",
+      "author_pt": "Aristóteles",
+      "category": "filosofia",
+      "themes": [
+        "virtude",
+        "felicidade",
+        "hábito",
+        "ética"
+      ],
+      "access_status": "full_text_link_or_catalog",
+      "access_note_pt": "Resumo, contexto e guia em português; texto integral somente quando a fonte/edição permitir.",
+      "source_note": "acervo público ou catálogo institucional a verificar por edição",
+      "ux": {
+        "card": [
+          "capa/imagem",
+          "quem escreveu",
+          "por que ler",
+          "3 perguntas"
+        ],
+        "reader": [
+          "progresso",
+          "marcadores",
+          "anotações",
+          "contexto",
+          "notas do Radar",
+          "fonte externa"
+        ],
+        "daily_ready": true
+      }
+    },
+    {
+      "id": "confissões",
+      "title_pt": "Confissões",
+      "author_pt": "Santo Agostinho",
+      "category": "teologia-filosofia",
+      "themes": [
+        "memória",
+        "tempo",
+        "vontade",
+        "fé"
+      ],
+      "access_status": "full_text_link_or_catalog",
+      "access_note_pt": "Resumo, contexto e guia em português; texto integral somente quando a fonte/edição permitir.",
+      "source_note": "acervo público ou catálogo institucional a verificar por edição",
+      "ux": {
+        "card": [
+          "capa/imagem",
+          "quem escreveu",
+          "por que ler",
+          "3 perguntas"
+        ],
+        "reader": [
+          "progresso",
+          "marcadores",
+          "anotações",
+          "contexto",
+          "notas do Radar",
+          "fonte externa"
+        ],
+        "daily_ready": true
+      }
+    },
+    {
+      "id": "suma-teologica",
+      "title_pt": "Suma Teológica",
+      "author_pt": "Tomás de Aquino",
+      "category": "teologia-filosofia",
+      "themes": [
+        "ser",
+        "lei",
+        "virtude",
+        "teologia natural"
+      ],
+      "access_status": "full_text_link_or_catalog",
+      "access_note_pt": "Resumo, contexto e guia em português; texto integral somente quando a fonte/edição permitir.",
+      "source_note": "acervo público ou catálogo institucional a verificar por edição",
+      "ux": {
+        "card": [
+          "capa/imagem",
+          "quem escreveu",
+          "por que ler",
+          "3 perguntas"
+        ],
+        "reader": [
+          "progresso",
+          "marcadores",
+          "anotações",
+          "contexto",
+          "notas do Radar",
+          "fonte externa"
+        ],
+        "daily_ready": true
+      }
+    },
+    {
+      "id": "meditações",
+      "title_pt": "Meditações",
+      "author_pt": "Marco Aurélio",
+      "category": "filosofia",
+      "themes": [
+        "autodomínio",
+        "dever",
+        "morte",
+        "vida pública"
+      ],
+      "access_status": "full_text_link_or_catalog",
+      "access_note_pt": "Resumo, contexto e guia em português; texto integral somente quando a fonte/edição permitir.",
+      "source_note": "acervo público ou catálogo institucional a verificar por edição",
+      "ux": {
+        "card": [
+          "capa/imagem",
+          "quem escreveu",
+          "por que ler",
+          "3 perguntas"
+        ],
+        "reader": [
+          "progresso",
+          "marcadores",
+          "anotações",
+          "contexto",
+          "notas do Radar",
+          "fonte externa"
+        ],
+        "daily_ready": true
+      }
+    },
+    {
+      "id": "manual-epicteto",
+      "title_pt": "Manual",
+      "author_pt": "Epicteto",
+      "category": "filosofia",
+      "themes": [
+        "juízo",
+        "autocontrole",
+        "liberdade interior"
+      ],
+      "access_status": "full_text_link_or_catalog",
+      "access_note_pt": "Resumo, contexto e guia em português; texto integral somente quando a fonte/edição permitir.",
+      "source_note": "acervo público ou catálogo institucional a verificar por edição",
+      "ux": {
+        "card": [
+          "capa/imagem",
+          "quem escreveu",
+          "por que ler",
+          "3 perguntas"
+        ],
+        "reader": [
+          "progresso",
+          "marcadores",
+          "anotações",
+          "contexto",
+          "notas do Radar",
+          "fonte externa"
+        ],
+        "daily_ready": true
+      }
+    },
+    {
+      "id": "principe",
+      "title_pt": "O Príncipe",
+      "author_pt": "Nicolau Maquiavel",
+      "category": "filosofia-social",
+      "themes": [
+        "poder",
+        "governo",
+        "virtù",
+        "instituições"
+      ],
+      "access_status": "full_text_link_or_catalog",
+      "access_note_pt": "Resumo, contexto e guia em português; texto integral somente quando a fonte/edição permitir.",
+      "source_note": "acervo público ou catálogo institucional a verificar por edição",
+      "ux": {
+        "card": [
+          "capa/imagem",
+          "quem escreveu",
+          "por que ler",
+          "3 perguntas"
+        ],
+        "reader": [
+          "progresso",
+          "marcadores",
+          "anotações",
+          "contexto",
+          "notas do Radar",
+          "fonte externa"
+        ],
+        "daily_ready": true
+      }
+    },
+    {
+      "id": "ensaios-montaigne",
+      "title_pt": "Ensaios",
+      "author_pt": "Michel de Montaigne",
+      "category": "filosofia-literatura",
+      "themes": [
+        "ceticismo",
+        "experiência",
+        "costumes",
+        "eu"
+      ],
+      "access_status": "full_text_link_or_catalog",
+      "access_note_pt": "Resumo, contexto e guia em português; texto integral somente quando a fonte/edição permitir.",
+      "source_note": "acervo público ou catálogo institucional a verificar por edição",
+      "ux": {
+        "card": [
+          "capa/imagem",
+          "quem escreveu",
+          "por que ler",
+          "3 perguntas"
+        ],
+        "reader": [
+          "progresso",
+          "marcadores",
+          "anotações",
+          "contexto",
+          "notas do Radar",
+          "fonte externa"
+        ],
+        "daily_ready": true
+      }
+    },
+    {
+      "id": "discurso-metodo",
+      "title_pt": "Discurso do Método",
+      "author_pt": "René Descartes",
+      "category": "filosofia-matemática",
+      "themes": [
+        "método",
+        "dúvida",
+        "razão",
+        "ciência"
+      ],
+      "access_status": "full_text_link_or_catalog",
+      "access_note_pt": "Resumo, contexto e guia em português; texto integral somente quando a fonte/edição permitir.",
+      "source_note": "acervo público ou catálogo institucional a verificar por edição",
+      "ux": {
+        "card": [
+          "capa/imagem",
+          "quem escreveu",
+          "por que ler",
+          "3 perguntas"
+        ],
+        "reader": [
+          "progresso",
+          "marcadores",
+          "anotações",
+          "contexto",
+          "notas do Radar",
+          "fonte externa"
+        ],
+        "daily_ready": true
+      }
+    },
+    {
+      "id": "etica-spinoza",
+      "title_pt": "Ética",
+      "author_pt": "Baruch Spinoza",
+      "category": "filosofia",
+      "themes": [
+        "substância",
+        "afetos",
+        "liberdade",
+        "natureza"
+      ],
+      "access_status": "full_text_link_or_catalog",
+      "access_note_pt": "Resumo, contexto e guia em português; texto integral somente quando a fonte/edição permitir.",
+      "source_note": "acervo público ou catálogo institucional a verificar por edição",
+      "ux": {
+        "card": [
+          "capa/imagem",
+          "quem escreveu",
+          "por que ler",
+          "3 perguntas"
+        ],
+        "reader": [
+          "progresso",
+          "marcadores",
+          "anotações",
+          "contexto",
+          "notas do Radar",
+          "fonte externa"
+        ],
+        "daily_ready": true
+      }
+    },
+    {
+      "id": "leviata",
+      "title_pt": "Leviatã",
+      "author_pt": "Thomas Hobbes",
+      "category": "filosofia-social",
+      "themes": [
+        "Estado",
+        "contrato",
+        "segurança",
+        "poder"
+      ],
+      "access_status": "full_text_link_or_catalog",
+      "access_note_pt": "Resumo, contexto e guia em português; texto integral somente quando a fonte/edição permitir.",
+      "source_note": "acervo público ou catálogo institucional a verificar por edição",
+      "ux": {
+        "card": [
+          "capa/imagem",
+          "quem escreveu",
+          "por que ler",
+          "3 perguntas"
+        ],
+        "reader": [
+          "progresso",
+          "marcadores",
+          "anotações",
+          "contexto",
+          "notas do Radar",
+          "fonte externa"
+        ],
+        "daily_ready": true
+      }
+    },
+    {
+      "id": "investigacao-entendimento",
+      "title_pt": "Investigação sobre o Entendimento Humano",
+      "author_pt": "David Hume",
+      "category": "filosofia",
+      "themes": [
+        "causalidade",
+        "experiência",
+        "crença"
+      ],
+      "access_status": "full_text_link_or_catalog",
+      "access_note_pt": "Resumo, contexto e guia em português; texto integral somente quando a fonte/edição permitir.",
+      "source_note": "acervo público ou catálogo institucional a verificar por edição",
+      "ux": {
+        "card": [
+          "capa/imagem",
+          "quem escreveu",
+          "por que ler",
+          "3 perguntas"
+        ],
+        "reader": [
+          "progresso",
+          "marcadores",
+          "anotações",
+          "contexto",
+          "notas do Radar",
+          "fonte externa"
+        ],
+        "daily_ready": true
+      }
+    },
+    {
+      "id": "contrato-social",
+      "title_pt": "Do Contrato Social",
+      "author_pt": "Jean-Jacques Rousseau",
+      "category": "filosofia-social",
+      "themes": [
+        "vontade geral",
+        "liberdade",
+        "legitimidade"
+      ],
+      "access_status": "full_text_link_or_catalog",
+      "access_note_pt": "Resumo, contexto e guia em português; texto integral somente quando a fonte/edição permitir.",
+      "source_note": "acervo público ou catálogo institucional a verificar por edição",
+      "ux": {
+        "card": [
+          "capa/imagem",
+          "quem escreveu",
+          "por que ler",
+          "3 perguntas"
+        ],
+        "reader": [
+          "progresso",
+          "marcadores",
+          "anotações",
+          "contexto",
+          "notas do Radar",
+          "fonte externa"
+        ],
+        "daily_ready": true
+      }
+    },
+    {
+      "id": "critica-razao-pura",
+      "title_pt": "Crítica da Razão Pura",
+      "author_pt": "Immanuel Kant",
+      "category": "filosofia",
+      "themes": [
+        "conhecimento",
+        "experiência",
+        "categorias"
+      ],
+      "access_status": "full_text_link_or_catalog",
+      "access_note_pt": "Resumo, contexto e guia em português; texto integral somente quando a fonte/edição permitir.",
+      "source_note": "acervo público ou catálogo institucional a verificar por edição",
+      "ux": {
+        "card": [
+          "capa/imagem",
+          "quem escreveu",
+          "por que ler",
+          "3 perguntas"
+        ],
+        "reader": [
+          "progresso",
+          "marcadores",
+          "anotações",
+          "contexto",
+          "notas do Radar",
+          "fonte externa"
+        ],
+        "daily_ready": true
+      }
+    },
+    {
+      "id": "fenomenologia-espirito",
+      "title_pt": "Fenomenologia do Espírito",
+      "author_pt": "G. W. F. Hegel",
+      "category": "filosofia",
+      "themes": [
+        "consciência",
+        "reconhecimento",
+        "história"
+      ],
+      "access_status": "full_text_link_or_catalog",
+      "access_note_pt": "Resumo, contexto e guia em português; texto integral somente quando a fonte/edição permitir.",
+      "source_note": "acervo público ou catálogo institucional a verificar por edição",
+      "ux": {
+        "card": [
+          "capa/imagem",
+          "quem escreveu",
+          "por que ler",
+          "3 perguntas"
+        ],
+        "reader": [
+          "progresso",
+          "marcadores",
+          "anotações",
+          "contexto",
+          "notas do Radar",
+          "fonte externa"
+        ],
+        "daily_ready": true
+      }
+    },
+    {
+      "id": "utilitarismo",
+      "title_pt": "Utilitarismo",
+      "author_pt": "John Stuart Mill",
+      "category": "filosofia-social",
+      "themes": [
+        "utilidade",
+        "liberdade",
+        "felicidade"
+      ],
+      "access_status": "full_text_link_or_catalog",
+      "access_note_pt": "Resumo, contexto e guia em português; texto integral somente quando a fonte/edição permitir.",
+      "source_note": "acervo público ou catálogo institucional a verificar por edição",
+      "ux": {
+        "card": [
+          "capa/imagem",
+          "quem escreveu",
+          "por que ler",
+          "3 perguntas"
+        ],
+        "reader": [
+          "progresso",
+          "marcadores",
+          "anotações",
+          "contexto",
+          "notas do Radar",
+          "fonte externa"
+        ],
+        "daily_ready": true
+      }
+    },
+    {
+      "id": "democracia-america",
+      "title_pt": "Democracia na América",
+      "author_pt": "Alexis de Tocqueville",
+      "category": "filosofia-social",
+      "themes": [
+        "democracia",
+        "associações",
+        "igualdade"
+      ],
+      "access_status": "full_text_link_or_catalog",
+      "access_note_pt": "Resumo, contexto e guia em português; texto integral somente quando a fonte/edição permitir.",
+      "source_note": "acervo público ou catálogo institucional a verificar por edição",
+      "ux": {
+        "card": [
+          "capa/imagem",
+          "quem escreveu",
+          "por que ler",
+          "3 perguntas"
+        ],
+        "reader": [
+          "progresso",
+          "marcadores",
+          "anotações",
+          "contexto",
+          "notas do Radar",
+          "fonte externa"
+        ],
+        "daily_ready": true
+      }
+    },
+    {
+      "id": "temor-tremor",
+      "title_pt": "Temor e Tremor",
+      "author_pt": "Søren Kierkegaard",
+      "category": "filosofia-teologia",
+      "themes": [
+        "fé",
+        "paradoxo",
+        "responsabilidade"
+      ],
+      "access_status": "full_text_link_or_catalog",
+      "access_note_pt": "Resumo, contexto e guia em português; texto integral somente quando a fonte/edição permitir.",
+      "source_note": "acervo público ou catálogo institucional a verificar por edição",
+      "ux": {
+        "card": [
+          "capa/imagem",
+          "quem escreveu",
+          "por que ler",
+          "3 perguntas"
+        ],
+        "reader": [
+          "progresso",
+          "marcadores",
+          "anotações",
+          "contexto",
+          "notas do Radar",
+          "fonte externa"
+        ],
+        "daily_ready": true
+      }
+    },
+    {
+      "id": "mundo-como-vontade",
+      "title_pt": "O Mundo como Vontade e Representação",
+      "author_pt": "Arthur Schopenhauer",
+      "category": "filosofia",
+      "themes": [
+        "vontade",
+        "sofrimento",
+        "estética"
+      ],
+      "access_status": "full_text_link_or_catalog",
+      "access_note_pt": "Resumo, contexto e guia em português; texto integral somente quando a fonte/edição permitir.",
+      "source_note": "acervo público ou catálogo institucional a verificar por edição",
+      "ux": {
+        "card": [
+          "capa/imagem",
+          "quem escreveu",
+          "por que ler",
+          "3 perguntas"
+        ],
+        "reader": [
+          "progresso",
+          "marcadores",
+          "anotações",
+          "contexto",
+          "notas do Radar",
+          "fonte externa"
+        ],
+        "daily_ready": true
+      }
+    },
+    {
+      "id": "alem-do-bem-mal",
+      "title_pt": "Além do Bem e do Mal",
+      "author_pt": "Friedrich Nietzsche",
+      "category": "filosofia",
+      "themes": [
+        "moral",
+        "valores",
+        "crítica cultural"
+      ],
+      "access_status": "full_text_link_or_catalog",
+      "access_note_pt": "Resumo, contexto e guia em português; texto integral somente quando a fonte/edição permitir.",
+      "source_note": "acervo público ou catálogo institucional a verificar por edição",
+      "ux": {
+        "card": [
+          "capa/imagem",
+          "quem escreveu",
+          "por que ler",
+          "3 perguntas"
+        ],
+        "reader": [
+          "progresso",
+          "marcadores",
+          "anotações",
+          "contexto",
+          "notas do Radar",
+          "fonte externa"
+        ],
+        "daily_ready": true
+      }
+    },
+    {
+      "id": "origem-especies",
+      "title_pt": "A Origem das Espécies",
+      "author_pt": "Charles Darwin",
+      "category": "biologia",
+      "themes": [
+        "evolução",
+        "seleção natural",
+        "adaptação"
+      ],
+      "access_status": "full_text_link_or_catalog",
+      "access_note_pt": "Resumo, contexto e guia em português; texto integral somente quando a fonte/edição permitir.",
+      "source_note": "acervo público ou catálogo institucional a verificar por edição",
+      "ux": {
+        "card": [
+          "capa/imagem",
+          "quem escreveu",
+          "por que ler",
+          "3 perguntas"
+        ],
+        "reader": [
+          "progresso",
+          "marcadores",
+          "anotações",
+          "contexto",
+          "notas do Radar",
+          "fonte externa"
+        ],
+        "daily_ready": true
+      }
+    },
+    {
+      "id": "primavera-silenciosa",
+      "title_pt": "Primavera Silenciosa",
+      "author_pt": "Rachel Carson",
+      "category": "ecologia",
+      "themes": [
+        "pesticidas",
+        "ecossistemas",
+        "impacto ambiental"
+      ],
+      "access_status": "full_text_link_or_catalog",
+      "access_note_pt": "Resumo, contexto e guia em português; texto integral somente quando a fonte/edição permitir.",
+      "source_note": "acervo público ou catálogo institucional a verificar por edição",
+      "ux": {
+        "card": [
+          "capa/imagem",
+          "quem escreveu",
+          "por que ler",
+          "3 perguntas"
+        ],
+        "reader": [
+          "progresso",
+          "marcadores",
+          "anotações",
+          "contexto",
+          "notas do Radar",
+          "fonte externa"
+        ],
+        "daily_ready": true
+      }
+    },
+    {
+      "id": "theory-sentimentos",
+      "title_pt": "Teoria dos Sentimentos Morais",
+      "author_pt": "Adam Smith",
+      "category": "economia-filosofia",
+      "themes": [
+        "simpatia",
+        "julgamento moral",
+        "sociedade"
+      ],
+      "access_status": "full_text_link_or_catalog",
+      "access_note_pt": "Resumo, contexto e guia em português; texto integral somente quando a fonte/edição permitir.",
+      "source_note": "acervo público ou catálogo institucional a verificar por edição",
+      "ux": {
+        "card": [
+          "capa/imagem",
+          "quem escreveu",
+          "por que ler",
+          "3 perguntas"
+        ],
+        "reader": [
+          "progresso",
+          "marcadores",
+          "anotações",
+          "contexto",
+          "notas do Radar",
+          "fonte externa"
+        ],
+        "daily_ready": true
+      }
+    },
+    {
+      "id": "riqueza-nacoes",
+      "title_pt": "A Riqueza das Nações",
+      "author_pt": "Adam Smith",
+      "category": "economia",
+      "themes": [
+        "divisão do trabalho",
+        "mercados",
+        "instituições"
+      ],
+      "access_status": "full_text_link_or_catalog",
+      "access_note_pt": "Resumo, contexto e guia em português; texto integral somente quando a fonte/edição permitir.",
+      "source_note": "acervo público ou catálogo institucional a verificar por edição",
+      "ux": {
+        "card": [
+          "capa/imagem",
+          "quem escreveu",
+          "por que ler",
+          "3 perguntas"
+        ],
+        "reader": [
+          "progresso",
+          "marcadores",
+          "anotações",
+          "contexto",
+          "notas do Radar",
+          "fonte externa"
+        ],
+        "daily_ready": true
+      }
+    },
+    {
+      "id": "etica-protestante",
+      "title_pt": "A Ética Protestante e o Espírito do Capitalismo",
+      "author_pt": "Max Weber",
+      "category": "sociologia",
+      "themes": [
+        "religião",
+        "racionalização",
+        "capitalismo"
+      ],
+      "access_status": "full_text_link_or_catalog",
+      "access_note_pt": "Resumo, contexto e guia em português; texto integral somente quando a fonte/edição permitir.",
+      "source_note": "acervo público ou catálogo institucional a verificar por edição",
+      "ux": {
+        "card": [
+          "capa/imagem",
+          "quem escreveu",
+          "por que ler",
+          "3 perguntas"
+        ],
+        "reader": [
+          "progresso",
+          "marcadores",
+          "anotações",
+          "contexto",
+          "notas do Radar",
+          "fonte externa"
+        ],
+        "daily_ready": true
+      }
+    },
+    {
+      "id": "suicidio",
+      "title_pt": "O Suicídio",
+      "author_pt": "Émile Durkheim",
+      "category": "sociologia",
+      "themes": [
+        "fatos sociais",
+        "integração",
+        "anomia"
+      ],
+      "access_status": "full_text_link_or_catalog",
+      "access_note_pt": "Resumo, contexto e guia em português; texto integral somente quando a fonte/edição permitir.",
+      "source_note": "acervo público ou catálogo institucional a verificar por edição",
+      "ux": {
+        "card": [
+          "capa/imagem",
+          "quem escreveu",
+          "por que ler",
+          "3 perguntas"
+        ],
+        "reader": [
+          "progresso",
+          "marcadores",
+          "anotações",
+          "contexto",
+          "notas do Radar",
+          "fonte externa"
+        ],
+        "daily_ready": true
+      }
+    },
+    {
+      "id": "almas-povo-negro",
+      "title_pt": "As Almas do Povo Negro",
+      "author_pt": "W. E. B. Du Bois",
+      "category": "sociologia",
+      "themes": [
+        "raça",
+        "educação",
+        "experiência social"
+      ],
+      "access_status": "full_text_link_or_catalog",
+      "access_note_pt": "Resumo, contexto e guia em português; texto integral somente quando a fonte/edição permitir.",
+      "source_note": "acervo público ou catálogo institucional a verificar por edição",
+      "ux": {
+        "card": [
+          "capa/imagem",
+          "quem escreveu",
+          "por que ler",
+          "3 perguntas"
+        ],
+        "reader": [
+          "progresso",
+          "marcadores",
+          "anotações",
+          "contexto",
+          "notas do Radar",
+          "fonte externa"
+        ],
+        "daily_ready": true
+      }
+    },
+    {
+      "id": "democracia-educacao",
+      "title_pt": "Democracia e Educação",
+      "author_pt": "John Dewey",
+      "category": "educação-filosofia",
+      "themes": [
+        "experiência",
+        "aprendizagem",
+        "democracia"
+      ],
+      "access_status": "full_text_link_or_catalog",
+      "access_note_pt": "Resumo, contexto e guia em português; texto integral somente quando a fonte/edição permitir.",
+      "source_note": "acervo público ou catálogo institucional a verificar por edição",
+      "ux": {
+        "card": [
+          "capa/imagem",
+          "quem escreveu",
+          "por que ler",
+          "3 perguntas"
+        ],
+        "reader": [
+          "progresso",
+          "marcadores",
+          "anotações",
+          "contexto",
+          "notas do Radar",
+          "fonte externa"
+        ],
+        "daily_ready": true
+      }
+    },
+    {
+      "id": "riqueza-capital",
+      "title_pt": "Manifesto Comunista",
+      "author_pt": "Karl Marx; Friedrich Engels",
+      "category": "pensamento social",
+      "themes": [
+        "classes",
+        "trabalho",
+        "história",
+        "capitalismo"
+      ],
+      "access_status": "full_text_link_or_catalog",
+      "access_note_pt": "Resumo, contexto e guia em português; texto integral somente quando a fonte/edição permitir.",
+      "source_note": "acervo público ou catálogo institucional a verificar por edição",
+      "ux": {
+        "card": [
+          "capa/imagem",
+          "quem escreveu",
+          "por que ler",
+          "3 perguntas"
+        ],
+        "reader": [
+          "progresso",
+          "marcadores",
+          "anotações",
+          "contexto",
+          "notas do Radar",
+          "fonte externa"
+        ],
+        "daily_ready": true
+      }
+    },
+    {
+      "id": "capital-livro-i",
+      "title_pt": "O Capital — Livro I",
+      "author_pt": "Karl Marx",
+      "category": "economia-filosofia",
+      "themes": [
+        "mercadoria",
+        "valor",
+        "trabalho",
+        "capital"
+      ],
+      "access_status": "full_text_link_or_catalog",
+      "access_note_pt": "Resumo, contexto e guia em português; texto integral somente quando a fonte/edição permitir.",
+      "source_note": "acervo público ou catálogo institucional a verificar por edição",
+      "ux": {
+        "card": [
+          "capa/imagem",
+          "quem escreveu",
+          "por que ler",
+          "3 perguntas"
+        ],
+        "reader": [
+          "progresso",
+          "marcadores",
+          "anotações",
+          "contexto",
+          "notas do Radar",
+          "fonte externa"
+        ],
+        "daily_ready": true
+      }
+    },
+    {
+      "id": "origem-familia",
+      "title_pt": "A Origem da Família, da Propriedade Privada e do Estado",
+      "author_pt": "Friedrich Engels",
+      "category": "pensamento social",
+      "themes": [
+        "família",
+        "propriedade",
+        "Estado",
+        "história social"
+      ],
+      "access_status": "full_text_link_or_catalog",
+      "access_note_pt": "Resumo, contexto e guia em português; texto integral somente quando a fonte/edição permitir.",
+      "source_note": "acervo público ou catálogo institucional a verificar por edição",
+      "ux": {
+        "card": [
+          "capa/imagem",
+          "quem escreveu",
+          "por que ler",
+          "3 perguntas"
+        ],
+        "reader": [
+          "progresso",
+          "marcadores",
+          "anotações",
+          "contexto",
+          "notas do Radar",
+          "fonte externa"
+        ],
+        "daily_ready": true
+      }
+    },
+    {
+      "id": "economia-sociedade",
+      "title_pt": "Economia e Sociedade",
+      "author_pt": "Max Weber",
+      "category": "sociologia",
+      "themes": [
+        "ação social",
+        "dominação",
+        "burocracia"
+      ],
+      "access_status": "full_text_link_or_catalog",
+      "access_note_pt": "Resumo, contexto e guia em português; texto integral somente quando a fonte/edição permitir.",
+      "source_note": "acervo público ou catálogo institucional a verificar por edição",
+      "ux": {
+        "card": [
+          "capa/imagem",
+          "quem escreveu",
+          "por que ler",
+          "3 perguntas"
+        ],
+        "reader": [
+          "progresso",
+          "marcadores",
+          "anotações",
+          "contexto",
+          "notas do Radar",
+          "fonte externa"
+        ],
+        "daily_ready": true
+      }
+    },
+    {
+      "id": "ensaio-vocacao-ciencia",
+      "title_pt": "A Ciência como Vocação",
+      "author_pt": "Max Weber",
+      "category": "sociologia-filosofia",
+      "themes": [
+        "ciência",
+        "especialização",
+        "sentido",
+        "profissão"
+      ],
+      "access_status": "full_text_link_or_catalog",
+      "access_note_pt": "Resumo, contexto e guia em português; texto integral somente quando a fonte/edição permitir.",
+      "source_note": "acervo público ou catálogo institucional a verificar por edição",
+      "ux": {
+        "card": [
+          "capa/imagem",
+          "quem escreveu",
+          "por que ler",
+          "3 perguntas"
+        ],
+        "reader": [
+          "progresso",
+          "marcadores",
+          "anotações",
+          "contexto",
+          "notas do Radar",
+          "fonte externa"
+        ],
+        "daily_ready": true
+      }
+    },
+    {
+      "id": "condicao-humana",
+      "title_pt": "A Condição Humana",
+      "author_pt": "Hannah Arendt",
+      "category": "filosofia-politica",
+      "themes": [
+        "ação",
+        "trabalho",
+        "espaço público"
+      ],
+      "access_status": "full_text_link_or_catalog",
+      "access_note_pt": "Resumo, contexto e guia em português; texto integral somente quando a fonte/edição permitir.",
+      "source_note": "acervo público ou catálogo institucional a verificar por edição",
+      "ux": {
+        "card": [
+          "capa/imagem",
+          "quem escreveu",
+          "por que ler",
+          "3 perguntas"
+        ],
+        "reader": [
+          "progresso",
+          "marcadores",
+          "anotações",
+          "contexto",
+          "notas do Radar",
+          "fonte externa"
+        ],
+        "daily_ready": true
+      }
+    },
+    {
+      "id": "sociedade-espetaculo",
+      "title_pt": "A Sociedade do Espetáculo",
+      "author_pt": "Guy Debord",
+      "category": "filosofia-social",
+      "themes": [
+        "mercadoria",
+        "representação",
+        "mídia"
+      ],
+      "access_status": "full_text_link_or_catalog",
+      "access_note_pt": "Resumo, contexto e guia em português; texto integral somente quando a fonte/edição permitir.",
+      "source_note": "acervo público ou catálogo institucional a verificar por edição",
+      "ux": {
+        "card": [
+          "capa/imagem",
+          "quem escreveu",
+          "por que ler",
+          "3 perguntas"
+        ],
+        "reader": [
+          "progresso",
+          "marcadores",
+          "anotações",
+          "contexto",
+          "notas do Radar",
+          "fonte externa"
+        ],
+        "daily_ready": true
+      }
+    },
+    {
+      "id": "segundo-sexo",
+      "title_pt": "O Segundo Sexo",
+      "author_pt": "Simone de Beauvoir",
+      "category": "filosofia-social",
+      "themes": [
+        "liberdade",
+        "gênero",
+        "construção social"
+      ],
+      "access_status": "full_text_link_or_catalog",
+      "access_note_pt": "Resumo, contexto e guia em português; texto integral somente quando a fonte/edição permitir.",
+      "source_note": "acervo público ou catálogo institucional a verificar por edição",
+      "ux": {
+        "card": [
+          "capa/imagem",
+          "quem escreveu",
+          "por que ler",
+          "3 perguntas"
+        ],
+        "reader": [
+          "progresso",
+          "marcadores",
+          "anotações",
+          "contexto",
+          "notas do Radar",
+          "fonte externa"
+        ],
+        "daily_ready": true
+      }
+    },
+    {
+      "id": "mito-sisifo",
+      "title_pt": "O Mito de Sísifo",
+      "author_pt": "Albert Camus",
+      "category": "filosofia-literatura",
+      "themes": [
+        "absurdo",
+        "revolta",
+        "sentido"
+      ],
+      "access_status": "full_text_link_or_catalog",
+      "access_note_pt": "Resumo, contexto e guia em português; texto integral somente quando a fonte/edição permitir.",
+      "source_note": "acervo público ou catálogo institucional a verificar por edição",
+      "ux": {
+        "card": [
+          "capa/imagem",
+          "quem escreveu",
+          "por que ler",
+          "3 perguntas"
+        ],
+        "reader": [
+          "progresso",
+          "marcadores",
+          "anotações",
+          "contexto",
+          "notas do Radar",
+          "fonte externa"
+        ],
+        "daily_ready": true
+      }
+    },
+    {
+      "id": "vigilancia-punicao",
+      "title_pt": "Vigiar e Punir",
+      "author_pt": "Michel Foucault",
+      "category": "filosofia-social",
+      "themes": [
+        "disciplina",
+        "instituições",
+        "poder"
+      ],
+      "access_status": "full_text_link_or_catalog",
+      "access_note_pt": "Resumo, contexto e guia em português; texto integral somente quando a fonte/edição permitir.",
+      "source_note": "acervo público ou catálogo institucional a verificar por edição",
+      "ux": {
+        "card": [
+          "capa/imagem",
+          "quem escreveu",
+          "por que ler",
+          "3 perguntas"
+        ],
+        "reader": [
+          "progresso",
+          "marcadores",
+          "anotações",
+          "contexto",
+          "notas do Radar",
+          "fonte externa"
+        ],
+        "daily_ready": true
+      }
+    },
+    {
+      "id": "pedagogia-oprimido",
+      "title_pt": "Pedagogia do Oprimido",
+      "author_pt": "Paulo Freire",
+      "category": "educação-filosofia",
+      "themes": [
+        "diálogo",
+        "consciência",
+        "práxis"
+      ],
+      "access_status": "full_text_link_or_catalog",
+      "access_note_pt": "Resumo, contexto e guia em português; texto integral somente quando a fonte/edição permitir.",
+      "source_note": "acervo público ou catálogo institucional a verificar por edição",
+      "ux": {
+        "card": [
+          "capa/imagem",
+          "quem escreveu",
+          "por que ler",
+          "3 perguntas"
+        ],
+        "reader": [
+          "progresso",
+          "marcadores",
+          "anotações",
+          "contexto",
+          "notas do Radar",
+          "fonte externa"
+        ],
+        "daily_ready": true
+      }
+    },
+    {
+      "id": "casa-grande-senzala",
+      "title_pt": "Casa-Grande & Senzala",
+      "author_pt": "Gilberto Freyre",
+      "category": "sociologia-história",
+      "themes": [
+        "família",
+        "colonização",
+        "cultura"
+      ],
+      "access_status": "full_text_link_or_catalog",
+      "access_note_pt": "Resumo, contexto e guia em português; texto integral somente quando a fonte/edição permitir.",
+      "source_note": "acervo público ou catálogo institucional a verificar por edição",
+      "ux": {
+        "card": [
+          "capa/imagem",
+          "quem escreveu",
+          "por que ler",
+          "3 perguntas"
+        ],
+        "reader": [
+          "progresso",
+          "marcadores",
+          "anotações",
+          "contexto",
+          "notas do Radar",
+          "fonte externa"
+        ],
+        "daily_ready": true
+      }
+    },
+    {
+      "id": "os-sertoes",
+      "title_pt": "Os Sertões",
+      "author_pt": "Euclides da Cunha",
+      "category": "literatura-social",
+      "themes": [
+        "território",
+        "guerra",
+        "sociedade",
+        "sertão"
+      ],
+      "access_status": "full_text_link_or_catalog",
+      "access_note_pt": "Resumo, contexto e guia em português; texto integral somente quando a fonte/edição permitir.",
+      "source_note": "acervo público ou catálogo institucional a verificar por edição",
+      "ux": {
+        "card": [
+          "capa/imagem",
+          "quem escreveu",
+          "por que ler",
+          "3 perguntas"
+        ],
+        "reader": [
+          "progresso",
+          "marcadores",
+          "anotações",
+          "contexto",
+          "notas do Radar",
+          "fonte externa"
+        ],
+        "daily_ready": true
+      }
+    },
+    {
+      "id": "triste-fim-policarpo",
+      "title_pt": "Triste Fim de Policarpo Quaresma",
+      "author_pt": "Lima Barreto",
+      "category": "literatura-social",
+      "themes": [
+        "nação",
+        "burocracia",
+        "identidade",
+        "crítica social"
+      ],
+      "access_status": "full_text_link_or_catalog",
+      "access_note_pt": "Resumo, contexto e guia em português; texto integral somente quando a fonte/edição permitir.",
+      "source_note": "acervo público ou catálogo institucional a verificar por edição",
+      "ux": {
+        "card": [
+          "capa/imagem",
+          "quem escreveu",
+          "por que ler",
+          "3 perguntas"
+        ],
+        "reader": [
+          "progresso",
+          "marcadores",
+          "anotações",
+          "contexto",
+          "notas do Radar",
+          "fonte externa"
+        ],
+        "daily_ready": true
+      }
+    },
+    {
+      "id": "memorias-póstumas",
+      "title_pt": "Memórias Póstumas de Brás Cubas",
+      "author_pt": "Machado de Assis",
+      "category": "literatura-social",
+      "themes": [
+        "sociedade",
+        "ironia",
+        "classe",
+        "moral"
+      ],
+      "access_status": "full_text_link_or_catalog",
+      "access_note_pt": "Resumo, contexto e guia em português; texto integral somente quando a fonte/edição permitir.",
+      "source_note": "acervo público ou catálogo institucional a verificar por edição",
+      "ux": {
+        "card": [
+          "capa/imagem",
+          "quem escreveu",
+          "por que ler",
+          "3 perguntas"
+        ],
+        "reader": [
+          "progresso",
+          "marcadores",
+          "anotações",
+          "contexto",
+          "notas do Radar",
+          "fonte externa"
+        ],
+        "daily_ready": true
+      }
+    },
+    {
+      "id": "dom-casmurro",
+      "title_pt": "Dom Casmurro",
+      "author_pt": "Machado de Assis",
+      "category": "literatura",
+      "themes": [
+        "memória",
+        "ciúme",
+        "narrativa",
+        "sociedade"
+      ],
+      "access_status": "full_text_link_or_catalog",
+      "access_note_pt": "Resumo, contexto e guia em português; texto integral somente quando a fonte/edição permitir.",
+      "source_note": "acervo público ou catálogo institucional a verificar por edição",
+      "ux": {
+        "card": [
+          "capa/imagem",
+          "quem escreveu",
+          "por que ler",
+          "3 perguntas"
+        ],
+        "reader": [
+          "progresso",
+          "marcadores",
+          "anotações",
+          "contexto",
+          "notas do Radar",
+          "fonte externa"
+        ],
+        "daily_ready": true
+      }
+    },
+    {
+      "id": "quincas-borba",
+      "title_pt": "Quincas Borba",
+      "author_pt": "Machado de Assis",
+      "category": "literatura-social",
+      "themes": [
+        "filosofia",
+        "sociedade",
+        "loucura",
+        "interesse"
+      ],
+      "access_status": "full_text_link_or_catalog",
+      "access_note_pt": "Resumo, contexto e guia em português; texto integral somente quando a fonte/edição permitir.",
+      "source_note": "acervo público ou catálogo institucional a verificar por edição",
+      "ux": {
+        "card": [
+          "capa/imagem",
+          "quem escreveu",
+          "por que ler",
+          "3 perguntas"
+        ],
+        "reader": [
+          "progresso",
+          "marcadores",
+          "anotações",
+          "contexto",
+          "notas do Radar",
+          "fonte externa"
+        ],
+        "daily_ready": true
+      }
+    },
+    {
+      "id": "senhora",
+      "title_pt": "Senhora",
+      "author_pt": "José de Alencar",
+      "category": "literatura",
+      "themes": [
+        "sociedade",
+        "casamento",
+        "dinheiro",
+        "valores"
+      ],
+      "access_status": "full_text_link_or_catalog",
+      "access_note_pt": "Resumo, contexto e guia em português; texto integral somente quando a fonte/edição permitir.",
+      "source_note": "acervo público ou catálogo institucional a verificar por edição",
+      "ux": {
+        "card": [
+          "capa/imagem",
+          "quem escreveu",
+          "por que ler",
+          "3 perguntas"
+        ],
+        "reader": [
+          "progresso",
+          "marcadores",
+          "anotações",
+          "contexto",
+          "notas do Radar",
+          "fonte externa"
+        ],
+        "daily_ready": true
+      }
+    },
+    {
+      "id": "o-cortico",
+      "title_pt": "O Cortiço",
+      "author_pt": "Aluísio Azevedo",
+      "category": "literatura-social",
+      "themes": [
+        "urbanização",
+        "desigualdade",
+        "determinismo literário"
+      ],
+      "access_status": "full_text_link_or_catalog",
+      "access_note_pt": "Resumo, contexto e guia em português; texto integral somente quando a fonte/edição permitir.",
+      "source_note": "acervo público ou catálogo institucional a verificar por edição",
+      "ux": {
+        "card": [
+          "capa/imagem",
+          "quem escreveu",
+          "por que ler",
+          "3 perguntas"
+        ],
+        "reader": [
+          "progresso",
+          "marcadores",
+          "anotações",
+          "contexto",
+          "notas do Radar",
+          "fonte externa"
+        ],
+        "daily_ready": true
+      }
+    },
+    {
+      "id": "iracema",
+      "title_pt": "Iracema",
+      "author_pt": "José de Alencar",
+      "category": "literatura",
+      "themes": [
+        "identidade",
+        "colonização",
+        "linguagem"
+      ],
+      "access_status": "full_text_link_or_catalog",
+      "access_note_pt": "Resumo, contexto e guia em português; texto integral somente quando a fonte/edição permitir.",
+      "source_note": "acervo público ou catálogo institucional a verificar por edição",
+      "ux": {
+        "card": [
+          "capa/imagem",
+          "quem escreveu",
+          "por que ler",
+          "3 perguntas"
+        ],
+        "reader": [
+          "progresso",
+          "marcadores",
+          "anotações",
+          "contexto",
+          "notas do Radar",
+          "fonte externa"
+        ],
+        "daily_ready": true
+      }
+    },
+    {
+      "id": "guerra-paz",
+      "title_pt": "Guerra e Paz",
+      "author_pt": "Liev Tolstói",
+      "category": "literatura-social",
+      "themes": [
+        "guerra",
+        "família",
+        "história",
+        "moral"
+      ],
+      "access_status": "full_text_link_or_catalog",
+      "access_note_pt": "Resumo, contexto e guia em português; texto integral somente quando a fonte/edição permitir.",
+      "source_note": "acervo público ou catálogo institucional a verificar por edição",
+      "ux": {
+        "card": [
+          "capa/imagem",
+          "quem escreveu",
+          "por que ler",
+          "3 perguntas"
+        ],
+        "reader": [
+          "progresso",
+          "marcadores",
+          "anotações",
+          "contexto",
+          "notas do Radar",
+          "fonte externa"
+        ],
+        "daily_ready": true
+      }
+    },
+    {
+      "id": "crime-castigo",
+      "title_pt": "Crime e Castigo",
+      "author_pt": "Fiódor Dostoiévski",
+      "category": "literatura-filosofia",
+      "themes": [
+        "culpa",
+        "ética",
+        "pobreza",
+        "redenção"
+      ],
+      "access_status": "full_text_link_or_catalog",
+      "access_note_pt": "Resumo, contexto e guia em português; texto integral somente quando a fonte/edição permitir.",
+      "source_note": "acervo público ou catálogo institucional a verificar por edição",
+      "ux": {
+        "card": [
+          "capa/imagem",
+          "quem escreveu",
+          "por que ler",
+          "3 perguntas"
+        ],
+        "reader": [
+          "progresso",
+          "marcadores",
+          "anotações",
+          "contexto",
+          "notas do Radar",
+          "fonte externa"
+        ],
+        "daily_ready": true
+      }
+    },
+    {
+      "id": "irmaos-karamazov",
+      "title_pt": "Os Irmãos Karamázov",
+      "author_pt": "Fiódor Dostoiévski",
+      "category": "literatura-filosofia",
+      "themes": [
+        "fé",
+        "razão",
+        "moral",
+        "liberdade"
+      ],
+      "access_status": "full_text_link_or_catalog",
+      "access_note_pt": "Resumo, contexto e guia em português; texto integral somente quando a fonte/edição permitir.",
+      "source_note": "acervo público ou catálogo institucional a verificar por edição",
+      "ux": {
+        "card": [
+          "capa/imagem",
+          "quem escreveu",
+          "por que ler",
+          "3 perguntas"
+        ],
+        "reader": [
+          "progresso",
+          "marcadores",
+          "anotações",
+          "contexto",
+          "notas do Radar",
+          "fonte externa"
+        ],
+        "daily_ready": true
+      }
+    },
+    {
+      "id": "anna-karenina",
+      "title_pt": "Anna Kariênina",
+      "author_pt": "Liev Tolstói",
+      "category": "literatura-social",
+      "themes": [
+        "família",
+        "sociedade",
+        "desejo",
+        "moral"
+      ],
+      "access_status": "full_text_link_or_catalog",
+      "access_note_pt": "Resumo, contexto e guia em português; texto integral somente quando a fonte/edição permitir.",
+      "source_note": "acervo público ou catálogo institucional a verificar por edição",
+      "ux": {
+        "card": [
+          "capa/imagem",
+          "quem escreveu",
+          "por que ler",
+          "3 perguntas"
+        ],
+        "reader": [
+          "progresso",
+          "marcadores",
+          "anotações",
+          "contexto",
+          "notas do Radar",
+          "fonte externa"
+        ],
+        "daily_ready": true
+      }
+    },
+    {
+      "id": "o-mundo-de-sofia",
+      "title_pt": "O Mundo de Sofia",
+      "author_pt": "Jostein Gaarder",
+      "category": "literatura-filosofia",
+      "themes": [
+        "história da filosofia",
+        "perguntas",
+        "identidade"
+      ],
+      "access_status": "full_text_link_or_catalog",
+      "access_note_pt": "Resumo, contexto e guia em português; texto integral somente quando a fonte/edição permitir.",
+      "source_note": "acervo público ou catálogo institucional a verificar por edição",
+      "ux": {
+        "card": [
+          "capa/imagem",
+          "quem escreveu",
+          "por que ler",
+          "3 perguntas"
+        ],
+        "reader": [
+          "progresso",
+          "marcadores",
+          "anotações",
+          "contexto",
+          "notas do Radar",
+          "fonte externa"
+        ],
+        "daily_ready": true
+      }
+    },
+    {
+      "id": "kosmos",
+      "title_pt": "Kosmos",
+      "author_pt": "Alexander von Humboldt",
+      "category": "ciência-literatura",
+      "themes": [
+        "natureza",
+        "observação",
+        "integração do conhecimento"
+      ],
+      "access_status": "full_text_link_or_catalog",
+      "access_note_pt": "Resumo, contexto e guia em português; texto integral somente quando a fonte/edição permitir.",
+      "source_note": "acervo público ou catálogo institucional a verificar por edição",
+      "ux": {
+        "card": [
+          "capa/imagem",
+          "quem escreveu",
+          "por que ler",
+          "3 perguntas"
+        ],
+        "reader": [
+          "progresso",
+          "marcadores",
+          "anotações",
+          "contexto",
+          "notas do Radar",
+          "fonte externa"
+        ],
+        "daily_ready": true
+      }
+    },
+    {
+      "id": "theory-analytic-heat",
+      "title_pt": "Teoria Analítica do Calor",
+      "author_pt": "Joseph Fourier",
+      "category": "matemática-física",
+      "themes": [
+        "séries",
+        "condução",
+        "modelagem"
+      ],
+      "access_status": "full_text_link_or_catalog",
+      "access_note_pt": "Resumo, contexto e guia em português; texto integral somente quando a fonte/edição permitir.",
+      "source_note": "acervo público ou catálogo institucional a verificar por edição",
+      "ux": {
+        "card": [
+          "capa/imagem",
+          "quem escreveu",
+          "por que ler",
+          "3 perguntas"
+        ],
+        "reader": [
+          "progresso",
+          "marcadores",
+          "anotações",
+          "contexto",
+          "notas do Radar",
+          "fonte externa"
+        ],
+        "daily_ready": true
+      }
+    },
+    {
+      "id": "disquisitions-arithmeticae",
+      "title_pt": "Disquisitiones Arithmeticae",
+      "author_pt": "Carl Friedrich Gauss",
+      "category": "matemática",
+      "themes": [
+        "teoria dos números"
+      ],
+      "access_status": "full_text_link_or_catalog",
+      "access_note_pt": "Resumo, contexto e guia em português; texto integral somente quando a fonte/edição permitir.",
+      "source_note": "acervo público ou catálogo institucional a verificar por edição",
+      "ux": {
+        "card": [
+          "capa/imagem",
+          "quem escreveu",
+          "por que ler",
+          "3 perguntas"
+        ],
+        "reader": [
+          "progresso",
+          "marcadores",
+          "anotações",
+          "contexto",
+          "notas do Radar",
+          "fonte externa"
+        ],
+        "daily_ready": true
+      }
+    },
+    {
+      "id": "computable-numbers",
+      "title_pt": "On Computable Numbers",
+      "author_pt": "Alan Turing",
+      "category": "computação-matemática",
+      "themes": [
+        "algoritmos",
+        "computabilidade",
+        "máquinas"
+      ],
+      "access_status": "full_text_link_or_catalog",
+      "access_note_pt": "Resumo, contexto e guia em português; texto integral somente quando a fonte/edição permitir.",
+      "source_note": "acervo público ou catálogo institucional a verificar por edição",
+      "ux": {
+        "card": [
+          "capa/imagem",
+          "quem escreveu",
+          "por que ler",
+          "3 perguntas"
+        ],
+        "reader": [
+          "progresso",
+          "marcadores",
+          "anotações",
+          "contexto",
+          "notas do Radar",
+          "fonte externa"
+        ],
+        "daily_ready": true
+      }
+    },
+    {
+      "id": "communication-mathematical",
+      "title_pt": "A Mathematical Theory of Communication",
+      "author_pt": "Claude Shannon",
+      "category": "matemática-informação",
+      "themes": [
+        "entropia",
+        "informação",
+        "comunicação"
+      ],
+      "access_status": "full_text_link_or_catalog",
+      "access_note_pt": "Resumo, contexto e guia em português; texto integral somente quando a fonte/edição permitir.",
+      "source_note": "acervo público ou catálogo institucional a verificar por edição",
+      "ux": {
+        "card": [
+          "capa/imagem",
+          "quem escreveu",
+          "por que ler",
+          "3 perguntas"
+        ],
+        "reader": [
+          "progresso",
+          "marcadores",
+          "anotações",
+          "contexto",
+          "notas do Radar",
+          "fonte externa"
+        ],
+        "daily_ready": true
+      }
+    },
+    {
+      "id": "narrativa-quimica",
+      "title_pt": "A Natureza da Ligação Química",
+      "author_pt": "Linus Pauling",
+      "category": "ciência",
+      "themes": [
+        "estrutura molecular",
+        "química",
+        "energia"
+      ],
+      "access_status": "full_text_link_or_catalog",
+      "access_note_pt": "Resumo, contexto e guia em português; texto integral somente quando a fonte/edição permitir.",
+      "source_note": "acervo público ou catálogo institucional a verificar por edição",
+      "ux": {
+        "card": [
+          "capa/imagem",
+          "quem escreveu",
+          "por que ler",
+          "3 perguntas"
+        ],
+        "reader": [
+          "progresso",
+          "marcadores",
+          "anotações",
+          "contexto",
+          "notas do Radar",
+          "fonte externa"
+        ],
+        "daily_ready": true
+      }
+    }
+  ],
+  "policy": "O Radar não hospeda automaticamente traduções protegidas. Ele oferece leitura integral apenas quando a fonte/edição e os direitos permitem; caso contrário, mantém contexto em português e aponta para a fonte."
+}

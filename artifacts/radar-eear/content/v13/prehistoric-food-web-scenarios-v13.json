@@ -1,0 +1,107 @@
+[
+  {
+    "id": "pleistocene-south-america-pampas",
+    "title": "Pampas do Pleistoceno",
+    "climate": "frio a temperado, mosaico de pastagens e outros ambientes",
+    "nodes": [
+      "toxodon",
+      "smilodon-populator",
+      "glyptodon",
+      "megatherium"
+    ],
+    "relations": [
+      [
+        "vegetação",
+        "toxodon",
+        "herbivoria"
+      ],
+      [
+        "vegetação",
+        "glyptodon",
+        "herbivoria"
+      ],
+      [
+        "vegetação",
+        "megatherium",
+        "herbivoria"
+      ],
+      [
+        "toxodon",
+        "smilodon-populator",
+        "predação possível/inferida"
+      ],
+      [
+        "herbívoros",
+        "humanos",
+        "interação/caça em contextos locais"
+      ]
+    ],
+    "evidence_note": "As relações predador-presa específicas devem ser exibidas como hipóteses quando não diretamente demonstradas."
+  },
+  {
+    "id": "pleistocene-north-america",
+    "title": "Estepe e pradaria do Pleistoceno",
+    "climate": "frio e sazonal em diferentes regiões",
+    "nodes": [
+      "mammuthus-primigenius",
+      "mammuthus-columbi",
+      "smilodon-fatalis",
+      "dire-wolf"
+    ],
+    "relations": [
+      [
+        "gramíneas",
+        "mammuthus-primigenius",
+        "alimentação"
+      ],
+      [
+        "gramíneas",
+        "mammuthus-columbi",
+        "alimentação"
+      ],
+      [
+        "mammuthus-primigenius",
+        "smilodon-fatalis",
+        "predação possível"
+      ],
+      [
+        "grandes herbívoros",
+        "dire-wolf",
+        "predação/necrofagia possível"
+      ]
+    ]
+  },
+  {
+    "id": "cretaceous-landscape",
+    "title": "Paisagem do Cretáceo",
+    "climate": "quente, sazonal em muitas regiões",
+    "nodes": [
+      "tyrannosaurus",
+      "triceratops",
+      "stegosaurus",
+      "allosaurus"
+    ],
+    "relations": [
+      [
+        "vegetação",
+        "triceratops",
+        "alimentação"
+      ],
+      [
+        "triceratops",
+        "tyrannosaurus",
+        "predação possível"
+      ],
+      [
+        "vegetação",
+        "stegosaurus",
+        "alimentação"
+      ],
+      [
+        "herbívoros",
+        "terópodes",
+        "predação/necrofagia"
+      ]
+    ]
+  }
+]

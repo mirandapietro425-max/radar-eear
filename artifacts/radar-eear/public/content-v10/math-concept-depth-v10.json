@@ -1,0 +1,2227 @@
+{
+  "schema_version": "10.0",
+  "language": "pt-BR",
+  "count": 104,
+  "items": [
+    {
+      "id": "math-depth-001",
+      "title_pt": "Razão e proporção",
+      "intuitive_pt": "Entenda razão e proporção pela ideia que vem antes da fórmula e pelo problema que a fórmula resolve.",
+      "anchor": "comparação multiplicativa",
+      "formula_or_rule_pt": "Apresentar a regra ou fórmula em notação legível, seguida de interpretação de cada termo.",
+      "example_pt": "Exemplo numérico curto, alterável pelo usuário.",
+      "visual_pt": "Gráfico, diagrama, reta numérica, árvore de possibilidades ou animação, conforme o conceito.",
+      "common_errors_pt": [
+        "decorar fórmula sem entender grandezas",
+        "misturar unidades ou condições",
+        "pular a etapa de interpretação do enunciado"
+      ],
+      "micro_challenge_pt": "Mude um parâmetro e preveja o que acontecerá antes de revelar o resultado.",
+      "sources": [
+        "src_eear_edital_2027",
+        "src_khan_pt_prob",
+        "src_geogebra"
+      ],
+      "ee_ar_map": "verificar aderência ao programa do edital por tópico; conceitos computacionais são extensões culturais"
+    },
+    {
+      "id": "math-depth-002",
+      "title_pt": "Regra de três",
+      "intuitive_pt": "Entenda regra de três pela ideia que vem antes da fórmula e pelo problema que a fórmula resolve.",
+      "anchor": "conceito + representação + aplicação",
+      "formula_or_rule_pt": "Apresentar a regra ou fórmula em notação legível, seguida de interpretação de cada termo.",
+      "example_pt": "Exemplo numérico curto, alterável pelo usuário.",
+      "visual_pt": "Gráfico, diagrama, reta numérica, árvore de possibilidades ou animação, conforme o conceito.",
+      "common_errors_pt": [
+        "decorar fórmula sem entender grandezas",
+        "misturar unidades ou condições",
+        "pular a etapa de interpretação do enunciado"
+      ],
+      "micro_challenge_pt": "Mude um parâmetro e preveja o que acontecerá antes de revelar o resultado.",
+      "sources": [
+        "src_eear_edital_2027",
+        "src_khan_pt_prob",
+        "src_geogebra"
+      ],
+      "ee_ar_map": "verificar aderência ao programa do edital por tópico; conceitos computacionais são extensões culturais"
+    },
+    {
+      "id": "math-depth-003",
+      "title_pt": "Porcentagem",
+      "intuitive_pt": "Entenda porcentagem pela ideia que vem antes da fórmula e pelo problema que a fórmula resolve.",
+      "anchor": "conceito + representação + aplicação",
+      "formula_or_rule_pt": "Apresentar a regra ou fórmula em notação legível, seguida de interpretação de cada termo.",
+      "example_pt": "Exemplo numérico curto, alterável pelo usuário.",
+      "visual_pt": "Gráfico, diagrama, reta numérica, árvore de possibilidades ou animação, conforme o conceito.",
+      "common_errors_pt": [
+        "decorar fórmula sem entender grandezas",
+        "misturar unidades ou condições",
+        "pular a etapa de interpretação do enunciado"
+      ],
+      "micro_challenge_pt": "Mude um parâmetro e preveja o que acontecerá antes de revelar o resultado.",
+      "sources": [
+        "src_eear_edital_2027",
+        "src_khan_pt_prob",
+        "src_geogebra"
+      ],
+      "ee_ar_map": "verificar aderência ao programa do edital por tópico; conceitos computacionais são extensões culturais"
+    },
+    {
+      "id": "math-depth-004",
+      "title_pt": "Potências",
+      "intuitive_pt": "Entenda potências pela ideia que vem antes da fórmula e pelo problema que a fórmula resolve.",
+      "anchor": "conceito + representação + aplicação",
+      "formula_or_rule_pt": "Apresentar a regra ou fórmula em notação legível, seguida de interpretação de cada termo.",
+      "example_pt": "Exemplo numérico curto, alterável pelo usuário.",
+      "visual_pt": "Gráfico, diagrama, reta numérica, árvore de possibilidades ou animação, conforme o conceito.",
+      "common_errors_pt": [
+        "decorar fórmula sem entender grandezas",
+        "misturar unidades ou condições",
+        "pular a etapa de interpretação do enunciado"
+      ],
+      "micro_challenge_pt": "Mude um parâmetro e preveja o que acontecerá antes de revelar o resultado.",
+      "sources": [
+        "src_eear_edital_2027",
+        "src_khan_pt_prob",
+        "src_geogebra"
+      ],
+      "ee_ar_map": "verificar aderência ao programa do edital por tópico; conceitos computacionais são extensões culturais"
+    },
+    {
+      "id": "math-depth-005",
+      "title_pt": "Radiciação",
+      "intuitive_pt": "Entenda radiciação pela ideia que vem antes da fórmula e pelo problema que a fórmula resolve.",
+      "anchor": "conceito + representação + aplicação",
+      "formula_or_rule_pt": "Apresentar a regra ou fórmula em notação legível, seguida de interpretação de cada termo.",
+      "example_pt": "Exemplo numérico curto, alterável pelo usuário.",
+      "visual_pt": "Gráfico, diagrama, reta numérica, árvore de possibilidades ou animação, conforme o conceito.",
+      "common_errors_pt": [
+        "decorar fórmula sem entender grandezas",
+        "misturar unidades ou condições",
+        "pular a etapa de interpretação do enunciado"
+      ],
+      "micro_challenge_pt": "Mude um parâmetro e preveja o que acontecerá antes de revelar o resultado.",
+      "sources": [
+        "src_eear_edital_2027",
+        "src_khan_pt_prob",
+        "src_geogebra"
+      ],
+      "ee_ar_map": "verificar aderência ao programa do edital por tópico; conceitos computacionais são extensões culturais"
+    },
+    {
+      "id": "math-depth-006",
+      "title_pt": "Notação científica",
+      "intuitive_pt": "Entenda notação científica pela ideia que vem antes da fórmula e pelo problema que a fórmula resolve.",
+      "anchor": "conceito + representação + aplicação",
+      "formula_or_rule_pt": "Apresentar a regra ou fórmula em notação legível, seguida de interpretação de cada termo.",
+      "example_pt": "Exemplo numérico curto, alterável pelo usuário.",
+      "visual_pt": "Gráfico, diagrama, reta numérica, árvore de possibilidades ou animação, conforme o conceito.",
+      "common_errors_pt": [
+        "decorar fórmula sem entender grandezas",
+        "misturar unidades ou condições",
+        "pular a etapa de interpretação do enunciado"
+      ],
+      "micro_challenge_pt": "Mude um parâmetro e preveja o que acontecerá antes de revelar o resultado.",
+      "sources": [
+        "src_eear_edital_2027",
+        "src_khan_pt_prob",
+        "src_geogebra"
+      ],
+      "ee_ar_map": "verificar aderência ao programa do edital por tópico; conceitos computacionais são extensões culturais"
+    },
+    {
+      "id": "math-depth-007",
+      "title_pt": "Produtos notáveis",
+      "intuitive_pt": "Entenda produtos notáveis pela ideia que vem antes da fórmula e pelo problema que a fórmula resolve.",
+      "anchor": "conceito + representação + aplicação",
+      "formula_or_rule_pt": "Apresentar a regra ou fórmula em notação legível, seguida de interpretação de cada termo.",
+      "example_pt": "Exemplo numérico curto, alterável pelo usuário.",
+      "visual_pt": "Gráfico, diagrama, reta numérica, árvore de possibilidades ou animação, conforme o conceito.",
+      "common_errors_pt": [
+        "decorar fórmula sem entender grandezas",
+        "misturar unidades ou condições",
+        "pular a etapa de interpretação do enunciado"
+      ],
+      "micro_challenge_pt": "Mude um parâmetro e preveja o que acontecerá antes de revelar o resultado.",
+      "sources": [
+        "src_eear_edital_2027",
+        "src_khan_pt_prob",
+        "src_geogebra"
+      ],
+      "ee_ar_map": "verificar aderência ao programa do edital por tópico; conceitos computacionais são extensões culturais"
+    },
+    {
+      "id": "math-depth-008",
+      "title_pt": "Fatoração",
+      "intuitive_pt": "Entenda fatoração pela ideia que vem antes da fórmula e pelo problema que a fórmula resolve.",
+      "anchor": "conceito + representação + aplicação",
+      "formula_or_rule_pt": "Apresentar a regra ou fórmula em notação legível, seguida de interpretação de cada termo.",
+      "example_pt": "Exemplo numérico curto, alterável pelo usuário.",
+      "visual_pt": "Gráfico, diagrama, reta numérica, árvore de possibilidades ou animação, conforme o conceito.",
+      "common_errors_pt": [
+        "decorar fórmula sem entender grandezas",
+        "misturar unidades ou condições",
+        "pular a etapa de interpretação do enunciado"
+      ],
+      "micro_challenge_pt": "Mude um parâmetro e preveja o que acontecerá antes de revelar o resultado.",
+      "sources": [
+        "src_eear_edital_2027",
+        "src_khan_pt_prob",
+        "src_geogebra"
+      ],
+      "ee_ar_map": "verificar aderência ao programa do edital por tópico; conceitos computacionais são extensões culturais"
+    },
+    {
+      "id": "math-depth-009",
+      "title_pt": "Equações de 1º grau",
+      "intuitive_pt": "Entenda equações de 1º grau pela ideia que vem antes da fórmula e pelo problema que a fórmula resolve.",
+      "anchor": "conceito + representação + aplicação",
+      "formula_or_rule_pt": "Apresentar a regra ou fórmula em notação legível, seguida de interpretação de cada termo.",
+      "example_pt": "Exemplo numérico curto, alterável pelo usuário.",
+      "visual_pt": "Gráfico, diagrama, reta numérica, árvore de possibilidades ou animação, conforme o conceito.",
+      "common_errors_pt": [
+        "decorar fórmula sem entender grandezas",
+        "misturar unidades ou condições",
+        "pular a etapa de interpretação do enunciado"
+      ],
+      "micro_challenge_pt": "Mude um parâmetro e preveja o que acontecerá antes de revelar o resultado.",
+      "sources": [
+        "src_eear_edital_2027",
+        "src_khan_pt_prob",
+        "src_geogebra"
+      ],
+      "ee_ar_map": "verificar aderência ao programa do edital por tópico; conceitos computacionais são extensões culturais"
+    },
+    {
+      "id": "math-depth-010",
+      "title_pt": "Sistemas lineares",
+      "intuitive_pt": "Entenda sistemas lineares pela ideia que vem antes da fórmula e pelo problema que a fórmula resolve.",
+      "anchor": "conceito + representação + aplicação",
+      "formula_or_rule_pt": "Apresentar a regra ou fórmula em notação legível, seguida de interpretação de cada termo.",
+      "example_pt": "Exemplo numérico curto, alterável pelo usuário.",
+      "visual_pt": "Gráfico, diagrama, reta numérica, árvore de possibilidades ou animação, conforme o conceito.",
+      "common_errors_pt": [
+        "decorar fórmula sem entender grandezas",
+        "misturar unidades ou condições",
+        "pular a etapa de interpretação do enunciado"
+      ],
+      "micro_challenge_pt": "Mude um parâmetro e preveja o que acontecerá antes de revelar o resultado.",
+      "sources": [
+        "src_eear_edital_2027",
+        "src_khan_pt_prob",
+        "src_geogebra"
+      ],
+      "ee_ar_map": "verificar aderência ao programa do edital por tópico; conceitos computacionais são extensões culturais"
+    },
+    {
+      "id": "math-depth-011",
+      "title_pt": "Equações de 2º grau",
+      "intuitive_pt": "Entenda equações de 2º grau pela ideia que vem antes da fórmula e pelo problema que a fórmula resolve.",
+      "anchor": "conceito + representação + aplicação",
+      "formula_or_rule_pt": "Apresentar a regra ou fórmula em notação legível, seguida de interpretação de cada termo.",
+      "example_pt": "Exemplo numérico curto, alterável pelo usuário.",
+      "visual_pt": "Gráfico, diagrama, reta numérica, árvore de possibilidades ou animação, conforme o conceito.",
+      "common_errors_pt": [
+        "decorar fórmula sem entender grandezas",
+        "misturar unidades ou condições",
+        "pular a etapa de interpretação do enunciado"
+      ],
+      "micro_challenge_pt": "Mude um parâmetro e preveja o que acontecerá antes de revelar o resultado.",
+      "sources": [
+        "src_eear_edital_2027",
+        "src_khan_pt_prob",
+        "src_geogebra"
+      ],
+      "ee_ar_map": "verificar aderência ao programa do edital por tópico; conceitos computacionais são extensões culturais"
+    },
+    {
+      "id": "math-depth-012",
+      "title_pt": "Inequações",
+      "intuitive_pt": "Entenda inequações pela ideia que vem antes da fórmula e pelo problema que a fórmula resolve.",
+      "anchor": "conceito + representação + aplicação",
+      "formula_or_rule_pt": "Apresentar a regra ou fórmula em notação legível, seguida de interpretação de cada termo.",
+      "example_pt": "Exemplo numérico curto, alterável pelo usuário.",
+      "visual_pt": "Gráfico, diagrama, reta numérica, árvore de possibilidades ou animação, conforme o conceito.",
+      "common_errors_pt": [
+        "decorar fórmula sem entender grandezas",
+        "misturar unidades ou condições",
+        "pular a etapa de interpretação do enunciado"
+      ],
+      "micro_challenge_pt": "Mude um parâmetro e preveja o que acontecerá antes de revelar o resultado.",
+      "sources": [
+        "src_eear_edital_2027",
+        "src_khan_pt_prob",
+        "src_geogebra"
+      ],
+      "ee_ar_map": "verificar aderência ao programa do edital por tópico; conceitos computacionais são extensões culturais"
+    },
+    {
+      "id": "math-depth-013",
+      "title_pt": "Função afim",
+      "intuitive_pt": "Entenda função afim pela ideia que vem antes da fórmula e pelo problema que a fórmula resolve.",
+      "anchor": "conceito + representação + aplicação",
+      "formula_or_rule_pt": "Apresentar a regra ou fórmula em notação legível, seguida de interpretação de cada termo.",
+      "example_pt": "Exemplo numérico curto, alterável pelo usuário.",
+      "visual_pt": "Gráfico, diagrama, reta numérica, árvore de possibilidades ou animação, conforme o conceito.",
+      "common_errors_pt": [
+        "decorar fórmula sem entender grandezas",
+        "misturar unidades ou condições",
+        "pular a etapa de interpretação do enunciado"
+      ],
+      "micro_challenge_pt": "Mude um parâmetro e preveja o que acontecerá antes de revelar o resultado.",
+      "sources": [
+        "src_eear_edital_2027",
+        "src_khan_pt_prob",
+        "src_geogebra"
+      ],
+      "ee_ar_map": "verificar aderência ao programa do edital por tópico; conceitos computacionais são extensões culturais"
+    },
+    {
+      "id": "math-depth-014",
+      "title_pt": "Função quadrática",
+      "intuitive_pt": "Entenda função quadrática pela ideia que vem antes da fórmula e pelo problema que a fórmula resolve.",
+      "anchor": "conceito + representação + aplicação",
+      "formula_or_rule_pt": "Apresentar a regra ou fórmula em notação legível, seguida de interpretação de cada termo.",
+      "example_pt": "Exemplo numérico curto, alterável pelo usuário.",
+      "visual_pt": "Gráfico, diagrama, reta numérica, árvore de possibilidades ou animação, conforme o conceito.",
+      "common_errors_pt": [
+        "decorar fórmula sem entender grandezas",
+        "misturar unidades ou condições",
+        "pular a etapa de interpretação do enunciado"
+      ],
+      "micro_challenge_pt": "Mude um parâmetro e preveja o que acontecerá antes de revelar o resultado.",
+      "sources": [
+        "src_eear_edital_2027",
+        "src_khan_pt_prob",
+        "src_geogebra"
+      ],
+      "ee_ar_map": "verificar aderência ao programa do edital por tópico; conceitos computacionais são extensões culturais"
+    },
+    {
+      "id": "math-depth-015",
+      "title_pt": "Função exponencial",
+      "intuitive_pt": "Entenda função exponencial pela ideia que vem antes da fórmula e pelo problema que a fórmula resolve.",
+      "anchor": "conceito + representação + aplicação",
+      "formula_or_rule_pt": "Apresentar a regra ou fórmula em notação legível, seguida de interpretação de cada termo.",
+      "example_pt": "Exemplo numérico curto, alterável pelo usuário.",
+      "visual_pt": "Gráfico, diagrama, reta numérica, árvore de possibilidades ou animação, conforme o conceito.",
+      "common_errors_pt": [
+        "decorar fórmula sem entender grandezas",
+        "misturar unidades ou condições",
+        "pular a etapa de interpretação do enunciado"
+      ],
+      "micro_challenge_pt": "Mude um parâmetro e preveja o que acontecerá antes de revelar o resultado.",
+      "sources": [
+        "src_eear_edital_2027",
+        "src_khan_pt_prob",
+        "src_geogebra"
+      ],
+      "ee_ar_map": "verificar aderência ao programa do edital por tópico; conceitos computacionais são extensões culturais"
+    },
+    {
+      "id": "math-depth-016",
+      "title_pt": "Função logarítmica",
+      "intuitive_pt": "Entenda função logarítmica pela ideia que vem antes da fórmula e pelo problema que a fórmula resolve.",
+      "anchor": "conceito + representação + aplicação",
+      "formula_or_rule_pt": "Apresentar a regra ou fórmula em notação legível, seguida de interpretação de cada termo.",
+      "example_pt": "Exemplo numérico curto, alterável pelo usuário.",
+      "visual_pt": "Gráfico, diagrama, reta numérica, árvore de possibilidades ou animação, conforme o conceito.",
+      "common_errors_pt": [
+        "decorar fórmula sem entender grandezas",
+        "misturar unidades ou condições",
+        "pular a etapa de interpretação do enunciado"
+      ],
+      "micro_challenge_pt": "Mude um parâmetro e preveja o que acontecerá antes de revelar o resultado.",
+      "sources": [
+        "src_eear_edital_2027",
+        "src_khan_pt_prob",
+        "src_geogebra"
+      ],
+      "ee_ar_map": "verificar aderência ao programa do edital por tópico; conceitos computacionais são extensões culturais"
+    },
+    {
+      "id": "math-depth-017",
+      "title_pt": "Sequências",
+      "intuitive_pt": "Entenda sequências pela ideia que vem antes da fórmula e pelo problema que a fórmula resolve.",
+      "anchor": "conceito + representação + aplicação",
+      "formula_or_rule_pt": "Apresentar a regra ou fórmula em notação legível, seguida de interpretação de cada termo.",
+      "example_pt": "Exemplo numérico curto, alterável pelo usuário.",
+      "visual_pt": "Gráfico, diagrama, reta numérica, árvore de possibilidades ou animação, conforme o conceito.",
+      "common_errors_pt": [
+        "decorar fórmula sem entender grandezas",
+        "misturar unidades ou condições",
+        "pular a etapa de interpretação do enunciado"
+      ],
+      "micro_challenge_pt": "Mude um parâmetro e preveja o que acontecerá antes de revelar o resultado.",
+      "sources": [
+        "src_eear_edital_2027",
+        "src_khan_pt_prob",
+        "src_geogebra"
+      ],
+      "ee_ar_map": "verificar aderência ao programa do edital por tópico; conceitos computacionais são extensões culturais"
+    },
+    {
+      "id": "math-depth-018",
+      "title_pt": "PA",
+      "intuitive_pt": "Entenda pa pela ideia que vem antes da fórmula e pelo problema que a fórmula resolve.",
+      "anchor": "conceito + representação + aplicação",
+      "formula_or_rule_pt": "Apresentar a regra ou fórmula em notação legível, seguida de interpretação de cada termo.",
+      "example_pt": "Exemplo numérico curto, alterável pelo usuário.",
+      "visual_pt": "Gráfico, diagrama, reta numérica, árvore de possibilidades ou animação, conforme o conceito.",
+      "common_errors_pt": [
+        "decorar fórmula sem entender grandezas",
+        "misturar unidades ou condições",
+        "pular a etapa de interpretação do enunciado"
+      ],
+      "micro_challenge_pt": "Mude um parâmetro e preveja o que acontecerá antes de revelar o resultado.",
+      "sources": [
+        "src_eear_edital_2027",
+        "src_khan_pt_prob",
+        "src_geogebra"
+      ],
+      "ee_ar_map": "verificar aderência ao programa do edital por tópico; conceitos computacionais são extensões culturais"
+    },
+    {
+      "id": "math-depth-019",
+      "title_pt": "PG",
+      "intuitive_pt": "Entenda pg pela ideia que vem antes da fórmula e pelo problema que a fórmula resolve.",
+      "anchor": "conceito + representação + aplicação",
+      "formula_or_rule_pt": "Apresentar a regra ou fórmula em notação legível, seguida de interpretação de cada termo.",
+      "example_pt": "Exemplo numérico curto, alterável pelo usuário.",
+      "visual_pt": "Gráfico, diagrama, reta numérica, árvore de possibilidades ou animação, conforme o conceito.",
+      "common_errors_pt": [
+        "decorar fórmula sem entender grandezas",
+        "misturar unidades ou condições",
+        "pular a etapa de interpretação do enunciado"
+      ],
+      "micro_challenge_pt": "Mude um parâmetro e preveja o que acontecerá antes de revelar o resultado.",
+      "sources": [
+        "src_eear_edital_2027",
+        "src_khan_pt_prob",
+        "src_geogebra"
+      ],
+      "ee_ar_map": "verificar aderência ao programa do edital por tópico; conceitos computacionais são extensões culturais"
+    },
+    {
+      "id": "math-depth-020",
+      "title_pt": "Combinatória",
+      "intuitive_pt": "Entenda combinatória pela ideia que vem antes da fórmula e pelo problema que a fórmula resolve.",
+      "anchor": "conceito + representação + aplicação",
+      "formula_or_rule_pt": "Apresentar a regra ou fórmula em notação legível, seguida de interpretação de cada termo.",
+      "example_pt": "Exemplo numérico curto, alterável pelo usuário.",
+      "visual_pt": "Gráfico, diagrama, reta numérica, árvore de possibilidades ou animação, conforme o conceito.",
+      "common_errors_pt": [
+        "decorar fórmula sem entender grandezas",
+        "misturar unidades ou condições",
+        "pular a etapa de interpretação do enunciado"
+      ],
+      "micro_challenge_pt": "Mude um parâmetro e preveja o que acontecerá antes de revelar o resultado.",
+      "sources": [
+        "src_eear_edital_2027",
+        "src_khan_pt_prob",
+        "src_geogebra"
+      ],
+      "ee_ar_map": "verificar aderência ao programa do edital por tópico; conceitos computacionais são extensões culturais"
+    },
+    {
+      "id": "math-depth-021",
+      "title_pt": "Permutações",
+      "intuitive_pt": "Entenda permutações pela ideia que vem antes da fórmula e pelo problema que a fórmula resolve.",
+      "anchor": "conceito + representação + aplicação",
+      "formula_or_rule_pt": "Apresentar a regra ou fórmula em notação legível, seguida de interpretação de cada termo.",
+      "example_pt": "Exemplo numérico curto, alterável pelo usuário.",
+      "visual_pt": "Gráfico, diagrama, reta numérica, árvore de possibilidades ou animação, conforme o conceito.",
+      "common_errors_pt": [
+        "decorar fórmula sem entender grandezas",
+        "misturar unidades ou condições",
+        "pular a etapa de interpretação do enunciado"
+      ],
+      "micro_challenge_pt": "Mude um parâmetro e preveja o que acontecerá antes de revelar o resultado.",
+      "sources": [
+        "src_eear_edital_2027",
+        "src_khan_pt_prob",
+        "src_geogebra"
+      ],
+      "ee_ar_map": "verificar aderência ao programa do edital por tópico; conceitos computacionais são extensões culturais"
+    },
+    {
+      "id": "math-depth-022",
+      "title_pt": "Combinações",
+      "intuitive_pt": "Entenda combinações pela ideia que vem antes da fórmula e pelo problema que a fórmula resolve.",
+      "anchor": "conceito + representação + aplicação",
+      "formula_or_rule_pt": "Apresentar a regra ou fórmula em notação legível, seguida de interpretação de cada termo.",
+      "example_pt": "Exemplo numérico curto, alterável pelo usuário.",
+      "visual_pt": "Gráfico, diagrama, reta numérica, árvore de possibilidades ou animação, conforme o conceito.",
+      "common_errors_pt": [
+        "decorar fórmula sem entender grandezas",
+        "misturar unidades ou condições",
+        "pular a etapa de interpretação do enunciado"
+      ],
+      "micro_challenge_pt": "Mude um parâmetro e preveja o que acontecerá antes de revelar o resultado.",
+      "sources": [
+        "src_eear_edital_2027",
+        "src_khan_pt_prob",
+        "src_geogebra"
+      ],
+      "ee_ar_map": "verificar aderência ao programa do edital por tópico; conceitos computacionais são extensões culturais"
+    },
+    {
+      "id": "math-depth-023",
+      "title_pt": "Probabilidade clássica",
+      "intuitive_pt": "Entenda probabilidade clássica pela ideia que vem antes da fórmula e pelo problema que a fórmula resolve.",
+      "anchor": "casos favoráveis / casos possíveis",
+      "formula_or_rule_pt": "Apresentar a regra ou fórmula em notação legível, seguida de interpretação de cada termo.",
+      "example_pt": "Exemplo numérico curto, alterável pelo usuário.",
+      "visual_pt": "Gráfico, diagrama, reta numérica, árvore de possibilidades ou animação, conforme o conceito.",
+      "common_errors_pt": [
+        "decorar fórmula sem entender grandezas",
+        "misturar unidades ou condições",
+        "pular a etapa de interpretação do enunciado"
+      ],
+      "micro_challenge_pt": "Mude um parâmetro e preveja o que acontecerá antes de revelar o resultado.",
+      "sources": [
+        "src_eear_edital_2027",
+        "src_khan_pt_prob",
+        "src_geogebra"
+      ],
+      "ee_ar_map": "verificar aderência ao programa do edital por tópico; conceitos computacionais são extensões culturais"
+    },
+    {
+      "id": "math-depth-024",
+      "title_pt": "Probabilidade condicional",
+      "intuitive_pt": "Entenda probabilidade condicional pela ideia que vem antes da fórmula e pelo problema que a fórmula resolve.",
+      "anchor": "conceito + representação + aplicação",
+      "formula_or_rule_pt": "Apresentar a regra ou fórmula em notação legível, seguida de interpretação de cada termo.",
+      "example_pt": "Exemplo numérico curto, alterável pelo usuário.",
+      "visual_pt": "Gráfico, diagrama, reta numérica, árvore de possibilidades ou animação, conforme o conceito.",
+      "common_errors_pt": [
+        "decorar fórmula sem entender grandezas",
+        "misturar unidades ou condições",
+        "pular a etapa de interpretação do enunciado"
+      ],
+      "micro_challenge_pt": "Mude um parâmetro e preveja o que acontecerá antes de revelar o resultado.",
+      "sources": [
+        "src_eear_edital_2027",
+        "src_khan_pt_prob",
+        "src_geogebra"
+      ],
+      "ee_ar_map": "verificar aderência ao programa do edital por tópico; conceitos computacionais são extensões culturais"
+    },
+    {
+      "id": "math-depth-025",
+      "title_pt": "Independência",
+      "intuitive_pt": "Entenda independência pela ideia que vem antes da fórmula e pelo problema que a fórmula resolve.",
+      "anchor": "conceito + representação + aplicação",
+      "formula_or_rule_pt": "Apresentar a regra ou fórmula em notação legível, seguida de interpretação de cada termo.",
+      "example_pt": "Exemplo numérico curto, alterável pelo usuário.",
+      "visual_pt": "Gráfico, diagrama, reta numérica, árvore de possibilidades ou animação, conforme o conceito.",
+      "common_errors_pt": [
+        "decorar fórmula sem entender grandezas",
+        "misturar unidades ou condições",
+        "pular a etapa de interpretação do enunciado"
+      ],
+      "micro_challenge_pt": "Mude um parâmetro e preveja o que acontecerá antes de revelar o resultado.",
+      "sources": [
+        "src_eear_edital_2027",
+        "src_khan_pt_prob",
+        "src_geogebra"
+      ],
+      "ee_ar_map": "verificar aderência ao programa do edital por tópico; conceitos computacionais são extensões culturais"
+    },
+    {
+      "id": "math-depth-026",
+      "title_pt": "Teorema de Bayes",
+      "intuitive_pt": "Entenda teorema de bayes pela ideia que vem antes da fórmula e pelo problema que a fórmula resolve.",
+      "anchor": "conceito + representação + aplicação",
+      "formula_or_rule_pt": "Apresentar a regra ou fórmula em notação legível, seguida de interpretação de cada termo.",
+      "example_pt": "Exemplo numérico curto, alterável pelo usuário.",
+      "visual_pt": "Gráfico, diagrama, reta numérica, árvore de possibilidades ou animação, conforme o conceito.",
+      "common_errors_pt": [
+        "decorar fórmula sem entender grandezas",
+        "misturar unidades ou condições",
+        "pular a etapa de interpretação do enunciado"
+      ],
+      "micro_challenge_pt": "Mude um parâmetro e preveja o que acontecerá antes de revelar o resultado.",
+      "sources": [
+        "src_eear_edital_2027",
+        "src_khan_pt_prob",
+        "src_geogebra"
+      ],
+      "ee_ar_map": "verificar aderência ao programa do edital por tópico; conceitos computacionais são extensões culturais"
+    },
+    {
+      "id": "math-depth-027",
+      "title_pt": "Média aritmética",
+      "intuitive_pt": "Entenda média aritmética pela ideia que vem antes da fórmula e pelo problema que a fórmula resolve.",
+      "anchor": "conceito + representação + aplicação",
+      "formula_or_rule_pt": "Apresentar a regra ou fórmula em notação legível, seguida de interpretação de cada termo.",
+      "example_pt": "Exemplo numérico curto, alterável pelo usuário.",
+      "visual_pt": "Gráfico, diagrama, reta numérica, árvore de possibilidades ou animação, conforme o conceito.",
+      "common_errors_pt": [
+        "decorar fórmula sem entender grandezas",
+        "misturar unidades ou condições",
+        "pular a etapa de interpretação do enunciado"
+      ],
+      "micro_challenge_pt": "Mude um parâmetro e preveja o que acontecerá antes de revelar o resultado.",
+      "sources": [
+        "src_eear_edital_2027",
+        "src_khan_pt_prob",
+        "src_geogebra"
+      ],
+      "ee_ar_map": "verificar aderência ao programa do edital por tópico; conceitos computacionais são extensões culturais"
+    },
+    {
+      "id": "math-depth-028",
+      "title_pt": "Mediana",
+      "intuitive_pt": "Entenda mediana pela ideia que vem antes da fórmula e pelo problema que a fórmula resolve.",
+      "anchor": "conceito + representação + aplicação",
+      "formula_or_rule_pt": "Apresentar a regra ou fórmula em notação legível, seguida de interpretação de cada termo.",
+      "example_pt": "Exemplo numérico curto, alterável pelo usuário.",
+      "visual_pt": "Gráfico, diagrama, reta numérica, árvore de possibilidades ou animação, conforme o conceito.",
+      "common_errors_pt": [
+        "decorar fórmula sem entender grandezas",
+        "misturar unidades ou condições",
+        "pular a etapa de interpretação do enunciado"
+      ],
+      "micro_challenge_pt": "Mude um parâmetro e preveja o que acontecerá antes de revelar o resultado.",
+      "sources": [
+        "src_eear_edital_2027",
+        "src_khan_pt_prob",
+        "src_geogebra"
+      ],
+      "ee_ar_map": "verificar aderência ao programa do edital por tópico; conceitos computacionais são extensões culturais"
+    },
+    {
+      "id": "math-depth-029",
+      "title_pt": "Moda",
+      "intuitive_pt": "Entenda moda pela ideia que vem antes da fórmula e pelo problema que a fórmula resolve.",
+      "anchor": "conceito + representação + aplicação",
+      "formula_or_rule_pt": "Apresentar a regra ou fórmula em notação legível, seguida de interpretação de cada termo.",
+      "example_pt": "Exemplo numérico curto, alterável pelo usuário.",
+      "visual_pt": "Gráfico, diagrama, reta numérica, árvore de possibilidades ou animação, conforme o conceito.",
+      "common_errors_pt": [
+        "decorar fórmula sem entender grandezas",
+        "misturar unidades ou condições",
+        "pular a etapa de interpretação do enunciado"
+      ],
+      "micro_challenge_pt": "Mude um parâmetro e preveja o que acontecerá antes de revelar o resultado.",
+      "sources": [
+        "src_eear_edital_2027",
+        "src_khan_pt_prob",
+        "src_geogebra"
+      ],
+      "ee_ar_map": "verificar aderência ao programa do edital por tópico; conceitos computacionais são extensões culturais"
+    },
+    {
+      "id": "math-depth-030",
+      "title_pt": "Variância",
+      "intuitive_pt": "Entenda variância pela ideia que vem antes da fórmula e pelo problema que a fórmula resolve.",
+      "anchor": "conceito + representação + aplicação",
+      "formula_or_rule_pt": "Apresentar a regra ou fórmula em notação legível, seguida de interpretação de cada termo.",
+      "example_pt": "Exemplo numérico curto, alterável pelo usuário.",
+      "visual_pt": "Gráfico, diagrama, reta numérica, árvore de possibilidades ou animação, conforme o conceito.",
+      "common_errors_pt": [
+        "decorar fórmula sem entender grandezas",
+        "misturar unidades ou condições",
+        "pular a etapa de interpretação do enunciado"
+      ],
+      "micro_challenge_pt": "Mude um parâmetro e preveja o que acontecerá antes de revelar o resultado.",
+      "sources": [
+        "src_eear_edital_2027",
+        "src_khan_pt_prob",
+        "src_geogebra"
+      ],
+      "ee_ar_map": "verificar aderência ao programa do edital por tópico; conceitos computacionais são extensões culturais"
+    },
+    {
+      "id": "math-depth-031",
+      "title_pt": "Desvio padrão",
+      "intuitive_pt": "Entenda desvio padrão pela ideia que vem antes da fórmula e pelo problema que a fórmula resolve.",
+      "anchor": "conceito + representação + aplicação",
+      "formula_or_rule_pt": "Apresentar a regra ou fórmula em notação legível, seguida de interpretação de cada termo.",
+      "example_pt": "Exemplo numérico curto, alterável pelo usuário.",
+      "visual_pt": "Gráfico, diagrama, reta numérica, árvore de possibilidades ou animação, conforme o conceito.",
+      "common_errors_pt": [
+        "decorar fórmula sem entender grandezas",
+        "misturar unidades ou condições",
+        "pular a etapa de interpretação do enunciado"
+      ],
+      "micro_challenge_pt": "Mude um parâmetro e preveja o que acontecerá antes de revelar o resultado.",
+      "sources": [
+        "src_eear_edital_2027",
+        "src_khan_pt_prob",
+        "src_geogebra"
+      ],
+      "ee_ar_map": "verificar aderência ao programa do edital por tópico; conceitos computacionais são extensões culturais"
+    },
+    {
+      "id": "math-depth-032",
+      "title_pt": "Leitura de gráficos",
+      "intuitive_pt": "Entenda leitura de gráficos pela ideia que vem antes da fórmula e pelo problema que a fórmula resolve.",
+      "anchor": "conceito + representação + aplicação",
+      "formula_or_rule_pt": "Apresentar a regra ou fórmula em notação legível, seguida de interpretação de cada termo.",
+      "example_pt": "Exemplo numérico curto, alterável pelo usuário.",
+      "visual_pt": "Gráfico, diagrama, reta numérica, árvore de possibilidades ou animação, conforme o conceito.",
+      "common_errors_pt": [
+        "decorar fórmula sem entender grandezas",
+        "misturar unidades ou condições",
+        "pular a etapa de interpretação do enunciado"
+      ],
+      "micro_challenge_pt": "Mude um parâmetro e preveja o que acontecerá antes de revelar o resultado.",
+      "sources": [
+        "src_eear_edital_2027",
+        "src_khan_pt_prob",
+        "src_geogebra"
+      ],
+      "ee_ar_map": "verificar aderência ao programa do edital por tópico; conceitos computacionais são extensões culturais"
+    },
+    {
+      "id": "math-depth-033",
+      "title_pt": "Amostragem",
+      "intuitive_pt": "Entenda amostragem pela ideia que vem antes da fórmula e pelo problema que a fórmula resolve.",
+      "anchor": "conceito + representação + aplicação",
+      "formula_or_rule_pt": "Apresentar a regra ou fórmula em notação legível, seguida de interpretação de cada termo.",
+      "example_pt": "Exemplo numérico curto, alterável pelo usuário.",
+      "visual_pt": "Gráfico, diagrama, reta numérica, árvore de possibilidades ou animação, conforme o conceito.",
+      "common_errors_pt": [
+        "decorar fórmula sem entender grandezas",
+        "misturar unidades ou condições",
+        "pular a etapa de interpretação do enunciado"
+      ],
+      "micro_challenge_pt": "Mude um parâmetro e preveja o que acontecerá antes de revelar o resultado.",
+      "sources": [
+        "src_eear_edital_2027",
+        "src_khan_pt_prob",
+        "src_geogebra"
+      ],
+      "ee_ar_map": "verificar aderência ao programa do edital por tópico; conceitos computacionais são extensões culturais"
+    },
+    {
+      "id": "math-depth-034",
+      "title_pt": "Matriz",
+      "intuitive_pt": "Entenda matriz pela ideia que vem antes da fórmula e pelo problema que a fórmula resolve.",
+      "anchor": "conceito + representação + aplicação",
+      "formula_or_rule_pt": "Apresentar a regra ou fórmula em notação legível, seguida de interpretação de cada termo.",
+      "example_pt": "Exemplo numérico curto, alterável pelo usuário.",
+      "visual_pt": "Gráfico, diagrama, reta numérica, árvore de possibilidades ou animação, conforme o conceito.",
+      "common_errors_pt": [
+        "decorar fórmula sem entender grandezas",
+        "misturar unidades ou condições",
+        "pular a etapa de interpretação do enunciado"
+      ],
+      "micro_challenge_pt": "Mude um parâmetro e preveja o que acontecerá antes de revelar o resultado.",
+      "sources": [
+        "src_eear_edital_2027",
+        "src_khan_pt_prob",
+        "src_geogebra"
+      ],
+      "ee_ar_map": "verificar aderência ao programa do edital por tópico; conceitos computacionais são extensões culturais"
+    },
+    {
+      "id": "math-depth-035",
+      "title_pt": "Determinante",
+      "intuitive_pt": "Entenda determinante pela ideia que vem antes da fórmula e pelo problema que a fórmula resolve.",
+      "anchor": "conceito + representação + aplicação",
+      "formula_or_rule_pt": "Apresentar a regra ou fórmula em notação legível, seguida de interpretação de cada termo.",
+      "example_pt": "Exemplo numérico curto, alterável pelo usuário.",
+      "visual_pt": "Gráfico, diagrama, reta numérica, árvore de possibilidades ou animação, conforme o conceito.",
+      "common_errors_pt": [
+        "decorar fórmula sem entender grandezas",
+        "misturar unidades ou condições",
+        "pular a etapa de interpretação do enunciado"
+      ],
+      "micro_challenge_pt": "Mude um parâmetro e preveja o que acontecerá antes de revelar o resultado.",
+      "sources": [
+        "src_eear_edital_2027",
+        "src_khan_pt_prob",
+        "src_geogebra"
+      ],
+      "ee_ar_map": "verificar aderência ao programa do edital por tópico; conceitos computacionais são extensões culturais"
+    },
+    {
+      "id": "math-depth-036",
+      "title_pt": "Sistemas por matrizes",
+      "intuitive_pt": "Entenda sistemas por matrizes pela ideia que vem antes da fórmula e pelo problema que a fórmula resolve.",
+      "anchor": "conceito + representação + aplicação",
+      "formula_or_rule_pt": "Apresentar a regra ou fórmula em notação legível, seguida de interpretação de cada termo.",
+      "example_pt": "Exemplo numérico curto, alterável pelo usuário.",
+      "visual_pt": "Gráfico, diagrama, reta numérica, árvore de possibilidades ou animação, conforme o conceito.",
+      "common_errors_pt": [
+        "decorar fórmula sem entender grandezas",
+        "misturar unidades ou condições",
+        "pular a etapa de interpretação do enunciado"
+      ],
+      "micro_challenge_pt": "Mude um parâmetro e preveja o que acontecerá antes de revelar o resultado.",
+      "sources": [
+        "src_eear_edital_2027",
+        "src_khan_pt_prob",
+        "src_geogebra"
+      ],
+      "ee_ar_map": "verificar aderência ao programa do edital por tópico; conceitos computacionais são extensões culturais"
+    },
+    {
+      "id": "math-depth-037",
+      "title_pt": "Números complexos",
+      "intuitive_pt": "Entenda números complexos pela ideia que vem antes da fórmula e pelo problema que a fórmula resolve.",
+      "anchor": "conceito + representação + aplicação",
+      "formula_or_rule_pt": "Apresentar a regra ou fórmula em notação legível, seguida de interpretação de cada termo.",
+      "example_pt": "Exemplo numérico curto, alterável pelo usuário.",
+      "visual_pt": "Gráfico, diagrama, reta numérica, árvore de possibilidades ou animação, conforme o conceito.",
+      "common_errors_pt": [
+        "decorar fórmula sem entender grandezas",
+        "misturar unidades ou condições",
+        "pular a etapa de interpretação do enunciado"
+      ],
+      "micro_challenge_pt": "Mude um parâmetro e preveja o que acontecerá antes de revelar o resultado.",
+      "sources": [
+        "src_eear_edital_2027",
+        "src_khan_pt_prob",
+        "src_geogebra"
+      ],
+      "ee_ar_map": "verificar aderência ao programa do edital por tópico; conceitos computacionais são extensões culturais"
+    },
+    {
+      "id": "math-depth-038",
+      "title_pt": "Polinômios",
+      "intuitive_pt": "Entenda polinômios pela ideia que vem antes da fórmula e pelo problema que a fórmula resolve.",
+      "anchor": "conceito + representação + aplicação",
+      "formula_or_rule_pt": "Apresentar a regra ou fórmula em notação legível, seguida de interpretação de cada termo.",
+      "example_pt": "Exemplo numérico curto, alterável pelo usuário.",
+      "visual_pt": "Gráfico, diagrama, reta numérica, árvore de possibilidades ou animação, conforme o conceito.",
+      "common_errors_pt": [
+        "decorar fórmula sem entender grandezas",
+        "misturar unidades ou condições",
+        "pular a etapa de interpretação do enunciado"
+      ],
+      "micro_challenge_pt": "Mude um parâmetro e preveja o que acontecerá antes de revelar o resultado.",
+      "sources": [
+        "src_eear_edital_2027",
+        "src_khan_pt_prob",
+        "src_geogebra"
+      ],
+      "ee_ar_map": "verificar aderência ao programa do edital por tópico; conceitos computacionais são extensões culturais"
+    },
+    {
+      "id": "math-depth-039",
+      "title_pt": "Teorema de Tales",
+      "intuitive_pt": "Entenda teorema de tales pela ideia que vem antes da fórmula e pelo problema que a fórmula resolve.",
+      "anchor": "conceito + representação + aplicação",
+      "formula_or_rule_pt": "Apresentar a regra ou fórmula em notação legível, seguida de interpretação de cada termo.",
+      "example_pt": "Exemplo numérico curto, alterável pelo usuário.",
+      "visual_pt": "Gráfico, diagrama, reta numérica, árvore de possibilidades ou animação, conforme o conceito.",
+      "common_errors_pt": [
+        "decorar fórmula sem entender grandezas",
+        "misturar unidades ou condições",
+        "pular a etapa de interpretação do enunciado"
+      ],
+      "micro_challenge_pt": "Mude um parâmetro e preveja o que acontecerá antes de revelar o resultado.",
+      "sources": [
+        "src_eear_edital_2027",
+        "src_khan_pt_prob",
+        "src_geogebra"
+      ],
+      "ee_ar_map": "verificar aderência ao programa do edital por tópico; conceitos computacionais são extensões culturais"
+    },
+    {
+      "id": "math-depth-040",
+      "title_pt": "Semelhança",
+      "intuitive_pt": "Entenda semelhança pela ideia que vem antes da fórmula e pelo problema que a fórmula resolve.",
+      "anchor": "conceito + representação + aplicação",
+      "formula_or_rule_pt": "Apresentar a regra ou fórmula em notação legível, seguida de interpretação de cada termo.",
+      "example_pt": "Exemplo numérico curto, alterável pelo usuário.",
+      "visual_pt": "Gráfico, diagrama, reta numérica, árvore de possibilidades ou animação, conforme o conceito.",
+      "common_errors_pt": [
+        "decorar fórmula sem entender grandezas",
+        "misturar unidades ou condições",
+        "pular a etapa de interpretação do enunciado"
+      ],
+      "micro_challenge_pt": "Mude um parâmetro e preveja o que acontecerá antes de revelar o resultado.",
+      "sources": [
+        "src_eear_edital_2027",
+        "src_khan_pt_prob",
+        "src_geogebra"
+      ],
+      "ee_ar_map": "verificar aderência ao programa do edital por tópico; conceitos computacionais são extensões culturais"
+    },
+    {
+      "id": "math-depth-041",
+      "title_pt": "Pitágoras",
+      "intuitive_pt": "Entenda pitágoras pela ideia que vem antes da fórmula e pelo problema que a fórmula resolve.",
+      "anchor": "conceito + representação + aplicação",
+      "formula_or_rule_pt": "Apresentar a regra ou fórmula em notação legível, seguida de interpretação de cada termo.",
+      "example_pt": "Exemplo numérico curto, alterável pelo usuário.",
+      "visual_pt": "Gráfico, diagrama, reta numérica, árvore de possibilidades ou animação, conforme o conceito.",
+      "common_errors_pt": [
+        "decorar fórmula sem entender grandezas",
+        "misturar unidades ou condições",
+        "pular a etapa de interpretação do enunciado"
+      ],
+      "micro_challenge_pt": "Mude um parâmetro e preveja o que acontecerá antes de revelar o resultado.",
+      "sources": [
+        "src_eear_edital_2027",
+        "src_khan_pt_prob",
+        "src_geogebra"
+      ],
+      "ee_ar_map": "verificar aderência ao programa do edital por tópico; conceitos computacionais são extensões culturais"
+    },
+    {
+      "id": "math-depth-042",
+      "title_pt": "Áreas",
+      "intuitive_pt": "Entenda áreas pela ideia que vem antes da fórmula e pelo problema que a fórmula resolve.",
+      "anchor": "conceito + representação + aplicação",
+      "formula_or_rule_pt": "Apresentar a regra ou fórmula em notação legível, seguida de interpretação de cada termo.",
+      "example_pt": "Exemplo numérico curto, alterável pelo usuário.",
+      "visual_pt": "Gráfico, diagrama, reta numérica, árvore de possibilidades ou animação, conforme o conceito.",
+      "common_errors_pt": [
+        "decorar fórmula sem entender grandezas",
+        "misturar unidades ou condições",
+        "pular a etapa de interpretação do enunciado"
+      ],
+      "micro_challenge_pt": "Mude um parâmetro e preveja o que acontecerá antes de revelar o resultado.",
+      "sources": [
+        "src_eear_edital_2027",
+        "src_khan_pt_prob",
+        "src_geogebra"
+      ],
+      "ee_ar_map": "verificar aderência ao programa do edital por tópico; conceitos computacionais são extensões culturais"
+    },
+    {
+      "id": "math-depth-043",
+      "title_pt": "Volumes",
+      "intuitive_pt": "Entenda volumes pela ideia que vem antes da fórmula e pelo problema que a fórmula resolve.",
+      "anchor": "conceito + representação + aplicação",
+      "formula_or_rule_pt": "Apresentar a regra ou fórmula em notação legível, seguida de interpretação de cada termo.",
+      "example_pt": "Exemplo numérico curto, alterável pelo usuário.",
+      "visual_pt": "Gráfico, diagrama, reta numérica, árvore de possibilidades ou animação, conforme o conceito.",
+      "common_errors_pt": [
+        "decorar fórmula sem entender grandezas",
+        "misturar unidades ou condições",
+        "pular a etapa de interpretação do enunciado"
+      ],
+      "micro_challenge_pt": "Mude um parâmetro e preveja o que acontecerá antes de revelar o resultado.",
+      "sources": [
+        "src_eear_edital_2027",
+        "src_khan_pt_prob",
+        "src_geogebra"
+      ],
+      "ee_ar_map": "verificar aderência ao programa do edital por tópico; conceitos computacionais são extensões culturais"
+    },
+    {
+      "id": "math-depth-044",
+      "title_pt": "Prismas",
+      "intuitive_pt": "Entenda prismas pela ideia que vem antes da fórmula e pelo problema que a fórmula resolve.",
+      "anchor": "conceito + representação + aplicação",
+      "formula_or_rule_pt": "Apresentar a regra ou fórmula em notação legível, seguida de interpretação de cada termo.",
+      "example_pt": "Exemplo numérico curto, alterável pelo usuário.",
+      "visual_pt": "Gráfico, diagrama, reta numérica, árvore de possibilidades ou animação, conforme o conceito.",
+      "common_errors_pt": [
+        "decorar fórmula sem entender grandezas",
+        "misturar unidades ou condições",
+        "pular a etapa de interpretação do enunciado"
+      ],
+      "micro_challenge_pt": "Mude um parâmetro e preveja o que acontecerá antes de revelar o resultado.",
+      "sources": [
+        "src_eear_edital_2027",
+        "src_khan_pt_prob",
+        "src_geogebra"
+      ],
+      "ee_ar_map": "verificar aderência ao programa do edital por tópico; conceitos computacionais são extensões culturais"
+    },
+    {
+      "id": "math-depth-045",
+      "title_pt": "Pirâmides",
+      "intuitive_pt": "Entenda pirâmides pela ideia que vem antes da fórmula e pelo problema que a fórmula resolve.",
+      "anchor": "conceito + representação + aplicação",
+      "formula_or_rule_pt": "Apresentar a regra ou fórmula em notação legível, seguida de interpretação de cada termo.",
+      "example_pt": "Exemplo numérico curto, alterável pelo usuário.",
+      "visual_pt": "Gráfico, diagrama, reta numérica, árvore de possibilidades ou animação, conforme o conceito.",
+      "common_errors_pt": [
+        "decorar fórmula sem entender grandezas",
+        "misturar unidades ou condições",
+        "pular a etapa de interpretação do enunciado"
+      ],
+      "micro_challenge_pt": "Mude um parâmetro e preveja o que acontecerá antes de revelar o resultado.",
+      "sources": [
+        "src_eear_edital_2027",
+        "src_khan_pt_prob",
+        "src_geogebra"
+      ],
+      "ee_ar_map": "verificar aderência ao programa do edital por tópico; conceitos computacionais são extensões culturais"
+    },
+    {
+      "id": "math-depth-046",
+      "title_pt": "Cilindros",
+      "intuitive_pt": "Entenda cilindros pela ideia que vem antes da fórmula e pelo problema que a fórmula resolve.",
+      "anchor": "conceito + representação + aplicação",
+      "formula_or_rule_pt": "Apresentar a regra ou fórmula em notação legível, seguida de interpretação de cada termo.",
+      "example_pt": "Exemplo numérico curto, alterável pelo usuário.",
+      "visual_pt": "Gráfico, diagrama, reta numérica, árvore de possibilidades ou animação, conforme o conceito.",
+      "common_errors_pt": [
+        "decorar fórmula sem entender grandezas",
+        "misturar unidades ou condições",
+        "pular a etapa de interpretação do enunciado"
+      ],
+      "micro_challenge_pt": "Mude um parâmetro e preveja o que acontecerá antes de revelar o resultado.",
+      "sources": [
+        "src_eear_edital_2027",
+        "src_khan_pt_prob",
+        "src_geogebra"
+      ],
+      "ee_ar_map": "verificar aderência ao programa do edital por tópico; conceitos computacionais são extensões culturais"
+    },
+    {
+      "id": "math-depth-047",
+      "title_pt": "Cones",
+      "intuitive_pt": "Entenda cones pela ideia que vem antes da fórmula e pelo problema que a fórmula resolve.",
+      "anchor": "conceito + representação + aplicação",
+      "formula_or_rule_pt": "Apresentar a regra ou fórmula em notação legível, seguida de interpretação de cada termo.",
+      "example_pt": "Exemplo numérico curto, alterável pelo usuário.",
+      "visual_pt": "Gráfico, diagrama, reta numérica, árvore de possibilidades ou animação, conforme o conceito.",
+      "common_errors_pt": [
+        "decorar fórmula sem entender grandezas",
+        "misturar unidades ou condições",
+        "pular a etapa de interpretação do enunciado"
+      ],
+      "micro_challenge_pt": "Mude um parâmetro e preveja o que acontecerá antes de revelar o resultado.",
+      "sources": [
+        "src_eear_edital_2027",
+        "src_khan_pt_prob",
+        "src_geogebra"
+      ],
+      "ee_ar_map": "verificar aderência ao programa do edital por tópico; conceitos computacionais são extensões culturais"
+    },
+    {
+      "id": "math-depth-048",
+      "title_pt": "Esferas",
+      "intuitive_pt": "Entenda esferas pela ideia que vem antes da fórmula e pelo problema que a fórmula resolve.",
+      "anchor": "conceito + representação + aplicação",
+      "formula_or_rule_pt": "Apresentar a regra ou fórmula em notação legível, seguida de interpretação de cada termo.",
+      "example_pt": "Exemplo numérico curto, alterável pelo usuário.",
+      "visual_pt": "Gráfico, diagrama, reta numérica, árvore de possibilidades ou animação, conforme o conceito.",
+      "common_errors_pt": [
+        "decorar fórmula sem entender grandezas",
+        "misturar unidades ou condições",
+        "pular a etapa de interpretação do enunciado"
+      ],
+      "micro_challenge_pt": "Mude um parâmetro e preveja o que acontecerá antes de revelar o resultado.",
+      "sources": [
+        "src_eear_edital_2027",
+        "src_khan_pt_prob",
+        "src_geogebra"
+      ],
+      "ee_ar_map": "verificar aderência ao programa do edital por tópico; conceitos computacionais são extensões culturais"
+    },
+    {
+      "id": "math-depth-049",
+      "title_pt": "Circunferência",
+      "intuitive_pt": "Entenda circunferência pela ideia que vem antes da fórmula e pelo problema que a fórmula resolve.",
+      "anchor": "conceito + representação + aplicação",
+      "formula_or_rule_pt": "Apresentar a regra ou fórmula em notação legível, seguida de interpretação de cada termo.",
+      "example_pt": "Exemplo numérico curto, alterável pelo usuário.",
+      "visual_pt": "Gráfico, diagrama, reta numérica, árvore de possibilidades ou animação, conforme o conceito.",
+      "common_errors_pt": [
+        "decorar fórmula sem entender grandezas",
+        "misturar unidades ou condições",
+        "pular a etapa de interpretação do enunciado"
+      ],
+      "micro_challenge_pt": "Mude um parâmetro e preveja o que acontecerá antes de revelar o resultado.",
+      "sources": [
+        "src_eear_edital_2027",
+        "src_khan_pt_prob",
+        "src_geogebra"
+      ],
+      "ee_ar_map": "verificar aderência ao programa do edital por tópico; conceitos computacionais são extensões culturais"
+    },
+    {
+      "id": "math-depth-050",
+      "title_pt": "Geometria analítica",
+      "intuitive_pt": "Entenda geometria analítica pela ideia que vem antes da fórmula e pelo problema que a fórmula resolve.",
+      "anchor": "conceito + representação + aplicação",
+      "formula_or_rule_pt": "Apresentar a regra ou fórmula em notação legível, seguida de interpretação de cada termo.",
+      "example_pt": "Exemplo numérico curto, alterável pelo usuário.",
+      "visual_pt": "Gráfico, diagrama, reta numérica, árvore de possibilidades ou animação, conforme o conceito.",
+      "common_errors_pt": [
+        "decorar fórmula sem entender grandezas",
+        "misturar unidades ou condições",
+        "pular a etapa de interpretação do enunciado"
+      ],
+      "micro_challenge_pt": "Mude um parâmetro e preveja o que acontecerá antes de revelar o resultado.",
+      "sources": [
+        "src_eear_edital_2027",
+        "src_khan_pt_prob",
+        "src_geogebra"
+      ],
+      "ee_ar_map": "verificar aderência ao programa do edital por tópico; conceitos computacionais são extensões culturais"
+    },
+    {
+      "id": "math-depth-051",
+      "title_pt": "Distância entre pontos",
+      "intuitive_pt": "Entenda distância entre pontos pela ideia que vem antes da fórmula e pelo problema que a fórmula resolve.",
+      "anchor": "conceito + representação + aplicação",
+      "formula_or_rule_pt": "Apresentar a regra ou fórmula em notação legível, seguida de interpretação de cada termo.",
+      "example_pt": "Exemplo numérico curto, alterável pelo usuário.",
+      "visual_pt": "Gráfico, diagrama, reta numérica, árvore de possibilidades ou animação, conforme o conceito.",
+      "common_errors_pt": [
+        "decorar fórmula sem entender grandezas",
+        "misturar unidades ou condições",
+        "pular a etapa de interpretação do enunciado"
+      ],
+      "micro_challenge_pt": "Mude um parâmetro e preveja o que acontecerá antes de revelar o resultado.",
+      "sources": [
+        "src_eear_edital_2027",
+        "src_khan_pt_prob",
+        "src_geogebra"
+      ],
+      "ee_ar_map": "verificar aderência ao programa do edital por tópico; conceitos computacionais são extensões culturais"
+    },
+    {
+      "id": "math-depth-052",
+      "title_pt": "Ponto médio",
+      "intuitive_pt": "Entenda ponto médio pela ideia que vem antes da fórmula e pelo problema que a fórmula resolve.",
+      "anchor": "conceito + representação + aplicação",
+      "formula_or_rule_pt": "Apresentar a regra ou fórmula em notação legível, seguida de interpretação de cada termo.",
+      "example_pt": "Exemplo numérico curto, alterável pelo usuário.",
+      "visual_pt": "Gráfico, diagrama, reta numérica, árvore de possibilidades ou animação, conforme o conceito.",
+      "common_errors_pt": [
+        "decorar fórmula sem entender grandezas",
+        "misturar unidades ou condições",
+        "pular a etapa de interpretação do enunciado"
+      ],
+      "micro_challenge_pt": "Mude um parâmetro e preveja o que acontecerá antes de revelar o resultado.",
+      "sources": [
+        "src_eear_edital_2027",
+        "src_khan_pt_prob",
+        "src_geogebra"
+      ],
+      "ee_ar_map": "verificar aderência ao programa do edital por tópico; conceitos computacionais são extensões culturais"
+    },
+    {
+      "id": "math-depth-053",
+      "title_pt": "Equação da reta",
+      "intuitive_pt": "Entenda equação da reta pela ideia que vem antes da fórmula e pelo problema que a fórmula resolve.",
+      "anchor": "conceito + representação + aplicação",
+      "formula_or_rule_pt": "Apresentar a regra ou fórmula em notação legível, seguida de interpretação de cada termo.",
+      "example_pt": "Exemplo numérico curto, alterável pelo usuário.",
+      "visual_pt": "Gráfico, diagrama, reta numérica, árvore de possibilidades ou animação, conforme o conceito.",
+      "common_errors_pt": [
+        "decorar fórmula sem entender grandezas",
+        "misturar unidades ou condições",
+        "pular a etapa de interpretação do enunciado"
+      ],
+      "micro_challenge_pt": "Mude um parâmetro e preveja o que acontecerá antes de revelar o resultado.",
+      "sources": [
+        "src_eear_edital_2027",
+        "src_khan_pt_prob",
+        "src_geogebra"
+      ],
+      "ee_ar_map": "verificar aderência ao programa do edital por tópico; conceitos computacionais são extensões culturais"
+    },
+    {
+      "id": "math-depth-054",
+      "title_pt": "Coeficiente angular",
+      "intuitive_pt": "Entenda coeficiente angular pela ideia que vem antes da fórmula e pelo problema que a fórmula resolve.",
+      "anchor": "conceito + representação + aplicação",
+      "formula_or_rule_pt": "Apresentar a regra ou fórmula em notação legível, seguida de interpretação de cada termo.",
+      "example_pt": "Exemplo numérico curto, alterável pelo usuário.",
+      "visual_pt": "Gráfico, diagrama, reta numérica, árvore de possibilidades ou animação, conforme o conceito.",
+      "common_errors_pt": [
+        "decorar fórmula sem entender grandezas",
+        "misturar unidades ou condições",
+        "pular a etapa de interpretação do enunciado"
+      ],
+      "micro_challenge_pt": "Mude um parâmetro e preveja o que acontecerá antes de revelar o resultado.",
+      "sources": [
+        "src_eear_edital_2027",
+        "src_khan_pt_prob",
+        "src_geogebra"
+      ],
+      "ee_ar_map": "verificar aderência ao programa do edital por tópico; conceitos computacionais são extensões culturais"
+    },
+    {
+      "id": "math-depth-055",
+      "title_pt": "Circunferência analítica",
+      "intuitive_pt": "Entenda circunferência analítica pela ideia que vem antes da fórmula e pelo problema que a fórmula resolve.",
+      "anchor": "conceito + representação + aplicação",
+      "formula_or_rule_pt": "Apresentar a regra ou fórmula em notação legível, seguida de interpretação de cada termo.",
+      "example_pt": "Exemplo numérico curto, alterável pelo usuário.",
+      "visual_pt": "Gráfico, diagrama, reta numérica, árvore de possibilidades ou animação, conforme o conceito.",
+      "common_errors_pt": [
+        "decorar fórmula sem entender grandezas",
+        "misturar unidades ou condições",
+        "pular a etapa de interpretação do enunciado"
+      ],
+      "micro_challenge_pt": "Mude um parâmetro e preveja o que acontecerá antes de revelar o resultado.",
+      "sources": [
+        "src_eear_edital_2027",
+        "src_khan_pt_prob",
+        "src_geogebra"
+      ],
+      "ee_ar_map": "verificar aderência ao programa do edital por tópico; conceitos computacionais são extensões culturais"
+    },
+    {
+      "id": "math-depth-056",
+      "title_pt": "Trigonometria no triângulo retângulo",
+      "intuitive_pt": "Entenda trigonometria no triângulo retângulo pela ideia que vem antes da fórmula e pelo problema que a fórmula resolve.",
+      "anchor": "conceito + representação + aplicação",
+      "formula_or_rule_pt": "Apresentar a regra ou fórmula em notação legível, seguida de interpretação de cada termo.",
+      "example_pt": "Exemplo numérico curto, alterável pelo usuário.",
+      "visual_pt": "Gráfico, diagrama, reta numérica, árvore de possibilidades ou animação, conforme o conceito.",
+      "common_errors_pt": [
+        "decorar fórmula sem entender grandezas",
+        "misturar unidades ou condições",
+        "pular a etapa de interpretação do enunciado"
+      ],
+      "micro_challenge_pt": "Mude um parâmetro e preveja o que acontecerá antes de revelar o resultado.",
+      "sources": [
+        "src_eear_edital_2027",
+        "src_khan_pt_prob",
+        "src_geogebra"
+      ],
+      "ee_ar_map": "verificar aderência ao programa do edital por tópico; conceitos computacionais são extensões culturais"
+    },
+    {
+      "id": "math-depth-057",
+      "title_pt": "Seno e cosseno",
+      "intuitive_pt": "Entenda seno e cosseno pela ideia que vem antes da fórmula e pelo problema que a fórmula resolve.",
+      "anchor": "conceito + representação + aplicação",
+      "formula_or_rule_pt": "Apresentar a regra ou fórmula em notação legível, seguida de interpretação de cada termo.",
+      "example_pt": "Exemplo numérico curto, alterável pelo usuário.",
+      "visual_pt": "Gráfico, diagrama, reta numérica, árvore de possibilidades ou animação, conforme o conceito.",
+      "common_errors_pt": [
+        "decorar fórmula sem entender grandezas",
+        "misturar unidades ou condições",
+        "pular a etapa de interpretação do enunciado"
+      ],
+      "micro_challenge_pt": "Mude um parâmetro e preveja o que acontecerá antes de revelar o resultado.",
+      "sources": [
+        "src_eear_edital_2027",
+        "src_khan_pt_prob",
+        "src_geogebra"
+      ],
+      "ee_ar_map": "verificar aderência ao programa do edital por tópico; conceitos computacionais são extensões culturais"
+    },
+    {
+      "id": "math-depth-058",
+      "title_pt": "Lei dos senos",
+      "intuitive_pt": "Entenda lei dos senos pela ideia que vem antes da fórmula e pelo problema que a fórmula resolve.",
+      "anchor": "conceito + representação + aplicação",
+      "formula_or_rule_pt": "Apresentar a regra ou fórmula em notação legível, seguida de interpretação de cada termo.",
+      "example_pt": "Exemplo numérico curto, alterável pelo usuário.",
+      "visual_pt": "Gráfico, diagrama, reta numérica, árvore de possibilidades ou animação, conforme o conceito.",
+      "common_errors_pt": [
+        "decorar fórmula sem entender grandezas",
+        "misturar unidades ou condições",
+        "pular a etapa de interpretação do enunciado"
+      ],
+      "micro_challenge_pt": "Mude um parâmetro e preveja o que acontecerá antes de revelar o resultado.",
+      "sources": [
+        "src_eear_edital_2027",
+        "src_khan_pt_prob",
+        "src_geogebra"
+      ],
+      "ee_ar_map": "verificar aderência ao programa do edital por tópico; conceitos computacionais são extensões culturais"
+    },
+    {
+      "id": "math-depth-059",
+      "title_pt": "Lei dos cossenos",
+      "intuitive_pt": "Entenda lei dos cossenos pela ideia que vem antes da fórmula e pelo problema que a fórmula resolve.",
+      "anchor": "conceito + representação + aplicação",
+      "formula_or_rule_pt": "Apresentar a regra ou fórmula em notação legível, seguida de interpretação de cada termo.",
+      "example_pt": "Exemplo numérico curto, alterável pelo usuário.",
+      "visual_pt": "Gráfico, diagrama, reta numérica, árvore de possibilidades ou animação, conforme o conceito.",
+      "common_errors_pt": [
+        "decorar fórmula sem entender grandezas",
+        "misturar unidades ou condições",
+        "pular a etapa de interpretação do enunciado"
+      ],
+      "micro_challenge_pt": "Mude um parâmetro e preveja o que acontecerá antes de revelar o resultado.",
+      "sources": [
+        "src_eear_edital_2027",
+        "src_khan_pt_prob",
+        "src_geogebra"
+      ],
+      "ee_ar_map": "verificar aderência ao programa do edital por tópico; conceitos computacionais são extensões culturais"
+    },
+    {
+      "id": "math-depth-060",
+      "title_pt": "Identidades trigonométricas",
+      "intuitive_pt": "Entenda identidades trigonométricas pela ideia que vem antes da fórmula e pelo problema que a fórmula resolve.",
+      "anchor": "conceito + representação + aplicação",
+      "formula_or_rule_pt": "Apresentar a regra ou fórmula em notação legível, seguida de interpretação de cada termo.",
+      "example_pt": "Exemplo numérico curto, alterável pelo usuário.",
+      "visual_pt": "Gráfico, diagrama, reta numérica, árvore de possibilidades ou animação, conforme o conceito.",
+      "common_errors_pt": [
+        "decorar fórmula sem entender grandezas",
+        "misturar unidades ou condições",
+        "pular a etapa de interpretação do enunciado"
+      ],
+      "micro_challenge_pt": "Mude um parâmetro e preveja o que acontecerá antes de revelar o resultado.",
+      "sources": [
+        "src_eear_edital_2027",
+        "src_khan_pt_prob",
+        "src_geogebra"
+      ],
+      "ee_ar_map": "verificar aderência ao programa do edital por tópico; conceitos computacionais são extensões culturais"
+    },
+    {
+      "id": "math-depth-061",
+      "title_pt": "Radianos",
+      "intuitive_pt": "Entenda radianos pela ideia que vem antes da fórmula e pelo problema que a fórmula resolve.",
+      "anchor": "conceito + representação + aplicação",
+      "formula_or_rule_pt": "Apresentar a regra ou fórmula em notação legível, seguida de interpretação de cada termo.",
+      "example_pt": "Exemplo numérico curto, alterável pelo usuário.",
+      "visual_pt": "Gráfico, diagrama, reta numérica, árvore de possibilidades ou animação, conforme o conceito.",
+      "common_errors_pt": [
+        "decorar fórmula sem entender grandezas",
+        "misturar unidades ou condições",
+        "pular a etapa de interpretação do enunciado"
+      ],
+      "micro_challenge_pt": "Mude um parâmetro e preveja o que acontecerá antes de revelar o resultado.",
+      "sources": [
+        "src_eear_edital_2027",
+        "src_khan_pt_prob",
+        "src_geogebra"
+      ],
+      "ee_ar_map": "verificar aderência ao programa do edital por tópico; conceitos computacionais são extensões culturais"
+    },
+    {
+      "id": "math-depth-062",
+      "title_pt": "Progressões e modelagem",
+      "intuitive_pt": "Entenda progressões e modelagem pela ideia que vem antes da fórmula e pelo problema que a fórmula resolve.",
+      "anchor": "conceito + representação + aplicação",
+      "formula_or_rule_pt": "Apresentar a regra ou fórmula em notação legível, seguida de interpretação de cada termo.",
+      "example_pt": "Exemplo numérico curto, alterável pelo usuário.",
+      "visual_pt": "Gráfico, diagrama, reta numérica, árvore de possibilidades ou animação, conforme o conceito.",
+      "common_errors_pt": [
+        "decorar fórmula sem entender grandezas",
+        "misturar unidades ou condições",
+        "pular a etapa de interpretação do enunciado"
+      ],
+      "micro_challenge_pt": "Mude um parâmetro e preveja o que acontecerá antes de revelar o resultado.",
+      "sources": [
+        "src_eear_edital_2027",
+        "src_khan_pt_prob",
+        "src_geogebra"
+      ],
+      "ee_ar_map": "verificar aderência ao programa do edital por tópico; conceitos computacionais são extensões culturais"
+    },
+    {
+      "id": "math-depth-063",
+      "title_pt": "Crescimento logístico",
+      "intuitive_pt": "Entenda crescimento logístico pela ideia que vem antes da fórmula e pelo problema que a fórmula resolve.",
+      "anchor": "conceito + representação + aplicação",
+      "formula_or_rule_pt": "Apresentar a regra ou fórmula em notação legível, seguida de interpretação de cada termo.",
+      "example_pt": "Exemplo numérico curto, alterável pelo usuário.",
+      "visual_pt": "Gráfico, diagrama, reta numérica, árvore de possibilidades ou animação, conforme o conceito.",
+      "common_errors_pt": [
+        "decorar fórmula sem entender grandezas",
+        "misturar unidades ou condições",
+        "pular a etapa de interpretação do enunciado"
+      ],
+      "micro_challenge_pt": "Mude um parâmetro e preveja o que acontecerá antes de revelar o resultado.",
+      "sources": [
+        "src_eear_edital_2027",
+        "src_khan_pt_prob",
+        "src_geogebra"
+      ],
+      "ee_ar_map": "verificar aderência ao programa do edital por tópico; conceitos computacionais são extensões culturais"
+    },
+    {
+      "id": "math-depth-064",
+      "title_pt": "Recorrência",
+      "intuitive_pt": "Entenda recorrência pela ideia que vem antes da fórmula e pelo problema que a fórmula resolve.",
+      "anchor": "conceito + representação + aplicação",
+      "formula_or_rule_pt": "Apresentar a regra ou fórmula em notação legível, seguida de interpretação de cada termo.",
+      "example_pt": "Exemplo numérico curto, alterável pelo usuário.",
+      "visual_pt": "Gráfico, diagrama, reta numérica, árvore de possibilidades ou animação, conforme o conceito.",
+      "common_errors_pt": [
+        "decorar fórmula sem entender grandezas",
+        "misturar unidades ou condições",
+        "pular a etapa de interpretação do enunciado"
+      ],
+      "micro_challenge_pt": "Mude um parâmetro e preveja o que acontecerá antes de revelar o resultado.",
+      "sources": [
+        "src_eear_edital_2027",
+        "src_khan_pt_prob",
+        "src_geogebra"
+      ],
+      "ee_ar_map": "verificar aderência ao programa do edital por tópico; conceitos computacionais são extensões culturais"
+    },
+    {
+      "id": "math-depth-065",
+      "title_pt": "Grafos",
+      "intuitive_pt": "Entenda grafos pela ideia que vem antes da fórmula e pelo problema que a fórmula resolve.",
+      "anchor": "conceito + representação + aplicação",
+      "formula_or_rule_pt": "Apresentar a regra ou fórmula em notação legível, seguida de interpretação de cada termo.",
+      "example_pt": "Exemplo numérico curto, alterável pelo usuário.",
+      "visual_pt": "Gráfico, diagrama, reta numérica, árvore de possibilidades ou animação, conforme o conceito.",
+      "common_errors_pt": [
+        "decorar fórmula sem entender grandezas",
+        "misturar unidades ou condições",
+        "pular a etapa de interpretação do enunciado"
+      ],
+      "micro_challenge_pt": "Mude um parâmetro e preveja o que acontecerá antes de revelar o resultado.",
+      "sources": [
+        "src_eear_edital_2027",
+        "src_khan_pt_prob",
+        "src_geogebra"
+      ],
+      "ee_ar_map": "verificar aderência ao programa do edital por tópico; conceitos computacionais são extensões culturais"
+    },
+    {
+      "id": "math-depth-066",
+      "title_pt": "Árvores",
+      "intuitive_pt": "Entenda árvores pela ideia que vem antes da fórmula e pelo problema que a fórmula resolve.",
+      "anchor": "conceito + representação + aplicação",
+      "formula_or_rule_pt": "Apresentar a regra ou fórmula em notação legível, seguida de interpretação de cada termo.",
+      "example_pt": "Exemplo numérico curto, alterável pelo usuário.",
+      "visual_pt": "Gráfico, diagrama, reta numérica, árvore de possibilidades ou animação, conforme o conceito.",
+      "common_errors_pt": [
+        "decorar fórmula sem entender grandezas",
+        "misturar unidades ou condições",
+        "pular a etapa de interpretação do enunciado"
+      ],
+      "micro_challenge_pt": "Mude um parâmetro e preveja o que acontecerá antes de revelar o resultado.",
+      "sources": [
+        "src_eear_edital_2027",
+        "src_khan_pt_prob",
+        "src_geogebra"
+      ],
+      "ee_ar_map": "verificar aderência ao programa do edital por tópico; conceitos computacionais são extensões culturais"
+    },
+    {
+      "id": "math-depth-067",
+      "title_pt": "Algoritmos e complexidade",
+      "intuitive_pt": "Entenda algoritmos e complexidade pela ideia que vem antes da fórmula e pelo problema que a fórmula resolve.",
+      "anchor": "conceito + representação + aplicação",
+      "formula_or_rule_pt": "Apresentar a regra ou fórmula em notação legível, seguida de interpretação de cada termo.",
+      "example_pt": "Exemplo numérico curto, alterável pelo usuário.",
+      "visual_pt": "Gráfico, diagrama, reta numérica, árvore de possibilidades ou animação, conforme o conceito.",
+      "common_errors_pt": [
+        "decorar fórmula sem entender grandezas",
+        "misturar unidades ou condições",
+        "pular a etapa de interpretação do enunciado"
+      ],
+      "micro_challenge_pt": "Mude um parâmetro e preveja o que acontecerá antes de revelar o resultado.",
+      "sources": [
+        "src_eear_edital_2027",
+        "src_khan_pt_prob",
+        "src_geogebra"
+      ],
+      "ee_ar_map": "verificar aderência ao programa do edital por tópico; conceitos computacionais são extensões culturais"
+    },
+    {
+      "id": "math-depth-068",
+      "title_pt": "Busca binária",
+      "intuitive_pt": "Entenda busca binária pela ideia que vem antes da fórmula e pelo problema que a fórmula resolve.",
+      "anchor": "redução repetida do espaço de busca",
+      "formula_or_rule_pt": "Apresentar a regra ou fórmula em notação legível, seguida de interpretação de cada termo.",
+      "example_pt": "Exemplo numérico curto, alterável pelo usuário.",
+      "visual_pt": "Gráfico, diagrama, reta numérica, árvore de possibilidades ou animação, conforme o conceito.",
+      "common_errors_pt": [
+        "decorar fórmula sem entender grandezas",
+        "misturar unidades ou condições",
+        "pular a etapa de interpretação do enunciado"
+      ],
+      "micro_challenge_pt": "Mude um parâmetro e preveja o que acontecerá antes de revelar o resultado.",
+      "sources": [
+        "src_eear_edital_2027",
+        "src_khan_pt_prob",
+        "src_geogebra"
+      ],
+      "ee_ar_map": "verificar aderência ao programa do edital por tópico; conceitos computacionais são extensões culturais"
+    },
+    {
+      "id": "math-depth-069",
+      "title_pt": "Ordenação",
+      "intuitive_pt": "Entenda ordenação pela ideia que vem antes da fórmula e pelo problema que a fórmula resolve.",
+      "anchor": "conceito + representação + aplicação",
+      "formula_or_rule_pt": "Apresentar a regra ou fórmula em notação legível, seguida de interpretação de cada termo.",
+      "example_pt": "Exemplo numérico curto, alterável pelo usuário.",
+      "visual_pt": "Gráfico, diagrama, reta numérica, árvore de possibilidades ou animação, conforme o conceito.",
+      "common_errors_pt": [
+        "decorar fórmula sem entender grandezas",
+        "misturar unidades ou condições",
+        "pular a etapa de interpretação do enunciado"
+      ],
+      "micro_challenge_pt": "Mude um parâmetro e preveja o que acontecerá antes de revelar o resultado.",
+      "sources": [
+        "src_eear_edital_2027",
+        "src_khan_pt_prob",
+        "src_geogebra",
+        "src_cs50_algorithms"
+      ],
+      "ee_ar_map": "verificar aderência ao programa do edital por tópico; conceitos computacionais são extensões culturais"
+    },
+    {
+      "id": "math-depth-070",
+      "title_pt": "Aritmética modular",
+      "intuitive_pt": "Entenda aritmética modular pela ideia que vem antes da fórmula e pelo problema que a fórmula resolve.",
+      "anchor": "conceito + representação + aplicação",
+      "formula_or_rule_pt": "Apresentar a regra ou fórmula em notação legível, seguida de interpretação de cada termo.",
+      "example_pt": "Exemplo numérico curto, alterável pelo usuário.",
+      "visual_pt": "Gráfico, diagrama, reta numérica, árvore de possibilidades ou animação, conforme o conceito.",
+      "common_errors_pt": [
+        "decorar fórmula sem entender grandezas",
+        "misturar unidades ou condições",
+        "pular a etapa de interpretação do enunciado"
+      ],
+      "micro_challenge_pt": "Mude um parâmetro e preveja o que acontecerá antes de revelar o resultado.",
+      "sources": [
+        "src_eear_edital_2027",
+        "src_khan_pt_prob",
+        "src_geogebra",
+        "src_cs50_algorithms"
+      ],
+      "ee_ar_map": "verificar aderência ao programa do edital por tópico; conceitos computacionais são extensões culturais"
+    },
+    {
+      "id": "math-depth-071",
+      "title_pt": "Criptografia RSA",
+      "intuitive_pt": "Entenda criptografia rsa pela ideia que vem antes da fórmula e pelo problema que a fórmula resolve.",
+      "anchor": "conceito + representação + aplicação",
+      "formula_or_rule_pt": "Apresentar a regra ou fórmula em notação legível, seguida de interpretação de cada termo.",
+      "example_pt": "Exemplo numérico curto, alterável pelo usuário.",
+      "visual_pt": "Gráfico, diagrama, reta numérica, árvore de possibilidades ou animação, conforme o conceito.",
+      "common_errors_pt": [
+        "decorar fórmula sem entender grandezas",
+        "misturar unidades ou condições",
+        "pular a etapa de interpretação do enunciado"
+      ],
+      "micro_challenge_pt": "Mude um parâmetro e preveja o que acontecerá antes de revelar o resultado.",
+      "sources": [
+        "src_eear_edital_2027",
+        "src_khan_pt_prob",
+        "src_geogebra",
+        "src_cs50_algorithms"
+      ],
+      "ee_ar_map": "verificar aderência ao programa do edital por tópico; conceitos computacionais são extensões culturais"
+    },
+    {
+      "id": "math-depth-072",
+      "title_pt": "Binário",
+      "intuitive_pt": "Entenda binário pela ideia que vem antes da fórmula e pelo problema que a fórmula resolve.",
+      "anchor": "potências de 2",
+      "formula_or_rule_pt": "Apresentar a regra ou fórmula em notação legível, seguida de interpretação de cada termo.",
+      "example_pt": "Exemplo numérico curto, alterável pelo usuário.",
+      "visual_pt": "Gráfico, diagrama, reta numérica, árvore de possibilidades ou animação, conforme o conceito.",
+      "common_errors_pt": [
+        "decorar fórmula sem entender grandezas",
+        "misturar unidades ou condições",
+        "pular a etapa de interpretação do enunciado"
+      ],
+      "micro_challenge_pt": "Mude um parâmetro e preveja o que acontecerá antes de revelar o resultado.",
+      "sources": [
+        "src_eear_edital_2027",
+        "src_khan_pt_prob",
+        "src_geogebra",
+        "src_cs50_algorithms"
+      ],
+      "ee_ar_map": "verificar aderência ao programa do edital por tópico; conceitos computacionais são extensões culturais"
+    },
+    {
+      "id": "math-depth-073",
+      "title_pt": "Bits e bytes",
+      "intuitive_pt": "Entenda bits e bytes pela ideia que vem antes da fórmula e pelo problema que a fórmula resolve.",
+      "anchor": "conceito + representação + aplicação",
+      "formula_or_rule_pt": "Apresentar a regra ou fórmula em notação legível, seguida de interpretação de cada termo.",
+      "example_pt": "Exemplo numérico curto, alterável pelo usuário.",
+      "visual_pt": "Gráfico, diagrama, reta numérica, árvore de possibilidades ou animação, conforme o conceito.",
+      "common_errors_pt": [
+        "decorar fórmula sem entender grandezas",
+        "misturar unidades ou condições",
+        "pular a etapa de interpretação do enunciado"
+      ],
+      "micro_challenge_pt": "Mude um parâmetro e preveja o que acontecerá antes de revelar o resultado.",
+      "sources": [
+        "src_eear_edital_2027",
+        "src_khan_pt_prob",
+        "src_geogebra",
+        "src_cs50_algorithms"
+      ],
+      "ee_ar_map": "verificar aderência ao programa do edital por tópico; conceitos computacionais são extensões culturais"
+    },
+    {
+      "id": "math-depth-074",
+      "title_pt": "Ponto flutuante",
+      "intuitive_pt": "Entenda ponto flutuante pela ideia que vem antes da fórmula e pelo problema que a fórmula resolve.",
+      "anchor": "conceito + representação + aplicação",
+      "formula_or_rule_pt": "Apresentar a regra ou fórmula em notação legível, seguida de interpretação de cada termo.",
+      "example_pt": "Exemplo numérico curto, alterável pelo usuário.",
+      "visual_pt": "Gráfico, diagrama, reta numérica, árvore de possibilidades ou animação, conforme o conceito.",
+      "common_errors_pt": [
+        "decorar fórmula sem entender grandezas",
+        "misturar unidades ou condições",
+        "pular a etapa de interpretação do enunciado"
+      ],
+      "micro_challenge_pt": "Mude um parâmetro e preveja o que acontecerá antes de revelar o resultado.",
+      "sources": [
+        "src_eear_edital_2027",
+        "src_khan_pt_prob",
+        "src_geogebra",
+        "src_cs50_algorithms"
+      ],
+      "ee_ar_map": "verificar aderência ao programa do edital por tópico; conceitos computacionais são extensões culturais"
+    },
+    {
+      "id": "math-depth-075",
+      "title_pt": "Erro de arredondamento",
+      "intuitive_pt": "Entenda erro de arredondamento pela ideia que vem antes da fórmula e pelo problema que a fórmula resolve.",
+      "anchor": "conceito + representação + aplicação",
+      "formula_or_rule_pt": "Apresentar a regra ou fórmula em notação legível, seguida de interpretação de cada termo.",
+      "example_pt": "Exemplo numérico curto, alterável pelo usuário.",
+      "visual_pt": "Gráfico, diagrama, reta numérica, árvore de possibilidades ou animação, conforme o conceito.",
+      "common_errors_pt": [
+        "decorar fórmula sem entender grandezas",
+        "misturar unidades ou condições",
+        "pular a etapa de interpretação do enunciado"
+      ],
+      "micro_challenge_pt": "Mude um parâmetro e preveja o que acontecerá antes de revelar o resultado.",
+      "sources": [
+        "src_eear_edital_2027",
+        "src_khan_pt_prob",
+        "src_geogebra",
+        "src_cs50_algorithms"
+      ],
+      "ee_ar_map": "verificar aderência ao programa do edital por tópico; conceitos computacionais são extensões culturais"
+    },
+    {
+      "id": "math-depth-076",
+      "title_pt": "Média ponderada",
+      "intuitive_pt": "Entenda média ponderada pela ideia que vem antes da fórmula e pelo problema que a fórmula resolve.",
+      "anchor": "conceito + representação + aplicação",
+      "formula_or_rule_pt": "Apresentar a regra ou fórmula em notação legível, seguida de interpretação de cada termo.",
+      "example_pt": "Exemplo numérico curto, alterável pelo usuário.",
+      "visual_pt": "Gráfico, diagrama, reta numérica, árvore de possibilidades ou animação, conforme o conceito.",
+      "common_errors_pt": [
+        "decorar fórmula sem entender grandezas",
+        "misturar unidades ou condições",
+        "pular a etapa de interpretação do enunciado"
+      ],
+      "micro_challenge_pt": "Mude um parâmetro e preveja o que acontecerá antes de revelar o resultado.",
+      "sources": [
+        "src_eear_edital_2027",
+        "src_khan_pt_prob",
+        "src_geogebra",
+        "src_cs50_algorithms"
+      ],
+      "ee_ar_map": "verificar aderência ao programa do edital por tópico; conceitos computacionais são extensões culturais"
+    },
+    {
+      "id": "math-depth-077",
+      "title_pt": "Taxa de variação",
+      "intuitive_pt": "Entenda taxa de variação pela ideia que vem antes da fórmula e pelo problema que a fórmula resolve.",
+      "anchor": "conceito + representação + aplicação",
+      "formula_or_rule_pt": "Apresentar a regra ou fórmula em notação legível, seguida de interpretação de cada termo.",
+      "example_pt": "Exemplo numérico curto, alterável pelo usuário.",
+      "visual_pt": "Gráfico, diagrama, reta numérica, árvore de possibilidades ou animação, conforme o conceito.",
+      "common_errors_pt": [
+        "decorar fórmula sem entender grandezas",
+        "misturar unidades ou condições",
+        "pular a etapa de interpretação do enunciado"
+      ],
+      "micro_challenge_pt": "Mude um parâmetro e preveja o que acontecerá antes de revelar o resultado.",
+      "sources": [
+        "src_eear_edital_2027",
+        "src_khan_pt_prob",
+        "src_geogebra",
+        "src_cs50_algorithms"
+      ],
+      "ee_ar_map": "verificar aderência ao programa do edital por tópico; conceitos computacionais são extensões culturais"
+    },
+    {
+      "id": "math-depth-078",
+      "title_pt": "Derivada como taxa de mudança",
+      "intuitive_pt": "Entenda derivada como taxa de mudança pela ideia que vem antes da fórmula e pelo problema que a fórmula resolve.",
+      "anchor": "limite da razão entre variações",
+      "formula_or_rule_pt": "Apresentar a regra ou fórmula em notação legível, seguida de interpretação de cada termo.",
+      "example_pt": "Exemplo numérico curto, alterável pelo usuário.",
+      "visual_pt": "Gráfico, diagrama, reta numérica, árvore de possibilidades ou animação, conforme o conceito.",
+      "common_errors_pt": [
+        "decorar fórmula sem entender grandezas",
+        "misturar unidades ou condições",
+        "pular a etapa de interpretação do enunciado"
+      ],
+      "micro_challenge_pt": "Mude um parâmetro e preveja o que acontecerá antes de revelar o resultado.",
+      "sources": [
+        "src_eear_edital_2027",
+        "src_khan_pt_prob",
+        "src_geogebra",
+        "src_cs50_algorithms"
+      ],
+      "ee_ar_map": "verificar aderência ao programa do edital por tópico; conceitos computacionais são extensões culturais"
+    },
+    {
+      "id": "math-depth-079",
+      "title_pt": "Integral como acumulação",
+      "intuitive_pt": "Entenda integral como acumulação pela ideia que vem antes da fórmula e pelo problema que a fórmula resolve.",
+      "anchor": "soma contínua",
+      "formula_or_rule_pt": "Apresentar a regra ou fórmula em notação legível, seguida de interpretação de cada termo.",
+      "example_pt": "Exemplo numérico curto, alterável pelo usuário.",
+      "visual_pt": "Gráfico, diagrama, reta numérica, árvore de possibilidades ou animação, conforme o conceito.",
+      "common_errors_pt": [
+        "decorar fórmula sem entender grandezas",
+        "misturar unidades ou condições",
+        "pular a etapa de interpretação do enunciado"
+      ],
+      "micro_challenge_pt": "Mude um parâmetro e preveja o que acontecerá antes de revelar o resultado.",
+      "sources": [
+        "src_eear_edital_2027",
+        "src_khan_pt_prob",
+        "src_geogebra",
+        "src_cs50_algorithms"
+      ],
+      "ee_ar_map": "verificar aderência ao programa do edital por tópico; conceitos computacionais são extensões culturais"
+    },
+    {
+      "id": "math-depth-080",
+      "title_pt": "Interpolação",
+      "intuitive_pt": "Entenda interpolação pela ideia que vem antes da fórmula e pelo problema que a fórmula resolve.",
+      "anchor": "conceito + representação + aplicação",
+      "formula_or_rule_pt": "Apresentar a regra ou fórmula em notação legível, seguida de interpretação de cada termo.",
+      "example_pt": "Exemplo numérico curto, alterável pelo usuário.",
+      "visual_pt": "Gráfico, diagrama, reta numérica, árvore de possibilidades ou animação, conforme o conceito.",
+      "common_errors_pt": [
+        "decorar fórmula sem entender grandezas",
+        "misturar unidades ou condições",
+        "pular a etapa de interpretação do enunciado"
+      ],
+      "micro_challenge_pt": "Mude um parâmetro e preveja o que acontecerá antes de revelar o resultado.",
+      "sources": [
+        "src_eear_edital_2027",
+        "src_khan_pt_prob",
+        "src_geogebra",
+        "src_cs50_algorithms"
+      ],
+      "ee_ar_map": "verificar aderência ao programa do edital por tópico; conceitos computacionais são extensões culturais"
+    },
+    {
+      "id": "math-depth-081",
+      "title_pt": "Regressão linear",
+      "intuitive_pt": "Entenda regressão linear pela ideia que vem antes da fórmula e pelo problema que a fórmula resolve.",
+      "anchor": "modelo y = a + bx",
+      "formula_or_rule_pt": "Apresentar a regra ou fórmula em notação legível, seguida de interpretação de cada termo.",
+      "example_pt": "Exemplo numérico curto, alterável pelo usuário.",
+      "visual_pt": "Gráfico, diagrama, reta numérica, árvore de possibilidades ou animação, conforme o conceito.",
+      "common_errors_pt": [
+        "decorar fórmula sem entender grandezas",
+        "misturar unidades ou condições",
+        "pular a etapa de interpretação do enunciado"
+      ],
+      "micro_challenge_pt": "Mude um parâmetro e preveja o que acontecerá antes de revelar o resultado.",
+      "sources": [
+        "src_eear_edital_2027",
+        "src_khan_pt_prob",
+        "src_geogebra",
+        "src_cs50_algorithms"
+      ],
+      "ee_ar_map": "verificar aderência ao programa do edital por tópico; conceitos computacionais são extensões culturais"
+    },
+    {
+      "id": "math-depth-082",
+      "title_pt": "Correlação",
+      "intuitive_pt": "Entenda correlação pela ideia que vem antes da fórmula e pelo problema que a fórmula resolve.",
+      "anchor": "conceito + representação + aplicação",
+      "formula_or_rule_pt": "Apresentar a regra ou fórmula em notação legível, seguida de interpretação de cada termo.",
+      "example_pt": "Exemplo numérico curto, alterável pelo usuário.",
+      "visual_pt": "Gráfico, diagrama, reta numérica, árvore de possibilidades ou animação, conforme o conceito.",
+      "common_errors_pt": [
+        "decorar fórmula sem entender grandezas",
+        "misturar unidades ou condições",
+        "pular a etapa de interpretação do enunciado"
+      ],
+      "micro_challenge_pt": "Mude um parâmetro e preveja o que acontecerá antes de revelar o resultado.",
+      "sources": [
+        "src_eear_edital_2027",
+        "src_khan_pt_prob",
+        "src_geogebra",
+        "src_cs50_algorithms"
+      ],
+      "ee_ar_map": "verificar aderência ao programa do edital por tópico; conceitos computacionais são extensões culturais"
+    },
+    {
+      "id": "math-depth-083",
+      "title_pt": "Distribuição normal",
+      "intuitive_pt": "Entenda distribuição normal pela ideia que vem antes da fórmula e pelo problema que a fórmula resolve.",
+      "anchor": "conceito + representação + aplicação",
+      "formula_or_rule_pt": "Apresentar a regra ou fórmula em notação legível, seguida de interpretação de cada termo.",
+      "example_pt": "Exemplo numérico curto, alterável pelo usuário.",
+      "visual_pt": "Gráfico, diagrama, reta numérica, árvore de possibilidades ou animação, conforme o conceito.",
+      "common_errors_pt": [
+        "decorar fórmula sem entender grandezas",
+        "misturar unidades ou condições",
+        "pular a etapa de interpretação do enunciado"
+      ],
+      "micro_challenge_pt": "Mude um parâmetro e preveja o que acontecerá antes de revelar o resultado.",
+      "sources": [
+        "src_eear_edital_2027",
+        "src_khan_pt_prob",
+        "src_geogebra",
+        "src_cs50_algorithms"
+      ],
+      "ee_ar_map": "verificar aderência ao programa do edital por tópico; conceitos computacionais são extensões culturais"
+    },
+    {
+      "id": "math-depth-084",
+      "title_pt": "Simulação de Monte Carlo",
+      "intuitive_pt": "Entenda simulação de monte carlo pela ideia que vem antes da fórmula e pelo problema que a fórmula resolve.",
+      "anchor": "conceito + representação + aplicação",
+      "formula_or_rule_pt": "Apresentar a regra ou fórmula em notação legível, seguida de interpretação de cada termo.",
+      "example_pt": "Exemplo numérico curto, alterável pelo usuário.",
+      "visual_pt": "Gráfico, diagrama, reta numérica, árvore de possibilidades ou animação, conforme o conceito.",
+      "common_errors_pt": [
+        "decorar fórmula sem entender grandezas",
+        "misturar unidades ou condições",
+        "pular a etapa de interpretação do enunciado"
+      ],
+      "micro_challenge_pt": "Mude um parâmetro e preveja o que acontecerá antes de revelar o resultado.",
+      "sources": [
+        "src_eear_edital_2027",
+        "src_khan_pt_prob",
+        "src_geogebra",
+        "src_cs50_algorithms"
+      ],
+      "ee_ar_map": "verificar aderência ao programa do edital por tópico; conceitos computacionais são extensões culturais"
+    },
+    {
+      "id": "math-depth-085",
+      "title_pt": "Jogo de Monty Hall",
+      "intuitive_pt": "Entenda jogo de monty hall pela ideia que vem antes da fórmula e pelo problema que a fórmula resolve.",
+      "anchor": "conceito + representação + aplicação",
+      "formula_or_rule_pt": "Apresentar a regra ou fórmula em notação legível, seguida de interpretação de cada termo.",
+      "example_pt": "Exemplo numérico curto, alterável pelo usuário.",
+      "visual_pt": "Gráfico, diagrama, reta numérica, árvore de possibilidades ou animação, conforme o conceito.",
+      "common_errors_pt": [
+        "decorar fórmula sem entender grandezas",
+        "misturar unidades ou condições",
+        "pular a etapa de interpretação do enunciado"
+      ],
+      "micro_challenge_pt": "Mude um parâmetro e preveja o que acontecerá antes de revelar o resultado.",
+      "sources": [
+        "src_eear_edital_2027",
+        "src_khan_pt_prob",
+        "src_geogebra",
+        "src_cs50_algorithms"
+      ],
+      "ee_ar_map": "verificar aderência ao programa do edital por tópico; conceitos computacionais são extensões culturais"
+    },
+    {
+      "id": "math-depth-086",
+      "title_pt": "Paradoxo do aniversário",
+      "intuitive_pt": "Entenda paradoxo do aniversário pela ideia que vem antes da fórmula e pelo problema que a fórmula resolve.",
+      "anchor": "conceito + representação + aplicação",
+      "formula_or_rule_pt": "Apresentar a regra ou fórmula em notação legível, seguida de interpretação de cada termo.",
+      "example_pt": "Exemplo numérico curto, alterável pelo usuário.",
+      "visual_pt": "Gráfico, diagrama, reta numérica, árvore de possibilidades ou animação, conforme o conceito.",
+      "common_errors_pt": [
+        "decorar fórmula sem entender grandezas",
+        "misturar unidades ou condições",
+        "pular a etapa de interpretação do enunciado"
+      ],
+      "micro_challenge_pt": "Mude um parâmetro e preveja o que acontecerá antes de revelar o resultado.",
+      "sources": [
+        "src_eear_edital_2027",
+        "src_khan_pt_prob",
+        "src_geogebra",
+        "src_cs50_algorithms"
+      ],
+      "ee_ar_map": "verificar aderência ao programa do edital por tópico; conceitos computacionais são extensões culturais"
+    },
+    {
+      "id": "math-depth-087",
+      "title_pt": "Teoria de conjuntos",
+      "intuitive_pt": "Entenda teoria de conjuntos pela ideia que vem antes da fórmula e pelo problema que a fórmula resolve.",
+      "anchor": "conceito + representação + aplicação",
+      "formula_or_rule_pt": "Apresentar a regra ou fórmula em notação legível, seguida de interpretação de cada termo.",
+      "example_pt": "Exemplo numérico curto, alterável pelo usuário.",
+      "visual_pt": "Gráfico, diagrama, reta numérica, árvore de possibilidades ou animação, conforme o conceito.",
+      "common_errors_pt": [
+        "decorar fórmula sem entender grandezas",
+        "misturar unidades ou condições",
+        "pular a etapa de interpretação do enunciado"
+      ],
+      "micro_challenge_pt": "Mude um parâmetro e preveja o que acontecerá antes de revelar o resultado.",
+      "sources": [
+        "src_eear_edital_2027",
+        "src_khan_pt_prob",
+        "src_geogebra",
+        "src_cs50_algorithms"
+      ],
+      "ee_ar_map": "verificar aderência ao programa do edital por tópico; conceitos computacionais são extensões culturais"
+    },
+    {
+      "id": "math-depth-088",
+      "title_pt": "Diagramas de Venn",
+      "intuitive_pt": "Entenda diagramas de venn pela ideia que vem antes da fórmula e pelo problema que a fórmula resolve.",
+      "anchor": "conceito + representação + aplicação",
+      "formula_or_rule_pt": "Apresentar a regra ou fórmula em notação legível, seguida de interpretação de cada termo.",
+      "example_pt": "Exemplo numérico curto, alterável pelo usuário.",
+      "visual_pt": "Gráfico, diagrama, reta numérica, árvore de possibilidades ou animação, conforme o conceito.",
+      "common_errors_pt": [
+        "decorar fórmula sem entender grandezas",
+        "misturar unidades ou condições",
+        "pular a etapa de interpretação do enunciado"
+      ],
+      "micro_challenge_pt": "Mude um parâmetro e preveja o que acontecerá antes de revelar o resultado.",
+      "sources": [
+        "src_eear_edital_2027",
+        "src_khan_pt_prob",
+        "src_geogebra",
+        "src_cs50_algorithms"
+      ],
+      "ee_ar_map": "verificar aderência ao programa do edital por tópico; conceitos computacionais são extensões culturais"
+    },
+    {
+      "id": "math-depth-089",
+      "title_pt": "Princípio da inclusão-exclusão",
+      "intuitive_pt": "Entenda princípio da inclusão-exclusão pela ideia que vem antes da fórmula e pelo problema que a fórmula resolve.",
+      "anchor": "conceito + representação + aplicação",
+      "formula_or_rule_pt": "Apresentar a regra ou fórmula em notação legível, seguida de interpretação de cada termo.",
+      "example_pt": "Exemplo numérico curto, alterável pelo usuário.",
+      "visual_pt": "Gráfico, diagrama, reta numérica, árvore de possibilidades ou animação, conforme o conceito.",
+      "common_errors_pt": [
+        "decorar fórmula sem entender grandezas",
+        "misturar unidades ou condições",
+        "pular a etapa de interpretação do enunciado"
+      ],
+      "micro_challenge_pt": "Mude um parâmetro e preveja o que acontecerá antes de revelar o resultado.",
+      "sources": [
+        "src_eear_edital_2027",
+        "src_khan_pt_prob",
+        "src_geogebra",
+        "src_cs50_algorithms"
+      ],
+      "ee_ar_map": "verificar aderência ao programa do edital por tópico; conceitos computacionais são extensões culturais"
+    },
+    {
+      "id": "math-depth-090",
+      "title_pt": "Princípio da casa dos pombos",
+      "intuitive_pt": "Entenda princípio da casa dos pombos pela ideia que vem antes da fórmula e pelo problema que a fórmula resolve.",
+      "anchor": "conceito + representação + aplicação",
+      "formula_or_rule_pt": "Apresentar a regra ou fórmula em notação legível, seguida de interpretação de cada termo.",
+      "example_pt": "Exemplo numérico curto, alterável pelo usuário.",
+      "visual_pt": "Gráfico, diagrama, reta numérica, árvore de possibilidades ou animação, conforme o conceito.",
+      "common_errors_pt": [
+        "decorar fórmula sem entender grandezas",
+        "misturar unidades ou condições",
+        "pular a etapa de interpretação do enunciado"
+      ],
+      "micro_challenge_pt": "Mude um parâmetro e preveja o que acontecerá antes de revelar o resultado.",
+      "sources": [
+        "src_eear_edital_2027",
+        "src_khan_pt_prob",
+        "src_geogebra",
+        "src_cs50_algorithms"
+      ],
+      "ee_ar_map": "verificar aderência ao programa do edital por tópico; conceitos computacionais são extensões culturais"
+    },
+    {
+      "id": "math-depth-091",
+      "title_pt": "Fractais",
+      "intuitive_pt": "Entenda fractais pela ideia que vem antes da fórmula e pelo problema que a fórmula resolve.",
+      "anchor": "conceito + representação + aplicação",
+      "formula_or_rule_pt": "Apresentar a regra ou fórmula em notação legível, seguida de interpretação de cada termo.",
+      "example_pt": "Exemplo numérico curto, alterável pelo usuário.",
+      "visual_pt": "Gráfico, diagrama, reta numérica, árvore de possibilidades ou animação, conforme o conceito.",
+      "common_errors_pt": [
+        "decorar fórmula sem entender grandezas",
+        "misturar unidades ou condições",
+        "pular a etapa de interpretação do enunciado"
+      ],
+      "micro_challenge_pt": "Mude um parâmetro e preveja o que acontecerá antes de revelar o resultado.",
+      "sources": [
+        "src_eear_edital_2027",
+        "src_khan_pt_prob",
+        "src_geogebra",
+        "src_cs50_algorithms"
+      ],
+      "ee_ar_map": "verificar aderência ao programa do edital por tópico; conceitos computacionais são extensões culturais"
+    },
+    {
+      "id": "math-depth-092",
+      "title_pt": "Sequência de Fibonacci",
+      "intuitive_pt": "Entenda sequência de fibonacci pela ideia que vem antes da fórmula e pelo problema que a fórmula resolve.",
+      "anchor": "conceito + representação + aplicação",
+      "formula_or_rule_pt": "Apresentar a regra ou fórmula em notação legível, seguida de interpretação de cada termo.",
+      "example_pt": "Exemplo numérico curto, alterável pelo usuário.",
+      "visual_pt": "Gráfico, diagrama, reta numérica, árvore de possibilidades ou animação, conforme o conceito.",
+      "common_errors_pt": [
+        "decorar fórmula sem entender grandezas",
+        "misturar unidades ou condições",
+        "pular a etapa de interpretação do enunciado"
+      ],
+      "micro_challenge_pt": "Mude um parâmetro e preveja o que acontecerá antes de revelar o resultado.",
+      "sources": [
+        "src_eear_edital_2027",
+        "src_khan_pt_prob",
+        "src_geogebra",
+        "src_cs50_algorithms"
+      ],
+      "ee_ar_map": "verificar aderência ao programa do edital por tópico; conceitos computacionais são extensões culturais"
+    },
+    {
+      "id": "math-depth-093",
+      "title_pt": "Proporção áurea",
+      "intuitive_pt": "Entenda proporção áurea pela ideia que vem antes da fórmula e pelo problema que a fórmula resolve.",
+      "anchor": "conceito + representação + aplicação",
+      "formula_or_rule_pt": "Apresentar a regra ou fórmula em notação legível, seguida de interpretação de cada termo.",
+      "example_pt": "Exemplo numérico curto, alterável pelo usuário.",
+      "visual_pt": "Gráfico, diagrama, reta numérica, árvore de possibilidades ou animação, conforme o conceito.",
+      "common_errors_pt": [
+        "decorar fórmula sem entender grandezas",
+        "misturar unidades ou condições",
+        "pular a etapa de interpretação do enunciado"
+      ],
+      "micro_challenge_pt": "Mude um parâmetro e preveja o que acontecerá antes de revelar o resultado.",
+      "sources": [
+        "src_eear_edital_2027",
+        "src_khan_pt_prob",
+        "src_geogebra",
+        "src_cs50_algorithms"
+      ],
+      "ee_ar_map": "verificar aderência ao programa do edital por tópico; conceitos computacionais são extensões culturais"
+    },
+    {
+      "id": "math-depth-094",
+      "title_pt": "Geometria de sombras",
+      "intuitive_pt": "Entenda geometria de sombras pela ideia que vem antes da fórmula e pelo problema que a fórmula resolve.",
+      "anchor": "conceito + representação + aplicação",
+      "formula_or_rule_pt": "Apresentar a regra ou fórmula em notação legível, seguida de interpretação de cada termo.",
+      "example_pt": "Exemplo numérico curto, alterável pelo usuário.",
+      "visual_pt": "Gráfico, diagrama, reta numérica, árvore de possibilidades ou animação, conforme o conceito.",
+      "common_errors_pt": [
+        "decorar fórmula sem entender grandezas",
+        "misturar unidades ou condições",
+        "pular a etapa de interpretação do enunciado"
+      ],
+      "micro_challenge_pt": "Mude um parâmetro e preveja o que acontecerá antes de revelar o resultado.",
+      "sources": [
+        "src_eear_edital_2027",
+        "src_khan_pt_prob",
+        "src_geogebra",
+        "src_cs50_algorithms"
+      ],
+      "ee_ar_map": "verificar aderência ao programa do edital por tópico; conceitos computacionais são extensões culturais"
+    },
+    {
+      "id": "math-depth-095",
+      "title_pt": "Trilateração",
+      "intuitive_pt": "Entenda trilateração pela ideia que vem antes da fórmula e pelo problema que a fórmula resolve.",
+      "anchor": "conceito + representação + aplicação",
+      "formula_or_rule_pt": "Apresentar a regra ou fórmula em notação legível, seguida de interpretação de cada termo.",
+      "example_pt": "Exemplo numérico curto, alterável pelo usuário.",
+      "visual_pt": "Gráfico, diagrama, reta numérica, árvore de possibilidades ou animação, conforme o conceito.",
+      "common_errors_pt": [
+        "decorar fórmula sem entender grandezas",
+        "misturar unidades ou condições",
+        "pular a etapa de interpretação do enunciado"
+      ],
+      "micro_challenge_pt": "Mude um parâmetro e preveja o que acontecerá antes de revelar o resultado.",
+      "sources": [
+        "src_eear_edital_2027",
+        "src_khan_pt_prob",
+        "src_geogebra",
+        "src_cs50_algorithms"
+      ],
+      "ee_ar_map": "verificar aderência ao programa do edital por tópico; conceitos computacionais são extensões culturais"
+    },
+    {
+      "id": "math-depth-096",
+      "title_pt": "GPS e distância",
+      "intuitive_pt": "Entenda gps e distância pela ideia que vem antes da fórmula e pelo problema que a fórmula resolve.",
+      "anchor": "conceito + representação + aplicação",
+      "formula_or_rule_pt": "Apresentar a regra ou fórmula em notação legível, seguida de interpretação de cada termo.",
+      "example_pt": "Exemplo numérico curto, alterável pelo usuário.",
+      "visual_pt": "Gráfico, diagrama, reta numérica, árvore de possibilidades ou animação, conforme o conceito.",
+      "common_errors_pt": [
+        "decorar fórmula sem entender grandezas",
+        "misturar unidades ou condições",
+        "pular a etapa de interpretação do enunciado"
+      ],
+      "micro_challenge_pt": "Mude um parâmetro e preveja o que acontecerá antes de revelar o resultado.",
+      "sources": [
+        "src_eear_edital_2027",
+        "src_khan_pt_prob",
+        "src_geogebra",
+        "src_cs50_algorithms"
+      ],
+      "ee_ar_map": "verificar aderência ao programa do edital por tópico; conceitos computacionais são extensões culturais"
+    },
+    {
+      "id": "math-depth-097",
+      "title_pt": "Compressão de dados",
+      "intuitive_pt": "Entenda compressão de dados pela ideia que vem antes da fórmula e pelo problema que a fórmula resolve.",
+      "anchor": "conceito + representação + aplicação",
+      "formula_or_rule_pt": "Apresentar a regra ou fórmula em notação legível, seguida de interpretação de cada termo.",
+      "example_pt": "Exemplo numérico curto, alterável pelo usuário.",
+      "visual_pt": "Gráfico, diagrama, reta numérica, árvore de possibilidades ou animação, conforme o conceito.",
+      "common_errors_pt": [
+        "decorar fórmula sem entender grandezas",
+        "misturar unidades ou condições",
+        "pular a etapa de interpretação do enunciado"
+      ],
+      "micro_challenge_pt": "Mude um parâmetro e preveja o que acontecerá antes de revelar o resultado.",
+      "sources": [
+        "src_eear_edital_2027",
+        "src_khan_pt_prob",
+        "src_geogebra",
+        "src_cs50_algorithms"
+      ],
+      "ee_ar_map": "verificar aderência ao programa do edital por tópico; conceitos computacionais são extensões culturais"
+    },
+    {
+      "id": "math-depth-098",
+      "title_pt": "Códigos corretores",
+      "intuitive_pt": "Entenda códigos corretores pela ideia que vem antes da fórmula e pelo problema que a fórmula resolve.",
+      "anchor": "conceito + representação + aplicação",
+      "formula_or_rule_pt": "Apresentar a regra ou fórmula em notação legível, seguida de interpretação de cada termo.",
+      "example_pt": "Exemplo numérico curto, alterável pelo usuário.",
+      "visual_pt": "Gráfico, diagrama, reta numérica, árvore de possibilidades ou animação, conforme o conceito.",
+      "common_errors_pt": [
+        "decorar fórmula sem entender grandezas",
+        "misturar unidades ou condições",
+        "pular a etapa de interpretação do enunciado"
+      ],
+      "micro_challenge_pt": "Mude um parâmetro e preveja o que acontecerá antes de revelar o resultado.",
+      "sources": [
+        "src_eear_edital_2027",
+        "src_khan_pt_prob",
+        "src_geogebra",
+        "src_cs50_algorithms"
+      ],
+      "ee_ar_map": "verificar aderência ao programa do edital por tópico; conceitos computacionais são extensões culturais"
+    },
+    {
+      "id": "math-depth-099",
+      "title_pt": "Informação e entropia",
+      "intuitive_pt": "Entenda informação e entropia pela ideia que vem antes da fórmula e pelo problema que a fórmula resolve.",
+      "anchor": "conceito + representação + aplicação",
+      "formula_or_rule_pt": "Apresentar a regra ou fórmula em notação legível, seguida de interpretação de cada termo.",
+      "example_pt": "Exemplo numérico curto, alterável pelo usuário.",
+      "visual_pt": "Gráfico, diagrama, reta numérica, árvore de possibilidades ou animação, conforme o conceito.",
+      "common_errors_pt": [
+        "decorar fórmula sem entender grandezas",
+        "misturar unidades ou condições",
+        "pular a etapa de interpretação do enunciado"
+      ],
+      "micro_challenge_pt": "Mude um parâmetro e preveja o que acontecerá antes de revelar o resultado.",
+      "sources": [
+        "src_eear_edital_2027",
+        "src_khan_pt_prob",
+        "src_geogebra",
+        "src_cs50_algorithms"
+      ],
+      "ee_ar_map": "verificar aderência ao programa do edital por tópico; conceitos computacionais são extensões culturais"
+    },
+    {
+      "id": "math-depth-100",
+      "title_pt": "Lógica booleana",
+      "intuitive_pt": "Entenda lógica booleana pela ideia que vem antes da fórmula e pelo problema que a fórmula resolve.",
+      "anchor": "conceito + representação + aplicação",
+      "formula_or_rule_pt": "Apresentar a regra ou fórmula em notação legível, seguida de interpretação de cada termo.",
+      "example_pt": "Exemplo numérico curto, alterável pelo usuário.",
+      "visual_pt": "Gráfico, diagrama, reta numérica, árvore de possibilidades ou animação, conforme o conceito.",
+      "common_errors_pt": [
+        "decorar fórmula sem entender grandezas",
+        "misturar unidades ou condições",
+        "pular a etapa de interpretação do enunciado"
+      ],
+      "micro_challenge_pt": "Mude um parâmetro e preveja o que acontecerá antes de revelar o resultado.",
+      "sources": [
+        "src_eear_edital_2027",
+        "src_khan_pt_prob",
+        "src_geogebra",
+        "src_cs50_algorithms"
+      ],
+      "ee_ar_map": "verificar aderência ao programa do edital por tópico; conceitos computacionais são extensões culturais"
+    },
+    {
+      "id": "math-depth-101",
+      "title_pt": "AND OR XOR",
+      "intuitive_pt": "Entenda and or xor pela ideia que vem antes da fórmula e pelo problema que a fórmula resolve.",
+      "anchor": "conceito + representação + aplicação",
+      "formula_or_rule_pt": "Apresentar a regra ou fórmula em notação legível, seguida de interpretação de cada termo.",
+      "example_pt": "Exemplo numérico curto, alterável pelo usuário.",
+      "visual_pt": "Gráfico, diagrama, reta numérica, árvore de possibilidades ou animação, conforme o conceito.",
+      "common_errors_pt": [
+        "decorar fórmula sem entender grandezas",
+        "misturar unidades ou condições",
+        "pular a etapa de interpretação do enunciado"
+      ],
+      "micro_challenge_pt": "Mude um parâmetro e preveja o que acontecerá antes de revelar o resultado.",
+      "sources": [
+        "src_eear_edital_2027",
+        "src_khan_pt_prob",
+        "src_geogebra",
+        "src_cs50_algorithms"
+      ],
+      "ee_ar_map": "verificar aderência ao programa do edital por tópico; conceitos computacionais são extensões culturais"
+    },
+    {
+      "id": "math-depth-102",
+      "title_pt": "Métricas de redes",
+      "intuitive_pt": "Entenda métricas de redes pela ideia que vem antes da fórmula e pelo problema que a fórmula resolve.",
+      "anchor": "conceito + representação + aplicação",
+      "formula_or_rule_pt": "Apresentar a regra ou fórmula em notação legível, seguida de interpretação de cada termo.",
+      "example_pt": "Exemplo numérico curto, alterável pelo usuário.",
+      "visual_pt": "Gráfico, diagrama, reta numérica, árvore de possibilidades ou animação, conforme o conceito.",
+      "common_errors_pt": [
+        "decorar fórmula sem entender grandezas",
+        "misturar unidades ou condições",
+        "pular a etapa de interpretação do enunciado"
+      ],
+      "micro_challenge_pt": "Mude um parâmetro e preveja o que acontecerá antes de revelar o resultado.",
+      "sources": [
+        "src_eear_edital_2027",
+        "src_khan_pt_prob",
+        "src_geogebra",
+        "src_cs50_algorithms"
+      ],
+      "ee_ar_map": "verificar aderência ao programa do edital por tópico; conceitos computacionais são extensões culturais"
+    },
+    {
+      "id": "math-depth-103",
+      "title_pt": "Filas",
+      "intuitive_pt": "Entenda filas pela ideia que vem antes da fórmula e pelo problema que a fórmula resolve.",
+      "anchor": "conceito + representação + aplicação",
+      "formula_or_rule_pt": "Apresentar a regra ou fórmula em notação legível, seguida de interpretação de cada termo.",
+      "example_pt": "Exemplo numérico curto, alterável pelo usuário.",
+      "visual_pt": "Gráfico, diagrama, reta numérica, árvore de possibilidades ou animação, conforme o conceito.",
+      "common_errors_pt": [
+        "decorar fórmula sem entender grandezas",
+        "misturar unidades ou condições",
+        "pular a etapa de interpretação do enunciado"
+      ],
+      "micro_challenge_pt": "Mude um parâmetro e preveja o que acontecerá antes de revelar o resultado.",
+      "sources": [
+        "src_eear_edital_2027",
+        "src_khan_pt_prob",
+        "src_geogebra",
+        "src_cs50_algorithms"
+      ],
+      "ee_ar_map": "verificar aderência ao programa do edital por tópico; conceitos computacionais são extensões culturais"
+    },
+    {
+      "id": "math-depth-104",
+      "title_pt": "Modelo predador-presa",
+      "intuitive_pt": "Entenda modelo predador-presa pela ideia que vem antes da fórmula e pelo problema que a fórmula resolve.",
+      "anchor": "conceito + representação + aplicação",
+      "formula_or_rule_pt": "Apresentar a regra ou fórmula em notação legível, seguida de interpretação de cada termo.",
+      "example_pt": "Exemplo numérico curto, alterável pelo usuário.",
+      "visual_pt": "Gráfico, diagrama, reta numérica, árvore de possibilidades ou animação, conforme o conceito.",
+      "common_errors_pt": [
+        "decorar fórmula sem entender grandezas",
+        "misturar unidades ou condições",
+        "pular a etapa de interpretação do enunciado"
+      ],
+      "micro_challenge_pt": "Mude um parâmetro e preveja o que acontecerá antes de revelar o resultado.",
+      "sources": [
+        "src_eear_edital_2027",
+        "src_khan_pt_prob",
+        "src_geogebra",
+        "src_cs50_algorithms"
+      ],
+      "ee_ar_map": "verificar aderência ao programa do edital por tópico; conceitos computacionais são extensões culturais"
+    }
+  ]
+}

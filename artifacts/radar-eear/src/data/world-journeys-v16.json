@@ -1,0 +1,290 @@
+{
+  "version": "v16",
+  "count": 26,
+  "journeys": [
+    {
+      "id": "mesopotamia-math-v16",
+      "title_pt": "Mesopotâmia: números que organizaram cidades",
+      "description_pt": "Babilônia e Uruk para explorar escrita, medida, comércio, matemática e astronomia.",
+      "stops": [
+        "hub-babylon",
+        "hub-uruk"
+      ]
+    },
+    {
+      "id": "greek-reasoning-v16",
+      "title_pt": "Grécia: filosofia, matemática e demonstração",
+      "description_pt": "Atenas e Alexandria como portas para filosofia, geometria e ciência.",
+      "stops": [
+        "hub-athens",
+        "hub-alexandria"
+      ]
+    },
+    {
+      "id": "paulo-rome-v16",
+      "title_pt": "Paulo: das comunidades a Roma",
+      "description_pt": "Siga os principais lugares do Novo Testamento ligados às viagens e cartas paulinas.",
+      "stops": [
+        "hub-tarsus",
+        "hub-antioch",
+        "hub-corinth",
+        "hub-ephesus",
+        "hub-rome"
+      ]
+    },
+    {
+      "id": "biblical-lands-v16",
+      "title_pt": "Terras bíblicas: texto, lugar e contexto",
+      "description_pt": "Jerusalém, Qumran e Jericó para conectar Escritura, arqueologia e história.",
+      "stops": [
+        "hub-jerusalem",
+        "hub-qumran",
+        "hub-jericho"
+      ]
+    },
+    {
+      "id": "islamic-science-v16",
+      "title_pt": "Ciência medieval: Bagdá, Isfahan e Samarcanda",
+      "description_pt": "Uma trilha para estudar matemática, astronomia, comércio e transmissão do conhecimento.",
+      "stops": [
+        "hub-baghdad",
+        "hub-isfahan",
+        "hub-samarkand"
+      ]
+    },
+    {
+      "id": "renaissance-science-v16",
+      "title_pt": "Renascimento e Revolução Científica",
+      "description_pt": "Florença, Pisa, Pádua, Cambridge e Londres em uma linha de transformação científica.",
+      "stops": [
+        "hub-florence",
+        "hub-pisa",
+        "hub-padua",
+        "hub-cambridge",
+        "hub-london"
+      ]
+    },
+    {
+      "id": "africa-knowledge-v16",
+      "title_pt": "África: cidades, manuscritos e ecologia",
+      "description_pt": "Tombuctu, Grande Zimbábue e ecossistemas africanos em uma trilha interdisciplinar.",
+      "stops": [
+        "hub-timbuktu",
+        "hub-great-zimbabwe",
+        "hub-serengeti",
+        "hub-okavango"
+      ]
+    },
+    {
+      "id": "america-indigenous-v16",
+      "title_pt": "Américas: astronomia, matemática e território",
+      "description_pt": "Mundo maia e Andes para estudar céu, medida, urbanismo e ambiente.",
+      "stops": [
+        "hub-chichen-itza",
+        "hub-tikal",
+        "hub-cusco",
+        "hub-machu-picchu"
+      ]
+    },
+    {
+      "id": "andean-science-v16",
+      "title_pt": "Andes: altitude, água e engenharia",
+      "description_pt": "Uma trilha para ligar geologia, ecologia, hidráulica e arquitetura.",
+      "stops": [
+        "hub-quito",
+        "hub-andes",
+        "hub-cusco",
+        "hub-machu-picchu"
+      ]
+    },
+    {
+      "id": "amazon-ecology-v16",
+      "title_pt": "Amazônia: biodiversidade e matemática",
+      "description_pt": "Território como laboratório de ecologia, água, clima e modelagem populacional.",
+      "stops": [
+        "hub-amazon",
+        "hub-serengeti",
+        "hub-galapagos"
+      ]
+    },
+    {
+      "id": "prehistory-south-america-v16",
+      "title_pt": "Pré-história sul-americana",
+      "description_pt": "Serra da Capivara, Lagoa Santa e La Plata para estudar arqueologia e paleontologia.",
+      "stops": [
+        "hub-serra-capivara",
+        "hub-lagoa-santa",
+        "hub-la-plata"
+      ]
+    },
+    {
+      "id": "pacific-navigation-v16",
+      "title_pt": "Pacífico: navegação, ilhas e ecologia",
+      "description_pt": "Rapa Nui, Havaí, Austrália e recifes para estudar orientação e biodiversidade.",
+      "stops": [
+        "hub-easter-island",
+        "hub-hawaii",
+        "hub-sydney",
+        "hub-great-barrier-reef"
+      ]
+    },
+    {
+      "id": "computing-world-v16",
+      "title_pt": "Computação no mundo",
+      "description_pt": "Cambridge, Massachusetts, Vale do Silício, Tóquio e Seul como portas para computação.",
+      "stops": [
+        "hub-cambridge-ma",
+        "hub-silicon-valley",
+        "hub-tokyo",
+        "hub-seoul"
+      ]
+    },
+    {
+      "id": "modern-physics-v16",
+      "title_pt": "Física moderna: laboratórios e instituições",
+      "description_pt": "Cambridge, Genebra e Londres para ligar matemática, partículas e instrumentação.",
+      "stops": [
+        "hub-cambridge",
+        "hub-geneva",
+        "hub-london"
+      ]
+    },
+    {
+      "id": "earth-science-v16",
+      "title_pt": "Planeta como laboratório",
+      "description_pt": "Himalaia, Atacama, Galápagos, Kilimanjaro e extremos polares para geologia e clima.",
+      "stops": [
+        "hub-himalaya",
+        "hub-atacama",
+        "hub-galapagos",
+        "hub-kilimanjaro",
+        "hub-ushuaia"
+      ]
+    },
+    {
+      "id": "art-renaissance-v16",
+      "title_pt": "Arte: Renascimento em perspectiva",
+      "description_pt": "Florença e Roma como contexto para técnica, proporção e história da arte.",
+      "stops": [
+        "hub-florence",
+        "hub-rome"
+      ]
+    },
+    {
+      "id": "literature-russia-v16",
+      "title_pt": "Literatura russa e cidades",
+      "description_pt": "Moscou e São Petersburgo como portas para Tolstói, Dostoiévski e história cultural.",
+      "stops": [
+        "hub-moscow",
+        "hub-st-petersburg"
+      ]
+    },
+    {
+      "id": "portuguese-world-v16",
+      "title_pt": "Português pelo mundo",
+      "description_pt": "Lisboa, Cabo Verde e cidades brasileiras para estudar história da língua e variação.",
+      "stops": [
+        "hub-lisbon",
+        "hub-cape-verde",
+        "hub-salvador",
+        "hub-recife",
+        "hub-rio"
+      ]
+    },
+    {
+      "id": "time-astronomy-v16",
+      "title_pt": "Tempo e céu",
+      "description_pt": "Greenwich, Stonehenge, Samarcanda e Chichén Itzá para investigar calendários e geometria.",
+      "stops": [
+        "hub-greenwich",
+        "hub-stonehenge",
+        "hub-samarkand",
+        "hub-chichen-itza"
+      ]
+    },
+    {
+      "id": "trade-routes-v16",
+      "title_pt": "Rotas que fizeram ideias viajarem",
+      "description_pt": "Portos e cidades para estudar comércio, língua, matemática e transmissão cultural.",
+      "stops": [
+        "hub-malacca",
+        "hub-istanbul",
+        "hub-cordoba",
+        "hub-london",
+        "hub-new-york"
+      ]
+    },
+    {
+      "id": "world-water-v16",
+      "title_pt": "Água moldando civilizações",
+      "description_pt": "Nilo, Ganges, Indo, Mekong, Okavango e Amazônia como sistemas naturais e sociais.",
+      "stops": [
+        "hub-cairo",
+        "hub-ganges",
+        "hub-indus",
+        "hub-mekong",
+        "hub-okavango",
+        "hub-amazon"
+      ]
+    },
+    {
+      "id": "philosophy-cities-v16",
+      "title_pt": "Cidades da filosofia",
+      "description_pt": "Atenas, Alexandria, Córdoba, Paris, Oxford e Viena em uma jornada pelo pensamento.",
+      "stops": [
+        "hub-athens",
+        "hub-alexandria",
+        "hub-cordoba",
+        "hub-paris",
+        "hub-oxford",
+        "hub-vienna"
+      ]
+    },
+    {
+      "id": "religious-centers-v16",
+      "title_pt": "Centros religiosos e textos",
+      "description_pt": "Jerusalém, Meca, Medina, Patmos e Santiago para estudar tradição e história.",
+      "stops": [
+        "hub-jerusalem",
+        "hub-mecca",
+        "hub-medina",
+        "hub-patmos",
+        "hub-santiago"
+      ]
+    },
+    {
+      "id": "engineering-landscapes-v16",
+      "title_pt": "Engenharia em diferentes paisagens",
+      "description_pt": "Gizé, Petra, Machu Picchu e Angkor para conectar materiais, geometria e água.",
+      "stops": [
+        "hub-giza",
+        "hub-petra",
+        "hub-machu-picchu",
+        "hub-angkor"
+      ]
+    },
+    {
+      "id": "ecology-extremes-v16",
+      "title_pt": "Vida em ambientes extremos",
+      "description_pt": "Atacama, Galápagos, Madagascar, recifes e extremos frios para estudar adaptação.",
+      "stops": [
+        "hub-atacama",
+        "hub-galapagos",
+        "hub-madagascar",
+        "hub-great-barrier-reef",
+        "hub-ushuaia"
+      ]
+    },
+    {
+      "id": "social-science-cities-v16",
+      "title_pt": "Sociedade e cidade",
+      "description_pt": "São Paulo, Nova York, Paris e Londres como laboratórios para estatística, economia e sociologia.",
+      "stops": [
+        "hub-sao-paulo",
+        "hub-new-york",
+        "hub-paris",
+        "hub-london"
+      ]
+    }
+  ]
+}

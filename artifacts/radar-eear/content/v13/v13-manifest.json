@@ -1,0 +1,16 @@
+{
+  "version": "v13",
+  "title": "Radar EEAR — Pré-História, Fauna & Atlas",
+  "status": "local-extension-ready",
+  "created": "2026-09-25",
+  "counts": {
+    "fauna": 25,
+    "human_modules": 10,
+    "food_webs": 3,
+    "atlas_sites": 10,
+    "media": 6,
+    "daily": 365,
+    "sources": 16
+  },
+  "note": "Dados editoriais em português; fatos e inferências têm campos separados. Mídia possui controle de direitos por registro."
+}

@@ -1,0 +1,1528 @@
+{
+  "schema_version": "10.0",
+  "language": "pt-BR",
+  "count": 64,
+  "items": [
+    {
+      "id": "game-v10-001",
+      "slug": "caça-à-vírgula",
+      "title_pt": "Caça à vírgula",
+      "subject": "portugues",
+      "skill": "pontuação",
+      "mechanic_pt": "arrastar vírgulas para separar funções e depois comparar com a explicação",
+      "learning_goal_pt": "identificar relações sintáticas sem decorar listas isoladas",
+      "mode": "original-local",
+      "feedback": "explicar por que a resposta funciona e o erro cometido",
+      "adaptive": true,
+      "accessibility": [
+        "sem cronômetro obrigatório",
+        "modo de alto contraste",
+        "redução de movimento",
+        "uso por teclado quando possível"
+      ],
+      "source_ids": [
+        "src_abl_volp",
+        "src_mlp"
+      ],
+      "daily_eligible": true
+    },
+    {
+      "id": "game-v10-002",
+      "slug": "detetive-da-ambiguidade",
+      "title_pt": "Detetive da ambiguidade",
+      "subject": "portugues",
+      "skill": "interpretação",
+      "mechanic_pt": "escolher entre duas leituras e reescrever a frase para eliminar a ambiguidade",
+      "learning_goal_pt": "aprender a detectar pistas sintáticas",
+      "mode": "original-local",
+      "feedback": "explicar por que a resposta funciona e o erro cometido",
+      "adaptive": true,
+      "accessibility": [
+        "sem cronômetro obrigatório",
+        "modo de alto contraste",
+        "redução de movimento",
+        "uso por teclado quando possível"
+      ],
+      "source_ids": [
+        "src_abl_volp",
+        "src_mlp"
+      ],
+      "daily_eligible": true
+    },
+    {
+      "id": "game-v10-003",
+      "slug": "oficina-de-concordância",
+      "title_pt": "Oficina de concordância",
+      "subject": "portugues",
+      "skill": "concordância",
+      "mechanic_pt": "montar frase com cartões de sujeito e verbo",
+      "learning_goal_pt": "automatizar concordância pela estrutura",
+      "mode": "original-local",
+      "feedback": "explicar por que a resposta funciona e o erro cometido",
+      "adaptive": true,
+      "accessibility": [
+        "sem cronômetro obrigatório",
+        "modo de alto contraste",
+        "redução de movimento",
+        "uso por teclado quando possível"
+      ],
+      "source_ids": [
+        "src_abl_volp",
+        "src_mlp"
+      ],
+      "daily_eligible": true
+    },
+    {
+      "id": "game-v10-004",
+      "slug": "regência-relâmpago",
+      "title_pt": "Regência relâmpago",
+      "subject": "portugues",
+      "skill": "regência",
+      "mechanic_pt": "encaixar preposições corretas em frases",
+      "learning_goal_pt": "reconhecer relações exigidas pela construção",
+      "mode": "original-local",
+      "feedback": "explicar por que a resposta funciona e o erro cometido",
+      "adaptive": true,
+      "accessibility": [
+        "sem cronômetro obrigatório",
+        "modo de alto contraste",
+        "redução de movimento",
+        "uso por teclado quando possível"
+      ],
+      "source_ids": [
+        "src_abl_volp",
+        "src_mlp"
+      ],
+      "daily_eligible": true
+    },
+    {
+      "id": "game-v10-005",
+      "slug": "batalha-dos-sentidos",
+      "title_pt": "Batalha dos sentidos",
+      "subject": "portugues",
+      "skill": "semântica",
+      "mechanic_pt": "uma palavra, quatro contextos; descobrir o sentido usado",
+      "learning_goal_pt": "usar contexto para interpretar polissemia",
+      "mode": "original-local",
+      "feedback": "explicar por que a resposta funciona e o erro cometido",
+      "adaptive": true,
+      "accessibility": [
+        "sem cronômetro obrigatório",
+        "modo de alto contraste",
+        "redução de movimento",
+        "uso por teclado quando possível"
+      ],
+      "source_ids": [
+        "src_abl_volp",
+        "src_mlp"
+      ],
+      "daily_eligible": true
+    },
+    {
+      "id": "game-v10-006",
+      "slug": "memória-de-parônimos",
+      "title_pt": "Memória de parônimos",
+      "subject": "portugues",
+      "skill": "vocabulário",
+      "mechanic_pt": "combinar pares de palavras parecidas e significados",
+      "learning_goal_pt": "reduzir confusões recorrentes",
+      "mode": "original-local",
+      "feedback": "explicar por que a resposta funciona e o erro cometido",
+      "adaptive": true,
+      "accessibility": [
+        "sem cronômetro obrigatório",
+        "modo de alto contraste",
+        "redução de movimento",
+        "uso por teclado quando possível"
+      ],
+      "source_ids": [
+        "src_abl_volp",
+        "src_mlp"
+      ],
+      "daily_eligible": true
+    },
+    {
+      "id": "game-v10-007",
+      "slug": "fábrica-de-conectivos",
+      "title_pt": "Fábrica de conectivos",
+      "subject": "portugues",
+      "skill": "coesão",
+      "mechanic_pt": "ligar blocos de texto com o conectivo que preserva a relação lógica",
+      "learning_goal_pt": "entender causa, contraste, conclusão, condição",
+      "mode": "original-local",
+      "feedback": "explicar por que a resposta funciona e o erro cometido",
+      "adaptive": true,
+      "accessibility": [
+        "sem cronômetro obrigatório",
+        "modo de alto contraste",
+        "redução de movimento",
+        "uso por teclado quando possível"
+      ],
+      "source_ids": [
+        "src_abl_volp",
+        "src_mlp"
+      ],
+      "daily_eligible": true
+    },
+    {
+      "id": "game-v10-008",
+      "slug": "radar-de-ironia",
+      "title_pt": "Radar de ironia",
+      "subject": "portugues",
+      "skill": "pragmática",
+      "mechanic_pt": "comparar frase literal e contexto e detectar ironia",
+      "learning_goal_pt": "ler intenção comunicativa",
+      "mode": "original-local",
+      "feedback": "explicar por que a resposta funciona e o erro cometido",
+      "adaptive": true,
+      "accessibility": [
+        "sem cronômetro obrigatório",
+        "modo de alto contraste",
+        "redução de movimento",
+        "uso por teclado quando possível"
+      ],
+      "source_ids": [
+        "src_abl_volp",
+        "src_mlp"
+      ],
+      "daily_eligible": true
+    },
+    {
+      "id": "game-v10-009",
+      "slug": "montador-de-parágrafo",
+      "title_pt": "Montador de parágrafo",
+      "subject": "portugues",
+      "skill": "coesão/coerência",
+      "mechanic_pt": "reordenar frases para criar progressão textual",
+      "learning_goal_pt": "perceber estrutura macrotextual",
+      "mode": "original-local",
+      "feedback": "explicar por que a resposta funciona e o erro cometido",
+      "adaptive": true,
+      "accessibility": [
+        "sem cronômetro obrigatório",
+        "modo de alto contraste",
+        "redução de movimento",
+        "uso por teclado quando possível"
+      ],
+      "source_ids": [
+        "src_abl_volp",
+        "src_mlp"
+      ],
+      "daily_eligible": true
+    },
+    {
+      "id": "game-v10-010",
+      "slug": "tribunal-do-argumento",
+      "title_pt": "Tribunal do argumento",
+      "subject": "portugues",
+      "skill": "argumentação",
+      "mechanic_pt": "separar tese, evidência e conclusão",
+      "learning_goal_pt": "avaliar estrutura de um argumento",
+      "mode": "original-local",
+      "feedback": "explicar por que a resposta funciona e o erro cometido",
+      "adaptive": true,
+      "accessibility": [
+        "sem cronômetro obrigatório",
+        "modo de alto contraste",
+        "redução de movimento",
+        "uso por teclado quando possível"
+      ],
+      "source_ids": [
+        "src_abl_volp",
+        "src_mlp"
+      ],
+      "daily_eligible": true
+    },
+    {
+      "id": "game-v10-011",
+      "slug": "caixa-preta-da-crase",
+      "title_pt": "Caixa-preta da crase",
+      "subject": "portugues",
+      "skill": "crase",
+      "mechanic_pt": "testar substituições e observar quando a fusão ocorre",
+      "learning_goal_pt": "compreender crase por procedimento",
+      "mode": "original-local",
+      "feedback": "explicar por que a resposta funciona e o erro cometido",
+      "adaptive": true,
+      "accessibility": [
+        "sem cronômetro obrigatório",
+        "modo de alto contraste",
+        "redução de movimento",
+        "uso por teclado quando possível"
+      ],
+      "source_ids": [
+        "src_abl_volp",
+        "src_mlp"
+      ],
+      "daily_eligible": true
+    },
+    {
+      "id": "game-v10-012",
+      "slug": "detetive-da-etimologia",
+      "title_pt": "Detetive da etimologia",
+      "subject": "portugues",
+      "skill": "etimologia",
+      "mechanic_pt": "separar explicação histórica plausível de etimologia popular",
+      "learning_goal_pt": "pensar com evidência lexical",
+      "mode": "original-local",
+      "feedback": "explicar por que a resposta funciona e o erro cometido",
+      "adaptive": true,
+      "accessibility": [
+        "sem cronômetro obrigatório",
+        "modo de alto contraste",
+        "redução de movimento",
+        "uso por teclado quando possível"
+      ],
+      "source_ids": [
+        "src_abl_volp",
+        "src_mlp"
+      ],
+      "daily_eligible": true
+    },
+    {
+      "id": "game-v10-013",
+      "slug": "variação-em-viagem",
+      "title_pt": "Variação em viagem",
+      "subject": "portugues",
+      "skill": "variação",
+      "mechanic_pt": "mapear expressões por região e contexto",
+      "learning_goal_pt": "compreender diversidade sem tratar variante como erro",
+      "mode": "original-local",
+      "feedback": "explicar por que a resposta funciona e o erro cometido",
+      "adaptive": true,
+      "accessibility": [
+        "sem cronômetro obrigatório",
+        "modo de alto contraste",
+        "redução de movimento",
+        "uso por teclado quando possível"
+      ],
+      "source_ids": [
+        "src_abl_volp",
+        "src_mlp"
+      ],
+      "daily_eligible": true
+    },
+    {
+      "id": "game-v10-014",
+      "slug": "oficina-de-metáforas",
+      "title_pt": "Oficina de metáforas",
+      "subject": "portugues",
+      "skill": "figuras de linguagem",
+      "mechanic_pt": "transformar relações literais em metáforas e explicar efeito",
+      "learning_goal_pt": "desenvolver interpretação de linguagem figurada",
+      "mode": "original-local",
+      "feedback": "explicar por que a resposta funciona e o erro cometido",
+      "adaptive": true,
+      "accessibility": [
+        "sem cronômetro obrigatório",
+        "modo de alto contraste",
+        "redução de movimento",
+        "uso por teclado quando possível"
+      ],
+      "source_ids": [
+        "src_abl_volp",
+        "src_mlp"
+      ],
+      "daily_eligible": true
+    },
+    {
+      "id": "game-v10-015",
+      "slug": "literatura-em-camadas",
+      "title_pt": "Literatura em camadas",
+      "subject": "portugues",
+      "skill": "literatura",
+      "mechanic_pt": "revelar narrador, ironia, contexto e intertexto por etapas",
+      "learning_goal_pt": "ler obras com múltiplas camadas",
+      "mode": "original-local",
+      "feedback": "explicar por que a resposta funciona e o erro cometido",
+      "adaptive": true,
+      "accessibility": [
+        "sem cronômetro obrigatório",
+        "modo de alto contraste",
+        "redução de movimento",
+        "uso por teclado quando possível"
+      ],
+      "source_ids": [
+        "src_abl_volp",
+        "src_mlp"
+      ],
+      "daily_eligible": true
+    },
+    {
+      "id": "game-v10-016",
+      "slug": "editor-eear",
+      "title_pt": "Editor EEAR",
+      "subject": "portugues",
+      "skill": "revisão",
+      "mechanic_pt": "corrigir um texto curto explicando cada alteração",
+      "learning_goal_pt": "transferir regras para contexto de prova",
+      "mode": "original-local",
+      "feedback": "explicar por que a resposta funciona e o erro cometido",
+      "adaptive": true,
+      "accessibility": [
+        "sem cronômetro obrigatório",
+        "modo de alto contraste",
+        "redução de movimento",
+        "uso por teclado quando possível"
+      ],
+      "source_ids": [
+        "src_abl_volp",
+        "src_mlp"
+      ],
+      "daily_eligible": true
+    },
+    {
+      "id": "game-v10-017",
+      "slug": "wordshake-radar",
+      "title_pt": "Wordshake Radar",
+      "subject": "ingles",
+      "skill": "vocabulário",
+      "mechanic_pt": "formar palavras válidas a partir de letras e depois classificá-las por tema",
+      "learning_goal_pt": "ampliar vocabulário",
+      "mode": "original-local",
+      "feedback": "explicar por que a resposta funciona e o erro cometido",
+      "adaptive": true,
+      "accessibility": [
+        "sem cronômetro obrigatório",
+        "modo de alto contraste",
+        "redução de movimento",
+        "uso por teclado quando possível"
+      ],
+      "source_ids": [
+        "src_british_games",
+        "src_british_vocab",
+        "src_british_listening"
+      ],
+      "daily_eligible": true
+    },
+    {
+      "id": "game-v10-018",
+      "slug": "sushi-spell-local",
+      "title_pt": "Sushi Spell local",
+      "subject": "ingles",
+      "skill": "ortografia",
+      "mechanic_pt": "selecionar letras na ordem correta de uma palavra",
+      "learning_goal_pt": "fixar spelling",
+      "mode": "original-local",
+      "feedback": "explicar por que a resposta funciona e o erro cometido",
+      "adaptive": true,
+      "accessibility": [
+        "sem cronômetro obrigatório",
+        "modo de alto contraste",
+        "redução de movimento",
+        "uso por teclado quando possível"
+      ],
+      "source_ids": [
+        "src_british_games",
+        "src_british_vocab",
+        "src_british_listening"
+      ],
+      "daily_eligible": true
+    },
+    {
+      "id": "game-v10-019",
+      "slug": "grammar-repair",
+      "title_pt": "Grammar Repair",
+      "subject": "ingles",
+      "skill": "gramática",
+      "mechanic_pt": "corrigir frases e receber explicação do padrão",
+      "learning_goal_pt": "consolidar estruturas frequentes",
+      "mode": "original-local",
+      "feedback": "explicar por que a resposta funciona e o erro cometido",
+      "adaptive": true,
+      "accessibility": [
+        "sem cronômetro obrigatório",
+        "modo de alto contraste",
+        "redução de movimento",
+        "uso por teclado quando possível"
+      ],
+      "source_ids": [
+        "src_british_games",
+        "src_british_vocab",
+        "src_british_listening"
+      ],
+      "daily_eligible": true
+    },
+    {
+      "id": "game-v10-020",
+      "slug": "tense-switch",
+      "title_pt": "Tense Switch",
+      "subject": "ingles",
+      "skill": "tempos verbais",
+      "mechanic_pt": "mover uma linha do tempo e converter a frase",
+      "learning_goal_pt": "entender relação entre tempo e significado",
+      "mode": "original-local",
+      "feedback": "explicar por que a resposta funciona e o erro cometido",
+      "adaptive": true,
+      "accessibility": [
+        "sem cronômetro obrigatório",
+        "modo de alto contraste",
+        "redução de movimento",
+        "uso por teclado quando possível"
+      ],
+      "source_ids": [
+        "src_british_games",
+        "src_british_vocab",
+        "src_british_listening"
+      ],
+      "daily_eligible": true
+    },
+    {
+      "id": "game-v10-021",
+      "slug": "preposition-paths",
+      "title_pt": "Preposition Paths",
+      "subject": "ingles",
+      "skill": "preposições",
+      "mechanic_pt": "guiar uma personagem até o destino escolhendo in/on/at/to etc.",
+      "learning_goal_pt": "aprender preposições pelo contexto",
+      "mode": "original-local",
+      "feedback": "explicar por que a resposta funciona e o erro cometido",
+      "adaptive": true,
+      "accessibility": [
+        "sem cronômetro obrigatório",
+        "modo de alto contraste",
+        "redução de movimento",
+        "uso por teclado quando possível"
+      ],
+      "source_ids": [
+        "src_british_games",
+        "src_british_vocab",
+        "src_british_listening"
+      ],
+      "daily_eligible": true
+    },
+    {
+      "id": "game-v10-022",
+      "slug": "false-friends",
+      "title_pt": "False Friends",
+      "subject": "ingles",
+      "skill": "vocabulário",
+      "mechanic_pt": "separar pares parecidos entre português e inglês",
+      "learning_goal_pt": "evitar falsos cognatos",
+      "mode": "original-local",
+      "feedback": "explicar por que a resposta funciona e o erro cometido",
+      "adaptive": true,
+      "accessibility": [
+        "sem cronômetro obrigatório",
+        "modo de alto contraste",
+        "redução de movimento",
+        "uso por teclado quando possível"
+      ],
+      "source_ids": [
+        "src_british_games",
+        "src_british_vocab",
+        "src_british_listening"
+      ],
+      "daily_eligible": true
+    },
+    {
+      "id": "game-v10-023",
+      "slug": "listening-hunt",
+      "title_pt": "Listening Hunt",
+      "subject": "ingles",
+      "skill": "compreensão auditiva",
+      "mechanic_pt": "ouvir uma frase curta e clicar no significado correto",
+      "learning_goal_pt": "treinar listening",
+      "mode": "original-local",
+      "feedback": "explicar por que a resposta funciona e o erro cometido",
+      "adaptive": true,
+      "accessibility": [
+        "sem cronômetro obrigatório",
+        "modo de alto contraste",
+        "redução de movimento",
+        "uso por teclado quando possível"
+      ],
+      "source_ids": [
+        "src_british_games",
+        "src_british_vocab",
+        "src_british_listening"
+      ],
+      "daily_eligible": true
+    },
+    {
+      "id": "game-v10-024",
+      "slug": "context-detective",
+      "title_pt": "Context Detective",
+      "subject": "ingles",
+      "skill": "leitura",
+      "mechanic_pt": "inferir significado de palavra pelo contexto",
+      "learning_goal_pt": "usar pistas internas do texto",
+      "mode": "original-local",
+      "feedback": "explicar por que a resposta funciona e o erro cometido",
+      "adaptive": true,
+      "accessibility": [
+        "sem cronômetro obrigatório",
+        "modo de alto contraste",
+        "redução de movimento",
+        "uso por teclado quando possível"
+      ],
+      "source_ids": [
+        "src_british_games",
+        "src_british_vocab",
+        "src_british_listening"
+      ],
+      "daily_eligible": true
+    },
+    {
+      "id": "game-v10-025",
+      "slug": "collocation-lab",
+      "title_pt": "Collocation Lab",
+      "subject": "ingles",
+      "skill": "vocabulário",
+      "mechanic_pt": "combinar palavras que ocorrem naturalmente juntas",
+      "learning_goal_pt": "aprender combinações frequentes",
+      "mode": "original-local",
+      "feedback": "explicar por que a resposta funciona e o erro cometido",
+      "adaptive": true,
+      "accessibility": [
+        "sem cronômetro obrigatório",
+        "modo de alto contraste",
+        "redução de movimento",
+        "uso por teclado quando possível"
+      ],
+      "source_ids": [
+        "src_british_games",
+        "src_british_vocab",
+        "src_british_listening"
+      ],
+      "daily_eligible": true
+    },
+    {
+      "id": "game-v10-026",
+      "slug": "question-builder",
+      "title_pt": "Question Builder",
+      "subject": "ingles",
+      "skill": "sintaxe",
+      "mechanic_pt": "ordenar palavras para formar perguntas",
+      "learning_goal_pt": "automatizar estrutura interrogativa",
+      "mode": "original-local",
+      "feedback": "explicar por que a resposta funciona e o erro cometido",
+      "adaptive": true,
+      "accessibility": [
+        "sem cronômetro obrigatório",
+        "modo de alto contraste",
+        "redução de movimento",
+        "uso por teclado quando possível"
+      ],
+      "source_ids": [
+        "src_british_games",
+        "src_british_vocab",
+        "src_british_listening"
+      ],
+      "daily_eligible": true
+    },
+    {
+      "id": "game-v10-027",
+      "slug": "reading-sprint",
+      "title_pt": "Reading Sprint",
+      "subject": "ingles",
+      "skill": "leitura",
+      "mechanic_pt": "localizar informação sem traduzir tudo",
+      "learning_goal_pt": "aumentar eficiência de leitura",
+      "mode": "original-local",
+      "feedback": "explicar por que a resposta funciona e o erro cometido",
+      "adaptive": true,
+      "accessibility": [
+        "sem cronômetro obrigatório",
+        "modo de alto contraste",
+        "redução de movimento",
+        "uso por teclado quando possível"
+      ],
+      "source_ids": [
+        "src_british_games",
+        "src_british_vocab",
+        "src_british_listening"
+      ],
+      "daily_eligible": true
+    },
+    {
+      "id": "game-v10-028",
+      "slug": "pronunciation-mirror",
+      "title_pt": "Pronunciation Mirror",
+      "subject": "ingles",
+      "skill": "pronúncia",
+      "mechanic_pt": "comparar padrão visual de ritmo e sílaba tônica",
+      "learning_goal_pt": "perceber ritmo e tonicidade",
+      "mode": "original-local",
+      "feedback": "explicar por que a resposta funciona e o erro cometido",
+      "adaptive": true,
+      "accessibility": [
+        "sem cronômetro obrigatório",
+        "modo de alto contraste",
+        "redução de movimento",
+        "uso por teclado quando possível"
+      ],
+      "source_ids": [
+        "src_british_games",
+        "src_british_vocab",
+        "src_british_listening"
+      ],
+      "daily_eligible": true
+    },
+    {
+      "id": "game-v10-029",
+      "slug": "modal-mission",
+      "title_pt": "Modal Mission",
+      "subject": "ingles",
+      "skill": "modais",
+      "mechanic_pt": "escolher can/could/must/might conforme situação",
+      "learning_goal_pt": "entender modalidade",
+      "mode": "original-local",
+      "feedback": "explicar por que a resposta funciona e o erro cometido",
+      "adaptive": true,
+      "accessibility": [
+        "sem cronômetro obrigatório",
+        "modo de alto contraste",
+        "redução de movimento",
+        "uso por teclado quando possível"
+      ],
+      "source_ids": [
+        "src_british_games",
+        "src_british_vocab",
+        "src_british_listening"
+      ],
+      "daily_eligible": true
+    },
+    {
+      "id": "game-v10-030",
+      "slug": "phrasal-verb-route",
+      "title_pt": "Phrasal Verb Route",
+      "subject": "ingles",
+      "skill": "phrasal verbs",
+      "mechanic_pt": "descobrir sentido pelo contexto e direção do movimento",
+      "learning_goal_pt": "desenvolver reconhecimento contextual",
+      "mode": "original-local",
+      "feedback": "explicar por que a resposta funciona e o erro cometido",
+      "adaptive": true,
+      "accessibility": [
+        "sem cronômetro obrigatório",
+        "modo de alto contraste",
+        "redução de movimento",
+        "uso por teclado quando possível"
+      ],
+      "source_ids": [
+        "src_british_games",
+        "src_british_vocab",
+        "src_british_listening"
+      ],
+      "daily_eligible": true
+    },
+    {
+      "id": "game-v10-031",
+      "slug": "exam-cloze",
+      "title_pt": "Exam Cloze",
+      "subject": "ingles",
+      "skill": "cloze",
+      "mechanic_pt": "preencher lacunas em texto curto com feedback",
+      "learning_goal_pt": "treinar inferência gramatical",
+      "mode": "original-local",
+      "feedback": "explicar por que a resposta funciona e o erro cometido",
+      "adaptive": true,
+      "accessibility": [
+        "sem cronômetro obrigatório",
+        "modo de alto contraste",
+        "redução de movimento",
+        "uso por teclado quando possível"
+      ],
+      "source_ids": [
+        "src_british_games",
+        "src_british_vocab",
+        "src_british_listening"
+      ],
+      "daily_eligible": true
+    },
+    {
+      "id": "game-v10-032",
+      "slug": "english-daily-duel",
+      "title_pt": "English Daily Duel",
+      "subject": "ingles",
+      "skill": "revisão",
+      "mechanic_pt": "duelo adaptativo de vocabulário e gramática",
+      "learning_goal_pt": "manter recuperação espaçada",
+      "mode": "original-local",
+      "feedback": "explicar por que a resposta funciona e o erro cometido",
+      "adaptive": true,
+      "accessibility": [
+        "sem cronômetro obrigatório",
+        "modo de alto contraste",
+        "redução de movimento",
+        "uso por teclado quando possível"
+      ],
+      "source_ids": [
+        "src_british_games",
+        "src_british_vocab",
+        "src_british_listening"
+      ],
+      "daily_eligible": true
+    },
+    {
+      "id": "game-v10-033",
+      "slug": "balança-algébrica",
+      "title_pt": "Balança Algébrica",
+      "subject": "matematica",
+      "skill": "equações",
+      "mechanic_pt": "mover pesos para isolar x",
+      "learning_goal_pt": "entender igualdade como equilíbrio",
+      "mode": "original-local",
+      "feedback": "explicar por que a resposta funciona e o erro cometido",
+      "adaptive": true,
+      "accessibility": [
+        "sem cronômetro obrigatório",
+        "modo de alto contraste",
+        "redução de movimento",
+        "uso por teclado quando possível"
+      ],
+      "source_ids": [
+        "src_phet_pt",
+        "src_khan_pt_prob",
+        "src_geogebra",
+        "src_cs50_algorithms"
+      ],
+      "daily_eligible": true
+    },
+    {
+      "id": "game-v10-034",
+      "slug": "reta-viva",
+      "title_pt": "Reta Viva",
+      "subject": "matematica",
+      "skill": "função afim",
+      "mechanic_pt": "alterar a e b com sliders e prever o gráfico",
+      "learning_goal_pt": "entender coeficientes",
+      "mode": "original-local",
+      "feedback": "explicar por que a resposta funciona e o erro cometido",
+      "adaptive": true,
+      "accessibility": [
+        "sem cronômetro obrigatório",
+        "modo de alto contraste",
+        "redução de movimento",
+        "uso por teclado quando possível"
+      ],
+      "source_ids": [
+        "src_phet_pt",
+        "src_khan_pt_prob",
+        "src_geogebra",
+        "src_cs50_algorithms"
+      ],
+      "daily_eligible": true
+    },
+    {
+      "id": "game-v10-035",
+      "slug": "quadrática-lab",
+      "title_pt": "Quadrática Lab",
+      "subject": "matematica",
+      "skill": "função quadrática",
+      "mechanic_pt": "arrastar raízes e observar a parábola",
+      "learning_goal_pt": "conectar coeficientes e geometria",
+      "mode": "original-local",
+      "feedback": "explicar por que a resposta funciona e o erro cometido",
+      "adaptive": true,
+      "accessibility": [
+        "sem cronômetro obrigatório",
+        "modo de alto contraste",
+        "redução de movimento",
+        "uso por teclado quando possível"
+      ],
+      "source_ids": [
+        "src_phet_pt",
+        "src_khan_pt_prob",
+        "src_geogebra",
+        "src_cs50_algorithms"
+      ],
+      "daily_eligible": true
+    },
+    {
+      "id": "game-v10-036",
+      "slug": "probabilidade-real",
+      "title_pt": "Probabilidade Real",
+      "subject": "matematica",
+      "skill": "probabilidade",
+      "mechanic_pt": "simular milhares de lançamentos e comparar teoria/experimento",
+      "learning_goal_pt": "distinguir probabilidade teórica e experimental",
+      "mode": "original-local",
+      "feedback": "explicar por que a resposta funciona e o erro cometido",
+      "adaptive": true,
+      "accessibility": [
+        "sem cronômetro obrigatório",
+        "modo de alto contraste",
+        "redução de movimento",
+        "uso por teclado quando possível"
+      ],
+      "source_ids": [
+        "src_phet_pt",
+        "src_khan_pt_prob",
+        "src_geogebra",
+        "src_cs50_algorithms"
+      ],
+      "daily_eligible": true
+    },
+    {
+      "id": "game-v10-037",
+      "slug": "monty-hall",
+      "title_pt": "Monty Hall",
+      "subject": "matematica",
+      "skill": "probabilidade",
+      "mechanic_pt": "jogar repetidamente e comparar ficar/trocar",
+      "learning_goal_pt": "entender condicionamento e contraintuição",
+      "mode": "original-local",
+      "feedback": "explicar por que a resposta funciona e o erro cometido",
+      "adaptive": true,
+      "accessibility": [
+        "sem cronômetro obrigatório",
+        "modo de alto contraste",
+        "redução de movimento",
+        "uso por teclado quando possível"
+      ],
+      "source_ids": [
+        "src_phet_pt",
+        "src_khan_pt_prob",
+        "src_geogebra",
+        "src_cs50_algorithms"
+      ],
+      "daily_eligible": true
+    },
+    {
+      "id": "game-v10-038",
+      "slug": "caixa-de-gauss",
+      "title_pt": "Caixa de Gauss",
+      "subject": "matematica",
+      "skill": "estatística",
+      "mechanic_pt": "construir distribuições e observar média/desvio",
+      "learning_goal_pt": "entender dispersão",
+      "mode": "original-local",
+      "feedback": "explicar por que a resposta funciona e o erro cometido",
+      "adaptive": true,
+      "accessibility": [
+        "sem cronômetro obrigatório",
+        "modo de alto contraste",
+        "redução de movimento",
+        "uso por teclado quando possível"
+      ],
+      "source_ids": [
+        "src_phet_pt",
+        "src_khan_pt_prob",
+        "src_geogebra",
+        "src_cs50_algorithms"
+      ],
+      "daily_eligible": true
+    },
+    {
+      "id": "game-v10-039",
+      "slug": "árvore-de-decisão",
+      "title_pt": "Árvore de Decisão",
+      "subject": "matematica",
+      "skill": "combinatória",
+      "mechanic_pt": "expandir ramos de escolhas",
+      "learning_goal_pt": "contar possibilidades",
+      "mode": "original-local",
+      "feedback": "explicar por que a resposta funciona e o erro cometido",
+      "adaptive": true,
+      "accessibility": [
+        "sem cronômetro obrigatório",
+        "modo de alto contraste",
+        "redução de movimento",
+        "uso por teclado quando possível"
+      ],
+      "source_ids": [
+        "src_phet_pt",
+        "src_khan_pt_prob",
+        "src_geogebra",
+        "src_cs50_algorithms"
+      ],
+      "daily_eligible": true
+    },
+    {
+      "id": "game-v10-040",
+      "slug": "busca-binária",
+      "title_pt": "Busca Binária",
+      "subject": "matematica",
+      "skill": "algoritmos",
+      "mechanic_pt": "encontrar um número minimizando perguntas",
+      "learning_goal_pt": "entender divisão do espaço de busca",
+      "mode": "original-local",
+      "feedback": "explicar por que a resposta funciona e o erro cometido",
+      "adaptive": true,
+      "accessibility": [
+        "sem cronômetro obrigatório",
+        "modo de alto contraste",
+        "redução de movimento",
+        "uso por teclado quando possível"
+      ],
+      "source_ids": [
+        "src_phet_pt",
+        "src_khan_pt_prob",
+        "src_geogebra",
+        "src_cs50_algorithms"
+      ],
+      "daily_eligible": true
+    },
+    {
+      "id": "game-v10-041",
+      "slug": "ordena-tudo",
+      "title_pt": "Ordena Tudo",
+      "subject": "matematica",
+      "skill": "algoritmos",
+      "mechanic_pt": "comparar algoritmos visualmente",
+      "learning_goal_pt": "relacionar estratégia e complexidade",
+      "mode": "original-local",
+      "feedback": "explicar por que a resposta funciona e o erro cometido",
+      "adaptive": true,
+      "accessibility": [
+        "sem cronômetro obrigatório",
+        "modo de alto contraste",
+        "redução de movimento",
+        "uso por teclado quando possível"
+      ],
+      "source_ids": [
+        "src_phet_pt",
+        "src_khan_pt_prob",
+        "src_geogebra",
+        "src_cs50_algorithms"
+      ],
+      "daily_eligible": true
+    },
+    {
+      "id": "game-v10-042",
+      "slug": "bits-em-fogo",
+      "title_pt": "Bits em Fogo",
+      "subject": "matematica",
+      "skill": "binário",
+      "mechanic_pt": "acender bits para formar valores",
+      "learning_goal_pt": "entender potências de 2",
+      "mode": "original-local",
+      "feedback": "explicar por que a resposta funciona e o erro cometido",
+      "adaptive": true,
+      "accessibility": [
+        "sem cronômetro obrigatório",
+        "modo de alto contraste",
+        "redução de movimento",
+        "uso por teclado quando possível"
+      ],
+      "source_ids": [
+        "src_phet_pt",
+        "src_khan_pt_prob",
+        "src_geogebra",
+        "src_cs50_algorithms"
+      ],
+      "daily_eligible": true
+    },
+    {
+      "id": "game-v10-043",
+      "slug": "rsa-mini",
+      "title_pt": "RSA Mini",
+      "subject": "matematica",
+      "skill": "aritmética modular",
+      "mechanic_pt": "codificar mensagens simples com números pequenos",
+      "learning_goal_pt": "visualizar modularidade e chaves",
+      "mode": "original-local",
+      "feedback": "explicar por que a resposta funciona e o erro cometido",
+      "adaptive": true,
+      "accessibility": [
+        "sem cronômetro obrigatório",
+        "modo de alto contraste",
+        "redução de movimento",
+        "uso por teclado quando possível"
+      ],
+      "source_ids": [
+        "src_phet_pt",
+        "src_khan_pt_prob",
+        "src_geogebra",
+        "src_cs50_algorithms"
+      ],
+      "daily_eligible": true
+    },
+    {
+      "id": "game-v10-044",
+      "slug": "gps-triângulo",
+      "title_pt": "GPS Triângulo",
+      "subject": "matematica",
+      "skill": "geometria",
+      "mechanic_pt": "encontrar posição com distâncias a pontos",
+      "learning_goal_pt": "aplicar distância e sistemas",
+      "mode": "original-local",
+      "feedback": "explicar por que a resposta funciona e o erro cometido",
+      "adaptive": true,
+      "accessibility": [
+        "sem cronômetro obrigatório",
+        "modo de alto contraste",
+        "redução de movimento",
+        "uso por teclado quando possível"
+      ],
+      "source_ids": [
+        "src_phet_pt",
+        "src_khan_pt_prob",
+        "src_geogebra",
+        "src_cs50_algorithms"
+      ],
+      "daily_eligible": true
+    },
+    {
+      "id": "game-v10-045",
+      "slug": "fibonacci-vivo",
+      "title_pt": "Fibonacci Vivo",
+      "subject": "matematica",
+      "skill": "sequências",
+      "mechanic_pt": "crescer espirais e comparar razões",
+      "learning_goal_pt": "reconhecer recorrência e padrões",
+      "mode": "original-local",
+      "feedback": "explicar por que a resposta funciona e o erro cometido",
+      "adaptive": true,
+      "accessibility": [
+        "sem cronômetro obrigatório",
+        "modo de alto contraste",
+        "redução de movimento",
+        "uso por teclado quando possível"
+      ],
+      "source_ids": [
+        "src_phet_pt",
+        "src_khan_pt_prob",
+        "src_geogebra",
+        "src_cs50_algorithms"
+      ],
+      "daily_eligible": true
+    },
+    {
+      "id": "game-v10-046",
+      "slug": "fractal-zoom",
+      "title_pt": "Fractal Zoom",
+      "subject": "matematica",
+      "skill": "geometria",
+      "mechanic_pt": "aproximar fractal e observar auto-semelhança",
+      "learning_goal_pt": "explorar iteração",
+      "mode": "original-local",
+      "feedback": "explicar por que a resposta funciona e o erro cometido",
+      "adaptive": true,
+      "accessibility": [
+        "sem cronômetro obrigatório",
+        "modo de alto contraste",
+        "redução de movimento",
+        "uso por teclado quando possível"
+      ],
+      "source_ids": [
+        "src_phet_pt",
+        "src_khan_pt_prob",
+        "src_geogebra",
+        "src_cs50_algorithms"
+      ],
+      "daily_eligible": true
+    },
+    {
+      "id": "game-v10-047",
+      "slug": "monte-carlo",
+      "title_pt": "Monte Carlo",
+      "subject": "matematica",
+      "skill": "estatística",
+      "mechanic_pt": "usar pontos aleatórios para aproximar área",
+      "learning_goal_pt": "visualizar simulação",
+      "mode": "original-local",
+      "feedback": "explicar por que a resposta funciona e o erro cometido",
+      "adaptive": true,
+      "accessibility": [
+        "sem cronômetro obrigatório",
+        "modo de alto contraste",
+        "redução de movimento",
+        "uso por teclado quando possível"
+      ],
+      "source_ids": [
+        "src_phet_pt",
+        "src_khan_pt_prob",
+        "src_geogebra",
+        "src_cs50_algorithms"
+      ],
+      "daily_eligible": true
+    },
+    {
+      "id": "game-v10-048",
+      "slug": "fila-do-caos",
+      "title_pt": "Fila do Caos",
+      "subject": "matematica",
+      "skill": "probabilidade",
+      "mechanic_pt": "regular chegada/atendimento e observar filas",
+      "learning_goal_pt": "relacionar taxa de chegada e espera",
+      "mode": "original-local",
+      "feedback": "explicar por que a resposta funciona e o erro cometido",
+      "adaptive": true,
+      "accessibility": [
+        "sem cronômetro obrigatório",
+        "modo de alto contraste",
+        "redução de movimento",
+        "uso por teclado quando possível"
+      ],
+      "source_ids": [
+        "src_phet_pt",
+        "src_khan_pt_prob",
+        "src_geogebra",
+        "src_cs50_algorithms"
+      ],
+      "daily_eligible": true
+    },
+    {
+      "id": "game-v10-049",
+      "slug": "plano-inclinado",
+      "title_pt": "Plano Inclinado",
+      "subject": "fisica",
+      "skill": "dinâmica",
+      "mechanic_pt": "alterar inclinação e atrito e prever movimento",
+      "learning_goal_pt": "ligar forças a aceleração",
+      "mode": "original-local",
+      "feedback": "explicar por que a resposta funciona e o erro cometido",
+      "adaptive": true,
+      "accessibility": [
+        "sem cronômetro obrigatório",
+        "modo de alto contraste",
+        "redução de movimento",
+        "uso por teclado quando possível"
+      ],
+      "source_ids": [
+        "src_phet_pt",
+        "src_geogebra"
+      ],
+      "daily_eligible": true
+    },
+    {
+      "id": "game-v10-050",
+      "slug": "projétil",
+      "title_pt": "Projétil",
+      "subject": "fisica",
+      "skill": "cinemática",
+      "mechanic_pt": "lançar projéteis e ajustar velocidade/ângulo",
+      "learning_goal_pt": "entender decomposição de movimento",
+      "mode": "original-local",
+      "feedback": "explicar por que a resposta funciona e o erro cometido",
+      "adaptive": true,
+      "accessibility": [
+        "sem cronômetro obrigatório",
+        "modo de alto contraste",
+        "redução de movimento",
+        "uso por teclado quando possível"
+      ],
+      "source_ids": [
+        "src_phet_pt",
+        "src_geogebra"
+      ],
+      "daily_eligible": true
+    },
+    {
+      "id": "game-v10-051",
+      "slug": "colisão",
+      "title_pt": "Colisão",
+      "subject": "fisica",
+      "skill": "quantidade de movimento",
+      "mechanic_pt": "ajustar massas e velocidades antes da colisão",
+      "learning_goal_pt": "conservar quantidade de movimento",
+      "mode": "original-local",
+      "feedback": "explicar por que a resposta funciona e o erro cometido",
+      "adaptive": true,
+      "accessibility": [
+        "sem cronômetro obrigatório",
+        "modo de alto contraste",
+        "redução de movimento",
+        "uso por teclado quando possível"
+      ],
+      "source_ids": [
+        "src_phet_pt",
+        "src_geogebra"
+      ],
+      "daily_eligible": true
+    },
+    {
+      "id": "game-v10-052",
+      "slug": "energia-em-trânsito",
+      "title_pt": "Energia em Trânsito",
+      "subject": "fisica",
+      "skill": "energia",
+      "mechanic_pt": "acompanhar energia cinética/potencial ao longo do movimento",
+      "learning_goal_pt": "rastrear transformações",
+      "mode": "original-local",
+      "feedback": "explicar por que a resposta funciona e o erro cometido",
+      "adaptive": true,
+      "accessibility": [
+        "sem cronômetro obrigatório",
+        "modo de alto contraste",
+        "redução de movimento",
+        "uso por teclado quando possível"
+      ],
+      "source_ids": [
+        "src_phet_pt",
+        "src_geogebra"
+      ],
+      "daily_eligible": true
+    },
+    {
+      "id": "game-v10-053",
+      "slug": "empuxo",
+      "title_pt": "Empuxo",
+      "subject": "fisica",
+      "skill": "hidrostática",
+      "mechanic_pt": "mergulhar objetos e observar força resultante",
+      "learning_goal_pt": "visualizar Arquimedes",
+      "mode": "original-local",
+      "feedback": "explicar por que a resposta funciona e o erro cometido",
+      "adaptive": true,
+      "accessibility": [
+        "sem cronômetro obrigatório",
+        "modo de alto contraste",
+        "redução de movimento",
+        "uso por teclado quando possível"
+      ],
+      "source_ids": [
+        "src_phet_pt",
+        "src_geogebra"
+      ],
+      "daily_eligible": true
+    },
+    {
+      "id": "game-v10-054",
+      "slug": "circuito-vivo",
+      "title_pt": "Circuito Vivo",
+      "subject": "fisica",
+      "skill": "eletricidade",
+      "mechanic_pt": "montar circuitos e trocar resistores",
+      "learning_goal_pt": "relacionar tensão, corrente e resistência",
+      "mode": "original-local",
+      "feedback": "explicar por que a resposta funciona e o erro cometido",
+      "adaptive": true,
+      "accessibility": [
+        "sem cronômetro obrigatório",
+        "modo de alto contraste",
+        "redução de movimento",
+        "uso por teclado quando possível"
+      ],
+      "source_ids": [
+        "src_phet_pt",
+        "src_geogebra"
+      ],
+      "daily_eligible": true
+    },
+    {
+      "id": "game-v10-055",
+      "slug": "lei-de-ohm",
+      "title_pt": "Lei de Ohm",
+      "subject": "fisica",
+      "skill": "eletricidade",
+      "mechanic_pt": "arrastar tensão/resistência e observar corrente",
+      "learning_goal_pt": "interpretar proporcionalidade",
+      "mode": "original-local",
+      "feedback": "explicar por que a resposta funciona e o erro cometido",
+      "adaptive": true,
+      "accessibility": [
+        "sem cronômetro obrigatório",
+        "modo de alto contraste",
+        "redução de movimento",
+        "uso por teclado quando possível"
+      ],
+      "source_ids": [
+        "src_phet_pt",
+        "src_geogebra"
+      ],
+      "daily_eligible": true
+    },
+    {
+      "id": "game-v10-056",
+      "slug": "ondas",
+      "title_pt": "Ondas",
+      "subject": "fisica",
+      "skill": "ondas",
+      "mechanic_pt": "alterar frequência e amplitude",
+      "learning_goal_pt": "distinguir propriedades da onda",
+      "mode": "original-local",
+      "feedback": "explicar por que a resposta funciona e o erro cometido",
+      "adaptive": true,
+      "accessibility": [
+        "sem cronômetro obrigatório",
+        "modo de alto contraste",
+        "redução de movimento",
+        "uso por teclado quando possível"
+      ],
+      "source_ids": [
+        "src_phet_pt",
+        "src_geogebra"
+      ],
+      "daily_eligible": true
+    },
+    {
+      "id": "game-v10-057",
+      "slug": "resonância",
+      "title_pt": "Resonância",
+      "subject": "fisica",
+      "skill": "oscilações",
+      "mechanic_pt": "aproximar frequências e observar amplitude",
+      "learning_goal_pt": "entender ressonância",
+      "mode": "original-local",
+      "feedback": "explicar por que a resposta funciona e o erro cometido",
+      "adaptive": true,
+      "accessibility": [
+        "sem cronômetro obrigatório",
+        "modo de alto contraste",
+        "redução de movimento",
+        "uso por teclado quando possível"
+      ],
+      "source_ids": [
+        "src_phet_pt",
+        "src_geogebra"
+      ],
+      "daily_eligible": true
+    },
+    {
+      "id": "game-v10-058",
+      "slug": "lentes",
+      "title_pt": "Lentes",
+      "subject": "fisica",
+      "skill": "óptica",
+      "mechanic_pt": "mover objeto e foco para ver formação de imagem",
+      "learning_goal_pt": "relacionar geometria e óptica",
+      "mode": "original-local",
+      "feedback": "explicar por que a resposta funciona e o erro cometido",
+      "adaptive": true,
+      "accessibility": [
+        "sem cronômetro obrigatório",
+        "modo de alto contraste",
+        "redução de movimento",
+        "uso por teclado quando possível"
+      ],
+      "source_ids": [
+        "src_phet_pt",
+        "src_geogebra"
+      ],
+      "daily_eligible": true
+    },
+    {
+      "id": "game-v10-059",
+      "slug": "refração",
+      "title_pt": "Refração",
+      "subject": "fisica",
+      "skill": "óptica",
+      "mechanic_pt": "trocar meios e ângulo de incidência",
+      "learning_goal_pt": "ver mudança de direção",
+      "mode": "original-local",
+      "feedback": "explicar por que a resposta funciona e o erro cometido",
+      "adaptive": true,
+      "accessibility": [
+        "sem cronômetro obrigatório",
+        "modo de alto contraste",
+        "redução de movimento",
+        "uso por teclado quando possível"
+      ],
+      "source_ids": [
+        "src_phet_pt",
+        "src_geogebra"
+      ],
+      "daily_eligible": true
+    },
+    {
+      "id": "game-v10-060",
+      "slug": "calorímetro",
+      "title_pt": "Calorímetro",
+      "subject": "fisica",
+      "skill": "termodinâmica",
+      "mechanic_pt": "misturar massas/temperaturas e estimar equilíbrio",
+      "learning_goal_pt": "aprender conservação de energia térmica",
+      "mode": "original-local",
+      "feedback": "explicar por que a resposta funciona e o erro cometido",
+      "adaptive": true,
+      "accessibility": [
+        "sem cronômetro obrigatório",
+        "modo de alto contraste",
+        "redução de movimento",
+        "uso por teclado quando possível"
+      ],
+      "source_ids": [
+        "src_phet_pt",
+        "src_geogebra"
+      ],
+      "daily_eligible": true
+    },
+    {
+      "id": "game-v10-061",
+      "slug": "gases",
+      "title_pt": "Gases",
+      "subject": "fisica",
+      "skill": "termodinâmica",
+      "mechanic_pt": "mudar volume, temperatura e pressão",
+      "learning_goal_pt": "entender relações entre variáveis",
+      "mode": "original-local",
+      "feedback": "explicar por que a resposta funciona e o erro cometido",
+      "adaptive": true,
+      "accessibility": [
+        "sem cronômetro obrigatório",
+        "modo de alto contraste",
+        "redução de movimento",
+        "uso por teclado quando possível"
+      ],
+      "source_ids": [
+        "src_phet_pt",
+        "src_geogebra"
+      ],
+      "daily_eligible": true
+    },
+    {
+      "id": "game-v10-062",
+      "slug": "campo-magnético",
+      "title_pt": "Campo Magnético",
+      "subject": "fisica",
+      "skill": "magnetismo",
+      "mechanic_pt": "mover ímãs/correntes e revelar linhas de campo",
+      "learning_goal_pt": "visualizar campo",
+      "mode": "original-local",
+      "feedback": "explicar por que a resposta funciona e o erro cometido",
+      "adaptive": true,
+      "accessibility": [
+        "sem cronômetro obrigatório",
+        "modo de alto contraste",
+        "redução de movimento",
+        "uso por teclado quando possível"
+      ],
+      "source_ids": [
+        "src_phet_pt",
+        "src_geogebra"
+      ],
+      "daily_eligible": true
+    },
+    {
+      "id": "game-v10-063",
+      "slug": "indução",
+      "title_pt": "Indução",
+      "subject": "fisica",
+      "skill": "eletromagnetismo",
+      "mechanic_pt": "mover ímã em bobina e ver corrente induzida",
+      "learning_goal_pt": "ligar movimento e eletricidade",
+      "mode": "original-local",
+      "feedback": "explicar por que a resposta funciona e o erro cometido",
+      "adaptive": true,
+      "accessibility": [
+        "sem cronômetro obrigatório",
+        "modo de alto contraste",
+        "redução de movimento",
+        "uso por teclado quando possível"
+      ],
+      "source_ids": [
+        "src_phet_pt",
+        "src_geogebra"
+      ],
+      "daily_eligible": true
+    },
+    {
+      "id": "game-v10-064",
+      "slug": "meia-vida",
+      "title_pt": "Meia-vida",
+      "subject": "fisica",
+      "skill": "radioatividade",
+      "mechanic_pt": "simular dezenas de núcleos e ajustar tempo",
+      "learning_goal_pt": "entender decaimento probabilístico",
+      "mode": "original-local",
+      "feedback": "explicar por que a resposta funciona e o erro cometido",
+      "adaptive": true,
+      "accessibility": [
+        "sem cronômetro obrigatório",
+        "modo de alto contraste",
+        "redução de movimento",
+        "uso por teclado quando possível"
+      ],
+      "source_ids": [
+        "src_phet_pt",
+        "src_geogebra"
+      ],
+      "daily_eligible": true
+    }
+  ],
+  "design_note": "Jogos são mecânicas autorais; recursos externos entram como complementos e não são incorporados sem verificar direitos."
+}

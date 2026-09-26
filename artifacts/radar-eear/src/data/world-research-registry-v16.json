@@ -1,0 +1,54 @@
+{
+  "version": "v16",
+  "sources": [
+    {
+      "id": "natural-earth-admin0-v5.1.1",
+      "type": "cartografia",
+      "source": "Natural Earth",
+      "url": "https://www.naturalearthdata.com/downloads/110m-cultural-vectors/",
+      "verified_pt": "Admin 0 oferece fronteiras/países; Natural Earth declara os dados em domínio público."
+    },
+    {
+      "id": "natural-earth-admin1-v5.1.1",
+      "type": "cartografia",
+      "source": "Natural Earth",
+      "url": "https://www.naturalearthdata.com/downloads/10m-cultural-vectors/10m-admin-1-states-provinces/",
+      "verified_pt": "Admin 1 possui mais de 4.500 divisões internas em escala 1:10m."
+    },
+    {
+      "id": "un-m49",
+      "type": "geografia",
+      "source": "Nações Unidas — M49",
+      "url": "https://unstats.un.org/unsd/methodology/m49/",
+      "verified_pt": "Referência para composição de regiões e sub-regiões geográficas."
+    },
+    {
+      "id": "google-3d-controls",
+      "type": "ux-map",
+      "source": "Google Developers",
+      "url": "https://developers.google.com/maps/documentation/javascript/3d/map-controls",
+      "verified_pt": "Mapas 3D suportam zoom, movimento, rotação, inclinação, bússola e caminhos de câmera."
+    },
+    {
+      "id": "google-3d-overview",
+      "type": "ux-map",
+      "source": "Google Developers",
+      "url": "https://developers.google.com/maps/documentation/javascript/3d/overview",
+      "verified_pt": "API 3D suporta marcadores, popovers, polilinhas, modelos 3D e caminhos de câmera."
+    },
+    {
+      "id": "nasa-blue-marble",
+      "type": "imagem",
+      "source": "NASA Visible Earth",
+      "url": "https://visibleearth.nasa.gov/collection/1484/blue-marble",
+      "verified_pt": "Coleção de imagens globais da Terra."
+    },
+    {
+      "id": "unesco-world-heritage-map",
+      "type": "cultura",
+      "source": "UNESCO World Heritage Centre",
+      "url": "https://whc.unesco.org/en/wallmap/",
+      "verified_pt": "Mapa mundial de bens do Patrimônio Mundial e contexto visual."
+    }
+  ]
+}

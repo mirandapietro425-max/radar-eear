@@ -1,0 +1,30 @@
+{
+  "source_policy": "official_source_reference_first",
+  "official_question_storage": "metadata_and_pointer_only_until_use_rights_are_verified",
+  "authorial_equivalent_storage": "full_statement_pt/options/explanation/solution allowed when authored by Radar",
+  "fields": [
+    "exam_edition",
+    "archive_position",
+    "question_number",
+    "subject",
+    "topic",
+    "subtopic",
+    "source_url",
+    "source_page",
+    "official_reference_only",
+    "question_fingerprint",
+    "answer_key",
+    "extraction_status",
+    "rights_status",
+    "authorial_equivalent_id"
+  ],
+  "dedupe": "normalized statement fingerprint + source edition + question number; near-duplicate detection by trigram similarity",
+  "next_workers": [
+    "resolve_pdf_urls",
+    "extract_question_blocks",
+    "extract_answer_keys",
+    "map_to_syllabus",
+    "human_review",
+    "publish_authorial_equivalents"
+  ]
+}

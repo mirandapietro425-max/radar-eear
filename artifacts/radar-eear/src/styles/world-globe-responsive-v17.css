@@ -1,0 +1,12 @@
+/* Radar EEAR v17 — UX/responsividade/performance final pass */
+.radar-atlas-shell{container-type:inline-size;min-width:0}
+.radar-atlas-shell *{box-sizing:border-box}
+.radar-atlas-filters{overflow-x:auto;overscroll-behavior-x:contain;scrollbar-width:none;-webkit-overflow-scrolling:touch}
+.radar-atlas-filters::-webkit-scrollbar{display:none}
+.radar-atlas-globe{min-width:280px}
+.radar-atlas-globe button{touch-action:manipulation}
+.radar-atlas-detail{content-visibility:auto;contain:layout paint}
+.radar-atlas-actions{padding-bottom:max(8px,env(safe-area-inset-bottom))}
+@container (max-width:980px){.radar-atlas-globe{max-width:720px}.radar-atlas-detail{min-height:unset}}
+@container (max-width:620px){.radar-atlas-globe{min-width:280px;width:100%}.radar-atlas-title{font-size:clamp(1.7rem,8vw,2.55rem);line-height:1.03}.radar-atlas-actions{position:sticky;bottom:max(8px,env(safe-area-inset-bottom));z-index:20;padding:8px;border-radius:18px;background:color-mix(in srgb,#02050a 84%,transparent);backdrop-filter:blur(12px);border:1px solid rgba(255,255,255,.08)}}
+@media (prefers-reduced-motion:reduce){.radar-atlas-shell *{scroll-behavior:auto!important;animation-duration:.001ms!important;animation-iteration-count:1!important;transition-duration:.001ms!important}}

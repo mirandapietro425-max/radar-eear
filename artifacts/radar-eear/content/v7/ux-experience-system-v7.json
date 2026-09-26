@@ -1,0 +1,160 @@
+{
+  "schema_version": "7.0",
+  "language": "pt-BR",
+  "research_basis": [
+    "cssda_home",
+    "cssda_vizcom",
+    "cssda_2026",
+    "nobel_games",
+    "smithsonian_animals"
+  ],
+  "note": "CSSDA separa UI, UX e Innovation; aqui essa taxonomia é usada como checklist de produto, não como promessa de prêmio.",
+  "principles": [
+    {
+      "id": "discover",
+      "name": "Pergunta antes da explicação",
+      "why_pt": "A experiência começa com uma pergunta concreta ou um fenômeno observável, para dar sentido ao conteúdo antes da nomenclatura.",
+      "micro": "hero de descoberta + 1 frase"
+    },
+    {
+      "id": "progressive",
+      "name": "Revelação progressiva",
+      "why_pt": "Mostrar primeiro o essencial e deixar camadas aprofundadas disponíveis evita uma parede de texto e permite diferentes ritmos.",
+      "micro": "arraste/scroll revela segunda camada"
+    },
+    {
+      "id": "interaction",
+      "name": "Manipulação com consequência",
+      "why_pt": "O controle do usuário deve mudar um modelo ou um resultado, não apenas produzir animação decorativa.",
+      "micro": "slider com gráfico vivo"
+    },
+    {
+      "id": "evidence",
+      "name": "Evidência ao lado da afirmação",
+      "why_pt": "Toda afirmação factual relevante deve ter fonte acessível sem abandonar a experiência.",
+      "micro": "drawer de fonte"
+    },
+    {
+      "id": "story",
+      "name": "Narrativa por capítulos",
+      "why_pt": "Pessoas, livros e fenômenos funcionam melhor quando apresentados como sequência: contexto → descoberta → consequência → leitura.",
+      "micro": "timeline horizontal/vertical"
+    },
+    {
+      "id": "memory",
+      "name": "Fechamento com recuperação",
+      "why_pt": "Toda experiência termina com uma pequena pergunta ou mini-desafio que pode alimentar o sistema de revisão.",
+      "micro": "1 pergunta + botão revisar depois"
+    },
+    {
+      "id": "personal",
+      "name": "Continuidade pessoal",
+      "why_pt": "Progresso, notas e itens salvos devem aparecer novamente no ponto correto, em vez de reiniciar do zero.",
+      "micro": "retomar de onde parou"
+    },
+    {
+      "id": "accessibility",
+      "name": "Movimento opcional",
+      "why_pt": "Animação deve enriquecer a compreensão e ter alternativa estática/redução de movimento.",
+      "micro": "respeitar prefers-reduced-motion"
+    },
+    {
+      "id": "performance",
+      "name": "Visual com orçamento",
+      "why_pt": "WebGL, vídeo e imagens devem ser acionados somente quando aumentarem entendimento; mídia abaixo da dobra deve ser carregada sob demanda.",
+      "micro": "lazy + poster + fallback"
+    },
+    {
+      "id": "mobile",
+      "name": "Primeiro toque, depois profundidade",
+      "why_pt": "Cada card deve ter uma ação principal óbvia no celular e revelar as ações secundárias depois.",
+      "micro": "uma CTA primária"
+    },
+    {
+      "id": "identity",
+      "name": "Identidade própria",
+      "why_pt": "Inspirar-se em padrões de interação contemporâneos não significa copiar a aparência de sites premiados.",
+      "micro": "sistema visual Radar EEAR"
+    },
+    {
+      "id": "crosslinks",
+      "name": "Conexões visíveis",
+      "why_pt": "Cada conteúdo deve apontar para ao menos um próximo conceito relacionado: pessoa ↔ obra ↔ ciência ↔ EEAR ↔ mapa.",
+      "micro": "trilha de conexões"
+    }
+  ],
+  "experience_blueprints": {
+    "person": {
+      "flow": [
+        "imagem",
+        "quem foi",
+        "onde nasceu",
+        "contexto",
+        "ideia",
+        "obra",
+        "curiosidade",
+        "mapa",
+        "leitura",
+        "mini-desafio"
+      ],
+      "preferred_media": [
+        "portrait",
+        "manuscript",
+        "map"
+      ],
+      "daily_link": true
+    },
+    "book": {
+      "flow": [
+        "capa",
+        "por que ler",
+        "contexto",
+        "mapa de ideias",
+        "trecho autorizado ou link",
+        "leitura",
+        "anotações",
+        "questões",
+        "conexões"
+      ],
+      "reader_features": [
+        "progress",
+        "bookmarks",
+        "notes",
+        "font-size",
+        "reduced-motion"
+      ]
+    },
+    "science": {
+      "flow": [
+        "fenômeno",
+        "pergunta",
+        "modelo",
+        "simulação",
+        "gráfico",
+        "explicação",
+        "aplicação",
+        "fonte",
+        "desafio"
+      ],
+      "media": [
+        "photo",
+        "diagram",
+        "3d",
+        "chart"
+      ]
+    },
+    "subject_summary": {
+      "flow": [
+        "visão geral",
+        "o que cai",
+        "mapa de conteúdo",
+        "fórmulas/estruturas",
+        "laboratórios",
+        "questões por tópico",
+        "erros",
+        "revisão"
+      ],
+      "mobile_pattern": "tabs + sticky topic progress"
+    }
+  }
+}

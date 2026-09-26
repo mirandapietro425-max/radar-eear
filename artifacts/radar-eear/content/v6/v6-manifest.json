@@ -1,0 +1,31 @@
+{
+  "schema_version": "6.0",
+  "language": "pt-BR",
+  "generated_at": "2026-09-26T00:47:29.091240",
+  "counts": {
+    "people": 182,
+    "biology": 100,
+    "biomath": 10,
+    "math_physics": 60,
+    "finance": 18,
+    "daily": 730,
+    "media": 9,
+    "people_media_index": 182,
+    "reading_extension": 59
+  },
+  "files": [
+    "content/v6/person-profiles-v6.json",
+    "content/v6/financial-market-labs-v6.json",
+    "content/v6/media-registry-v6.json",
+    "content/v6/bio-math-ecology-v6.json",
+    "content/v6/daily-knowledge-730-v6.json",
+    "content/v6/research-sources-v6.json",
+    "content/v6/math-physics-explainers-v6.json",
+    "content/v6/biology-ecology-curiosities-v6.json",
+    "content/v6/science-awards-ux-patterns-v6.json",
+    "supabase/013_v6_super_knowledge.sql",
+    "docs/V6_SUPER_KNOWLEDGE.md",
+    "content/v6/people-image-index-v6.json",
+    "content/v6/reading-corpus-extension-v6.json"
+  ]
+}
