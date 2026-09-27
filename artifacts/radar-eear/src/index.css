@@ -239,14 +239,170 @@ body:after{content:"";position:fixed;inset:0;pointer-events:none;z-index:120;bac
 @media(max-width:900px){.atlas-route-list,.curiosity-wall{grid-template-columns:1fr 1fr}.curiosity-hero{grid-template-columns:1fr}.curiosity-hero-stack{grid-template-columns:repeat(3,1fr);display:grid}.curiosity-hero-stack span{justify-content:flex-start;padding:0 8px}.curiosity-command{grid-template-columns:1fr 180px}.curiosity-command .muted{grid-column:1/-1}.atlas-command{top:70px}}
 @media(max-width:620px){.atlas-route-list,.curiosity-wall{grid-template-columns:1fr}.curiosity-hero h1{font-size:50px}.curiosity-command{grid-template-columns:1fr}.curiosity-command .muted{grid-column:auto}.curiosity-wall-card{grid-template-columns:45px 1fr;padding:17px}.curiosity-wall-copy h2{font-size:22px}.curiosity-card-footer>a{margin-left:0;width:100%}.atlas-route-tile{min-height:0}.atlas-command{top:64px}.atlas-hero{min-height:0}.atlas-hero-orbit{display:none}}
 
-/* V26.5: mapa real e mobile seguro */
-.atlas-map-real{position:relative;min-height:560px;background:#07121b}
-.atlas-map-real iframe{display:block;min-height:560px;filter:saturate(.9) contrast(1.02)}
-.map-embed-overlay{position:absolute;left:14px;right:14px;top:14px;display:flex;align-items:center;justify-content:space-between;gap:10px;pointer-events:none}
-.map-embed-overlay>span,.map-embed-overlay>div{pointer-events:auto}
-.map-embed-overlay>div{display:flex;gap:8px}
-.map-selection-note{display:flex;align-items:flex-start;gap:8px;margin-top:10px;padding:11px 13px;border:1px solid #243846;border-radius:12px;background:#0b1721;color:#9badb7;font-size:10px;line-height:1.5}
-.map-selection-note svg{flex:0 0 auto;color:var(--gold);margin-top:1px}
-.map-selection-note b{color:#e7eef1}
-@media(max-width:900px){.atlas-map-real,.atlas-map-real iframe{min-height:430px}.map-embed-overlay{align-items:flex-start;flex-direction:column}.map-embed-overlay>div{width:100%}.map-embed-overlay a{min-height:44px}.mobile-nav{bottom:calc(10px + env(safe-area-inset-bottom));padding-bottom:calc(7px + env(safe-area-inset-bottom));}.content{padding-bottom:calc(110px + env(safe-area-inset-bottom))}.map-selection-note{font-size:11px}}
-@media(max-width:620px){.atlas-map-real,.atlas-map-real iframe{min-height:360px}.map-embed-overlay{left:9px;right:9px;top:9px}.map-embed-overlay>div{display:grid;grid-template-columns:1fr 1fr;width:100%}.map-embed-overlay .pill{font-size:8px}.map-selection-note{margin-top:8px}}
+/* V26.2 interaction repair + real-media pass */
+.atlas-google-primary{margin:0 0 16px;border:1px solid var(--line);border-radius:18px;overflow:hidden;background:linear-gradient(145deg,#081017,#0b151b)}
+.google-primary-head{display:flex;align-items:center;justify-content:space-between;gap:14px;padding:14px 16px;border-bottom:1px solid var(--line)}
+.google-primary-head b,.google-primary-head small{display:block}.google-primary-head b{margin-top:4px;font:600 18px var(--serif)}.google-primary-head small{margin-top:4px;color:var(--muted);font-size:9px}.atlas-google-frame{height:430px;background:#071015}.atlas-google-frame iframe{width:100%;height:100%;border:0;display:block}
+.editorial-radar-fold{margin-bottom:12px;border:1px solid var(--line);border-radius:14px;background:rgba(255,255,255,.012)}.editorial-radar-fold summary{cursor:pointer;list-style:none;padding:11px 13px;color:#b7c3bf;font:9px var(--mono);text-transform:uppercase;letter-spacing:.08em}.editorial-radar-fold summary::-webkit-details-marker{display:none}.editorial-radar-fold[open] summary{border-bottom:1px solid var(--line);color:var(--gold-soft)}.editorial-radar-fold .globe-stage{border-radius:0}
+.thinker-visual{position:relative;overflow:hidden}.thinker-visual .visual-fallback,.thinker-visual img{width:100%;height:190px;object-fit:cover}.thinker-hero-image img{width:100%;height:320px;object-fit:cover}.works-result-grid{grid-template-columns:repeat(auto-fit,minmax(220px,1fr))}.works-result-grid>a{padding:14px;border:1px solid var(--line);border-radius:12px;background:rgba(255,255,255,.018)}.works-result-grid>a:hover{border-color:rgba(216,181,107,.3);background:rgba(216,181,107,.035)}.works-result-grid b,.works-result-grid span{display:block}.works-result-grid span{margin-top:7px;color:var(--gold-soft);font:8px var(--mono);text-transform:uppercase}
+.cinematic-book-card .book-cover img{background:#111820}.library-hero-art .entity-media{height:100%;width:100%}.library-hero-art .entity-media-frame{height:100%;border-radius:0;background:#070a0c}.library-hero-art .entity-media-frame img{object-fit:contain;padding:9% 12%;filter:drop-shadow(0 30px 50px rgba(0,0,0,.65));}
+.book-detail-cover .entity-media{height:100%;width:100%}.book-detail-cover .entity-media-frame{height:100%;border-radius:18px;background:#0b1116}.book-detail-cover .entity-media-frame img{object-fit:contain;padding:10px}.book-detail-cover{position:relative;overflow:hidden}
+.reading-surface{min-height:600px}
+@media(max-width:900px){.atlas-google-frame{height:330px}.google-primary-head{align-items:flex-start;flex-direction:column}.thinker-hero-image img{height:240px}.library-hero-art .entity-media-frame{min-height:260px}}
+@media(max-width:620px){.atlas-google-frame{height:280px}.works-result-grid{grid-template-columns:1fr}}
+/* Remove old pale blocks from legacy interactive elements on dark V26 */
+.range-tabs button,.result-grid>div,.topic-list>article,.lesson-panel,.focus-actions a{background:rgba(255,255,255,.018);color:#d8dfda;border-color:var(--line)}
+.range-tabs button.active{background:rgba(216,181,107,.11);color:var(--gold-soft);border-color:rgba(216,181,107,.3)}
+
+/* V26.3 — eliminate legacy white/blank surfaces in interactive study UI */
+.topic-card{display:grid;grid-template-columns:180px 1fr;gap:15px;padding:14px;border:1px solid var(--line);border-radius:16px;background:rgba(255,255,255,.018);color:var(--text)}
+.topic-card>figure,.topic-card>.entity-media{margin:0;min-height:130px;overflow:hidden;border-radius:12px;background:#0a1116}.topic-card>img{width:100%;height:100%;min-height:130px;object-fit:cover;border-radius:12px;background:#0a1116}.topic-card .entity-media-frame{height:100%;border-radius:12px;background:#0a1116}.topic-card .entity-media-frame img{width:100%;height:100%;object-fit:cover}.topic-card h2{margin:4px 0 8px;font:700 22px/1.05 var(--serif)}.topic-card p{color:#8d9b97;font-size:10px;line-height:1.65}.topic-card:hover{border-color:rgba(216,181,107,.28);background:rgba(216,181,107,.035)}
+.option-btn{width:100%;display:flex;align-items:flex-start;gap:11px;min-height:54px;padding:13px 14px;border:1px solid #263a47;border-radius:12px;background:#0b151e;color:#d8dfda;text-align:left;line-height:1.45;transition:transform .16s,border-color .16s,background .16s}.option-btn:hover:not(:disabled){transform:translateY(-1px);border-color:rgba(216,181,107,.3);background:#101c26}.option-btn>span{width:27px;height:27px;display:grid;place-items:center;flex:0 0 27px;border-radius:8px;background:#13222d;color:var(--gold-soft);font:700 10px var(--mono)}.option-btn.correct{border-color:rgba(82,215,196,.45);background:rgba(82,215,196,.08)}.option-btn.correct>span{background:rgba(82,215,196,.16);color:#a8f3e7}.option-btn.wrong{border-color:rgba(255,112,88,.45);background:rgba(255,112,88,.08)}.option-btn.selected{border-color:rgba(216,181,107,.4);background:rgba(216,181,107,.06)}
+.works-preview{margin:9px 0 10px;padding:8px 9px;border-left:2px solid rgba(216,181,107,.45);background:rgba(216,181,107,.035);border-radius:0 8px 8px 0}.works-preview span{display:block;color:#a89c7e;font:8px/1.5 var(--mono);text-transform:none}
+.work-card-with-cover{display:grid;grid-template-columns:64px 1fr;gap:11px;align-items:center;min-height:90px}.work-card-with-cover .entity-media{width:64px;height:84px;margin:0}.work-card-with-cover .entity-media-frame{height:84px;border-radius:8px;background:#091016}.work-card-with-cover .entity-media-frame img{width:100%;height:100%;object-fit:cover}.work-cover-empty{width:64px;height:84px;display:grid;place-items:center;border:1px solid var(--line);border-radius:8px;background:#0a1218;color:#687975}.work-card-with-cover b,.work-card-with-cover span{display:block}.work-card-with-cover b{font:700 13px/1.2 var(--serif);color:#e1e7e3}.work-card-with-cover span{margin-top:7px;color:var(--gold-soft);font:8px var(--mono)}
+.book-cover-loading,.book-cover-fallback{width:100%;height:100%;min-height:190px;display:grid;place-items:center;align-content:center;gap:7px;padding:18px;border:1px solid var(--line);border-radius:12px;background:linear-gradient(160deg,#0b1217,#0f1a20);color:#879792;text-align:center}.book-cover-loading span{width:70%;height:8px;border-radius:999px;background:linear-gradient(90deg,rgba(255,255,255,.03),rgba(216,181,107,.14),rgba(255,255,255,.03));animation:radarShimmer 1.8s ease-in-out infinite}.book-cover-loading b,.book-cover-fallback b{max-width:90%;font:700 15px/1.2 var(--serif);color:#cfd7d3}.book-cover-fallback small{font:8px var(--mono);color:#6f807b}.book-cover-fallback svg{color:var(--gold-soft)}
+.portrait-loading,.portrait-fallback{width:100%;height:100%;display:grid;place-items:center;overflow:hidden;background:#0b1319;border-radius:inherit}.portrait-loading span{width:48px;height:48px;border-radius:50%;border:2px solid rgba(216,181,107,.12);border-top-color:rgba(216,181,107,.55);animation:radarSpin 1.1s linear infinite}.portrait-fallback{font:800 42px var(--display);color:var(--gold-soft);background:radial-gradient(circle at 50% 35%,rgba(216,181,107,.11),transparent 50%),#0b1319;border:1px solid var(--line)}
+.bible-theme-strip>a{position:relative;min-height:92px;overflow:hidden;border-radius:16px;background:rgba(255,255,255,.018);border:1px solid var(--line)}.bible-theme-strip>a:hover{border-color:rgba(216,181,107,.28)}.bible-theme-strip>a.active{outline:2px solid rgba(216,181,107,.3)}.bible-theme-strip>a .entity-media,.bible-theme-strip>a img{width:100%;height:92px;display:block;object-fit:cover}.bible-theme-strip>a .entity-media-frame{height:92px;border-radius:0}.bible-theme-strip>a .entity-media-meta{display:none}.bible-theme-strip>a>span{position:absolute;left:10px;bottom:8px;background:rgba(7,22,34,.82);color:#F7F2E8;padding:5px 8px;border-radius:8px;font-size:11px}.bible-theme-strip>a:last-child{display:grid;place-items:center;min-height:92px}.bible-theme-strip>a:last-child>span{position:static;background:transparent;padding:0;font:8px var(--mono);text-transform:uppercase;color:var(--gold-soft)}
+.difficulty-pill{border-color:rgba(216,181,107,.22)!important;color:#c7b785!important;text-transform:capitalize}.soft-card{background:rgba(255,255,255,.018);border:1px solid var(--line);border-radius:12px;padding:11px}.soft-card span{display:block}.focus-actions a{background:rgba(255,255,255,.018)!important;border:1px solid var(--line)!important}.range-tabs button{color:#c8d0cc;background:#0b151e!important;border-color:var(--line)!important}.range-tabs button.active{background:rgba(216,181,107,.11)!important;color:var(--gold-soft)!important}.result-grid>div{background:#0b151e!important;border-color:var(--line)!important;color:#d8dfda}.lesson-panel{background:#0b151e!important;border-color:var(--line)!important}.field,select.field,textarea.field{background:#0a131c!important;color:#eef3f0!important}.field option{background:#0b151e;color:#eef3f0}
+@keyframes radarShimmer{0%,100%{opacity:.35;transform:scaleX(.94)}50%{opacity:.9;transform:scaleX(1)}}@keyframes radarSpin{to{transform:rotate(360deg)}}
+@media(max-width:850px){.topic-card{grid-template-columns:1fr}.topic-card>figure,.topic-card>.entity-media{min-height:180px}.work-card-with-cover{grid-template-columns:58px 1fr}.work-card-with-cover .entity-media,.work-cover-empty{width:58px;height:76px}.work-card-with-cover .entity-media-frame{height:76px}.book-cover-loading,.book-cover-fallback{min-height:240px}}
+@media(prefers-reduced-motion:reduce){.book-cover-loading span,.portrait-loading span{animation:none!important}}
+
+/* V26.5 mobile polish: prevent fixed UI from covering content and keep labels readable. */
+@media(max-width:620px){
+  body{overflow-x:hidden}
+  .topbar{height:62px;padding:0 10px;gap:6px}
+  .content{padding:16px 12px calc(132px + env(safe-area-inset-bottom))}
+  .mobile-nav{left:8px;right:8px;bottom:calc(8px + env(safe-area-inset-bottom));height:60px}
+  .hero-visual{min-height:290px}
+  .next-action{left:10px;right:10px;bottom:10px;padding:12px}
+  .next-action strong{font-size:19px;line-height:1.12}
+  .next-action small{font-size:10px;line-height:1.45}
+  .daily-inline{gap:12px}
+  .daily-inline img{height:170px}
+  .daily-card{min-width:0}
+  .daily-card>div{min-width:0}
+  .daily-card h2,.daily-card p,.daily-card small,.daily-card .text-link{overflow-wrap:anywhere;word-break:break-word}
+  .visual-card strong,.visual-card small,.topic-card h2,.topic-card p{overflow-wrap:anywhere;word-break:break-word}
+  .place-card b,.place-card span{overflow-wrap:anywhere;word-break:break-word}
+  .google-primary-head .button-row{width:100%;margin-top:10px}
+  .google-primary-head .button-row>*{flex:1 1 auto}
+  .atlas-google-frame{height:320px}
+}
+
+
+/* V26.6 — usuário: eliminar blocos brancos, compactar relações e estabilizar Atlas/mapas. */
+html,body,#root{min-width:0;max-width:100%;overflow-x:hidden}
+.metric-grid,.metric-card,.metric-card small,.metric-card strong,.metric-card p,.metric-card .metric-icon{color-scheme:dark}
+.metric-card{background:linear-gradient(145deg,#0b1116,#0a0f13)!important;color:var(--ink)!important}
+.metric-card small{background:transparent!important;color:#8f9e9b!important}
+.metric-card strong{background:transparent!important;color:#eef0eb!important}
+.metric-card p{background:transparent!important;color:#6f7f7c!important;margin-bottom:0}
+.topic-card,.topic-card *, .micro-card,.micro-card *, .lesson-panel,.lesson-panel *, .options,.options *, .question-surface,.question-surface *, .result-grid,.result-grid > div,.simulation-grid,.simulation-grid section,.simulation-grid aside{min-width:0}
+.topic-card,.micro-card,.lesson-panel,.simulation-grid>section,.simulation-grid aside,.result-grid>div{background:linear-gradient(145deg,#0b1116,#0a0f13)!important;color:var(--ink)!important}
+.topic-card h2,.topic-card p,.micro-card h3,.micro-card p,.lesson-panel h1,.lesson-panel p{overflow-wrap:anywhere;word-break:normal}
+.options .option-btn,.lesson-panel .option-btn,.simulation-grid .option-btn,.question-surface .option-btn{appearance:none!important;background:#0b151e!important;color:#e5ebe8!important;border:1px solid #2a3e4c!important;border-radius:12px!important;box-shadow:none!important}
+.options .option-btn:hover:not(:disabled),.lesson-panel .option-btn:hover:not(:disabled),.simulation-grid .option-btn:hover:not(:disabled){background:#101c26!important}
+.options .option-btn>span,.lesson-panel .option-btn>span,.simulation-grid .option-btn>span{background:#14232e!important;color:var(--gold-soft)!important}
+.graph-node{width:132px!important;min-width:132px!important;padding:8px 10px!important;border-radius:9px!important;font-size:9px!important;line-height:1.25!important}
+.graph-node b,.graph-node span{font-size:9px!important;line-height:1.25!important;overflow-wrap:anywhere}
+.thinker-grid-premium .thinker-card{grid-template-columns:92px minmax(0,1fr)!important;gap:12px!important;padding:10px!important}
+.thinker-grid-premium .thinker-visual,.thinker-grid-premium .thinker-visual img{height:92px!important;min-height:92px!important;border-radius:10px!important}
+.thinker-grid-premium .thinker-card h2{font-size:18px!important}
+.thinker-grid-premium .thinker-card p{font-size:9px!important;line-height:1.5!important;margin:5px 0!important}
+.works-preview{max-height:42px;overflow:hidden}
+.simulation-question-map{margin-bottom:16px;border:1px solid var(--line);border-radius:12px;background:rgba(255,255,255,.018);overflow:hidden}
+.simulation-question-map summary{list-style:none;cursor:pointer;padding:11px 13px;color:#a9b4b0;font:8px var(--mono);text-transform:uppercase;letter-spacing:.09em}
+.simulation-question-map summary::-webkit-details-marker{display:none}
+.simulation-question-map[open] summary{color:var(--gold-soft);border-bottom:1px solid var(--line)}
+.simulation-question-map .question-map{padding:11px 13px 13px;margin:0}
+.atlas-surface,.atlas-layout,.atlas-layout>*{min-width:0;max-width:100%}
+.atlas-google-primary{min-width:0;max-width:100%;overflow:hidden}
+.atlas-google-frame{width:100%!important;max-width:100%!important;min-width:0!important;height:430px;overflow:hidden;border-radius:13px}
+.atlas-google-frame iframe{display:block;width:100%!important;max-width:100%!important;height:100%!important;min-width:0!important;border:0}
+.atlas-layout{grid-template-columns:minmax(0,1.15fr) minmax(280px,.85fr)!important}
+.place-grid,.story-list,.layer-rail{min-width:0}
+.book-detail-copy h1,.book-card h2,.page-title,.page-description,.daily-card h2,.daily-card p,.entity-media-meta,.author-chip b{overflow-wrap:anywhere;word-break:normal;hyphens:auto}
+.bible-text{background:linear-gradient(145deg,#0b1116,#0a0f13)!important;color:#eef0eb!important;border:1px solid var(--line)!important;box-shadow:inset 0 0 0 1px rgba(255,255,255,.01),0 20px 60px rgba(0,0,0,.18)!important}
+.bible-text p{color:#e7ece9!important;background:transparent!important}
+.bible-text .verse-num{background:#111e27!important;color:var(--gold-soft)!important;border:1px solid var(--line)!important}
+.book-text,.book-text p{background:transparent!important;color:#e8edea!important}
+/* Nunca deixar um fallback de capa/retrato parecer uma capa/foto verdadeira. */
+.book-cover-fallback{background:linear-gradient(160deg,#0b1217,#0f1a20)!important}
+@media(max-width:900px){.atlas-layout{grid-template-columns:1fr!important}.atlas-google-frame{height:330px!important}.thinker-grid-premium .thinker-card{grid-template-columns:76px minmax(0,1fr)!important}.thinker-grid-premium .thinker-visual,.thinker-grid-premium .thinker-visual img{height:76px!important;min-height:76px!important}}
+@media(max-width:620px){
+  .content{padding-left:12px!important;padding-right:12px!important}
+  .hero-grid{min-height:0!important}
+  .hero-visual{min-height:280px!important}
+  .metric-grid{grid-template-columns:1fr 1fr!important}
+  .simulation-top h1{font-size:27px!important;line-height:1.08!important}
+  .simulation-grid{grid-template-columns:1fr!important}
+  .simulation-grid aside{display:grid;grid-template-columns:1fr 1fr;gap:10px}
+  .simulation-question-map summary{font-size:7px}
+  .question-map button{width:34px!important;height:34px!important}
+  .atlas-google-frame{height:290px!important}
+  .atlas-layout{grid-template-columns:1fr!important}
+  .place-grid{grid-template-columns:1fr!important}
+  .thinker-grid-premium{grid-template-columns:1fr!important}
+  .thinker-grid-premium .thinker-card{grid-template-columns:72px minmax(0,1fr)!important}
+  .thinker-grid-premium .thinker-visual,.thinker-grid-premium .thinker-visual img{height:72px!important;min-height:72px!important}
+  .thinker-grid-premium .thinker-card h2{font-size:16px!important}
+  .daily-inline{grid-template-columns:1fr!important}
+  .daily-inline img{height:190px!important}
+  .book-detail-copy h1{font-size:35px!important}
+  .chapter-reader .surface{padding:12px!important}
+  .bible-text{padding:16px!important}
+}
+
+/* V26.7 — mobile-first repair + study navigation cohesion */
+html,body,#root,.app-shell{width:100%;min-width:0;max-width:100%;overflow-x:hidden}
+*,*::before,*::after{box-sizing:border-box}
+.main-shell,.content,.surface,.hero-grid,.subject-hero,.study-focus-grid,.simulation-grid,.atlas-surface,.atlas-layout,.atlas-command,.account-modal,.daily-grid,.daily-card,.topic-card,.micro-card{min-width:0;max-width:100%}
+.focus-topic-summary{display:flex;gap:7px;flex-wrap:wrap;margin-top:14px}.focus-topic-summary span{padding:6px 8px;border:1px solid var(--line);border-radius:999px;background:rgba(255,255,255,.025);font:8px var(--mono);color:#8fa29c;text-transform:uppercase;letter-spacing:.05em}
+.option-btn{overflow-wrap:anywhere;word-break:break-word}
+.simulation-top h1,.subject-hero h1,.topic-card h2,.micro-card h3,.daily-card h2{overflow-wrap:anywhere;word-break:break-word}
+.atlas-surface{overflow:hidden}.atlas-google-primary,.atlas-google-frame{max-width:100%}.atlas-google-frame{height:clamp(360px,62svh,620px)}
+.atlas-layout{grid-template-columns:minmax(0,1fr) minmax(280px,390px)}.atlas-detail{min-width:0}
+@media(max-width:900px){
+  .content{padding-left:12px;padding-right:12px;padding-bottom:122px}
+  .topbar{padding:0 10px;gap:6px}
+  .top-actions{flex:0 0 auto}
+  .search-trigger{min-width:0;width:auto;overflow:hidden}
+  .search-trigger span{min-width:0}
+  .mobile-nav{left:max(8px,env(safe-area-inset-left));right:max(8px,env(safe-area-inset-right));bottom:max(8px,env(safe-area-inset-bottom));width:auto}
+  .account-modal{width:min(560px,calc(100vw - 20px));max-height:calc(100dvh - 20px);margin:0;grid-template-columns:1fr;overflow:auto}
+  .account-art{display:none}
+  .account-body{width:100%;padding:20px}
+  .two-fields{grid-template-columns:1fr 1fr}
+  .atlas-layout{grid-template-columns:1fr}
+  .atlas-google-frame{height:clamp(360px,62svh,560px)}
+  .atlas-detail{width:100%}
+  .simulation-top h1{font-size:clamp(22px,5.8vw,36px);line-height:1.08}
+}
+@media(max-width:620px){
+  .content{padding-left:10px;padding-right:10px;padding-bottom:128px}
+  .account-modal{width:calc(100vw - 16px);max-height:calc(100dvh - 16px);border-radius:18px}
+  .account-body{padding:16px}
+  .auth-switch{grid-template-columns:1fr 1fr}
+  .two-fields{grid-template-columns:1fr}
+  .primary-btn,.secondary-btn,.ghost-btn{max-width:100%;white-space:normal;text-align:center}
+  .focus-topic-summary span{font-size:7px}
+  .atlas-command{border-radius:14px;padding:14px}
+  .atlas-google-frame{height:clamp(370px,58svh,520px)}
+  .atlas-detail-premium{padding:14px}
+  .place-grid{grid-template-columns:1fr 1fr}
+  .place-card{min-width:0}
+  .place-card b,.place-card span{overflow-wrap:anywhere;word-break:break-word}
+  .simulation-question-map summary{white-space:normal;line-height:1.35}
+  .simulation-controls{display:grid;grid-template-columns:1fr 1fr;gap:8px}
+  .simulation-controls .primary-btn,.simulation-controls .secondary-btn{width:100%}
+  .micro-grid{grid-template-columns:1fr!important}
+  .micro-card{padding:14px!important}
+  .daily-card{grid-template-columns:1fr!important}
+  .daily-card img{height:190px;min-height:190px}
+  .hero-grid{grid-template-columns:1fr!important}
+  .hero-visual{min-height:300px!important;height:300px!important}
+  .next-action{left:12px!important;right:12px!important;bottom:12px!important;padding:14px!important}
+  .hero-copy{padding:22px 16px!important}
+  .hero-copy h1{font-size:40px!important}
+}

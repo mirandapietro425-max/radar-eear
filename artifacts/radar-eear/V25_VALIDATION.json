@@ -1,0 +1,305 @@
+{
+  "timestamp": "2026-09-27T00:06:45.539Z",
+  "checks": [
+    {
+      "name": "package-version-v25",
+      "ok": true,
+      "detail": "0.6.0"
+    },
+    {
+      "name": "typecheck-script",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "name": "build-script",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "name": "runtime-validation-script",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "name": "node24",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "name": "pt-br",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "name": "viewport-safe",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "name": "metadata-radar",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "name": "pwa-shell",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "name": "entity-media",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "name": "media-used-globally",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "name": "dark-editorial-css",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "name": "no-demo-runtime",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "name": "no-static-fake-metrics",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "name": "local-mode-explicit",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "name": "real-event-progression",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "name": "resume-deep-bible",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "name": "daily-bible-deep-route",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "name": "bible-specific-context",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "name": "book-reader",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "name": "library-metadata-only-honest",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "name": "atlas-editorial-controls",
+      "ok": false,
+      "detail": ""
+    },
+    {
+      "name": "google3d-interactive",
+      "ok": false,
+      "detail": ""
+    },
+    {
+      "name": "google3d-progressive",
+      "ok": false,
+      "detail": ""
+    },
+    {
+      "name": "invalid-atlas-route-honest",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "name": "invalid-thinker-route-honest",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "name": "invalid-game-route-honest",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "name": "invalid-subject-route-honest",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "name": "recommendation-engine",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "name": "review-engine",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "name": "focus-no-auto-start",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "name": "confidence-required",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "name": "question-error-diagnosis",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "name": "supabase-auth",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "name": "recovery-session",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "name": "offline-queue",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "name": "source-rights-docs",
+      "ok": false,
+      "detail": ""
+    },
+    {
+      "name": "deep-routes",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "name": "v25-pages-real",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "name": "v25-trails",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "name": "timeline-data",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "name": "culture-bridge",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "name": "knowledge-detail-routes",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "name": "hardware-diagnostic",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "name": "command-center",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "name": "progress-page",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "name": "previous-exams-catalog",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "name": "current-exam-date",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "name": "docs-v25",
+      "ok": false,
+      "detail": ""
+    },
+    {
+      "name": "apply-tool",
+      "ok": false,
+      "detail": ""
+    },
+    {
+      "name": "e2e-v25",
+      "ok": false,
+      "detail": ""
+    },
+    {
+      "name": "asset-refs-resolve",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "name": "asset-count>=250",
+      "ok": true,
+      "detail": "found 276"
+    },
+    {
+      "name": "runtime-smoke-pass",
+      "ok": true,
+      "detail": ""
+    }
+  ],
+  "failures": [
+    "atlas-editorial-controls",
+    "google3d-interactive",
+    "google3d-progressive",
+    "source-rights-docs",
+    "docs-v25",
+    "apply-tool",
+    "e2e-v25"
+  ],
+  "summary": {
+    "passed": 47,
+    "total": 54,
+    "failed": 7
+  },
+  "counts": {
+    "assetCount": 276,
+    "booksCatalog": null,
+    "bibleBooks": 66,
+    "bibleChapters": 1189,
+    "thinkers": 24,
+    "places": 31,
+    "apocrypha": 25,
+    "hardware": 20,
+    "math": 214,
+    "physics": 240,
+    "questions": 98,
+    "games": 11,
+    "previousExams": 64,
+    "books": 30
+  }
+}

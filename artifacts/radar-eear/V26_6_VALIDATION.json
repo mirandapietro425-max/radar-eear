@@ -1,0 +1,126 @@
+{
+  "timestamp": "2026-09-27T00:35:16.336Z",
+  "summary": {
+    "passed": 23,
+    "total": 23,
+    "failed": 0
+  },
+  "failures": [],
+  "checks": [
+    {
+      "name": "package",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "name": "node24",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "name": "pt-br",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "name": "viewport-safe",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "name": "auth-not-fake",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "name": "real-persistence",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "name": "real-daily-links",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "name": "apocrypha-link-state",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "name": "topic-specific-experiences",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "name": "book-real-cover-paths",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "name": "portrait-real-paths",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "name": "legal-book-fallback",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "name": "pensadores-works",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "name": "simulation-collapsed-map",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "name": "google-maps-primary",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "name": "atlas-width-safe-css",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "name": "bible-dark-reader",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "name": "dark-options",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "name": "compact-thinkers",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "name": "mobile-safe",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "name": "assets",
+      "ok": true,
+      "detail": "found 304"
+    },
+    {
+      "name": "asset-refs",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "name": "runtime-smoke",
+      "ok": true,
+      "detail": "{\"books\":30,\"bibleBooks\":66,\"bibleChapters\":1189,\"thinkers\":24,\"places\":31,\"apocrypha\":25,\"hardware\":20,\"math\":214,\"physics\":240,\"questions\":98,\"previousExams\":64,\"games\":11}"
+    }
+  ]
+}

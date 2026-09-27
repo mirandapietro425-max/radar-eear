@@ -1,4 +1,4 @@
-export type RadarQuestion = { id:string; subject:'Português'|'Inglês'|'Matemática'|'Física'|'Bíblia'; topic:string; prompt:string; options:string[]; answer:number; explanation:string; origin:'original'|'curated'|'official'|'ai_draft'|'ai_reviewed'|'autoral/similar'; source?:string };
+export type RadarQuestion = { id:string; subject:'Português'|'Inglês'|'Matemática'|'Física'|'Bíblia'; topic:string; prompt:string; options:string[]; answer:number; explanation:string; origin:'original'|'curated'|'official'|'ai_draft'|'ai_reviewed'|'autoral/similar'; source?:string; difficulty?:'básica'|'intermediária'|'avançada' };
 
 const q:RadarQuestion[] = [];
 const push=(x:Omit<RadarQuestion,'origin'>)=>q.push({...x,origin:'original'});

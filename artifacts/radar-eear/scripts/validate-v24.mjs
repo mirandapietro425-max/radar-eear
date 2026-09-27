@@ -1,0 +1,67 @@
+import fs from 'node:fs';
+import path from 'node:path';
+
+const root=process.cwd();
+const read=p=>fs.readFileSync(path.join(root,p),'utf8');
+const exists=p=>fs.existsSync(path.join(root,p));
+const checks=[]; const failures=[];
+const ok=(name,value,detail='')=>{checks.push({name,ok:Boolean(value),detail});if(!value)failures.push(`${name}${detail?`: ${detail}`:''}`)};
+const app=read('src/app/App.tsx');
+const index=read('index.html');
+const pkg=JSON.parse(read('package.json'));
+const archive=read('src/data/exam-archive.ts');
+const exp=read('src/experience-data.ts');
+const tutor=read('supabase/functions/radar-tutor/index.ts');
+const assetsRoot=path.join(root,'public/assets');
+const assetFiles=new Set();
+function walk(dir,rel=''){for(const ent of fs.readdirSync(dir,{withFileTypes:true})){const r=path.join(rel,ent.name);if(ent.isDirectory())walk(path.join(dir,ent.name),r);else assetFiles.add('/assets/'+r.replaceAll(path.sep,'/'));}}
+walk(assetsRoot);
+
+ok('package',pkg.name==='radar-eear');
+ok('node engine',pkg.engines?.node==='>=24 <25');
+ok('vite scripts',pkg.scripts?.build?.includes('vite build') && pkg.scripts?.typecheck);
+ok('lang pt-BR',/<html[^>]*lang=["']pt-BR["']/.test(index));
+ok('viewport accessible',!/maximum-scale\s*=/.test(index));
+ok('metadata clean',/Radar EEAR/.test(index)&&!/built on Replit/i.test(index));
+ok('PWA files',exists('public/manifest.webmanifest')&&exists('public/sw.js'));
+ok('Supabase auth code',/signUp\(/.test(app)&&/signIn\(/.test(app)&&/requestPasswordReset/.test(app));
+ok('local mode explicit',/Modo local/.test(app)&&/local-\$\{uid\(\)\}/.test(app));
+ok('no demo Marina',!/Marina(?:\s+Santos)?/.test(app));
+ok('no static fake metrics in app',!/74,2%|62%|47 questões|12 dias/.test(app));
+ok('no dead hash href',!/href=["']#["']/.test(app));
+ok('exact routes',/path="\/atlas"/.test(app)&&/path="\/biblioteca\/:id"/.test(app)&&/path="\/biblia\/:id"/.test(app)&&/path="\/jogos"/.test(app)&&/path="\/ciclo"/.test(app)&&/path="\/simulados"/.test(app)&&/path="\/cronometro"/.test(app)&&/path="\/pensadores"/.test(app));
+ok('real events',/type:'session_completed'/.test(app)&&/type:'question_answered'/.test(app)&&/type:'game_completed'/.test(app)&&/type:'atlas_place_opened'/.test(app));
+ok('focus does not auto-start',/cronômetro só começa quando você clicar em iniciar/.test(app)&&/function StudyFocusPage/.test(app)&&/session_started/.test(app));
+ok('confidence required',/confidence===null/.test(app));
+ok('resume state',/content_type:'topic'/.test(app)&&/bookPosition/.test(app)&&/current_question_index/.test(app));
+ok('Bible context button',/Explorar contexto/.test(app)&&/setContext\(v=>!v\)/.test(app));
+ok('Bible data counts source',/bibleBooks.length/.test(app));
+ok('Book reader',/fetchGutenbergText/.test(app)&&/chunkText/.test(app));
+ok('Library metadata external source',/openlibrary\.org\/search/.test(app));
+ok('Atlas controls',/Recentrar/.test(app)&&/Filtrar Atlas por categoria/.test(app)&&/role="button"/.test(app)||/globe-pin/.test(app));
+ok('Game count definitions',['calc','motion','comma','bible','memory','sequence','english-vocab','geometry','units','force','timeline'].every(id=>app.includes(`id:'${id}'`) || exp.includes(`id:'${id}'`)));
+ok('Tutor backend',exists('supabase/functions/radar-tutor/index.ts')&&/TUTOR_PROVIDER_URL/.test(tutor)&&/TUTOR_PROVIDER_KEY/.test(tutor)&&/Authorization/.test(tutor));
+ok('offline queue',/flushOfflineQueue/.test(app)&&/enqueue\('game_runs'/.test(app));
+ok('source docs',exists('DATA_SOURCES.md')&&exists('ASSET_CREDITS.md'));
+ok('E2E harness',exists('playwright.config.ts')&&exists('tests/e2e/radar.spec.ts')&&pkg.scripts?.['test:e2e']);
+ok('apply script complete',exists('tools/apply-radar-v24.mjs')&&/functionRoot/.test(read('tools/apply-radar-v24.mjs'))&&/docsRoot/.test(read('tools/apply-radar-v24.mjs'))&&/e2eRoot/.test(read('tools/apply-radar-v24.mjs')));
+ok('no generic apocrypha search',!/google\.com\/search\?q=/.test(app));
+ok('remote book merge code',/remoteBookProgress/.test(app)&&/remoteBookPosition/.test(app)&&/mergedEvents/.test(app));
+ok('central storage adapter',exists('src/lib/storage/index.ts')&&/StorageAdapter/.test(read('src/lib/storage/index.ts'))&&/storage\.user\.get/.test(app)&&/storage\.user\.set/.test(app));
+ok('thinker profiles',exists('src/data/thinker-details.ts')&&/thinkerDetails/.test(app)&&/Biografia/.test(app));
+ok('documentation', ['ARCHITECTURE.md','DATA_MODEL.md','PROGRESS_ENGINE.md','RECOMMENDATION_ENGINE.md','REVIEW_ENGINE.md','CONTENT_SOURCES.md','MEDIA_RIGHTS.md','ATLAS.md','LIBRARY.md','BIBLE.md','TESTING.md','DEPLOYMENT.md'].every(f=>exists('docs/'+f)));
+const refs=[...app.matchAll(/["'](\/assets\/[^"']+)["']/g)].map(m=>m[1]);
+const missing=[...new Set(refs)].filter(r=>!assetFiles.has(r));
+ok('static asset refs resolve',missing.length===0,missing.join(', '));
+ok('asset inventory >= 200',assetFiles.size>=200,`found ${assetFiles.size}`);
+const mustDynamic=[];
+for(const id of ['genesis','revelation']) mustDynamic.push(['/assets/bible/books/'+id+'.svg',exists('/public/assets/bible/books/'+id+'.svg')]);
+for(const id of ['1-enoque','evangelho-tome']) mustDynamic.push(['/assets/apocrypha/'+id+'.svg',exists('/public/assets/apocrypha/'+id+'.svg')]);
+for(const id of ['01','20']) mustDynamic.push(['/assets/hardware/'+id+'.svg',exists('/public/assets/hardware/'+id+'.svg')]);
+ok('dynamic asset sample',mustDynamic.every(x=>x[1]),mustDynamic.filter(x=>!x[1]).map(x=>x[0]).join(', '));
+ok('2026 EEAR cataloged',/cfs1-2026-40/.test(archive)&&/cfs1-2026-42/.test(archive)&&/cfs1-2026-44/.test(archive)&&/cfs1-2026-81/.test(archive)&&/cfs1-2026-83/.test(archive)&&/CFS 1\/2026',2026,'85'/.test(archive));
+
+const result={timestamp:new Date().toISOString(),checks,failures,summary:{passed:checks.filter(x=>x.ok).length,total:checks.length,failed:failures.length,assetCount:assetFiles.size,missingAssets:missing.length}};
+fs.writeFileSync(path.join(root,'V24_VALIDATION.json'),JSON.stringify(result,null,2)+'\n');
+console.log(JSON.stringify(result.summary));
+if(failures.length){console.error(failures.join('\n'));process.exit(1)}
