@@ -9,7 +9,7 @@ const app=read('src/app/App.tsx');const css=read('src/index.css');const index=re
 const assetsRoot=path.join(root,'public/assets');const assetSet=new Set();
 function walk(dir,rel=''){for(const ent of fs.readdirSync(dir,{withFileTypes:true})){const r=path.join(rel,ent.name);if(ent.isDirectory())walk(path.join(dir,ent.name),r);else assetSet.add('/assets/'+r.replaceAll(path.sep,'/'));}}
 walk(assetsRoot);
-ok('package',pkg.name==='radar-eear'&&pkg.version==='0.6.0');
+ok('package',pkg.name==='radar-eear'&&pkg.version==='0.6.1');
 ok('node24',pkg.engines?.node==='>=24 <25');
 ok('pt-br',/<html[^>]*lang=["']pt-BR["']/.test(index));
 ok('viewport-safe',!/maximum-scale\s*=/.test(index));

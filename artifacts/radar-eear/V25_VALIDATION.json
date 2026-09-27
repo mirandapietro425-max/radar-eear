@@ -1,10 +1,10 @@
 {
-  "timestamp": "2026-09-27T00:06:45.539Z",
+  "timestamp": "2026-09-27T04:11:31.335Z",
   "checks": [
     {
       "name": "package-version-v25",
-      "ok": true,
-      "detail": "0.6.0"
+      "ok": false,
+      "detail": "0.6.1"
     },
     {
       "name": "typecheck-script",
@@ -18,7 +18,7 @@
     },
     {
       "name": "runtime-validation-script",
-      "ok": true,
+      "ok": false,
       "detail": ""
     },
     {
@@ -183,7 +183,7 @@
     },
     {
       "name": "source-rights-docs",
-      "ok": false,
+      "ok": true,
       "detail": ""
     },
     {
@@ -243,17 +243,17 @@
     },
     {
       "name": "docs-v25",
-      "ok": false,
+      "ok": true,
       "detail": ""
     },
     {
       "name": "apply-tool",
-      "ok": false,
+      "ok": true,
       "detail": ""
     },
     {
       "name": "e2e-v25",
-      "ok": false,
+      "ok": true,
       "detail": ""
     },
     {
@@ -264,7 +264,7 @@
     {
       "name": "asset-count>=250",
       "ok": true,
-      "detail": "found 276"
+      "detail": "found 375"
     },
     {
       "name": "runtime-smoke-pass",
@@ -273,21 +273,19 @@
     }
   ],
   "failures": [
+    "package-version-v25: 0.6.1",
+    "runtime-validation-script",
     "atlas-editorial-controls",
     "google3d-interactive",
-    "google3d-progressive",
-    "source-rights-docs",
-    "docs-v25",
-    "apply-tool",
-    "e2e-v25"
+    "google3d-progressive"
   ],
   "summary": {
-    "passed": 47,
+    "passed": 49,
     "total": 54,
-    "failed": 7
+    "failed": 5
   },
   "counts": {
-    "assetCount": 276,
+    "assetCount": 375,
     "booksCatalog": null,
     "bibleBooks": 66,
     "bibleChapters": 1189,

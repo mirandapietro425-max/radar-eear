@@ -1,4 +1,4 @@
-const CACHE='radar-eear-v28-shell';
+const CACHE='radar-eear-v23-shell';
 const CORE=['/','/index.html','/manifest.webmanifest','/favicon.svg','/assets/editorial/hero-dashboard.svg','/assets/editorial/onboarding.svg','/assets/editorial/knowledge-radar.svg','/assets/editorial/bible-main.svg','/assets/editorial/atlas-globe.svg','/assets/games/math.svg','/assets/games/physics.svg','/assets/games/portuguese.svg','/assets/games/bible.svg'];
 self.addEventListener('install',event=>event.waitUntil(caches.open(CACHE).then(c=>c.addAll(CORE)).then(()=>self.skipWaiting())));
 self.addEventListener('activate',event=>event.waitUntil(caches.keys().then(keys=>Promise.all(keys.filter(k=>k!==CACHE).map(k=>caches.delete(k)))).then(()=>self.clients.claim())));

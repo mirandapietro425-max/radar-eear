@@ -21,8 +21,9 @@
     ],
     "confidence": "high",
     "checked_at": "2026-09-26",
-    "image": "https://science.nasa.gov/earth/earth-observatory/greece-2914/",
-    "image_credit": "conforme a página da fonte"
+    "image": "/assets/curiosities/01-grecia-curiosity-01.svg",
+    "image_credit": "Ilustração autoral individual Radar EEAR",
+    "image_license": "original"
   },
   {
     "id": "01-grecia-curiosity-02",
@@ -46,8 +47,9 @@
     ],
     "confidence": "high",
     "checked_at": "2026-09-26",
-    "image": "https://science.nasa.gov/earth/earth-observatory/greece-2914/",
-    "image_credit": "conforme a página da fonte"
+    "image": "/assets/curiosities/01-grecia-curiosity-02.svg",
+    "image_credit": "Ilustração autoral individual Radar EEAR",
+    "image_license": "original"
   },
   {
     "id": "01-grecia-curiosity-03",
@@ -71,8 +73,9 @@
     ],
     "confidence": "high",
     "checked_at": "2026-09-26",
-    "image": "https://science.nasa.gov/earth/earth-observatory/greece-2914/",
-    "image_credit": "conforme a página da fonte"
+    "image": "/assets/curiosities/01-grecia-curiosity-03.svg",
+    "image_credit": "Ilustração autoral individual Radar EEAR",
+    "image_license": "original"
   },
   {
     "id": "01-grecia-curiosity-04",
@@ -96,8 +99,9 @@
     ],
     "confidence": "high",
     "checked_at": "2026-09-26",
-    "image": "https://science.nasa.gov/earth/earth-observatory/greece-2914/",
-    "image_credit": "conforme a página da fonte"
+    "image": "/assets/curiosities/01-grecia-curiosity-04.svg",
+    "image_credit": "Ilustração autoral individual Radar EEAR",
+    "image_license": "original"
   },
   {
     "id": "01-grecia-curiosity-05",
@@ -121,8 +125,9 @@
     ],
     "confidence": "high",
     "checked_at": "2026-09-26",
-    "image": "https://science.nasa.gov/earth/earth-observatory/greece-2914/",
-    "image_credit": "conforme a página da fonte"
+    "image": "/assets/curiosities/01-grecia-curiosity-05.svg",
+    "image_credit": "Ilustração autoral individual Radar EEAR",
+    "image_license": "original"
   },
   {
     "id": "02-egito-curiosity-01",
@@ -146,8 +151,9 @@
     ],
     "confidence": "high",
     "checked_at": "2026-09-26",
-    "image": "https://commons.wikimedia.org/wiki/File:Cairo_and_Alexandria,_Egypt_at_Night_(NASA,_International_Space_Station_Science,_10_28_10",
-    "image_credit": "conforme a página da fonte"
+    "image": "/assets/curiosities/02-egito-curiosity-01.svg",
+    "image_credit": "Ilustração autoral individual Radar EEAR",
+    "image_license": "original"
   },
   {
     "id": "02-egito-curiosity-02",
@@ -171,8 +177,9 @@
     ],
     "confidence": "high",
     "checked_at": "2026-09-26",
-    "image": "https://commons.wikimedia.org/wiki/File:Cairo_and_Alexandria,_Egypt_at_Night_(NASA,_International_Space_Station_Science,_10_28_10",
-    "image_credit": "conforme a página da fonte"
+    "image": "/assets/curiosities/02-egito-curiosity-02.svg",
+    "image_credit": "Ilustração autoral individual Radar EEAR",
+    "image_license": "original"
   },
   {
     "id": "02-egito-curiosity-03",
@@ -196,8 +203,9 @@
     ],
     "confidence": "high",
     "checked_at": "2026-09-26",
-    "image": "https://commons.wikimedia.org/wiki/File:Cairo_and_Alexandria,_Egypt_at_Night_(NASA,_International_Space_Station_Science,_10_28_10",
-    "image_credit": "conforme a página da fonte"
+    "image": "/assets/curiosities/02-egito-curiosity-03.svg",
+    "image_credit": "Ilustração autoral individual Radar EEAR",
+    "image_license": "original"
   },
   {
     "id": "02-egito-curiosity-04",
@@ -221,8 +229,9 @@
     ],
     "confidence": "high",
     "checked_at": "2026-09-26",
-    "image": "https://commons.wikimedia.org/wiki/File:Cairo_and_Alexandria,_Egypt_at_Night_(NASA,_International_Space_Station_Science,_10_28_10",
-    "image_credit": "conforme a página da fonte"
+    "image": "/assets/curiosities/02-egito-curiosity-04.svg",
+    "image_credit": "Ilustração autoral individual Radar EEAR",
+    "image_license": "original"
   },
   {
     "id": "02-egito-curiosity-05",
@@ -246,8 +255,9 @@
     ],
     "confidence": "high",
     "checked_at": "2026-09-26",
-    "image": "https://commons.wikimedia.org/wiki/File:Cairo_and_Alexandria,_Egypt_at_Night_(NASA,_International_Space_Station_Science,_10_28_10",
-    "image_credit": "conforme a página da fonte"
+    "image": "/assets/curiosities/02-egito-curiosity-05.svg",
+    "image_credit": "Ilustração autoral individual Radar EEAR",
+    "image_license": "original"
   },
   {
     "id": "03-israel-palestina-curiosity-01",
@@ -271,8 +281,9 @@
     ],
     "confidence": "high",
     "checked_at": "2026-09-26",
-    "image": null,
-    "image_credit": null
+    "image": "/assets/curiosities/03-israel-palestina-curiosity-01.svg",
+    "image_credit": "Ilustração autoral individual Radar EEAR",
+    "image_license": "original"
   },
   {
     "id": "03-israel-palestina-curiosity-02",
@@ -296,8 +307,9 @@
     ],
     "confidence": "high",
     "checked_at": "2026-09-26",
-    "image": null,
-    "image_credit": null
+    "image": "/assets/curiosities/03-israel-palestina-curiosity-02.svg",
+    "image_credit": "Ilustração autoral individual Radar EEAR",
+    "image_license": "original"
   },
   {
     "id": "03-israel-palestina-curiosity-03",
@@ -321,8 +333,9 @@
     ],
     "confidence": "high",
     "checked_at": "2026-09-26",
-    "image": null,
-    "image_credit": null
+    "image": "/assets/curiosities/03-israel-palestina-curiosity-03.svg",
+    "image_credit": "Ilustração autoral individual Radar EEAR",
+    "image_license": "original"
   },
   {
     "id": "03-israel-palestina-curiosity-04",
@@ -346,8 +359,9 @@
     ],
     "confidence": "high",
     "checked_at": "2026-09-26",
-    "image": null,
-    "image_credit": null
+    "image": "/assets/curiosities/03-israel-palestina-curiosity-04.svg",
+    "image_credit": "Ilustração autoral individual Radar EEAR",
+    "image_license": "original"
   },
   {
     "id": "03-israel-palestina-curiosity-05",
@@ -371,8 +385,9 @@
     ],
     "confidence": "high",
     "checked_at": "2026-09-26",
-    "image": null,
-    "image_credit": null
+    "image": "/assets/curiosities/03-israel-palestina-curiosity-05.svg",
+    "image_credit": "Ilustração autoral individual Radar EEAR",
+    "image_license": "original"
   },
   {
     "id": "04-italia-curiosity-01",
@@ -396,8 +411,9 @@
     ],
     "confidence": "high",
     "checked_at": "2026-09-26",
-    "image": "https://commons.wikimedia.org/wiki/File:Satellite_image_of_Italy_in_March_2003.jpg",
-    "image_credit": "conforme a página da fonte"
+    "image": "/assets/curiosities/04-italia-curiosity-01.svg",
+    "image_credit": "Ilustração autoral individual Radar EEAR",
+    "image_license": "original"
   },
   {
     "id": "04-italia-curiosity-02",
@@ -421,8 +437,9 @@
     ],
     "confidence": "high",
     "checked_at": "2026-09-26",
-    "image": "https://commons.wikimedia.org/wiki/File:Satellite_image_of_Italy_in_March_2003.jpg",
-    "image_credit": "conforme a página da fonte"
+    "image": "/assets/curiosities/04-italia-curiosity-02.svg",
+    "image_credit": "Ilustração autoral individual Radar EEAR",
+    "image_license": "original"
   },
   {
     "id": "04-italia-curiosity-03",
@@ -446,8 +463,9 @@
     ],
     "confidence": "high",
     "checked_at": "2026-09-26",
-    "image": "https://commons.wikimedia.org/wiki/File:Satellite_image_of_Italy_in_March_2003.jpg",
-    "image_credit": "conforme a página da fonte"
+    "image": "/assets/curiosities/04-italia-curiosity-03.svg",
+    "image_credit": "Ilustração autoral individual Radar EEAR",
+    "image_license": "original"
   },
   {
     "id": "04-italia-curiosity-04",
@@ -471,8 +489,9 @@
     ],
     "confidence": "high",
     "checked_at": "2026-09-26",
-    "image": "https://commons.wikimedia.org/wiki/File:Satellite_image_of_Italy_in_March_2003.jpg",
-    "image_credit": "conforme a página da fonte"
+    "image": "/assets/curiosities/04-italia-curiosity-04.svg",
+    "image_credit": "Ilustração autoral individual Radar EEAR",
+    "image_license": "original"
   },
   {
     "id": "04-italia-curiosity-05",
@@ -496,8 +515,9 @@
     ],
     "confidence": "high",
     "checked_at": "2026-09-26",
-    "image": "https://commons.wikimedia.org/wiki/File:Satellite_image_of_Italy_in_March_2003.jpg",
-    "image_credit": "conforme a página da fonte"
+    "image": "/assets/curiosities/04-italia-curiosity-05.svg",
+    "image_credit": "Ilustração autoral individual Radar EEAR",
+    "image_license": "original"
   },
   {
     "id": "05-reino-unido-curiosity-01",
@@ -521,8 +541,9 @@
     ],
     "confidence": "high",
     "checked_at": "2026-09-26",
-    "image": "https://commons.wikimedia.org/wiki/File:Sir_Isaac_Newton_(1643-1727",
-    "image_credit": "conforme a página da fonte"
+    "image": "/assets/curiosities/05-reino-unido-curiosity-01.svg",
+    "image_credit": "Ilustração autoral individual Radar EEAR",
+    "image_license": "original"
   },
   {
     "id": "05-reino-unido-curiosity-02",
@@ -546,8 +567,9 @@
     ],
     "confidence": "high",
     "checked_at": "2026-09-26",
-    "image": "https://commons.wikimedia.org/wiki/File:Sir_Isaac_Newton_(1643-1727",
-    "image_credit": "conforme a página da fonte"
+    "image": "/assets/curiosities/05-reino-unido-curiosity-02.svg",
+    "image_credit": "Ilustração autoral individual Radar EEAR",
+    "image_license": "original"
   },
   {
     "id": "05-reino-unido-curiosity-03",
@@ -571,8 +593,9 @@
     ],
     "confidence": "high",
     "checked_at": "2026-09-26",
-    "image": "https://commons.wikimedia.org/wiki/File:Sir_Isaac_Newton_(1643-1727",
-    "image_credit": "conforme a página da fonte"
+    "image": "/assets/curiosities/05-reino-unido-curiosity-03.svg",
+    "image_credit": "Ilustração autoral individual Radar EEAR",
+    "image_license": "original"
   },
   {
     "id": "05-reino-unido-curiosity-04",
@@ -596,8 +619,9 @@
     ],
     "confidence": "high",
     "checked_at": "2026-09-26",
-    "image": "https://commons.wikimedia.org/wiki/File:Sir_Isaac_Newton_(1643-1727",
-    "image_credit": "conforme a página da fonte"
+    "image": "/assets/curiosities/05-reino-unido-curiosity-04.svg",
+    "image_credit": "Ilustração autoral individual Radar EEAR",
+    "image_license": "original"
   },
   {
     "id": "05-reino-unido-curiosity-05",
@@ -621,8 +645,9 @@
     ],
     "confidence": "high",
     "checked_at": "2026-09-26",
-    "image": "https://commons.wikimedia.org/wiki/File:Sir_Isaac_Newton_(1643-1727",
-    "image_credit": "conforme a página da fonte"
+    "image": "/assets/curiosities/05-reino-unido-curiosity-05.svg",
+    "image_credit": "Ilustração autoral individual Radar EEAR",
+    "image_license": "original"
   },
   {
     "id": "06-franca-curiosity-01",
@@ -646,8 +671,9 @@
     ],
     "confidence": "high",
     "checked_at": "2026-09-26",
-    "image": null,
-    "image_credit": null
+    "image": "/assets/curiosities/06-franca-curiosity-01.svg",
+    "image_credit": "Ilustração autoral individual Radar EEAR",
+    "image_license": "original"
   },
   {
     "id": "06-franca-curiosity-02",
@@ -671,8 +697,9 @@
     ],
     "confidence": "high",
     "checked_at": "2026-09-26",
-    "image": null,
-    "image_credit": null
+    "image": "/assets/curiosities/06-franca-curiosity-02.svg",
+    "image_credit": "Ilustração autoral individual Radar EEAR",
+    "image_license": "original"
   },
   {
     "id": "06-franca-curiosity-03",
@@ -696,8 +723,9 @@
     ],
     "confidence": "high",
     "checked_at": "2026-09-26",
-    "image": null,
-    "image_credit": null
+    "image": "/assets/curiosities/06-franca-curiosity-03.svg",
+    "image_credit": "Ilustração autoral individual Radar EEAR",
+    "image_license": "original"
   },
   {
     "id": "06-franca-curiosity-04",
@@ -721,8 +749,9 @@
     ],
     "confidence": "high",
     "checked_at": "2026-09-26",
-    "image": null,
-    "image_credit": null
+    "image": "/assets/curiosities/06-franca-curiosity-04.svg",
+    "image_credit": "Ilustração autoral individual Radar EEAR",
+    "image_license": "original"
   },
   {
     "id": "06-franca-curiosity-05",
@@ -746,8 +775,9 @@
     ],
     "confidence": "high",
     "checked_at": "2026-09-26",
-    "image": null,
-    "image_credit": null
+    "image": "/assets/curiosities/06-franca-curiosity-05.svg",
+    "image_credit": "Ilustração autoral individual Radar EEAR",
+    "image_license": "original"
   },
   {
     "id": "07-brasil-curiosity-01",
@@ -771,8 +801,9 @@
     ],
     "confidence": "high",
     "checked_at": "2026-09-26",
-    "image": "https://commons.wikimedia.org/wiki/Category:States_of_Brazil",
-    "image_credit": "conforme a página da fonte"
+    "image": "/assets/curiosities/07-brasil-curiosity-01.svg",
+    "image_credit": "Ilustração autoral individual Radar EEAR",
+    "image_license": "original"
   },
   {
     "id": "07-brasil-curiosity-02",
@@ -796,8 +827,9 @@
     ],
     "confidence": "high",
     "checked_at": "2026-09-26",
-    "image": "https://commons.wikimedia.org/wiki/Category:States_of_Brazil",
-    "image_credit": "conforme a página da fonte"
+    "image": "/assets/curiosities/07-brasil-curiosity-02.svg",
+    "image_credit": "Ilustração autoral individual Radar EEAR",
+    "image_license": "original"
   },
   {
     "id": "07-brasil-curiosity-03",
@@ -821,8 +853,9 @@
     ],
     "confidence": "high",
     "checked_at": "2026-09-26",
-    "image": "https://commons.wikimedia.org/wiki/Category:States_of_Brazil",
-    "image_credit": "conforme a página da fonte"
+    "image": "/assets/curiosities/07-brasil-curiosity-03.svg",
+    "image_credit": "Ilustração autoral individual Radar EEAR",
+    "image_license": "original"
   },
   {
     "id": "07-brasil-curiosity-04",
@@ -846,8 +879,9 @@
     ],
     "confidence": "high",
     "checked_at": "2026-09-26",
-    "image": "https://commons.wikimedia.org/wiki/Category:States_of_Brazil",
-    "image_credit": "conforme a página da fonte"
+    "image": "/assets/curiosities/07-brasil-curiosity-04.svg",
+    "image_credit": "Ilustração autoral individual Radar EEAR",
+    "image_license": "original"
   },
   {
     "id": "07-brasil-curiosity-05",
@@ -871,8 +905,9 @@
     ],
     "confidence": "high",
     "checked_at": "2026-09-26",
-    "image": "https://commons.wikimedia.org/wiki/Category:States_of_Brazil",
-    "image_credit": "conforme a página da fonte"
+    "image": "/assets/curiosities/07-brasil-curiosity-05.svg",
+    "image_credit": "Ilustração autoral individual Radar EEAR",
+    "image_license": "original"
   },
   {
     "id": "08-austria-curiosity-01",
@@ -896,8 +931,9 @@
     ],
     "confidence": "high",
     "checked_at": "2026-09-26",
-    "image": "https://commons.wikimedia.org/wiki/File:Austria_Vienna_location_map.svg",
-    "image_credit": "conforme a página da fonte"
+    "image": "/assets/curiosities/08-austria-curiosity-01.svg",
+    "image_credit": "Ilustração autoral individual Radar EEAR",
+    "image_license": "original"
   },
   {
     "id": "08-austria-curiosity-02",
@@ -921,8 +957,9 @@
     ],
     "confidence": "high",
     "checked_at": "2026-09-26",
-    "image": "https://commons.wikimedia.org/wiki/File:Austria_Vienna_location_map.svg",
-    "image_credit": "conforme a página da fonte"
+    "image": "/assets/curiosities/08-austria-curiosity-02.svg",
+    "image_credit": "Ilustração autoral individual Radar EEAR",
+    "image_license": "original"
   },
   {
     "id": "08-austria-curiosity-03",
@@ -946,8 +983,9 @@
     ],
     "confidence": "high",
     "checked_at": "2026-09-26",
-    "image": "https://commons.wikimedia.org/wiki/File:Austria_Vienna_location_map.svg",
-    "image_credit": "conforme a página da fonte"
+    "image": "/assets/curiosities/08-austria-curiosity-03.svg",
+    "image_credit": "Ilustração autoral individual Radar EEAR",
+    "image_license": "original"
   },
   {
     "id": "08-austria-curiosity-04",
@@ -971,8 +1009,9 @@
     ],
     "confidence": "high",
     "checked_at": "2026-09-26",
-    "image": "https://commons.wikimedia.org/wiki/File:Austria_Vienna_location_map.svg",
-    "image_credit": "conforme a página da fonte"
+    "image": "/assets/curiosities/08-austria-curiosity-04.svg",
+    "image_credit": "Ilustração autoral individual Radar EEAR",
+    "image_license": "original"
   },
   {
     "id": "08-austria-curiosity-05",
@@ -996,8 +1035,9 @@
     ],
     "confidence": "high",
     "checked_at": "2026-09-26",
-    "image": "https://commons.wikimedia.org/wiki/File:Austria_Vienna_location_map.svg",
-    "image_credit": "conforme a página da fonte"
+    "image": "/assets/curiosities/08-austria-curiosity-05.svg",
+    "image_credit": "Ilustração autoral individual Radar EEAR",
+    "image_license": "original"
   },
   {
     "id": "09-turquia-curiosity-01",
@@ -1021,8 +1061,9 @@
     ],
     "confidence": "high",
     "checked_at": "2026-09-26",
-    "image": "https://commons.wikimedia.org/wiki/File:Constantinople_area_map.svg",
-    "image_credit": "conforme a página da fonte"
+    "image": "/assets/curiosities/09-turquia-curiosity-01.svg",
+    "image_credit": "Ilustração autoral individual Radar EEAR",
+    "image_license": "original"
   },
   {
     "id": "09-turquia-curiosity-02",
@@ -1046,8 +1087,9 @@
     ],
     "confidence": "high",
     "checked_at": "2026-09-26",
-    "image": "https://commons.wikimedia.org/wiki/File:Constantinople_area_map.svg",
-    "image_credit": "conforme a página da fonte"
+    "image": "/assets/curiosities/09-turquia-curiosity-02.svg",
+    "image_credit": "Ilustração autoral individual Radar EEAR",
+    "image_license": "original"
   },
   {
     "id": "09-turquia-curiosity-03",
@@ -1071,8 +1113,9 @@
     ],
     "confidence": "high",
     "checked_at": "2026-09-26",
-    "image": "https://commons.wikimedia.org/wiki/File:Constantinople_area_map.svg",
-    "image_credit": "conforme a página da fonte"
+    "image": "/assets/curiosities/09-turquia-curiosity-03.svg",
+    "image_credit": "Ilustração autoral individual Radar EEAR",
+    "image_license": "original"
   },
   {
     "id": "09-turquia-curiosity-04",
@@ -1096,8 +1139,9 @@
     ],
     "confidence": "high",
     "checked_at": "2026-09-26",
-    "image": "https://commons.wikimedia.org/wiki/File:Constantinople_area_map.svg",
-    "image_credit": "conforme a página da fonte"
+    "image": "/assets/curiosities/09-turquia-curiosity-04.svg",
+    "image_credit": "Ilustração autoral individual Radar EEAR",
+    "image_license": "original"
   },
   {
     "id": "09-turquia-curiosity-05",
@@ -1121,8 +1165,9 @@
     ],
     "confidence": "high",
     "checked_at": "2026-09-26",
-    "image": "https://commons.wikimedia.org/wiki/File:Constantinople_area_map.svg",
-    "image_credit": "conforme a página da fonte"
+    "image": "/assets/curiosities/09-turquia-curiosity-05.svg",
+    "image_credit": "Ilustração autoral individual Radar EEAR",
+    "image_license": "original"
   },
   {
     "id": "10-siria-cilicia-curiosity-01",
@@ -1146,8 +1191,9 @@
     ],
     "confidence": "high",
     "checked_at": "2026-09-26",
-    "image": "https://commons.wikimedia.org/wiki/Category:Antioch",
-    "image_credit": "conforme a página da fonte"
+    "image": "/assets/curiosities/10-siria-cilicia-curiosity-01.svg",
+    "image_credit": "Ilustração autoral individual Radar EEAR",
+    "image_license": "original"
   },
   {
     "id": "10-siria-cilicia-curiosity-02",
@@ -1171,8 +1217,9 @@
     ],
     "confidence": "high",
     "checked_at": "2026-09-26",
-    "image": "https://commons.wikimedia.org/wiki/Category:Antioch",
-    "image_credit": "conforme a página da fonte"
+    "image": "/assets/curiosities/10-siria-cilicia-curiosity-02.svg",
+    "image_credit": "Ilustração autoral individual Radar EEAR",
+    "image_license": "original"
   },
   {
     "id": "10-siria-cilicia-curiosity-03",
@@ -1196,8 +1243,9 @@
     ],
     "confidence": "high",
     "checked_at": "2026-09-26",
-    "image": "https://commons.wikimedia.org/wiki/Category:Antioch",
-    "image_credit": "conforme a página da fonte"
+    "image": "/assets/curiosities/10-siria-cilicia-curiosity-03.svg",
+    "image_credit": "Ilustração autoral individual Radar EEAR",
+    "image_license": "original"
   },
   {
     "id": "10-siria-cilicia-curiosity-04",
@@ -1221,8 +1269,9 @@
     ],
     "confidence": "high",
     "checked_at": "2026-09-26",
-    "image": "https://commons.wikimedia.org/wiki/Category:Antioch",
-    "image_credit": "conforme a página da fonte"
+    "image": "/assets/curiosities/10-siria-cilicia-curiosity-04.svg",
+    "image_credit": "Ilustração autoral individual Radar EEAR",
+    "image_license": "original"
   },
   {
     "id": "10-siria-cilicia-curiosity-05",
@@ -1246,8 +1295,9 @@
     ],
     "confidence": "high",
     "checked_at": "2026-09-26",
-    "image": "https://commons.wikimedia.org/wiki/Category:Antioch",
-    "image_credit": "conforme a página da fonte"
+    "image": "/assets/curiosities/10-siria-cilicia-curiosity-05.svg",
+    "image_credit": "Ilustração autoral individual Radar EEAR",
+    "image_license": "original"
   },
   {
     "id": "11-portugal-curiosity-01",
@@ -1271,8 +1321,9 @@
     ],
     "confidence": "high",
     "checked_at": "2026-09-26",
-    "image": "https://commons.wikimedia.org/wiki/File:Portugal_Lisbon_location_map.svg",
-    "image_credit": "conforme a página da fonte"
+    "image": "/assets/curiosities/11-portugal-curiosity-01.svg",
+    "image_credit": "Ilustração autoral individual Radar EEAR",
+    "image_license": "original"
   },
   {
     "id": "11-portugal-curiosity-02",
@@ -1296,8 +1347,9 @@
     ],
     "confidence": "high",
     "checked_at": "2026-09-26",
-    "image": "https://commons.wikimedia.org/wiki/File:Portugal_Lisbon_location_map.svg",
-    "image_credit": "conforme a página da fonte"
+    "image": "/assets/curiosities/11-portugal-curiosity-02.svg",
+    "image_credit": "Ilustração autoral individual Radar EEAR",
+    "image_license": "original"
   },
   {
     "id": "11-portugal-curiosity-03",
@@ -1321,8 +1373,9 @@
     ],
     "confidence": "high",
     "checked_at": "2026-09-26",
-    "image": "https://commons.wikimedia.org/wiki/File:Portugal_Lisbon_location_map.svg",
-    "image_credit": "conforme a página da fonte"
+    "image": "/assets/curiosities/11-portugal-curiosity-03.svg",
+    "image_credit": "Ilustração autoral individual Radar EEAR",
+    "image_license": "original"
   },
   {
     "id": "11-portugal-curiosity-04",
@@ -1346,8 +1399,9 @@
     ],
     "confidence": "high",
     "checked_at": "2026-09-26",
-    "image": "https://commons.wikimedia.org/wiki/File:Portugal_Lisbon_location_map.svg",
-    "image_credit": "conforme a página da fonte"
+    "image": "/assets/curiosities/11-portugal-curiosity-04.svg",
+    "image_credit": "Ilustração autoral individual Radar EEAR",
+    "image_license": "original"
   },
   {
     "id": "11-portugal-curiosity-05",
@@ -1371,8 +1425,9 @@
     ],
     "confidence": "high",
     "checked_at": "2026-09-26",
-    "image": "https://commons.wikimedia.org/wiki/File:Portugal_Lisbon_location_map.svg",
-    "image_credit": "conforme a página da fonte"
+    "image": "/assets/curiosities/11-portugal-curiosity-05.svg",
+    "image_credit": "Ilustração autoral individual Radar EEAR",
+    "image_license": "original"
   },
   {
     "id": "12-irlanda-curiosity-01",
@@ -1396,8 +1451,9 @@
     ],
     "confidence": "high",
     "checked_at": "2026-09-26",
-    "image": "https://commons.wikimedia.org/wiki/File:Dublin_map_2.svg",
-    "image_credit": "conforme a página da fonte"
+    "image": "/assets/curiosities/12-irlanda-curiosity-01.svg",
+    "image_credit": "Ilustração autoral individual Radar EEAR",
+    "image_license": "original"
   },
   {
     "id": "12-irlanda-curiosity-02",
@@ -1421,8 +1477,9 @@
     ],
     "confidence": "high",
     "checked_at": "2026-09-26",
-    "image": "https://commons.wikimedia.org/wiki/File:Dublin_map_2.svg",
-    "image_credit": "conforme a página da fonte"
+    "image": "/assets/curiosities/12-irlanda-curiosity-02.svg",
+    "image_credit": "Ilustração autoral individual Radar EEAR",
+    "image_license": "original"
   },
   {
     "id": "12-irlanda-curiosity-03",
@@ -1446,8 +1503,9 @@
     ],
     "confidence": "high",
     "checked_at": "2026-09-26",
-    "image": "https://commons.wikimedia.org/wiki/File:Dublin_map_2.svg",
-    "image_credit": "conforme a página da fonte"
+    "image": "/assets/curiosities/12-irlanda-curiosity-03.svg",
+    "image_credit": "Ilustração autoral individual Radar EEAR",
+    "image_license": "original"
   },
   {
     "id": "12-irlanda-curiosity-04",
@@ -1471,8 +1529,9 @@
     ],
     "confidence": "high",
     "checked_at": "2026-09-26",
-    "image": "https://commons.wikimedia.org/wiki/File:Dublin_map_2.svg",
-    "image_credit": "conforme a página da fonte"
+    "image": "/assets/curiosities/12-irlanda-curiosity-04.svg",
+    "image_credit": "Ilustração autoral individual Radar EEAR",
+    "image_license": "original"
   },
   {
     "id": "12-irlanda-curiosity-05",
@@ -1496,8 +1555,9 @@
     ],
     "confidence": "high",
     "checked_at": "2026-09-26",
-    "image": "https://commons.wikimedia.org/wiki/File:Dublin_map_2.svg",
-    "image_credit": "conforme a página da fonte"
+    "image": "/assets/curiosities/12-irlanda-curiosity-05.svg",
+    "image_credit": "Ilustração autoral individual Radar EEAR",
+    "image_license": "original"
   },
   {
     "id": "13-alemanha-curiosity-01",
@@ -1521,8 +1581,9 @@
     ],
     "confidence": "high",
     "checked_at": "2026-09-26",
-    "image": "https://commons.wikimedia.org/wiki/File:View_of_Brandenburger_Tor_from_the_Reichstag_roof_terrace,_Berlin,_2017.jpg",
-    "image_credit": "conforme a página da fonte"
+    "image": "/assets/curiosities/13-alemanha-curiosity-01.svg",
+    "image_credit": "Ilustração autoral individual Radar EEAR",
+    "image_license": "original"
   },
   {
     "id": "13-alemanha-curiosity-02",
@@ -1546,8 +1607,9 @@
     ],
     "confidence": "high",
     "checked_at": "2026-09-26",
-    "image": "https://commons.wikimedia.org/wiki/File:View_of_Brandenburger_Tor_from_the_Reichstag_roof_terrace,_Berlin,_2017.jpg",
-    "image_credit": "conforme a página da fonte"
+    "image": "/assets/curiosities/13-alemanha-curiosity-02.svg",
+    "image_credit": "Ilustração autoral individual Radar EEAR",
+    "image_license": "original"
   },
   {
     "id": "13-alemanha-curiosity-03",
@@ -1571,8 +1633,9 @@
     ],
     "confidence": "high",
     "checked_at": "2026-09-26",
-    "image": "https://commons.wikimedia.org/wiki/File:View_of_Brandenburger_Tor_from_the_Reichstag_roof_terrace,_Berlin,_2017.jpg",
-    "image_credit": "conforme a página da fonte"
+    "image": "/assets/curiosities/13-alemanha-curiosity-03.svg",
+    "image_credit": "Ilustração autoral individual Radar EEAR",
+    "image_license": "original"
   },
   {
     "id": "13-alemanha-curiosity-04",
@@ -1596,8 +1659,9 @@
     ],
     "confidence": "high",
     "checked_at": "2026-09-26",
-    "image": "https://commons.wikimedia.org/wiki/File:View_of_Brandenburger_Tor_from_the_Reichstag_roof_terrace,_Berlin,_2017.jpg",
-    "image_credit": "conforme a página da fonte"
+    "image": "/assets/curiosities/13-alemanha-curiosity-04.svg",
+    "image_credit": "Ilustração autoral individual Radar EEAR",
+    "image_license": "original"
   },
   {
     "id": "13-alemanha-curiosity-05",
@@ -1621,8 +1685,9 @@
     ],
     "confidence": "high",
     "checked_at": "2026-09-26",
-    "image": "https://commons.wikimedia.org/wiki/File:View_of_Brandenburger_Tor_from_the_Reichstag_roof_terrace,_Berlin,_2017.jpg",
-    "image_credit": "conforme a página da fonte"
+    "image": "/assets/curiosities/13-alemanha-curiosity-05.svg",
+    "image_credit": "Ilustração autoral individual Radar EEAR",
+    "image_license": "original"
   },
   {
     "id": "14-suica-curiosity-01",
@@ -1646,8 +1711,9 @@
     ],
     "confidence": "high",
     "checked_at": "2026-09-26",
-    "image": "https://commons.wikimedia.org/wiki/File:Geneva_in_Switzerland.svg",
-    "image_credit": "conforme a página da fonte"
+    "image": "/assets/curiosities/14-suica-curiosity-01.svg",
+    "image_credit": "Ilustração autoral individual Radar EEAR",
+    "image_license": "original"
   },
   {
     "id": "14-suica-curiosity-02",
@@ -1671,8 +1737,9 @@
     ],
     "confidence": "high",
     "checked_at": "2026-09-26",
-    "image": "https://commons.wikimedia.org/wiki/File:Geneva_in_Switzerland.svg",
-    "image_credit": "conforme a página da fonte"
+    "image": "/assets/curiosities/14-suica-curiosity-02.svg",
+    "image_credit": "Ilustração autoral individual Radar EEAR",
+    "image_license": "original"
   },
   {
     "id": "14-suica-curiosity-03",
@@ -1696,8 +1763,9 @@
     ],
     "confidence": "high",
     "checked_at": "2026-09-26",
-    "image": "https://commons.wikimedia.org/wiki/File:Geneva_in_Switzerland.svg",
-    "image_credit": "conforme a página da fonte"
+    "image": "/assets/curiosities/14-suica-curiosity-03.svg",
+    "image_credit": "Ilustração autoral individual Radar EEAR",
+    "image_license": "original"
   },
   {
     "id": "14-suica-curiosity-04",
@@ -1721,8 +1789,9 @@
     ],
     "confidence": "high",
     "checked_at": "2026-09-26",
-    "image": "https://commons.wikimedia.org/wiki/File:Geneva_in_Switzerland.svg",
-    "image_credit": "conforme a página da fonte"
+    "image": "/assets/curiosities/14-suica-curiosity-04.svg",
+    "image_credit": "Ilustração autoral individual Radar EEAR",
+    "image_license": "original"
   },
   {
     "id": "14-suica-curiosity-05",
@@ -1746,8 +1815,9 @@
     ],
     "confidence": "high",
     "checked_at": "2026-09-26",
-    "image": "https://commons.wikimedia.org/wiki/File:Geneva_in_Switzerland.svg",
-    "image_credit": "conforme a página da fonte"
+    "image": "/assets/curiosities/14-suica-curiosity-05.svg",
+    "image_credit": "Ilustração autoral individual Radar EEAR",
+    "image_license": "original"
   },
   {
     "id": "15-tchequia-curiosity-01",
@@ -1771,8 +1841,9 @@
     ],
     "confidence": "high",
     "checked_at": "2026-09-26",
-    "image": "https://commons.wikimedia.org/wiki/Category:Prague_Astronomical_Clock",
-    "image_credit": "conforme a página da fonte"
+    "image": "/assets/curiosities/15-tchequia-curiosity-01.svg",
+    "image_credit": "Ilustração autoral individual Radar EEAR",
+    "image_license": "original"
   },
   {
     "id": "15-tchequia-curiosity-02",
@@ -1796,8 +1867,9 @@
     ],
     "confidence": "high",
     "checked_at": "2026-09-26",
-    "image": "https://commons.wikimedia.org/wiki/Category:Prague_Astronomical_Clock",
-    "image_credit": "conforme a página da fonte"
+    "image": "/assets/curiosities/15-tchequia-curiosity-02.svg",
+    "image_credit": "Ilustração autoral individual Radar EEAR",
+    "image_license": "original"
   },
   {
     "id": "15-tchequia-curiosity-03",
@@ -1821,8 +1893,9 @@
     ],
     "confidence": "high",
     "checked_at": "2026-09-26",
-    "image": "https://commons.wikimedia.org/wiki/Category:Prague_Astronomical_Clock",
-    "image_credit": "conforme a página da fonte"
+    "image": "/assets/curiosities/15-tchequia-curiosity-03.svg",
+    "image_credit": "Ilustração autoral individual Radar EEAR",
+    "image_license": "original"
   },
   {
     "id": "15-tchequia-curiosity-04",
@@ -1846,8 +1919,9 @@
     ],
     "confidence": "high",
     "checked_at": "2026-09-26",
-    "image": "https://commons.wikimedia.org/wiki/Category:Prague_Astronomical_Clock",
-    "image_credit": "conforme a página da fonte"
+    "image": "/assets/curiosities/15-tchequia-curiosity-04.svg",
+    "image_credit": "Ilustração autoral individual Radar EEAR",
+    "image_license": "original"
   },
   {
     "id": "15-tchequia-curiosity-05",
@@ -1871,7 +1945,8 @@
     ],
     "confidence": "high",
     "checked_at": "2026-09-26",
-    "image": "https://commons.wikimedia.org/wiki/Category:Prague_Astronomical_Clock",
-    "image_credit": "conforme a página da fonte"
+    "image": "/assets/curiosities/15-tchequia-curiosity-05.svg",
+    "image_credit": "Ilustração autoral individual Radar EEAR",
+    "image_license": "original"
   }
 ]

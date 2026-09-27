@@ -1,0 +1,131 @@
+{
+  "version": "V42",
+  "summary": {
+    "passed": 23,
+    "total": 23,
+    "failed": 0
+  },
+  "failures": [],
+  "checks": [
+    {
+      "name": "real-cover-map-present",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "name": "cover-file:machado-dom-casmurro",
+      "ok": true,
+      "detail": "/assets/library/covers/book-machado-dom-casmurro-cover.jpg"
+    },
+    {
+      "name": "cover-wired:machado-dom-casmurro",
+      "ok": true,
+      "detail": "/assets/library/covers/book-machado-dom-casmurro-cover.jpg"
+    },
+    {
+      "name": "cover-file:machado-memorias",
+      "ok": true,
+      "detail": "/assets/library/covers/book-machado-memorias-cover.jpg"
+    },
+    {
+      "name": "cover-wired:machado-memorias",
+      "ok": true,
+      "detail": "/assets/library/covers/book-machado-memorias-cover.jpg"
+    },
+    {
+      "name": "cover-file:iracema",
+      "ok": true,
+      "detail": "/assets/library/covers/book-iracema-cover.png"
+    },
+    {
+      "name": "cover-wired:iracema",
+      "ok": true,
+      "detail": "/assets/library/covers/book-iracema-cover.png"
+    },
+    {
+      "name": "cover-file:o-guarani",
+      "ok": true,
+      "detail": "/assets/library/covers/book-o-guarani-cover.jpg"
+    },
+    {
+      "name": "cover-wired:o-guarani",
+      "ok": true,
+      "detail": "/assets/library/covers/book-o-guarani-cover.jpg"
+    },
+    {
+      "name": "cover-file:camões-lusiadas",
+      "ok": true,
+      "detail": "/assets/library/covers/book-camões-lusiadas-cover.jpg"
+    },
+    {
+      "name": "cover-wired:camões-lusiadas",
+      "ok": true,
+      "detail": "/assets/library/covers/book-camões-lusiadas-cover.jpg"
+    },
+    {
+      "name": "cover-file:newton-principia",
+      "ok": true,
+      "detail": "/assets/library/covers/book-newton-principia-cover.jpg"
+    },
+    {
+      "name": "cover-wired:newton-principia",
+      "ok": true,
+      "detail": "/assets/library/covers/book-newton-principia-cover.jpg"
+    },
+    {
+      "name": "covers-in-library-pipeline",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "name": "curiosity-count",
+      "ok": true,
+      "detail": "found 75"
+    },
+    {
+      "name": "curiosity-individual-images",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "name": "atlas-photo-count",
+      "ok": true,
+      "detail": "found 15"
+    },
+    {
+      "name": "atlas-paths-in-places",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "name": "google-maps-preserved",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "name": "apocrypha-open-routing",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "name": "v42-manifest",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "name": "cover-manifest-six",
+      "ok": true,
+      "detail": "found 6"
+    },
+    {
+      "name": "curiosity-wall-uses-item-image",
+      "ok": true,
+      "detail": ""
+    }
+  ],
+  "counts": {
+    "curiosities": 75,
+    "bookCovers": 6,
+    "atlasPhotos": 15
+  }
+}

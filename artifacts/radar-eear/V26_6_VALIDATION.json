@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-09-27T00:35:16.336Z",
+  "timestamp": "2026-09-27T04:19:37.534Z",
   "summary": {
     "passed": 23,
     "total": 23,
@@ -53,12 +53,12 @@
       "detail": ""
     },
     {
-      "name": "book-real-cover-paths",
+      "name": "book-cover-assets",
       "ok": true,
       "detail": ""
     },
     {
-      "name": "portrait-real-paths",
+      "name": "portrait-fallbacks",
       "ok": true,
       "detail": ""
     },
@@ -110,7 +110,7 @@
     {
       "name": "assets",
       "ok": true,
-      "detail": "found 304"
+      "detail": "found 403"
     },
     {
       "name": "asset-refs",
