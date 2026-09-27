@@ -1,0 +1,45 @@
+import fs from 'node:fs';
+import path from 'node:path';
+const root=process.cwd();
+const read=(p)=>fs.readFileSync(path.join(root,p),'utf8');
+function jsonConst(p,name){
+  const s=read(p);
+  const marker=`export const ${name} = `;
+  const start=s.indexOf(marker); if(start<0) throw new Error(`Não encontrei ${name}`);
+  const end=s.lastIndexOf('] as const;'); if(end<0) throw new Error(`Fim inválido ${name}`);
+  return JSON.parse(s.slice(start+marker.length,end+1));
+}
+const content=jsonConst('src/data/v45-content.ts','v45Content');
+const questions=jsonConst('src/data/v45-questions.ts','v45Questions');
+const library=jsonConst('src/data/v45-library.ts','v45Library');
+const counts=(dir)=>fs.readdirSync(path.join(root,dir),{withFileTypes:true}).filter(x=>x.isFile()).length;
+const checks=[]; const ok=(name,v,detail='')=>checks.push({name,ok:Boolean(v),detail});
+const perContent=new Map(); for(const q of questions){const id=String(q.contentId||'');perContent.set(id,(perContent.get(id)||0)+1)}
+ok('28 conteúdos',content.length===28,`${content.length}`);
+ok('420 questões V45',questions.length===420,`${questions.length}`);
+ok('15 por conteúdo',content.every(c=>perContent.get(c.id)===15),JSON.stringify(Object.fromEntries(perContent)));
+ok('conteúdos com guia',content.every(c=>fs.existsSync(path.join(root,'src/data/v45-guides',c.guideFile))), '');
+ok('85 livros',library.length>=85,`${library.length}`);
+ok('4 imagens de matérias',counts('public/assets/v45/subjects')===4,`${counts('public/assets/v45/subjects')}`);
+ok('28 imagens de conteúdos',counts('public/assets/v45/content')===28,`${counts('public/assets/v45/content')}`);
+ok('75 curiosidades',counts('public/assets/v45/curiosities')===75,`${counts('public/assets/v45/curiosities')}`);
+ok('31 Atlas',counts('public/assets/v45/atlas')>=31,`${counts('public/assets/v45/atlas')}`);
+ok('31 pensadores',counts('public/assets/v45/thinkers')===31,`${counts('public/assets/v45/thinkers')}`);
+ok('6 capas',counts('public/assets/v45/books')===6,`${counts('public/assets/v45/books')}`);
+ok('7 diagramas',counts('public/assets/v45/diagrams')===7,`${counts('public/assets/v45/diagrams')}`);
+const app=read('src/app/App.tsx');
+ok('timer HH:MM:SS',/h>0\?`\$\{String\(h\)/.test(app));
+ok('timer timestamp',/timerSeconds\(timer/.test(app)&&/Date\.parse\(timer\.startedAt\)/.test(app));
+ok('durable IndexedDB',/loadDurableState/.test(app)&&/saveDurableState/.test(app));
+ok('backup import/export',/exportRadarBackup/.test(app)&&/importRadarBackup/.test(app));
+ok('back/forward',/history\.back\(\)/.test(app)&&/history\.forward\(\)/.test(app));
+ok('PWA install prompt',/beforeinstallprompt/.test(app));
+ok('notifications',/enableStudyNotifications/.test(app));
+ok('history route',app.includes('<Route path="/historia"><HistoryPage/>'));
+ok('voice input',/SpeechRecognition/.test(fs.readFileSync(path.join(root,'src/components/RadarAssistant.tsx'),'utf8')));
+ok('no TTS in assistant',!/speechSynthesis/.test(fs.readFileSync(path.join(root,'src/components/RadarAssistant.tsx'),'utf8')));
+ok('question content linkage',/contentId:\(q as any\)\.contentId/.test(app));
+const result={timestamp:new Date().toISOString(),summary:{passed:checks.filter(x=>x.ok).length,total:checks.length},checks};
+fs.writeFileSync(path.join(root,'V46_VALIDATION.json'),JSON.stringify(result,null,2)+'\n');
+console.log(JSON.stringify(result.summary));
+if(checks.some(x=>!x.ok)) process.exit(1);

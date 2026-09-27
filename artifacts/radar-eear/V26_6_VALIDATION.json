@@ -1,11 +1,14 @@
 {
-  "timestamp": "2026-09-27T04:52:01.492Z",
+  "timestamp": "2026-09-27T21:30:18.655Z",
   "summary": {
-    "passed": 23,
+    "passed": 21,
     "total": 23,
-    "failed": 0
+    "failed": 2
   },
-  "failures": [],
+  "failures": [
+    "apocrypha-link-state",
+    "asset-refs: /assets/v45/"
+  ],
   "checks": [
     {
       "name": "package",
@@ -44,7 +47,7 @@
     },
     {
       "name": "apocrypha-link-state",
-      "ok": true,
+      "ok": false,
       "detail": ""
     },
     {
@@ -110,12 +113,12 @@
     {
       "name": "assets",
       "ok": true,
-      "detail": "found 403"
+      "detail": "found 558"
     },
     {
       "name": "asset-refs",
-      "ok": true,
-      "detail": ""
+      "ok": false,
+      "detail": "/assets/v45/"
     },
     {
       "name": "runtime-smoke",

@@ -13,7 +13,7 @@ import researchV26 from '../data/research-packs-v26.json';
 import curiositiesV26 from '../data/curiosities-v26.json';
 import { v43Questions } from '../data/question-bank-v43';
 
-export type RouteAction = { type:'navigate'; path:string; label?:string } | { type:'search'; query:string; label?:string };
+type RouteAction = { type:'navigate'; path:string; label?:string } | { type:'search'; query:string; label?:string };
 
 export type AssistantContext = {
   path: string;

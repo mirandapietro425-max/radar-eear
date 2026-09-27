@@ -1,7 +1,7 @@
 import { useEffect, useMemo, useState } from 'react';
 import { ArrowRight, Bot, MapPin, Mic2, Navigation, Search, Send, Sparkles, X } from 'lucide-react';
 import { useLocation } from 'wouter';
-import { askAssistant, getAssistantContext, getAssistantStatus, type AssistantContext, type RouteAction } from '../lib/radar-assistant';
+import { askAssistant, getAssistantContext, getAssistantStatus, type AssistantContext } from '../lib/radar-assistant';
 
 function createRecognition(setListening:(value:boolean)=>void,setTranscript:(value:string)=>void,onFinal:(value:string)=>void){
   const SR=(window as any).SpeechRecognition||(window as any).webkitSpeechRecognition;
@@ -24,11 +24,11 @@ export function RadarAssistant({openSignal=false}:{openSignal?:boolean}){
   const [loc,setLoc]=useLocation();
   const context=useMemo(()=>getAssistantContext(loc),[loc]);
   const [open,setOpen]=useState(openSignal); const [input,setInput]=useState(''); const [busy,setBusy]=useState(false); const [listening,setListening]=useState(false); const [aiOnline,setAiOnline]=useState(false);
-  const [messages,setMessages]=useState<Array<{role:'user'|'assistant';content:string;action?:Extract<RouteAction,{type:'navigate'}>}>>([{role:'assistant',content:'Oi! Diga o que você quer fazer no RADAR.'}]);
+  const [messages,setMessages]=useState<Array<{role:'user'|'assistant';content:string;action?:{path:string;label?:string}}>>([{role:'assistant',content:'Oi! Diga o que você quer fazer no RADAR.'}]);
   useEffect(()=>{if(openSignal)setOpen(true)},[openSignal]);
   useEffect(()=>{getAssistantStatus().then(s=>setAiOnline(Boolean(s?.configured)));},[]);
   const suggestions=useMemo(()=>{const base=['Onde estudo Física?','Encontrar um livro','Quero questões difíceis'];if(context.entity?.placeId)base.unshift('Leva isso para o Atlas');else if(context.label==='Descoberta do dia')base.unshift('Leva essa descoberta para o Atlas');else if(context.label==='Biblioteca')base.unshift('Continuar leitura');else if(context.label==='Praticar')base.unshift('Explica esta questão');return [...new Set(base)].slice(0,4)},[context]);
-  async function send(text=input){const message=text.trim();if(!message||busy)return;setInput('');setMessages(v=>[...v,{role:'user',content:message}]);setBusy(true);const result=await askAssistant(message,context,messages.slice(-8).map(m=>({role:m.role,content:m.content})));if(result.source==='ai')setAiOnline(true);const action=result.action?.type==='navigate'?{type:'navigate' as const,path:result.action.path,label:result.action.label}:undefined;setMessages(v=>[...v,{role:'assistant',content:result.reply,action}]);if(action)setTimeout(()=>setLoc(action.path||'/'),80);setBusy(false);}
+  async function send(text=input){const message=text.trim();if(!message||busy)return;setInput('');setMessages(v=>[...v,{role:'user',content:message}]);setBusy(true);const result=await askAssistant(message,context,messages.slice(-8).map(m=>({role:m.role,content:m.content})));if(result.source==='ai')setAiOnline(true);const navAction=result.action?.type==='navigate'?{path:result.action.path,label:result.action.label}:undefined;setMessages(v=>[...v,{role:'assistant',content:result.reply,action:navAction}]);if(navAction)setTimeout(()=>setLoc(navAction.path),80);setBusy(false);}
   function listen(){
     if(listening)return;
     const recognition=createRecognition(setListening,setInput,(text)=>send(text));
@@ -54,6 +54,6 @@ export function AssistantPage(){
   const [loc,setLoc]=useLocation(); const context:AssistantContext=useMemo(()=>getAssistantContext(loc),[loc]);
   const [prompt,setPrompt]=useState(''); const [answer,setAnswer]=useState(''); const [busy,setBusy]=useState(false); const [listening,setListening]=useState(false);
   function listen(){const recognition=createRecognition(setListening,setPrompt,(text)=>setPrompt(text));if(!recognition){setAnswer('Seu navegador não oferece reconhecimento de voz. Você ainda pode digitar a pergunta.');return;}try{recognition.start()}catch{setListening(false)}}
-  async function go(){if(!prompt.trim()||busy)return;setBusy(true);const r=await askAssistant(prompt,context,[]);setAnswer(r.reply);const action=r.action?.type==='navigate'?r.action:undefined;if(action)setTimeout(()=>setLoc(action.path||'/'),80);setBusy(false)}
+  async function go(){if(!prompt.trim()||busy)return;setBusy(true);const r=await askAssistant(prompt,context,[]);setAnswer(r.reply);const navAction=r.action?.type==='navigate'?r.action:undefined;if(navAction)setTimeout(()=>setLoc(navAction.path),80);setBusy(false)}
   return <div className="stack-lg"><section className="radar-assistant-page-hero surface"><div><div className="eyebrow accent-text">Navegação inteligente</div><h1>Fale com o <span>RADAR.</span></h1><p>Digite ou use o microfone. O Assistente entende o pedido e pode abrir matérias, livros, questões, pessoas, lugares e curiosidades.</p></div><span className="radar-assistant-page-orb"><Mic2 size={28}/></span></section><section className="surface radar-assistant-page"><div className="radar-assistant-context"><Navigation size={13}/><span>Você está em</span><b>{context.label}{context.entity?.title?` · ${context.entity.title}`:''}</b></div><div className="radar-assistant-page-input"><textarea className="field large-textarea" value={prompt} onChange={e=>setPrompt(e.target.value)} placeholder="Diga algo como: ‘me leva para Física’"/><button type="button" className={`secondary-btn ${listening?'active':''}`} onClick={listen}><Mic2 size={15}/>{listening?'Ouvindo…':'Falar'}</button></div><div className="button-row"><button className="primary-btn" disabled={busy||!prompt.trim()} onClick={go}>{busy?'Entendendo...':'Executar pedido'} <Sparkles size={15}/></button></div>{answer&&<div className="radar-assistant-page-answer"><div className="radar-msg-icon"><Bot size={16}/></div><div><b>Resposta do RADAR</b><p>{answer}</p></div></div>}</section></div>;
 }

@@ -17,8 +17,8 @@ const helper = fs.readFileSync('src/lib/radar-assistant.ts','utf8');
 for (const token of ["<RadarAssistant/>", 'path="/tutor"', "import { RadarAssistant, AssistantPage }", 'getAssistantStatus', 'getAssistantHints']) {
   if (!(app+assistant+helper).includes(token)) throw new Error(`Integração ausente: ${token}`);
 }
-if ((app+assistant+helper).includes('speechSynthesis')) throw new Error('Áudio de saída não pode existir');
+if ((app+assistant+helper).includes('speechSynthesis')) throw new Error('Saída de voz proibida: speechSynthesis ainda está presente');
 console.log('RADAR Assistente smoke: PASS');
 console.log('API proxy: presente');
 console.log('Navegação contextual: presente');
-console.log('Voz do dispositivo: presente');
+console.log('Entrada de voz do dispositivo: presente; saída TTS: ausente');
