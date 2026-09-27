@@ -16,6 +16,22 @@ export async function fetchBibleChapter(bookNumber:number, chapter:number):Promi
   return {book:String(data?.book||bookNumber),chapter,verses};
 }
 
+
+export async function fetchLocalText(url:string){
+  const cache=await caches.open('radar-eear-books-v23').catch(()=>null);
+  let r:Response;
+  try{
+    r=await fetch(url,{cache:'force-cache'});
+    if(cache&&r.ok)await cache.put(url,r.clone());
+  }catch{
+    const cached=cache?await cache.match(url):undefined;
+    if(!cached)throw new Error('BOOK_LOCAL_OFFLINE');
+    r=cached;
+  }
+  if(!r.ok)throw new Error(`BOOK_LOCAL_${r.status}`);
+  return r.text();
+}
+
 export async function fetchGutenbergText(url:string){
   const cache=await caches.open('radar-eear-books-v23').catch(()=>null);
   let r:Response;
