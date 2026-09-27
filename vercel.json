@@ -2,6 +2,14 @@
   "buildCommand": "pnpm install --frozen-lockfile && PORT=3000 BASE_PATH=/ NODE_ENV=production pnpm --filter radar-eear run build",
   "outputDirectory": "artifacts/radar-eear/dist",
   "framework": "vite",
+  "headers": [
+    {
+      "source": "/sw.js",
+      "headers": [
+        { "key": "Cache-Control", "value": "no-cache, no-store, must-revalidate" }
+      ]
+    }
+  ],
   "routes": [
     { "handle": "filesystem" },
     { "src": "/assets/(.*)", "dest": "/assets/$1" },
