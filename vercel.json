@@ -1,5 +1,5 @@
 {
-  "buildCommand": "pnpm install --frozen-lockfile && PORT=3000 BASE_PATH=/ NODE_ENV=production pnpm --filter @workspace/radar-eear run build",
+  "buildCommand": "pnpm install --frozen-lockfile && PORT=3000 BASE_PATH=/ NODE_ENV=production pnpm --filter radar-eear run build",
   "outputDirectory": "artifacts/radar-eear/dist",
   "framework": "vite",
   "rewrites": [{ "source": "/(.*)", "destination": "/index.html" }]
