@@ -1,5 +1,5 @@
 {
-  "version": "V42",
+  "version": "V43",
   "summary": {
     "passed": 23,
     "total": 23,
@@ -118,7 +118,7 @@
       "detail": "found 6"
     },
     {
-      "name": "curiosity-wall-uses-item-image",
+      "name": "curiosity-wall-uses-local-image",
       "ok": true,
       "detail": ""
     }

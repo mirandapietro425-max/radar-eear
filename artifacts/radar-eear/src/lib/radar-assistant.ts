@@ -10,8 +10,10 @@ import { expandedBooks, expandedThinkers, coverageModules } from '../data/editor
 import { mathMicroconcepts, physicsMicroconcepts } from '../data/microconcepts';
 import { editorialSubjects } from '../data/exam-data';
 import researchV26 from '../data/research-packs-v26.json';
+import curiositiesV26 from '../data/curiosities-v26.json';
+import { v43Questions } from '../data/question-bank-v43';
 
-type RouteAction = { type:'navigate'; path:string; label?:string } | { type:'search'; query:string; label?:string };
+export type RouteAction = { type:'navigate'; path:string; label?:string } | { type:'search'; query:string; label?:string };
 
 export type AssistantContext = {
   path: string;
@@ -23,7 +25,7 @@ export type AssistantHint = { kind:string; title:string; path:string; id?:string
 export type AssistantResult = { reply:string; action?:RouteAction; source:'local'|'ai'|'error' };
 
 const normalize=(value:string)=>String(value||'').normalize('NFD').replace(/[\u0300-\u036f]/g,'').toLowerCase().trim();
-const allQuestions=[...questions,...generatedQuestions,...extendedQuestions,...deepQuestions];
+const allQuestions=[...questions,...generatedQuestions,...extendedQuestions,...deepQuestions,...v43Questions];
 const allBooks=[
   ...books.map((b:any)=>({id:b.id,title:b.title,author:b.author,path:`/biblioteca/${b.id}`})),
   ...broaderBooks.map((b:any)=>({id:b[0],title:b[1],author:b[2],path:`/biblioteca/${b[0]}`})),
@@ -33,7 +35,7 @@ const allPeople=[
   ...thinkers.map((t:any)=>({id:t.id,title:t.name,path:`/pensadores/${t.id}`})),
   ...expandedThinkers.map((t:any)=>({id:t.id,title:t.name,path:`/pensadores/${t.id}`})),
 ];
-const allCuriosities=(researchV26 as any)?.curiosities||[];
+const allCuriosities=Array.isArray(curiositiesV26)?curiositiesV26:((researchV26 as any)?.curiosities||[]);
 const allModules=[...mathMicroconcepts,...physicsMicroconcepts].map((m:any)=>({id:m.id,title:m.title,topic:m.topic,subject:m.subject==='math'?'Matemática':'Física',path:`/estudar/${m.subject==='math'?'matematica':'fisica'}?topic=${encodeURIComponent(m.title)}`}));
 
 export function getAssistantContext(path:string):AssistantContext{
@@ -158,15 +160,4 @@ export async function askAssistant(message:string, context:AssistantContext, his
 
 export async function getAssistantStatus(){
   try{const r=await fetch('/api/assistant',{method:'GET'});if(!r.ok)return {configured:false};return await r.json();}catch{return {configured:false};}
-}
-
-export function speakText(text:string,lang='pt-BR'){
-  if(typeof window==='undefined'||!('speechSynthesis' in window))return false;
-  window.speechSynthesis.cancel();
-  const utterance=new SpeechSynthesisUtterance(String(text).replace(/[*_`#]/g,''));
-  utterance.lang=lang; utterance.rate=.96; utterance.pitch=1;
-  const voices=window.speechSynthesis.getVoices();
-  const voice=voices.find(v=>v.lang.toLowerCase()===lang.toLowerCase())||voices.find(v=>v.lang.toLowerCase().startsWith(lang.slice(0,2).toLowerCase()));
-  if(voice)utterance.voice=voice;
-  window.speechSynthesis.speak(utterance); return true;
 }

@@ -16,7 +16,7 @@ ok('viewport-safe',!/maximum-scale\s*=/.test(index));
 ok('auth-not-fake',!/Marina Santos|Marina Silva/.test(app));
 ok('real-persistence',/bookPosition/.test(app)&&/bibleProgress/.test(app)&&/question_answered/.test(app));
 ok('real-daily-links',/href=\{`\/dia\?item=\$\{d.id\}`\}/.test(app));
-ok('apocrypha-link-state',/function ApocryphaPage\(\)\{const \[loc,setLoc\]=useLocation/.test(app)&&/setLoc\(`\/apocrifos\?work=\$\{id\}`\)/.test(app));
+ok('apocrypha-link-state',/href=\{`\/apocrifos\?work=\$\{id\}`\}/.test(app)&&!/href=\{`\/apocrifos\?work=\$\{id\}`\} onClick/.test(app));
 ok('topic-specific-experiences',/resolveMicroProfile/.test(app)&&/Números complexos/.test(app)&&/Trabalho e energia/.test(app)&&/Óptica/.test(app));
 ok('book-cover-assets',/SmartBookCover/.test(app)&&/object-fit:contain/.test(css));
 ok('portrait-fallbacks',/function SmartPortrait/.test(app)&&/wikipedia\.org/.test(app));

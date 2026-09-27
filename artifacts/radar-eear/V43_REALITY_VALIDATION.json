@@ -1,0 +1,28 @@
+{
+  "version": "V43",
+  "timestamp": "2026-09-27T04:44:25.019Z",
+  "checks": {
+    "questionsTotal": 500,
+    "uniqueQuestionIds": 500,
+    "newQuestions": 70,
+    "newQuestionIds": 70,
+    "questionBySubject": {
+      "Matemática": 131,
+      "Física": 134,
+      "Português": 111,
+      "Inglês": 114,
+      "Bíblia": 10
+    },
+    "curiosities": 75,
+    "curiositiesWithLocalImages": 75,
+    "atlasPhotos": 15,
+    "atlasPhotosExpected": 15,
+    "noSpeechOutput": true,
+    "voiceInput": true,
+    "apocryphaDirectLink": true,
+    "localCuriositiesWired": true,
+    "atlasDocumentaryMap": true,
+    "bookRepositoryLinks": true,
+    "subjectAssetsDistinct": true
+  }
+}
