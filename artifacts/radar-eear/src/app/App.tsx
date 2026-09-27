@@ -395,7 +395,7 @@ function GoogleMapsEmbed({selected,mode,onModeChange}:{selected:any;mode:'world'
         <a className="secondary-btn small" href={`https://www.google.com/maps/search/?api=1&query=${encodeURIComponent(`${selected.name}, ${selected.region}`)}`} target="_blank" rel="noreferrer">Abrir no Google Maps <ExternalLink size={13}/></a>
       </div>
     </div>
-    <div className="atlas-google-frame"><iframe title={mode==='world'?'Mapa-múndi do Radar':`Google Maps — ${selected.name}`} src={src} loading="lazy" referrerPolicy="no-referrer-when-downgrade" allowFullScreen/></div>
+    <div className="atlas-google-frame"><iframe title={mode==='world'?'Mapa-múndi do Radar':`Google Maps — ${selected.name}`} src={src} loading="lazy" referrerPolicy="no-referrer-when-downgrade" allowFullScreen/><div className="atlas-embed-fallback"><Globe2 size={22} color="#d8b56b"/><b>{mode==='world'?'Mapa-múndi editorial':'Lugar selecionado no Atlas'}</b><span>{mode==='world'?'Explore os pontos cadastrados no Radar e escolha uma parada para contextualizar.':`${selected.name} · ${selected.region}`}</span><a className="secondary-btn small" href={`https://www.google.com/maps/search/?api=1&query=${encodeURIComponent(mode==='world'?'0,0':`${selected.name}, ${selected.region}`)}`} target="_blank" rel="noreferrer">Abrir navegação no Google Maps <ExternalLink size={12}/></a></div></div>
   </section>
 }
 function AtlasPage({state,update}:{state:AppState;update:(f:(s:AppState)=>AppState)=>void}){
