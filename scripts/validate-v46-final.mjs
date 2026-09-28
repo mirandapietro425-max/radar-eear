@@ -17,7 +17,7 @@ ok('history-routes',app.includes('/historia') && app.includes('/historia/:slug')
 ok('timer-hhmmss',app.includes("function fmt(sec:number)") && /return `\$\{String\(h\)/.test(app));
 ok('timer-persisted',app.includes('writeLocalSnapshot') && app.includes('readLocalSnapshot') && app.includes('lastHeartbeatAt'));
 ok('timer-media-session',app.includes('mediaSession') && app.includes('timer-silence.wav'));
-ok('timer-screen-may-lock',!app.includes("wakeLock.request('screen')"));
+ok('timer-screen-wake-lock',app.includes("wakeLock.request('screen')"));
 ok('browser-history-buttons',app.includes('window.history.back()') && app.includes('window.history.forward()'));
 ok('mobile-history-visible',css.includes('.top-actions .history-btn{display:grid!important}'));
 ok('notifications-real-permission',app.includes('Notification.requestPermission()') && app.includes('new Notification('));
@@ -29,7 +29,7 @@ ok('assistant-content-guides',assistantLib.includes("../data/content-guides-v45"
 ok('search-v45-books',app.includes('libraryV45.map') && app.includes('contentGuidesV45.map'));
 ok('no-speech-output',!app.includes('speechSynthesis') && !assistant.includes('speechSynthesis'));
 ok('pwa-manifest',exists('public/manifest.webmanifest') && /standalone/.test(read('public/manifest.webmanifest')));
-ok('sw-versioned',sw.includes('radar-eear-v46-shell'));
+ok('sw-versioned',sw.includes('radar-eear-v46-2-shell')); ok('sw-push-notifications',sw.includes("self.addEventListener('push'") && sw.includes('showNotification') && sw.includes('notificationclick'));
 ok('viewport-safe',/<meta[^>]+name=["']viewport["'][^>]*viewport-fit=cover/.test(index) && !/maximum-scale\s*=/.test(index));
 
 const counts={content:0,questions:0,subjects:0,diagrams:0,curiosities:0,atlas:0,thinkers:0,bookCovers:0};

@@ -1,9 +1,9 @@
 {
-  "timestamp": "2026-09-28T14:03:16.470Z",
+  "timestamp": "2026-09-28T15:38:45.340Z",
   "status": "pass",
   "summary": {
-    "passed": 33,
-    "total": 33,
+    "passed": 34,
+    "total": 34,
     "failed": 0
   },
   "counts": {
@@ -53,7 +53,7 @@
       "detail": ""
     },
     {
-      "name": "timer-screen-may-lock",
+      "name": "timer-screen-wake-lock",
       "ok": true,
       "detail": ""
     },
@@ -114,6 +114,11 @@
     },
     {
       "name": "sw-versioned",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "name": "sw-push-notifications",
       "ok": true,
       "detail": ""
     },

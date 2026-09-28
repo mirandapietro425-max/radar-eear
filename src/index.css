@@ -598,3 +598,78 @@ html,body,#root,.app-shell{width:100%;min-width:0;max-width:100%;overflow-x:hidd
 .study-today-strip{display:flex;align-items:center;justify-content:space-between;gap:14px;padding:14px 16px;border-color:rgba(216,181,107,.14);background:linear-gradient(135deg,rgba(216,181,107,.06),rgba(255,255,255,.012))}
 .study-today-strip>div:first-child{display:grid;gap:2px}.study-today-strip strong{font:600 28px/1 var(--serif);color:#f2e6c6}.study-today-strip span{font:9px var(--mono);color:#71807a;text-transform:uppercase;letter-spacing:.06em}
 @media(max-width:620px){.study-today-strip{align-items:flex-start;flex-direction:column}.study-today-strip .secondary-btn{width:100%}}
+
+
+/* V46.2 — correções finais de leitura, capas e contraste */
+.library-hero-art{position:relative;min-width:0;min-height:320px;background:#0a1015!important;display:grid;place-items:center;overflow:hidden}
+.library-hero-art:before,.library-hero-art:after{display:none!important;content:none!important}
+.library-hero-art .entity-media,.library-hero-art .entity-media-frame{width:100%;height:100%!important;background:#0a1015!important}
+.library-hero-art img{width:100%!important;height:100%!important;object-fit:contain!important;object-position:center!important;padding:18px!important;filter:none!important}
+.library-hero-stamp{left:18px!important;right:18px!important;bottom:18px!important;border-radius:10px!important;background:rgba(5,10,14,.88)!important;border:1px solid rgba(255,255,255,.1)!important;backdrop-filter:blur(10px);box-shadow:0 12px 28px rgba(0,0,0,.28)!important}
+.cinematic-book-card{min-width:0;overflow:hidden}
+.cinematic-book-card .book-cover{height:auto!important;min-height:0!important;aspect-ratio:2 / 3!important;background:#0a1015!important;border-radius:12px!important;display:grid;place-items:stretch;overflow:hidden}
+.cinematic-book-card .book-cover:before,.cinematic-book-card .book-cover:after{display:none!important;content:none!important}
+.cinematic-book-card .book-cover>span{left:auto!important;right:8px!important;bottom:auto!important;top:8px!important;border-radius:7px!important;padding:4px 6px!important;background:rgba(5,10,14,.82)!important;border:1px solid rgba(255,255,255,.1)!important;font-size:8px!important;z-index:3}
+.cinematic-book-card .book-cover .entity-media,.cinematic-book-card .book-cover .entity-media-frame{width:100%!important;height:100%!important;min-height:0!important;background:#0a1015!important;display:block!important}
+.cinematic-book-card .book-cover img,.book-cover .entity-media-frame img,.book-detail-cover img{width:100%!important;height:100%!important;object-fit:contain!important;object-position:center!important;padding:12px!important;background:#0a1015!important;filter:none!important}
+.book-detail-cover{min-height:0!important;aspect-ratio:2 / 3!important;background:#0a1015!important;border-radius:14px!important;overflow:hidden!important;display:grid!important;place-items:stretch!important}
+.book-detail-cover .entity-media,.book-detail-cover .entity-media-frame{width:100%!important;height:100%!important;background:#0a1015!important}
+.book-detail-cover .entity-media-frame img{padding:12px!important}
+.work-card-with-cover{height:100%!important;min-width:0!important;align-items:start!important;overflow:hidden!important}
+.work-card-with-cover>div:last-child{min-width:0!important;overflow-wrap:anywhere!important;word-break:normal!important}
+.work-card-with-cover .entity-media,.work-card-with-cover .entity-media-frame{min-width:0!important}
+.works-result-grid{grid-template-columns:repeat(auto-fit,minmax(230px,1fr))!important;align-items:stretch!important}
+.reading-surface{min-height:0!important;overflow:visible!important;background:#0b1116!important;border:1px solid var(--line)!important}
+.reading-surface .book-spread{margin:14px!important;min-height:0!important;max-width:920px!important;border-radius:16px!important;padding:clamp(32px,5vw,68px)!important;background:#f0e7d7!important;color:#25231f!important;box-shadow:0 18px 45px rgba(0,0,0,.22)!important;overflow:visible!important}
+.reading-surface .book-spread:before{top:16px!important;left:24px!important;color:#7a6d59!important}
+.reading-surface .book-text{max-width:720px!important;margin:0 auto!important;font-family:'Source Serif 4',Georgia,serif!important;font-size:clamp(17px,1.2vw,20px)!important;line-height:1.9!important;color:#25231f!important}
+.reading-surface .book-text p,.reading-surface .book-text *{background:transparent!important;color:inherit!important}
+.reading-surface .reader-nav{margin:0!important;padding:14px 18px 16px!important;background:#0b1116!important;color:#dfe6e2!important;border-top:1px solid var(--line)!important}
+.reading-surface .reader-nav .secondary-btn{background:#101b23!important;color:#d8e0dc!important;border-color:#2b3c49!important}
+.reading-surface .reader-nav .primary-btn{color:#13181a!important}
+.atlas-layout{align-items:start!important}
+.atlas-layout>div,.atlas-detail-premium{min-width:0!important;height:max-content!important;align-self:start!important}
+.atlas-detail-premium{overflow:visible!important;min-height:0!important}
+.atlas-route-list,.atlas-route-tile{min-width:0}
+.atlas-route-tile p,.atlas-route-tile h3{overflow-wrap:anywhere}
+#atlas-active-experience{scroll-margin-top:92px}
+.cycle-row,.mode-card,.simulation-preview,.result-grid>div,.lesson-panel,.confidence,.confidence button,.field,select.field,textarea.field{background-color:#0b151e!important;color:#eef3f0!important}
+.cycle-row,.mode-card,.simulation-preview,.result-grid>div,.lesson-panel{border-color:#213543!important}
+.cycle-row *, .mode-card *, .simulation-preview *, .result-grid>div *, .lesson-panel *{min-width:0}
+.cycle-row select,.mode-card select,.simulation-preview select,.field{color-scheme:dark}
+.trail-card,.trail-step,.saved-card,.domain-card,.compare-card,.command-card{background:#0b151e!important;border-color:#213543!important;color:#eef3f0!important}
+.trail-step .entity-media-frame{background:#0a1015!important}
+.trail-step .entity-media-frame img{object-fit:contain!important;padding:3px!important}
+.subject-hero,.content-guide-hero{background:#0b1116!important}
+.place-card{background:#0b151e!important;border-color:#213543!important}
+.place-card img{background:#0a1015!important}
+.detail-image{background:#0a1015!important}
+@media(max-width:900px){
+  .library-hero-art{min-height:250px!important}
+  .cinematic-book-card .book-cover{aspect-ratio:2 / 3!important}
+  .reading-surface .book-spread{margin:10px!important;padding:58px 22px 28px!important}
+  .atlas-detail-premium{margin-top:0!important}
+  .atlas-layout{gap:14px!important}
+}
+@media(max-width:620px){
+  .cinematic-book-grid{grid-template-columns:repeat(2,minmax(0,1fr))!important}
+  .cinematic-book-card .book-cover{aspect-ratio:2 / 3!important}
+  .book-detail-cover{width:100%!important;max-width:100%!important;aspect-ratio:2 / 3!important}
+  .reading-surface .book-spread{padding:58px 20px 24px!important}
+  .reading-surface .book-text{font-size:16px!important;line-height:1.84!important}
+  .works-result-grid{grid-template-columns:1fr!important}
+  .works-result-grid .work-card-with-cover{grid-template-columns:64px minmax(0,1fr)!important}
+  .trail-step{grid-template-columns:24px 48px minmax(0,1fr) auto!important}
+}
+
+
+/* V46.2 — edital organizado */
+.edital-current,.edital-archive{min-width:0;overflow:hidden}
+.edital-current-head{margin-bottom:14px;align-items:end}
+.edital-current-head h2{margin:5px 0 2px}
+.edital-current .edition-list{grid-template-columns:repeat(auto-fit,minmax(290px,1fr));align-items:stretch}
+.edital-current .edition-card{grid-template-columns:150px minmax(0,1fr);height:100%;align-items:start}
+.edital-current .edition-cover img{height:165px;object-fit:contain;background:#0a1015}
+.edital-current .edition-card h2,.edital-current .edition-card p{overflow-wrap:anywhere}
+.edital-archive .archive-row{min-width:0}
+@media(max-width:620px){.edital-current-head{align-items:start;gap:9px}.edital-current .edition-list{grid-template-columns:1fr}.edital-current .edition-card{grid-template-columns:96px minmax(0,1fr);gap:12px}.edital-current .edition-cover img{height:120px}}
