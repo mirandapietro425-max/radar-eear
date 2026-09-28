@@ -1,0 +1,525 @@
+{
+ "subject": "Inglês para EEAR: reading, vocabulary, verb tenses, pronouns and determiners, modals and passive voice, connectors and prepositions, reported speech",
+ "openSources": [
+  {
+   "title": "Writing Guide with Handbook",
+   "url": "https://openstax.org/books/writing-guide/pages/handbook",
+   "organization": "OpenStax (Rice University/OpenStax)",
+   "license": "Creative Commons Attribution-NonCommercial-ShareAlike 4.0 (CC BY-NC-SA 4.0), confirmed at https://help.openstax.org/s/article/Licensing-information-of-OpenStax-textbooks",
+   "reuseAllowed": "Share, adapt, remix and translate non-commercially with attribution, title/link and indication of changes; adaptations must use the same license. Commercial use requires OpenStax permission. Exclude third-party elements not covered.",
+   "topics": [
+    "connectors/transitions",
+    "verb tenses and irregular verbs",
+    "modals/moods",
+    "active and passive voice",
+    "pronoun reference",
+    "reading/editing context"
+   ],
+   "exerciseAvailability": "Handbook has Editing Focus/activities and the book has learning resources; no EEAR-specific drill or complete coverage of reported speech verified."
+  },
+  {
+   "title": "Brehe’s Grammar Anatomy",
+   "url": "https://ung.edu/university-press/_uploads/files/brehes-grammar-anatomy-v2.pdf",
+   "organization": "Steven Brehe; University of North Georgia Press",
+   "license": "CC BY-SA (catalog Conditions of Use at https://open.umn.edu/opentextbooks/textbooks/717; numeric version not displayed)",
+   "reuseAllowed": "Share and adapt with attribution and ShareAlike; verify the PDF notice before publication because the catalog does not show a numeric version.",
+   "topics": [
+    "verb tenses/irregular verbs",
+    "prepositions",
+    "personal pronouns",
+    "conjunctions and subordinate clauses",
+    "voice and passive complements"
+   ],
+   "exerciseAvailability": "Exercises at chapter ends with answer key: printed pp. 27–29 (tenses), 63–64 (prepositions), 75–80 (pronouns), 109–111 (conjunctions), 165–168 (voice/passive)."
+  },
+  {
+   "title": "College ESL Writers: Applied Grammar and Composing Strategies for Success",
+   "url": "https://open.umn.edu/opentextbooks/textbooks/college-esl-writers-applied-grammar-and-composing-strategies-for-success",
+   "organization": "Barbara Hall and Elizabeth Wallace; University System of Georgia",
+   "license": "CC BY-NC-SA (numeric version not displayed in catalog)",
+   "reuseAllowed": "Non-commercial sharing/adaptation with attribution and ShareAlike; confirm the PDF notice and third-party elements before redistribution.",
+   "topics": [
+    "articles/determiners",
+    "pronouns",
+    "verb and adjective + preposition",
+    "gerund/infinitive",
+    "grammar and composing",
+    "reading models"
+   ],
+   "exerciseAvailability": "Review, writing assignments and self-editing exercises are verified in the catalog/reviews; full exercise pagination was not exposed."
+  },
+  {
+   "title": "Explorations 1: Grammar for the Experienced Beginner",
+   "url": "https://open.umn.edu/opentextbooks/textbooks/explorations-1-grammar-for-the-experienced-beginner",
+   "organization": "Susan Caisse, Kristee Emens-Hesslink and Jennifer Rueda; Clackamas Community College via Open Oregon",
+   "license": "CC BY-NC-SA (catalog Conditions of Use)",
+   "reuseAllowed": "Non-commercial sharing/adaptation with attribution and ShareAlike; check images/third-party elements.",
+   "topics": [
+    "BE simple present",
+    "present progressive",
+    "simple present",
+    "simple vs progressive",
+    "short readings in grammar context"
+   ],
+   "exerciseAvailability": "Each of four chapters has explanations, examples, readings and exercises; exact PDF page numbers not verified."
+  },
+  {
+   "title": "PDX Journeys: Studying and Living in the US",
+   "url": "https://pdxscholar.library.pdx.edu/pdxopen/10/",
+   "organization": "Amber Bliss Calderón; Portland State University Library",
+   "license": "CC BY-NC 4.0 International (explicit on repository page; publication 2016)",
+   "reuseAllowed": "Share/adapt with attribution and no commercial use; review third-party images/texts.",
+   "topics": [
+    "reading comprehension",
+    "reading skills",
+    "contextual vocabulary",
+    "prefixes and suffixes",
+    "Academic Word List"
+   ],
+   "exerciseAvailability": "Each unit: fiction reading, reading-comprehension/reading-skills exercises, prefix/suffix exercises and Academic Word List vocabulary exercises; full text download offered."
+  },
+  {
+   "title": "BC Reads: Adult Literacy Fundamental English — Course Pack 2",
+   "url": "https://opentextbc.ca/abealf2/",
+   "organization": "Shantel Ivits; BCcampus/OpenTextBC",
+   "license": "CC BY 4.0 except where otherwise noted (copyright 2015)",
+   "reuseAllowed": "Share/adapt with attribution; inspect exceptions and credits for audio, images and other third-party components.",
+   "topics": [
+    "short reading",
+    "pre-reading",
+    "vocabulary building",
+    "word patterns",
+    "comprehension",
+    "grammar practice",
+    "writing"
+   ],
+   "exerciseAvailability": "Eight chapters; each includes pre-reading questions, vocabulary/word-pattern exercises, comprehension questions, grammar lessons/practice and writing task; online and PDF formats described."
+  },
+  {
+   "title": "TI-AIE: English grammar in action (TESS-India)",
+   "url": "https://www.open.edu/openlearncreate/mod/oucontent/view.php?id=57368&printable=1",
+   "organization": "The Open University/OpenLearn Create",
+   "license": "CC BY-SA 3.0 for original content, except acknowledged third-party/proprietary materials; policy at https://about.open.ac.uk/strategy-and-policies/policies-and-statements/copyright-openlearn",
+   "reuseAllowed": "Adapt/share original module content with attribution and ShareAlike; exclude third-party videos, images, logos and materials identified in acknowledgments; retain attribution/canonical link.",
+   "topics": [
+    "reported speech",
+    "backshift",
+    "pronoun/time changes",
+    "past tenses",
+    "passive voice in context",
+    "reading grammar noticing"
+   ],
+   "exerciseAvailability": "Direct-to-reported transformations, pair exchange practice, sentence creation and highlighting grammar in a reading passage."
+  },
+  {
+   "title": "An English Grammar (Project Gutenberg eBook #14006)",
+   "url": "https://www.gutenberg.org/ebooks/14006",
+   "organization": "William Malone Baskervill and James Witt Sewell; Project Gutenberg",
+   "license": "Public domain in the USA; Project Gutenberg License terms apply; local-law status outside the USA must be checked",
+   "reuseAllowed": "Copy/reuse/modify under public-domain status in the USA and the Project Gutenberg license; do not assume worldwide public domain and observe Project Gutenberg trademark terms in commercial redistribution.",
+   "topics": [
+    "personal/relative/indefinite pronouns",
+    "prepositions and objects",
+    "articles",
+    "sentence analysis",
+    "historical grammar reading"
+   ],
+   "exerciseAvailability": "Exercises/prompts on relative pronouns, indefinite relatives, prepositional objects and grammatical analysis in the HTML book."
+  },
+  {
+   "title": "A Short System of English Grammar (Project Gutenberg eBook #26991)",
+   "url": "https://www.gutenberg.org/files/26991/26991-h/26991-h.htm",
+   "organization": "Henry Bate; Project Gutenberg",
+   "license": "Public domain in the USA with Project Gutenberg License terms; local-law status outside the USA must be checked",
+   "reuseAllowed": "Reuse under the public-domain/Project Gutenberg terms with the jurisdiction and trademark caveats; historical content should be modernized only in an original adaptation.",
+   "topics": [
+    "articles/determiners",
+    "pronouns",
+    "active/passive verbs",
+    "prepositions",
+    "conjunctions"
+   ],
+   "exerciseAvailability": "Observation/production prompts and grammar examples; not a modern EEAR exercise bank."
+  }
+ ],
+ "protectedSources": [
+  {
+   "title": "IE EA CFS 1/2027 — edital oficial",
+   "url": "https://www.fab.mil.br/cabine/concursos/IE%20EA%20CFS%201%202027_11_02_2026.pdf",
+   "organization": "Força Aérea Brasileira / Comando da Aeronáutica",
+   "whyUsefulForCalibration": "Fonte primária para disciplina, nível por opção, estrutura e Anexo III do programa de Língua Inglesa.",
+   "reuseLimit": "PDF oficial disponibilizado, mas nenhuma licença de reutilização de questões/textos/gabaritos foi localizada; linkar/citar de forma limitada e não reproduzir itens."
+  },
+  {
+   "title": "Portal de ingresso EEAR e localizador de provas FAB",
+   "url": "https://ingresso.eear.fab.mil.br/",
+   "organization": "EEAR/FAB",
+   "whyUsefulForCalibration": "Portal oficial mostra ciclos, datas de provas escritas e remissão às Instruções Específicas; a página geral https://www.fab.mil.br/ingresso/provas.html foi conferida como localizador, mas a listagem visível é AFA/CPCAR, não EEAR específica.",
+   "reuseLimit": "Nenhuma licença de conteúdo de prova encontrada; usar para navegação/datas/estilo e não baixar, reempacotar ou republicar questões."
+  },
+  {
+   "title": "Grammar — Khan Academy",
+   "url": "https://www.khanacademy.org/humanities/grammar",
+   "organization": "Khan Academy",
+   "whyUsefulForCalibration": "Unidades de gramática, partes do discurso, convenções e exercícios interativos ajudam a calibrar progressão, feedback e habilidades.",
+   "reuseLimit": "Terms of Service concedem acesso pessoal não comercial; não baixar/distribuir/modificar conteúdo salvo licença alternativa expressa. Itens CC devem seguir a licença indicada."
+  },
+  {
+   "title": "Grammar Exercises — Purdue OWL",
+   "url": "https://owl.purdue.edu/owl_exercises/grammar_exercises/index.html",
+   "organization": "The Writing Lab at Purdue University",
+   "whyUsefulForCalibration": "Exercícios de artigos, preposições, tense consistency, adjetivos e advérbios mostram comandos e granularidade de prática.",
+   "reuseLimit": "Aviso explícito de copyright: não publicar, reproduzir, transmitir, reescrever ou redistribuir sem permissão. Somente estudo/calibração."
+  },
+  {
+   "title": "Grammar — LearnEnglish",
+   "url": "https://learnenglish.britishcouncil.org/free-resources/grammar",
+   "organization": "British Council",
+   "whyUsefulForCalibration": "Explicações, referência de verb tenses e interactive exercises organizados por nível oferecem contraste para leitura, feedback e progressão.",
+   "reuseLimit": "Acesso gratuito verificado, mas nenhuma licença aberta de redistribuição foi localizada nos termos legais; não copiar exercícios/textos."
+  },
+  {
+   "title": "Worksheet: Reported Speech",
+   "url": "https://www.oercommons.org/courseware/lesson/65822/student-old/",
+   "organization": "OER Commons (item de worksheet; autoria/licença do item não exibidas na captura)",
+   "whyUsefulForCalibration": "Descreve famílias de tarefa: statements/questions, reporting verbs, conversações, direct→indirect e indirect→direct.",
+   "reuseLimit": "A página recuperada não exibe licença verificável; tratar como protegido/não verificado e não reproduzir nenhuma frase, lista ou conversa."
+  }
+ ],
+ "topicSources": {
+  "en-reading": [
+   {
+    "id": "en-reading",
+    "subtopic": "main idea, details, inference, reference, purpose/tone/organization, skimming/scanning",
+    "title": "PDX Journeys: Studying and Living in the US",
+    "url": "https://pdxscholar.library.pdx.edu/pdxopen/10/",
+    "edition": "Amber Bliss Calderón, 2016; Portland State University Library; DOI 10.15760/pdxopen-23",
+    "exerciseSection": "Every unit: fiction chapter followed by reading-comprehension and reading-skills exercises; repeated practice in non-fiction texts.",
+    "license": "CC BY-NC 4.0",
+    "permission": "Redistribute/adapt non-commercially with attribution; inspect third-party components."
+   },
+   {
+    "id": "en-reading",
+    "subtopic": "pre-reading, comprehension, reading-to-grammar noticing",
+    "title": "BC Reads: Adult Literacy Fundamental English — Course Pack 2",
+    "url": "https://opentextbc.ca/abealf2/",
+    "edition": "Shantel Ivits, 2015; BCcampus/OpenTextBC; 8 chapters",
+    "exerciseSection": "Each chapter: pre-reading questions, approximately 200-word reading, vocabulary/word-pattern, comprehension, grammar practice and writing task.",
+    "license": "CC BY 4.0 except otherwise noted",
+    "permission": "Share/adapt with attribution; honor exceptions/credits."
+   }
+  ],
+  "en-vocabulary": [
+   {
+    "id": "en-vocabulary",
+    "subtopic": "contextual meaning, affixes, Academic Word List, receptive/productive vocabulary",
+    "title": "PDX Journeys: Studying and Living in the US",
+    "url": "https://pdxscholar.library.pdx.edu/pdxopen/10/",
+    "edition": "Amber Bliss Calderón, 2016",
+    "exerciseSection": "Prefix/suffix vocabulary-focus exercises and Academic Word List exercises, repeated in fiction and non-fiction units.",
+    "license": "CC BY-NC 4.0",
+    "permission": "Non-commercial adaptation/redistribution with attribution."
+   },
+   {
+    "id": "en-vocabulary",
+    "subtopic": "word patterns, vocabulary building, meaning in short text",
+    "title": "BC Reads: Adult Literacy Fundamental English — Course Pack 2",
+    "url": "https://opentextbc.ca/abealf2/",
+    "edition": "Shantel Ivits, 2015",
+    "exerciseSection": "Vocabulary-building and word-pattern exercises in all eight chapters; glossary/reader support is described on the site.",
+    "license": "CC BY 4.0 except otherwise noted",
+    "permission": "Share/adapt with attribution, observing exceptions."
+   }
+  ],
+  "en-tenses": [
+   {
+    "id": "en-tenses",
+    "subtopic": "simple/progressive/past/future/perfect, auxiliaries, irregular verbs and time relations",
+    "title": "Brehe’s Grammar Anatomy",
+    "url": "https://ung.edu/university-press/_uploads/files/brehes-grammar-anatomy-v2.pdf",
+    "edition": "Steven Brehe; University of North Georgia Press; 2019 work, v2 PDF, 340 pp",
+    "exerciseSection": "Chapter 3 Get Tense, printed pp. 15–30; exercises pp. 27–29 with answer key in back.",
+    "license": "CC BY-SA (catalog; version not displayed)",
+    "permission": "Attribution and ShareAlike; verify PDF notice/version before publication."
+   },
+   {
+    "id": "en-tenses",
+    "subtopic": "BE, present progressive, simple present and aspect contrast",
+    "title": "Explorations 1: Grammar for the Experienced Beginner",
+    "url": "https://human.libretexts.org/Bookshelves/Languages/English_as_a_Second_Language/Explorations_1%3A_Grammar_for_the_Experienced_Beginner",
+    "edition": "Susan Caisse, Kristee Emens-Hesslink and Jennifer Rueda; Open Oregon/Clackamas CC",
+    "exerciseSection": "Ch. 1 BE simple present; Ch. 2 present progressive; Ch. 3 simple present; Ch. 4 simple present vs present progressive; each has readings and exercises.",
+    "license": "CC BY-NC-SA (catalog Conditions of Use)",
+    "permission": "Non-commercial adaptation/redistribution with attribution and ShareAlike."
+   }
+  ],
+  "en-pronouns": [
+   {
+    "id": "en-pronouns",
+    "subtopic": "subject/object, possessive, demonstrative, relative/indefinite pronouns and antecedent",
+    "title": "Brehe’s Grammar Anatomy",
+    "url": "https://ung.edu/university-press/_uploads/files/brehes-grammar-anatomy-v2.pdf",
+    "edition": "Steven Brehe; 2019 work, v2 PDF",
+    "exerciseSection": "Chapter 7 You and I and the Personal Pronouns, pp. 65–80; exercises pp. 75–80.",
+    "license": "CC BY-SA (catalog; version not displayed)",
+    "permission": "Attribution and ShareAlike; confirm version in PDF."
+   },
+   {
+    "id": "en-pronouns",
+    "subtopic": "reference/antecedent, indefinite pronouns, articles and determiners",
+    "title": "Writing Guide with Handbook",
+    "url": "https://openstax.org/books/writing-guide/pages/handbook",
+    "edition": "OpenStax Writing Guide with Handbook",
+    "exerciseSection": "H8 pronoun reference and antecedents; H7 indefinite-pronoun agreement; handbook editing/usage resources.",
+    "license": "CC BY-NC-SA 4.0",
+    "permission": "Share/adapt non-commercially with OpenStax attribution and same license."
+   }
+  ],
+  "en-modals": [
+   {
+    "id": "en-modals",
+    "subtopic": "obligation/possibility/advice/permission plus modal passive",
+    "title": "Passive Exercises — Modal Verbs",
+    "url": "https://human.libretexts.org/Courses/San_Jacinto_College/ESOL_Advanced_Grammar/04%3A_Passive/4.01%3A_Passive-Form_and_Usage/4.1.03%3A_Passive_Exercises-_Modal_Verbs",
+    "edition": "ESOL Advanced Grammar, San Jacinto College; page ID 273282",
+    "exerciseSection": "Exercises 4.1.10–4.1.12: fill modal passive; active→passive; passive→active, including perfect modal/passive forms.",
+    "license": "Specific page license not surfaced; LibreTexts terms say the license at the top of each page governs",
+    "permission": "Use for study until page-level license is confirmed; do not redistribute/copy exercises on current evidence."
+   },
+   {
+    "id": "en-modals",
+    "subtopic": "must/could/would and passive voice recognition",
+    "title": "Writing Guide with Handbook",
+    "url": "https://openstax.org/books/writing-guide/pages/handbook",
+    "edition": "OpenStax Writing Guide with Handbook",
+    "exerciseSection": "H7 mood examples include must/could/would; H3 explains active/passive voice and editing focus.",
+    "license": "CC BY-NC-SA 4.0",
+    "permission": "Share/adapt non-commercially with attribution, same license and third-party exclusions."
+   }
+  ],
+  "en-connectors": [
+   {
+    "id": "en-connectors",
+    "subtopic": "prepositions of time/place/regency and preposition choice",
+    "title": "Brehe’s Grammar Anatomy",
+    "url": "https://ung.edu/university-press/_uploads/files/brehes-grammar-anatomy-v2.pdf",
+    "edition": "Steven Brehe; 2019 work, v2 PDF",
+    "exerciseSection": "Chapter 6 Among the Prepositions, pp. 51–64; exercises pp. 63–64.",
+    "license": "CC BY-SA (catalog; version not displayed)",
+    "permission": "Attribution and ShareAlike; verify PDF notice."
+   },
+   {
+    "id": "en-connectors",
+    "subtopic": "addition, contrast, cause/example, consequence, time and subordinate relations",
+    "title": "Writing Guide with Handbook",
+    "url": "https://openstax.org/books/writing-guide/pages/handbook",
+    "edition": "OpenStax Writing Guide with Handbook",
+    "exerciseSection": "Transitions and Transitional Words and Phrases; H3 sentence flow and editing focus.",
+    "license": "CC BY-NC-SA 4.0",
+    "permission": "Share/adapt non-commercially with attribution and ShareAlike."
+   },
+   {
+    "id": "en-connectors",
+    "subtopic": "conjunctions, compounds, subordinate clauses and connector choice",
+    "title": "Brehe’s Grammar Anatomy",
+    "url": "https://ung.edu/university-press/_uploads/files/brehes-grammar-anatomy-v2.pdf",
+    "edition": "Steven Brehe; 2019 work, v2 PDF",
+    "exerciseSection": "Chapter 9 Conjunctions, Compounds, and Subordinate Clauses, pp. 91–111; exercises pp. 109–111.",
+    "license": "CC BY-SA (catalog; version not displayed)",
+    "permission": "Attribution and ShareAlike; verify PDF notice."
+   }
+  ],
+  "en-reported": [
+   {
+    "id": "en-reported",
+    "subtopic": "direct/indirect speech, backshift, pronouns and time expressions",
+    "title": "TI-AIE: English grammar in action (TESS-India)",
+    "url": "https://www.open.edu/openlearncreate/mod/oucontent/view.php?id=57368&printable=1",
+    "edition": "The Open University/OpenLearn Create; TESS-India module",
+    "exerciseSection": "Reported Speech section: rule present→past, direct/reported table, pair-created sentences exchanged and converted; reading notice task includes past tenses, reported speech and passive voice.",
+    "license": "CC BY-SA 3.0 except acknowledged third-party/proprietary materials",
+    "permission": "Adapt/share original content with attribution and ShareAlike; exclude logos, video, images and credited third-party content."
+   },
+   {
+    "id": "en-reported",
+    "subtopic": "statements/questions, reporting verbs, conversation transformation and return to direct speech",
+    "title": "Worksheet: Reported Speech",
+    "url": "https://www.oercommons.org/courseware/lesson/65822/student-old/",
+    "edition": "OER Commons item; author/edition not exposed on fetched page",
+    "exerciseSection": "Worksheet sections for statements, questions, reporting-verb selection, conversations, indirect→direct and story completion.",
+    "license": "Not verified on item page",
+    "permission": "Calibration only; do not reproduce any worksheet sentence, list, conversation or answer without permission."
+   }
+  ]
+ },
+ "topicSourceEntries": [
+  {
+   "id": "en-reading",
+   "subtopic": "main idea, details, inference, reference, purpose/tone/organization, skimming/scanning",
+   "title": "PDX Journeys: Studying and Living in the US",
+   "url": "https://pdxscholar.library.pdx.edu/pdxopen/10/",
+   "edition": "Amber Bliss Calderón, 2016; Portland State University Library; DOI 10.15760/pdxopen-23",
+   "exerciseSection": "Every unit: fiction chapter followed by reading-comprehension and reading-skills exercises; repeated practice in non-fiction texts.",
+   "license": "CC BY-NC 4.0",
+   "permission": "Redistribute/adapt non-commercially with attribution; inspect third-party components."
+  },
+  {
+   "id": "en-reading",
+   "subtopic": "pre-reading, comprehension, reading-to-grammar noticing",
+   "title": "BC Reads: Adult Literacy Fundamental English — Course Pack 2",
+   "url": "https://opentextbc.ca/abealf2/",
+   "edition": "Shantel Ivits, 2015; BCcampus/OpenTextBC; 8 chapters",
+   "exerciseSection": "Each chapter: pre-reading questions, approximately 200-word reading, vocabulary/word-pattern, comprehension, grammar practice and writing task.",
+   "license": "CC BY 4.0 except otherwise noted",
+   "permission": "Share/adapt with attribution; honor exceptions/credits."
+  },
+  {
+   "id": "en-vocabulary",
+   "subtopic": "contextual meaning, affixes, Academic Word List, receptive/productive vocabulary",
+   "title": "PDX Journeys: Studying and Living in the US",
+   "url": "https://pdxscholar.library.pdx.edu/pdxopen/10/",
+   "edition": "Amber Bliss Calderón, 2016",
+   "exerciseSection": "Prefix/suffix vocabulary-focus exercises and Academic Word List exercises, repeated in fiction and non-fiction units.",
+   "license": "CC BY-NC 4.0",
+   "permission": "Non-commercial adaptation/redistribution with attribution."
+  },
+  {
+   "id": "en-vocabulary",
+   "subtopic": "word patterns, vocabulary building, meaning in short text",
+   "title": "BC Reads: Adult Literacy Fundamental English — Course Pack 2",
+   "url": "https://opentextbc.ca/abealf2/",
+   "edition": "Shantel Ivits, 2015",
+   "exerciseSection": "Vocabulary-building and word-pattern exercises in all eight chapters; glossary/reader support is described on the site.",
+   "license": "CC BY 4.0 except otherwise noted",
+   "permission": "Share/adapt with attribution, observing exceptions."
+  },
+  {
+   "id": "en-tenses",
+   "subtopic": "simple/progressive/past/future/perfect, auxiliaries, irregular verbs and time relations",
+   "title": "Brehe’s Grammar Anatomy",
+   "url": "https://ung.edu/university-press/_uploads/files/brehes-grammar-anatomy-v2.pdf",
+   "edition": "Steven Brehe; University of North Georgia Press; 2019 work, v2 PDF, 340 pp",
+   "exerciseSection": "Chapter 3 Get Tense, printed pp. 15–30; exercises pp. 27–29 with answer key in back.",
+   "license": "CC BY-SA (catalog; version not displayed)",
+   "permission": "Attribution and ShareAlike; verify PDF notice/version before publication."
+  },
+  {
+   "id": "en-tenses",
+   "subtopic": "BE, present progressive, simple present and aspect contrast",
+   "title": "Explorations 1: Grammar for the Experienced Beginner",
+   "url": "https://human.libretexts.org/Bookshelves/Languages/English_as_a_Second_Language/Explorations_1%3A_Grammar_for_the_Experienced_Beginner",
+   "edition": "Susan Caisse, Kristee Emens-Hesslink and Jennifer Rueda; Open Oregon/Clackamas CC",
+   "exerciseSection": "Ch. 1 BE simple present; Ch. 2 present progressive; Ch. 3 simple present; Ch. 4 simple present vs present progressive; each has readings and exercises.",
+   "license": "CC BY-NC-SA (catalog Conditions of Use)",
+   "permission": "Non-commercial adaptation/redistribution with attribution and ShareAlike."
+  },
+  {
+   "id": "en-pronouns",
+   "subtopic": "subject/object, possessive, demonstrative, relative/indefinite pronouns and antecedent",
+   "title": "Brehe’s Grammar Anatomy",
+   "url": "https://ung.edu/university-press/_uploads/files/brehes-grammar-anatomy-v2.pdf",
+   "edition": "Steven Brehe; 2019 work, v2 PDF",
+   "exerciseSection": "Chapter 7 You and I and the Personal Pronouns, pp. 65–80; exercises pp. 75–80.",
+   "license": "CC BY-SA (catalog; version not displayed)",
+   "permission": "Attribution and ShareAlike; confirm version in PDF."
+  },
+  {
+   "id": "en-pronouns",
+   "subtopic": "reference/antecedent, indefinite pronouns, articles and determiners",
+   "title": "Writing Guide with Handbook",
+   "url": "https://openstax.org/books/writing-guide/pages/handbook",
+   "edition": "OpenStax Writing Guide with Handbook",
+   "exerciseSection": "H8 pronoun reference and antecedents; H7 indefinite-pronoun agreement; handbook editing/usage resources.",
+   "license": "CC BY-NC-SA 4.0",
+   "permission": "Share/adapt non-commercially with OpenStax attribution and same license."
+  },
+  {
+   "id": "en-modals",
+   "subtopic": "obligation/possibility/advice/permission plus modal passive",
+   "title": "Passive Exercises — Modal Verbs",
+   "url": "https://human.libretexts.org/Courses/San_Jacinto_College/ESOL_Advanced_Grammar/04%3A_Passive/4.01%3A_Passive-Form_and_Usage/4.1.03%3A_Passive_Exercises-_Modal_Verbs",
+   "edition": "ESOL Advanced Grammar, San Jacinto College; page ID 273282",
+   "exerciseSection": "Exercises 4.1.10–4.1.12: fill modal passive; active→passive; passive→active, including perfect modal/passive forms.",
+   "license": "Specific page license not surfaced; LibreTexts terms say the license at the top of each page governs",
+   "permission": "Use for study until page-level license is confirmed; do not redistribute/copy exercises on current evidence."
+  },
+  {
+   "id": "en-modals",
+   "subtopic": "must/could/would and passive voice recognition",
+   "title": "Writing Guide with Handbook",
+   "url": "https://openstax.org/books/writing-guide/pages/handbook",
+   "edition": "OpenStax Writing Guide with Handbook",
+   "exerciseSection": "H7 mood examples include must/could/would; H3 explains active/passive voice and editing focus.",
+   "license": "CC BY-NC-SA 4.0",
+   "permission": "Share/adapt non-commercially with attribution, same license and third-party exclusions."
+  },
+  {
+   "id": "en-connectors",
+   "subtopic": "prepositions of time/place/regency and preposition choice",
+   "title": "Brehe’s Grammar Anatomy",
+   "url": "https://ung.edu/university-press/_uploads/files/brehes-grammar-anatomy-v2.pdf",
+   "edition": "Steven Brehe; 2019 work, v2 PDF",
+   "exerciseSection": "Chapter 6 Among the Prepositions, pp. 51–64; exercises pp. 63–64.",
+   "license": "CC BY-SA (catalog; version not displayed)",
+   "permission": "Attribution and ShareAlike; verify PDF notice."
+  },
+  {
+   "id": "en-connectors",
+   "subtopic": "addition, contrast, cause/example, consequence, time and subordinate relations",
+   "title": "Writing Guide with Handbook",
+   "url": "https://openstax.org/books/writing-guide/pages/handbook",
+   "edition": "OpenStax Writing Guide with Handbook",
+   "exerciseSection": "Transitions and Transitional Words and Phrases; H3 sentence flow and editing focus.",
+   "license": "CC BY-NC-SA 4.0",
+   "permission": "Share/adapt non-commercially with attribution and ShareAlike."
+  },
+  {
+   "id": "en-connectors",
+   "subtopic": "conjunctions, compounds, subordinate clauses and connector choice",
+   "title": "Brehe’s Grammar Anatomy",
+   "url": "https://ung.edu/university-press/_uploads/files/brehes-grammar-anatomy-v2.pdf",
+   "edition": "Steven Brehe; 2019 work, v2 PDF",
+   "exerciseSection": "Chapter 9 Conjunctions, Compounds, and Subordinate Clauses, pp. 91–111; exercises pp. 109–111.",
+   "license": "CC BY-SA (catalog; version not displayed)",
+   "permission": "Attribution and ShareAlike; verify PDF notice."
+  },
+  {
+   "id": "en-reported",
+   "subtopic": "direct/indirect speech, backshift, pronouns and time expressions",
+   "title": "TI-AIE: English grammar in action (TESS-India)",
+   "url": "https://www.open.edu/openlearncreate/mod/oucontent/view.php?id=57368&printable=1",
+   "edition": "The Open University/OpenLearn Create; TESS-India module",
+   "exerciseSection": "Reported Speech section: rule present→past, direct/reported table, pair-created sentences exchanged and converted; reading notice task includes past tenses, reported speech and passive voice.",
+   "license": "CC BY-SA 3.0 except acknowledged third-party/proprietary materials",
+   "permission": "Adapt/share original content with attribution and ShareAlike; exclude logos, video, images and credited third-party content."
+  },
+  {
+   "id": "en-reported",
+   "subtopic": "statements/questions, reporting verbs, conversation transformation and return to direct speech",
+   "title": "Worksheet: Reported Speech",
+   "url": "https://www.oercommons.org/courseware/lesson/65822/student-old/",
+   "edition": "OER Commons item; author/edition not exposed on fetched page",
+   "exerciseSection": "Worksheet sections for statements, questions, reporting-verb selection, conversations, indirect→direct and story completion.",
+   "license": "Not verified on item page",
+   "permission": "Calibration only; do not reproduce any worksheet sentence, list, conversation or answer without permission."
+  }
+ ],
+ "topicNotes": {
+  "en-reading": "- main idea, details, inference, reference, purpose/tone/organization, skimming/scanning: PDX Journeys: Studying and Living in the US — Amber Bliss Calderón, 2016; Portland State University Library; DOI 10.15760/pdxopen-23; exercícios: Every unit: fiction chapter followed by reading-comprehension and reading-skills exercises; repeated practice in non-fiction texts.; licença: CC BY-NC 4.0; permissão: Redistribute/adapt non-commercially with attribution; inspect third-party components.; URL: https://pdxscholar.library.pdx.edu/pdxopen/10/\n- pre-reading, comprehension, reading-to-grammar noticing: BC Reads: Adult Literacy Fundamental English — Course Pack 2 — Shantel Ivits, 2015; BCcampus/OpenTextBC; 8 chapters; exercícios: Each chapter: pre-reading questions, approximately 200-word reading, vocabulary/word-pattern, comprehension, grammar practice and writing task.; licença: CC BY 4.0 except otherwise noted; permissão: Share/adapt with attribution; honor exceptions/credits.; URL: https://opentextbc.ca/abealf2/",
+  "en-vocabulary": "- contextual meaning, affixes, Academic Word List, receptive/productive vocabulary: PDX Journeys: Studying and Living in the US — Amber Bliss Calderón, 2016; exercícios: Prefix/suffix vocabulary-focus exercises and Academic Word List exercises, repeated in fiction and non-fiction units.; licença: CC BY-NC 4.0; permissão: Non-commercial adaptation/redistribution with attribution.; URL: https://pdxscholar.library.pdx.edu/pdxopen/10/\n- word patterns, vocabulary building, meaning in short text: BC Reads: Adult Literacy Fundamental English — Course Pack 2 — Shantel Ivits, 2015; exercícios: Vocabulary-building and word-pattern exercises in all eight chapters; glossary/reader support is described on the site.; licença: CC BY 4.0 except otherwise noted; permissão: Share/adapt with attribution, observing exceptions.; URL: https://opentextbc.ca/abealf2/",
+  "en-tenses": "- simple/progressive/past/future/perfect, auxiliaries, irregular verbs and time relations: Brehe’s Grammar Anatomy — Steven Brehe; University of North Georgia Press; 2019 work, v2 PDF, 340 pp; exercícios: Chapter 3 Get Tense, printed pp. 15–30; exercises pp. 27–29 with answer key in back.; licença: CC BY-SA (catalog; version not displayed); permissão: Attribution and ShareAlike; verify PDF notice/version before publication.; URL: https://ung.edu/university-press/_uploads/files/brehes-grammar-anatomy-v2.pdf\n- BE, present progressive, simple present and aspect contrast: Explorations 1: Grammar for the Experienced Beginner — Susan Caisse, Kristee Emens-Hesslink and Jennifer Rueda; Open Oregon/Clackamas CC; exercícios: Ch. 1 BE simple present; Ch. 2 present progressive; Ch. 3 simple present; Ch. 4 simple present vs present progressive; each has readings and exercises.; licença: CC BY-NC-SA (catalog Conditions of Use); permissão: Non-commercial adaptation/redistribution with attribution and ShareAlike.; URL: https://human.libretexts.org/Bookshelves/Languages/English_as_a_Second_Language/Explorations_1%3A_Grammar_for_the_Experienced_Beginner",
+  "en-pronouns": "- subject/object, possessive, demonstrative, relative/indefinite pronouns and antecedent: Brehe’s Grammar Anatomy — Steven Brehe; 2019 work, v2 PDF; exercícios: Chapter 7 You and I and the Personal Pronouns, pp. 65–80; exercises pp. 75–80.; licença: CC BY-SA (catalog; version not displayed); permissão: Attribution and ShareAlike; confirm version in PDF.; URL: https://ung.edu/university-press/_uploads/files/brehes-grammar-anatomy-v2.pdf\n- reference/antecedent, indefinite pronouns, articles and determiners: Writing Guide with Handbook — OpenStax Writing Guide with Handbook; exercícios: H8 pronoun reference and antecedents; H7 indefinite-pronoun agreement; handbook editing/usage resources.; licença: CC BY-NC-SA 4.0; permissão: Share/adapt non-commercially with OpenStax attribution and same license.; URL: https://openstax.org/books/writing-guide/pages/handbook",
+  "en-modals": "- obligation/possibility/advice/permission plus modal passive: Passive Exercises — Modal Verbs — ESOL Advanced Grammar, San Jacinto College; page ID 273282; exercícios: Exercises 4.1.10–4.1.12: fill modal passive; active→passive; passive→active, including perfect modal/passive forms.; licença: Specific page license not surfaced; LibreTexts terms say the license at the top of each page governs; permissão: Use for study until page-level license is confirmed; do not redistribute/copy exercises on current evidence.; URL: https://human.libretexts.org/Courses/San_Jacinto_College/ESOL_Advanced_Grammar/04%3A_Passive/4.01%3A_Passive-Form_and_Usage/4.1.03%3A_Passive_Exercises-_Modal_Verbs\n- must/could/would and passive voice recognition: Writing Guide with Handbook — OpenStax Writing Guide with Handbook; exercícios: H7 mood examples include must/could/would; H3 explains active/passive voice and editing focus.; licença: CC BY-NC-SA 4.0; permissão: Share/adapt non-commercially with attribution, same license and third-party exclusions.; URL: https://openstax.org/books/writing-guide/pages/handbook",
+  "en-connectors": "- prepositions of time/place/regency and preposition choice: Brehe’s Grammar Anatomy — Steven Brehe; 2019 work, v2 PDF; exercícios: Chapter 6 Among the Prepositions, pp. 51–64; exercises pp. 63–64.; licença: CC BY-SA (catalog; version not displayed); permissão: Attribution and ShareAlike; verify PDF notice.; URL: https://ung.edu/university-press/_uploads/files/brehes-grammar-anatomy-v2.pdf\n- addition, contrast, cause/example, consequence, time and subordinate relations: Writing Guide with Handbook — OpenStax Writing Guide with Handbook; exercícios: Transitions and Transitional Words and Phrases; H3 sentence flow and editing focus.; licença: CC BY-NC-SA 4.0; permissão: Share/adapt non-commercially with attribution and ShareAlike.; URL: https://openstax.org/books/writing-guide/pages/handbook\n- conjunctions, compounds, subordinate clauses and connector choice: Brehe’s Grammar Anatomy — Steven Brehe; 2019 work, v2 PDF; exercícios: Chapter 9 Conjunctions, Compounds, and Subordinate Clauses, pp. 91–111; exercises pp. 109–111.; licença: CC BY-SA (catalog; version not displayed); permissão: Attribution and ShareAlike; verify PDF notice.; URL: https://ung.edu/university-press/_uploads/files/brehes-grammar-anatomy-v2.pdf",
+  "en-reported": "- direct/indirect speech, backshift, pronouns and time expressions: TI-AIE: English grammar in action (TESS-India) — The Open University/OpenLearn Create; TESS-India module; exercícios: Reported Speech section: rule present→past, direct/reported table, pair-created sentences exchanged and converted; reading notice task includes past tenses, reported speech and passive voice.; licença: CC BY-SA 3.0 except acknowledged third-party/proprietary materials; permissão: Adapt/share original content with attribution and ShareAlike; exclude logos, video, images and credited third-party content.; URL: https://www.open.edu/openlearncreate/mod/oucontent/view.php?id=57368&printable=1\n- statements/questions, reporting verbs, conversation transformation and return to direct speech: Worksheet: Reported Speech — OER Commons item; author/edition not exposed on fetched page; exercícios: Worksheet sections for statements, questions, reporting-verb selection, conversations, indirect→direct and story completion.; licença: Not verified on item page; permissão: Calibration only; do not reproduce any worksheet sentence, list, conversation or answer without permission.; URL: https://www.oercommons.org/courseware/lesson/65822/student-old/"
+ },
+ "topicIds": [
+  "en-reading",
+  "en-vocabulary",
+  "en-tenses",
+  "en-pronouns",
+  "en-modals",
+  "en-connectors",
+  "en-reported"
+ ]
+}

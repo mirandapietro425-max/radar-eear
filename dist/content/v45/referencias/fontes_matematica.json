@@ -1,0 +1,693 @@
+{
+ "findings": [
+  "O relatório foi salvo em /home/ubuntu/task_v45/build/research/fontes_matematica.md.",
+  "Foram verificadas 8 fontes abertas/reutilizáveis com condições e 6 achados de calibração/protegidos, excedendo o mínimo solicitado.",
+  "A combinação mais segura para criar material novo é usar conceitos e questões originais baseados no edital, apoiando-se em OpenStax, Wikilivros e Open Textbook Library conforme suas licenças; GFDL exige cuidados próprios e Gutenberg foi confirmado apenas como domínio público nos EUA.",
+  "A página genérica de Provas anteriores da FAB consultada lista CFOAV/INT/INF e CPCAR, não uma coleção EEAR claramente identificada; para EEAR, o portal específico de ingresso é a referência mais segura.",
+  "Não foi classificado nenhum item de Wikisource como fonte verificada adequada ao escopo; não foi inventada licença ou página.",
+  "Não foram reproduzidas questões protegidas: o relatório descreve apenas competências, tipos de exercício e padrões gerais."
+ ],
+ "openSources": [
+  {
+   "exerciseAvailability": "Sim; a página informa mais de 6.300 exercícios, revisões e testes.",
+   "license": "CC BY-NC-SA 4.0, declarada no prefácio; figuras de terceiros podem ter créditos próprios",
+   "organization": "OpenStax/Rice University",
+   "reuseAllowed": "Redistribuição, adaptação e derivados permitidos para fins não comerciais, com atribuição e mesma licença; não presumir autorização comercial nem para toda arte incorporada",
+   "title": "OpenStax — Algebra and Trigonometry 2e",
+   "topics": [
+    "álgebra",
+    "funções",
+    "equações e polinômios",
+    "exponenciais e logaritmos",
+    "trigonometria"
+   ],
+   "url": "https://openstax.org/books/algebra-and-trigonometry-2e/pages/preface"
+  },
+  {
+   "exerciseAvailability": "Sim; mais de 5.900 exercícios, aplicações e testes de capítulo.",
+   "license": "CC BY-NC-SA 4.0",
+   "organization": "OpenStax/Rice University",
+   "reuseAllowed": "Uso, remixagem e redistribuição não comercial com atribuição e compartilhamento pela mesma licença; conferir créditos de arte e não vender sem autorização",
+   "title": "OpenStax — Precalculus 2e",
+   "topics": [
+    "funções",
+    "trigonometria",
+    "sistemas",
+    "geometria analítica",
+    "sequências/progressões",
+    "probabilidade e contagem"
+   ],
+   "url": "https://openstax.org/books/precalculus-2e/pages/preface"
+  },
+  {
+   "exerciseAvailability": "Sim; Try It, prática, deveres, exercícios colaborativos e laboratórios.",
+   "license": "CC BY-NC-SA 4.0; ilustrações podem ter atribuição distinta",
+   "organization": "OpenStax/Rice University",
+   "reuseAllowed": "Copiar, adaptar e redistribuir a parte licenciada em uso não comercial, com atribuição e mesma licença; não tratar PDF gratuito como licença comercial",
+   "title": "OpenStax — Introductory Statistics 2e",
+   "topics": [
+    "estatística descritiva",
+    "amostragem e dados",
+    "probabilidade",
+    "variáveis aleatórias",
+    "distribuição normal",
+    "regressão e correlação"
+   ],
+   "url": "https://openstax.org/books/introductory-statistics-2e/pages/preface"
+  },
+  {
+   "exerciseAvailability": "Sim; atividades iniciais, Progress Checks, exercícios selecionados e respostas/dicas.",
+   "license": "CC BY-NC-SA, versão numérica não indicada no registro",
+   "organization": "Ted Sundstrom e Steven Schlicker, Grand Valley State University; Open Textbook Library/University of Minnesota",
+   "reuseAllowed": "Reutilização e adaptação não comercial com atribuição e mesma licença; verificar a versão, as atribuições e os termos de applets, planilhas e vídeos vinculados",
+   "title": "Trigonometry",
+   "topics": [
+    "trigonometria circular e de triângulo retângulo",
+    "funções e gráficos trigonométricos",
+    "triângulos e vetores",
+    "identidades e equações",
+    "números complexos e coordenadas polares"
+   ],
+   "url": "https://open.umn.edu/opentextbooks/textbooks/trigonometry"
+  },
+  {
+   "exerciseAvailability": "Sim; o índice mostra exercícios em várias seções, incluindo funções, exponenciais, polinômios e Teorema de Tales.",
+   "license": "A página de direitos autorais consultada declara CC BY-SA 3.0 não adaptada; verificar página e mídia específicas",
+   "organization": "Comunidade lusófona do Wikilivros/Wikimedia Foundation",
+   "reuseAllowed": "Texto compatível pode ser copiado, adaptado e redistribuído com atribuição e share-alike; não presumir a mesma licença para imagens, mídia ou trechos de terceiros",
+   "title": "Wikilivros — Matemática elementar",
+   "topics": [
+    "funções",
+    "álgebra e polinômios",
+    "trigonometria",
+    "progressões",
+    "combinatória e probabilidade",
+    "estatística",
+    "geometria plana e espacial",
+    "geometria analítica"
+   ],
+   "url": "https://pt.wikibooks.org/wiki/Matem%C3%A1tica_elementar"
+  },
+  {
+   "exerciseAvailability": "Há capítulo Solutions no sumário, mas o catálogo não quantifica os exercícios; confirmar a edição integral.",
+   "license": "CC BY-SA/Attribution-ShareAlike, versão não indicada no registro",
+   "organization": "Daniel P. Callahan; Open Textbook Library",
+   "reuseAllowed": "Adaptação e redistribuição sob a CC BY-SA indicada, com atribuição e share-alike; confirmar a licença na edição/PDF antes de publicar",
+   "title": "Euclid’s Elements Redux",
+   "topics": [
+    "geometria plana",
+    "ângulos e paralelas",
+    "círculos",
+    "proporções",
+    "sequências geométricas",
+    "raciocínio e prova"
+   ],
+   "url": "https://open.umn.edu/opentextbooks/textbooks/euclid-s-elements-redux"
+  },
+  {
+   "exerciseAvailability": "Sim; o registro informa mais de 600 exercícios, com e sem computador e teóricos.",
+   "license": "GNU Free Documentation License (GFDL), conforme o registro; PDF direto: https://math.dartmouth.edu/~prob/prob/prob.pdf",
+   "organization": "Charles M. Grinstead e J. Laurie Snell; Swarthmore College/Dartmouth; Open Textbook Library",
+   "reuseAllowed": "Redistribuição e adaptação nos termos da GFDL, preservando avisos/licença e verificando requisitos de edição; não é domínio público nem CC BY",
+   "title": "Introduction to Probability, 2nd edition",
+   "topics": [
+    "probabilidade discreta e contínua",
+    "combinatória",
+    "probabilidade condicional",
+    "valor esperado e variância",
+    "lei dos grandes números",
+    "teorema central do limite"
+   ],
+   "url": "https://open.umn.edu/opentextbooks/textbooks/introduction-to-probability"
+  },
+  {
+   "exerciseAvailability": "Sim, como discussão e proposição de exercícios; é fonte histórica/pedagógica, não cobertura completa do edital.",
+   "license": "O eBook é indicado como domínio público nos EUA sob os termos do Project Gutenberg; a política exige verificação fora dos EUA",
+   "organization": "Project Gutenberg; David Eugene Smith",
+   "reuseAllowed": "Candidato a reutilizável nos EUA, inclusive com derivados; no Brasil não classificado como liberado sem checagem jurídica. Uso comercial do nome Project Gutenberg tem termos próprios",
+   "title": "The Teaching of Geometry",
+   "topics": [
+    "didática de geometria",
+    "proposições e provas",
+    "organização de exercícios e problemas"
+   ],
+   "url": "https://www.gutenberg.org/ebooks/37681"
+  }
+ ],
+ "output_path": "/home/ubuntu/task_v45/build/research/fontes_matematica.md",
+ "protectedSources": [
+  {
+   "organization": "Força Aérea Brasileira/EEAR",
+   "reuseLimit": "Não foi localizada licença aberta; não reproduzir questões, alternativas, gráficos, gabaritos ou páginas. A extração automática do PDF foi parcial, então conferir a versão vigente no FAB/EEAR.",
+   "title": "Edital oficial EA CFS 1/2027",
+   "url": "https://www.fab.mil.br/cabine/concursos/IE%20EA%20CFS%201%202027_11_02_2026.pdf",
+   "whyUsefulForCalibration": "Define que as provas escritas abrangem o Conteúdo Programático do Anexo III e é a referência para a matriz e regras vigentes."
+  },
+  {
+   "organization": "EEAR/FAB",
+   "reuseLimit": "Não há licença aberta visível; usar como índice e fonte de metadados, sem espelhar conteúdo ou redistribuir materiais.",
+   "title": "Portal oficial de ingresso EEAR",
+   "url": "https://ingresso.eear.fab.mil.br/",
+   "whyUsefulForCalibration": "Apresenta histórico de processos e datas de provas escritas de várias edições e remete às Instruções Específicas/publicações oficiais."
+  },
+  {
+   "organization": "Força Aérea Brasileira",
+   "reuseLimit": "Não foi localizada licença aberta; citar/resumir dados institucionais, sem copiar texto, imagens ou marcas.",
+   "title": "Processo seletivo para ingresso na EEAR",
+   "url": "https://www.fab.mil.br/admissao/militares-de-carreira/eear/",
+   "whyUsefulForCalibration": "Informa ensino médio como escolaridade e CFS de quatro semestres/2 anos, ajudando a calibrar nível de ensino médio e nivelamento."
+  },
+  {
+   "organization": "Khan Academy",
+   "reuseLimit": "Termos oficiais restringem em regra a acesso pessoal não comercial e proíbem baixar, distribuir ou modificar conteúdo, salvo item explicitamente marcado com licença alternativa: https://www.khanacademy.org/about/docs/khan-academy-terms-of-service",
+   "title": "Khan Academy — Pré-cálculo em português",
+   "url": "https://pt.khanacademy.org/math/precalculus",
+   "whyUsefulForCalibration": "Organiza prática em funções compostas/inversas, trigonometria, cônicas, matrizes, probabilidade e análise combinatória, com testes de unidade."
+  },
+  {
+   "organization": "IMPA/OBMEP",
+   "reuseLimit": "A página consultada diz que o conteúdo é gratuito, mas não exibe licença aberta geral; não copiar ou redistribuir PDFs, vídeos, problemas, soluções ou aplicativos sem autorização.",
+   "title": "Portal da Matemática OBMEP/IMPA",
+   "url": "https://portaldaobmep.impa.br/",
+   "whyUsefulForCalibration": "Oferece videoaulas, apostilas, exercícios, problemas resolvidos e testes para níveis fundamental 2 e médio, úteis para calibrar progressão e linguagem."
+  },
+  {
+   "organization": "Estratégia Militares, fonte comercial secundária",
+   "reuseLimit": "Não foi localizada licença aberta; não copiar redação, listas, questões, soluções ou material comercial.",
+   "title": "O que cai no concurso EEAR",
+   "url": "https://militares.estrategia.com/portal/materias-e-dicas/o-que-cai-no-concurso-eear/",
+   "whyUsefulForCalibration": "Organiza a matriz em Álgebra I, geometria plana, trigonometria, Álgebra II, estatística, geometria espacial, geometria analítica e Álgebra III, ajudando a localizar competências; o edital oficial prevalece."
+  }
+ ],
+ "subject": "Fontes de estudo, livros didáticos e PDFs de exercícios de Matemática para EEAR",
+ "topicNotes": {
+  "mat-algebra": "## mat-algebra — Álgebra\n\nSubtemas e calibração do edital:\n- **Subtemas:** equações/inequações e sistemas; polinômios; números complexos; matrizes e determinantes; modelagem algébrica [1] [6].\n- **Enunciado típico:** problema numérico ou simbólico com dados suficientes para montar expressão, resolver e selecionar valor/conjunto solução.\n- **Armadilhas/distratores:** perder sinal, raiz ou restrição de domínio ao manipular; aceitar solução extrânea após elevar, dividir ou racionalizar.\n- **Raciocínio:** aplicação, com análise de condições e verificação. O programa confirma os blocos, mas não uma frequência pública confiável por subtema.\n\nFontes diretas de livros/PDFs e calibração para este conteúdo (licenças e limites preservados):\n- OpenStax — Algebra and Trigonometry 2e: recorte pertinente: álgebra; funções; equações e polinômios; exponenciais e logaritmos; trigonometria; exercícios/seções: Sim; a página informa mais de 6.300 exercícios, revisões e testes.; licença: CC BY-NC-SA 4.0, declarada no prefácio; figuras de terceiros podem ter créditos próprios; limite/permissão: Redistribuição, adaptação e derivados permitidos para fins não comerciais, com atribuição e mesma licença; não presumir autorização comercial nem para toda arte incorporada; URL: https://openstax.org/books/algebra-and-trigonometry-2e/pages/preface\n- OpenStax — Precalculus 2e: recorte pertinente: funções; trigonometria; sistemas; geometria analítica; sequências/progressões; probabilidade e contagem; exercícios/seções: Sim; mais de 5.900 exercícios, aplicações e testes de capítulo.; licença: CC BY-NC-SA 4.0; limite/permissão: Uso, remixagem e redistribuição não comercial com atribuição e compartilhamento pela mesma licença; conferir créditos de arte e não vender sem autorização; URL: https://openstax.org/books/precalculus-2e/pages/preface\n- Wikilivros — Matemática elementar: recorte pertinente: funções; álgebra e polinômios; trigonometria; progressões; combinatória e probabilidade; estatística; geometria plana e espacial; geometria analítica; exercícios/seções: Sim; o índice mostra exercícios em várias seções, incluindo funções, exponenciais, polinômios e Teorema de Tales.; licença: A página de direitos autorais consultada declara CC BY-SA 3.0 não adaptada; verificar página e mídia específicas; limite/permissão: Texto compatível pode ser copiado, adaptado e redistribuído com atribuição e share-alike; não presumir a mesma licença para imagens, mídia ou trechos de terceiros; URL: https://pt.wikibooks.org/wiki/Matem%C3%A1tica_elementar\n- Edital oficial EA CFS 1/2027: recorte pertinente: Define que as provas escritas abrangem o Conteúdo Programático do Anexo III e é a referência para a matriz e regras vigentes.; exercícios/seções: seções de exercícios não detalhadas na ficha; licença: não verificada; limite/permissão: Não foi localizada licença aberta; não reproduzir questões, alternativas, gráficos, gabaritos ou páginas. A extração automática do PDF foi parcial, então conferir a versão vigente no FAB/EEAR.; URL: https://www.fab.mil.br/cabine/concursos/IE%20EA%20CFS%201%202027_11_02_2026.pdf\n- Portal da Matemática OBMEP/IMPA: recorte pertinente: Oferece videoaulas, apostilas, exercícios, problemas resolvidos e testes para níveis fundamental 2 e médio, úteis para calibrar progressão e linguagem.; exercícios/seções: seções de exercícios não detalhadas na ficha; licença: não verificada; limite/permissão: A página consultada diz que o conteúdo é gratuito, mas não exibe licença aberta geral; não copiar ou redistribuir PDFs, vídeos, problemas, soluções ou aplicativos sem autorização.; URL: https://portaldaobmep.impa.br/\n- O que cai no concurso EEAR: recorte pertinente: Organiza a matriz em Álgebra I, geometria plana, trigonometria, Álgebra II, estatística, geometria espacial, geometria analítica e Álgebra III, ajudando a localizar competências; o edital oficial prevalece.; exercícios/seções: seções de exercícios não detalhadas na ficha; licença: não verificada; limite/permissão: Não foi localizada licença aberta; não copiar redação, listas, questões, soluções ou material comercial.; URL: https://militares.estrategia.com/portal/materias-e-dicas/o-que-cai-no-concurso-eear/",
+  "mat-geometria": "## mat-geometria — Geometria plana\n\nSubtemas e calibração do edital:\n- **Subtemas:** triângulos, semelhança, congruência e Pitágoras; quadriláteros, circunferência; perímetro, áreas e relações métricas [1] [6].\n- **Enunciado típico:** figura com medidas/ângulos, pedindo comprimento, área, razão ou identificação de relação geométrica.\n- **Armadilhas/distratores:** usar lado como altura ou confundir raio e diâmetro; misturar unidades, aplicar fórmula de figura errada ou ignorar semelhança indicada.\n- **Raciocínio:** aplicação visual e análise de relações. A recorrência exata não foi quantificada; diagramas e dados devem ser autorais e suficientes.\n\nFontes diretas de livros/PDFs e calibração para este conteúdo (licenças e limites preservados):\n- Wikilivros — Matemática elementar: recorte pertinente: funções; álgebra e polinômios; trigonometria; progressões; combinatória e probabilidade; estatística; geometria plana e espacial; geometria analítica; exercícios/seções: Sim; o índice mostra exercícios em várias seções, incluindo funções, exponenciais, polinômios e Teorema de Tales.; licença: A página de direitos autorais consultada declara CC BY-SA 3.0 não adaptada; verificar página e mídia específicas; limite/permissão: Texto compatível pode ser copiado, adaptado e redistribuído com atribuição e share-alike; não presumir a mesma licença para imagens, mídia ou trechos de terceiros; URL: https://pt.wikibooks.org/wiki/Matem%C3%A1tica_elementar\n- Euclid’s Elements Redux: recorte pertinente: geometria plana; ângulos e paralelas; círculos; proporções; sequências geométricas; raciocínio e prova; exercícios/seções: Há capítulo Solutions no sumário, mas o catálogo não quantifica os exercícios; confirmar a edição integral.; licença: CC BY-SA/Attribution-ShareAlike, versão não indicada no registro; limite/permissão: Adaptação e redistribuição sob a CC BY-SA indicada, com atribuição e share-alike; confirmar a licença na edição/PDF antes de publicar; URL: https://open.umn.edu/opentextbooks/textbooks/euclid-s-elements-redux\n- The Teaching of Geometry: recorte pertinente: didática de geometria; proposições e provas; organização de exercícios e problemas; exercícios/seções: Sim, como discussão e proposição de exercícios; é fonte histórica/pedagógica, não cobertura completa do edital.; licença: O eBook é indicado como domínio público nos EUA sob os termos do Project Gutenberg; a política exige verificação fora dos EUA; limite/permissão: Candidato a reutilizável nos EUA, inclusive com derivados; no Brasil não classificado como liberado sem checagem jurídica. Uso comercial do nome Project Gutenberg tem termos próprios; URL: https://www.gutenberg.org/ebooks/37681\n- OpenStax — Algebra and Trigonometry 2e: recorte pertinente: álgebra; funções; equações e polinômios; exponenciais e logaritmos; trigonometria; exercícios/seções: Sim; a página informa mais de 6.300 exercícios, revisões e testes.; licença: CC BY-NC-SA 4.0, declarada no prefácio; figuras de terceiros podem ter créditos próprios; limite/permissão: Redistribuição, adaptação e derivados permitidos para fins não comerciais, com atribuição e mesma licença; não presumir autorização comercial nem para toda arte incorporada; URL: https://openstax.org/books/algebra-and-trigonometry-2e/pages/preface\n- Trigonometry: recorte pertinente: trigonometria circular e de triângulo retângulo; funções e gráficos trigonométricos; triângulos e vetores; identidades e equações; números complexos e coordenadas polares; exercícios/seções: Sim; atividades iniciais, Progress Checks, exercícios selecionados e respostas/dicas.; licença: CC BY-NC-SA, versão numérica não indicada no registro; limite/permissão: Reutilização e adaptação não comercial com atribuição e mesma licença; verificar a versão, as atribuições e os termos de applets, planilhas e vídeos vinculados; URL: https://open.umn.edu/opentextbooks/textbooks/trigonometry\n- Edital oficial EA CFS 1/2027: recorte pertinente: Define que as provas escritas abrangem o Conteúdo Programático do Anexo III e é a referência para a matriz e regras vigentes.; exercícios/seções: seções de exercícios não detalhadas na ficha; licença: não verificada; limite/permissão: Não foi localizada licença aberta; não reproduzir questões, alternativas, gráficos, gabaritos ou páginas. A extração automática do PDF foi parcial, então conferir a versão vigente no FAB/EEAR.; URL: https://www.fab.mil.br/cabine/concursos/IE%20EA%20CFS%201%202027_11_02_2026.pdf\n- Portal da Matemática OBMEP/IMPA: recorte pertinente: Oferece videoaulas, apostilas, exercícios, problemas resolvidos e testes para níveis fundamental 2 e médio, úteis para calibrar progressão e linguagem.; exercícios/seções: seções de exercícios não detalhadas na ficha; licença: não verificada; limite/permissão: A página consultada diz que o conteúdo é gratuito, mas não exibe licença aberta geral; não copiar ou redistribuir PDFs, vídeos, problemas, soluções ou aplicativos sem autorização.; URL: https://portaldaobmep.impa.br/\n- O que cai no concurso EEAR: recorte pertinente: Organiza a matriz em Álgebra I, geometria plana, trigonometria, Álgebra II, estatística, geometria espacial, geometria analítica e Álgebra III, ajudando a localizar competências; o edital oficial prevalece.; exercícios/seções: seções de exercícios não detalhadas na ficha; licença: não verificada; limite/permissão: Não foi localizada licença aberta; não copiar redação, listas, questões, soluções ou material comercial.; URL: https://militares.estrategia.com/portal/materias-e-dicas/o-que-cai-no-concurso-eear/",
+  "mat-trig": "## mat-trig — Trigonometria\n\nSubtemas e calibração do edital:\n- **Subtemas:** seno, cosseno e tangente; ângulos notáveis; identidades e equações; lei dos senos/cossenos e aplicações em triângulos [1] [6].\n- **Enunciado típico:** triângulo com medidas, expressão a simplificar ou situação periódica que exige razão, identidade ou resolução de equação.\n- **Armadilhas/distratores:** trocar cateto oposto/adjacente ou escolher sinal de quadrante incorreto; esquecer unidade/intervalo da solução e confundir identidade com valor numérico.\n- **Raciocínio:** aplicação/análise. Sem evidência pública específica de peso entre triângulos e funções; mantenha ambos no escopo do edital.\n\nFontes diretas de livros/PDFs e calibração para este conteúdo (licenças e limites preservados):\n- OpenStax — Algebra and Trigonometry 2e: recorte pertinente: álgebra; funções; equações e polinômios; exponenciais e logaritmos; trigonometria; exercícios/seções: Sim; a página informa mais de 6.300 exercícios, revisões e testes.; licença: CC BY-NC-SA 4.0, declarada no prefácio; figuras de terceiros podem ter créditos próprios; limite/permissão: Redistribuição, adaptação e derivados permitidos para fins não comerciais, com atribuição e mesma licença; não presumir autorização comercial nem para toda arte incorporada; URL: https://openstax.org/books/algebra-and-trigonometry-2e/pages/preface\n- OpenStax — Precalculus 2e: recorte pertinente: funções; trigonometria; sistemas; geometria analítica; sequências/progressões; probabilidade e contagem; exercícios/seções: Sim; mais de 5.900 exercícios, aplicações e testes de capítulo.; licença: CC BY-NC-SA 4.0; limite/permissão: Uso, remixagem e redistribuição não comercial com atribuição e compartilhamento pela mesma licença; conferir créditos de arte e não vender sem autorização; URL: https://openstax.org/books/precalculus-2e/pages/preface\n- Trigonometry: recorte pertinente: trigonometria circular e de triângulo retângulo; funções e gráficos trigonométricos; triângulos e vetores; identidades e equações; números complexos e coordenadas polares; exercícios/seções: Sim; atividades iniciais, Progress Checks, exercícios selecionados e respostas/dicas.; licença: CC BY-NC-SA, versão numérica não indicada no registro; limite/permissão: Reutilização e adaptação não comercial com atribuição e mesma licença; verificar a versão, as atribuições e os termos de applets, planilhas e vídeos vinculados; URL: https://open.umn.edu/opentextbooks/textbooks/trigonometry\n- Wikilivros — Matemática elementar: recorte pertinente: funções; álgebra e polinômios; trigonometria; progressões; combinatória e probabilidade; estatística; geometria plana e espacial; geometria analítica; exercícios/seções: Sim; o índice mostra exercícios em várias seções, incluindo funções, exponenciais, polinômios e Teorema de Tales.; licença: A página de direitos autorais consultada declara CC BY-SA 3.0 não adaptada; verificar página e mídia específicas; limite/permissão: Texto compatível pode ser copiado, adaptado e redistribuído com atribuição e share-alike; não presumir a mesma licença para imagens, mídia ou trechos de terceiros; URL: https://pt.wikibooks.org/wiki/Matem%C3%A1tica_elementar\n- Edital oficial EA CFS 1/2027: recorte pertinente: Define que as provas escritas abrangem o Conteúdo Programático do Anexo III e é a referência para a matriz e regras vigentes.; exercícios/seções: seções de exercícios não detalhadas na ficha; licença: não verificada; limite/permissão: Não foi localizada licença aberta; não reproduzir questões, alternativas, gráficos, gabaritos ou páginas. A extração automática do PDF foi parcial, então conferir a versão vigente no FAB/EEAR.; URL: https://www.fab.mil.br/cabine/concursos/IE%20EA%20CFS%201%202027_11_02_2026.pdf",
+  "mat-stats": "## mat-stats — Estatística e probabilidade\n\nSubtemas e calibração do edital:\n- **Subtemas:** média, mediana, moda e dispersão; leitura de tabelas/gráficos; contagem, probabilidade simples, condicional e eventos [1] [6].\n- **Enunciado típico:** tabela ou situação de sorteio/seleção pedindo medida, chance ou número de casos; o núcleo é definir corretamente o espaço amostral.\n- **Armadilhas/distratores:** usar média quando a pergunta pede mediana ou ponderação; contar casos dependentes como independentes ou esquecer reposição/ordem.\n- **Raciocínio:** aplicação e análise de dados. A frequência por técnica combinatória não foi confirmada publicamente; explicite todas as hipóteses em itens autorais.\n\nFontes diretas de livros/PDFs e calibração para este conteúdo (licenças e limites preservados):\n- OpenStax — Introductory Statistics 2e: recorte pertinente: estatística descritiva; amostragem e dados; probabilidade; variáveis aleatórias; distribuição normal; regressão e correlação; exercícios/seções: Sim; Try It, prática, deveres, exercícios colaborativos e laboratórios.; licença: CC BY-NC-SA 4.0; ilustrações podem ter atribuição distinta; limite/permissão: Copiar, adaptar e redistribuir a parte licenciada em uso não comercial, com atribuição e mesma licença; não tratar PDF gratuito como licença comercial; URL: https://openstax.org/books/introductory-statistics-2e/pages/preface\n- Introduction to Probability, 2nd edition: recorte pertinente: probabilidade discreta e contínua; combinatória; probabilidade condicional; valor esperado e variância; lei dos grandes números; teorema central do limite; exercícios/seções: Sim; o registro informa mais de 600 exercícios, com e sem computador e teóricos.; licença: GNU Free Documentation License (GFDL), conforme o registro; PDF direto: https://math.dartmouth.edu/~prob/prob/prob.pdf; limite/permissão: Redistribuição e adaptação nos termos da GFDL, preservando avisos/licença e verificando requisitos de edição; não é domínio público nem CC BY; URL: https://open.umn.edu/opentextbooks/textbooks/introduction-to-probability\n- OpenStax — Precalculus 2e: recorte pertinente: funções; trigonometria; sistemas; geometria analítica; sequências/progressões; probabilidade e contagem; exercícios/seções: Sim; mais de 5.900 exercícios, aplicações e testes de capítulo.; licença: CC BY-NC-SA 4.0; limite/permissão: Uso, remixagem e redistribuição não comercial com atribuição e compartilhamento pela mesma licença; conferir créditos de arte e não vender sem autorização; URL: https://openstax.org/books/precalculus-2e/pages/preface\n- Wikilivros — Matemática elementar: recorte pertinente: funções; álgebra e polinômios; trigonometria; progressões; combinatória e probabilidade; estatística; geometria plana e espacial; geometria analítica; exercícios/seções: Sim; o índice mostra exercícios em várias seções, incluindo funções, exponenciais, polinômios e Teorema de Tales.; licença: A página de direitos autorais consultada declara CC BY-SA 3.0 não adaptada; verificar página e mídia específicas; limite/permissão: Texto compatível pode ser copiado, adaptado e redistribuído com atribuição e share-alike; não presumir a mesma licença para imagens, mídia ou trechos de terceiros; URL: https://pt.wikibooks.org/wiki/Matem%C3%A1tica_elementar\n- Edital oficial EA CFS 1/2027: recorte pertinente: Define que as provas escritas abrangem o Conteúdo Programático do Anexo III e é a referência para a matriz e regras vigentes.; exercícios/seções: seções de exercícios não detalhadas na ficha; licença: não verificada; limite/permissão: Não foi localizada licença aberta; não reproduzir questões, alternativas, gráficos, gabaritos ou páginas. A extração automática do PDF foi parcial, então conferir a versão vigente no FAB/EEAR.; URL: https://www.fab.mil.br/cabine/concursos/IE%20EA%20CFS%201%202027_11_02_2026.pdf\n- Portal da Matemática OBMEP/IMPA: recorte pertinente: Oferece videoaulas, apostilas, exercícios, problemas resolvidos e testes para níveis fundamental 2 e médio, úteis para calibrar progressão e linguagem.; exercícios/seções: seções de exercícios não detalhadas na ficha; licença: não verificada; limite/permissão: A página consultada diz que o conteúdo é gratuito, mas não exibe licença aberta geral; não copiar ou redistribuir PDFs, vídeos, problemas, soluções ou aplicativos sem autorização.; URL: https://portaldaobmep.impa.br/",
+  "mat-spatial": "## mat-spatial — Geometria espacial\n\nSubtemas e calibração do edital:\n- **Subtemas:** áreas e volumes de poliedros, prismas, pirâmides, cilindros, cones e esfera; seções, altura e geratriz [1] [6].\n- **Enunciado típico:** sólido com medidas ou planificação, pedindo área lateral/total, volume ou comparação de recipientes.\n- **Armadilhas/distratores:** usar geratriz como altura perpendicular; confundir área lateral com total, raio com diâmetro ou esquecer unidade cúbica.\n- **Raciocínio:** aplicação espacial e modelagem. Não há contagem pública específica por sólido; use o conjunto listado no programa e figuras claras.\n\nFontes diretas de livros/PDFs e calibração para este conteúdo (licenças e limites preservados):\n- Wikilivros — Matemática elementar: recorte pertinente: funções; álgebra e polinômios; trigonometria; progressões; combinatória e probabilidade; estatística; geometria plana e espacial; geometria analítica; exercícios/seções: Sim; o índice mostra exercícios em várias seções, incluindo funções, exponenciais, polinômios e Teorema de Tales.; licença: A página de direitos autorais consultada declara CC BY-SA 3.0 não adaptada; verificar página e mídia específicas; limite/permissão: Texto compatível pode ser copiado, adaptado e redistribuído com atribuição e share-alike; não presumir a mesma licença para imagens, mídia ou trechos de terceiros; URL: https://pt.wikibooks.org/wiki/Matem%C3%A1tica_elementar\n- Edital oficial EA CFS 1/2027: recorte pertinente: Define que as provas escritas abrangem o Conteúdo Programático do Anexo III e é a referência para a matriz e regras vigentes.; exercícios/seções: seções de exercícios não detalhadas na ficha; licença: não verificada; limite/permissão: Não foi localizada licença aberta; não reproduzir questões, alternativas, gráficos, gabaritos ou páginas. A extração automática do PDF foi parcial, então conferir a versão vigente no FAB/EEAR.; URL: https://www.fab.mil.br/cabine/concursos/IE%20EA%20CFS%201%202027_11_02_2026.pdf\n- Portal da Matemática OBMEP/IMPA: recorte pertinente: Oferece videoaulas, apostilas, exercícios, problemas resolvidos e testes para níveis fundamental 2 e médio, úteis para calibrar progressão e linguagem.; exercícios/seções: seções de exercícios não detalhadas na ficha; licença: não verificada; limite/permissão: A página consultada diz que o conteúdo é gratuito, mas não exibe licença aberta geral; não copiar ou redistribuir PDFs, vídeos, problemas, soluções ou aplicativos sem autorização.; URL: https://portaldaobmep.impa.br/\n- O que cai no concurso EEAR: recorte pertinente: Organiza a matriz em Álgebra I, geometria plana, trigonometria, Álgebra II, estatística, geometria espacial, geometria analítica e Álgebra III, ajudando a localizar competências; o edital oficial prevalece.; exercícios/seções: seções de exercícios não detalhadas na ficha; licença: não verificada; limite/permissão: Não foi localizada licença aberta; não copiar redação, listas, questões, soluções ou material comercial.; URL: https://militares.estrategia.com/portal/materias-e-dicas/o-que-cai-no-concurso-eear/",
+  "mat-analytic": "## mat-analytic — Geometria analítica\n\nSubtemas e calibração do edital:\n- **Subtemas:** plano cartesiano; distância, ponto médio e inclinação; retas; circunferência e relações entre equações e gráficos [1] [6].\n- **Enunciado típico:** coordenadas de pontos/retas ou equação de lugar geométrico para calcular distância, interseção, parâmetro ou posição relativa.\n- **Armadilhas/distratores:** erro de sinal na inclinação ou na fórmula de distância; confundir raio com diâmetro e condição de paralelismo com perpendicularidade.\n- **Raciocínio:** aplicação/análise algébrico-geométrica. Sem evidência pública específica para cônicas além da circunferência; não extrapole o edital.\n\nFontes diretas de livros/PDFs e calibração para este conteúdo (licenças e limites preservados):\n- OpenStax — Precalculus 2e: recorte pertinente: funções; trigonometria; sistemas; geometria analítica; sequências/progressões; probabilidade e contagem; exercícios/seções: Sim; mais de 5.900 exercícios, aplicações e testes de capítulo.; licença: CC BY-NC-SA 4.0; limite/permissão: Uso, remixagem e redistribuição não comercial com atribuição e compartilhamento pela mesma licença; conferir créditos de arte e não vender sem autorização; URL: https://openstax.org/books/precalculus-2e/pages/preface\n- Wikilivros — Matemática elementar: recorte pertinente: funções; álgebra e polinômios; trigonometria; progressões; combinatória e probabilidade; estatística; geometria plana e espacial; geometria analítica; exercícios/seções: Sim; o índice mostra exercícios em várias seções, incluindo funções, exponenciais, polinômios e Teorema de Tales.; licença: A página de direitos autorais consultada declara CC BY-SA 3.0 não adaptada; verificar página e mídia específicas; limite/permissão: Texto compatível pode ser copiado, adaptado e redistribuído com atribuição e share-alike; não presumir a mesma licença para imagens, mídia ou trechos de terceiros; URL: https://pt.wikibooks.org/wiki/Matem%C3%A1tica_elementar\n- Khan Academy — Pré-cálculo em português: recorte pertinente: Organiza prática em funções compostas/inversas, trigonometria, cônicas, matrizes, probabilidade e análise combinatória, com testes de unidade.; exercícios/seções: seções de exercícios não detalhadas na ficha; licença: não verificada; limite/permissão: Termos oficiais restringem em regra a acesso pessoal não comercial e proíbem baixar, distribuir ou modificar conteúdo, salvo item explicitamente marcado com licença alternativa: https://www.khanacademy.org/about/docs/khan-academy-terms-of-service; URL: https://pt.khanacademy.org/math/precalculus\n- Edital oficial EA CFS 1/2027: recorte pertinente: Define que as provas escritas abrangem o Conteúdo Programático do Anexo III e é a referência para a matriz e regras vigentes.; exercícios/seções: seções de exercícios não detalhadas na ficha; licença: não verificada; limite/permissão: Não foi localizada licença aberta; não reproduzir questões, alternativas, gráficos, gabaritos ou páginas. A extração automática do PDF foi parcial, então conferir a versão vigente no FAB/EEAR.; URL: https://www.fab.mil.br/cabine/concursos/IE%20EA%20CFS%201%202027_11_02_2026.pdf\n- O que cai no concurso EEAR: recorte pertinente: Organiza a matriz em Álgebra I, geometria plana, trigonometria, Álgebra II, estatística, geometria espacial, geometria analítica e Álgebra III, ajudando a localizar competências; o edital oficial prevalece.; exercícios/seções: seções de exercícios não detalhadas na ficha; licença: não verificada; limite/permissão: Não foi localizada licença aberta; não copiar redação, listas, questões, soluções ou material comercial.; URL: https://militares.estrategia.com/portal/materias-e-dicas/o-que-cai-no-concurso-eear/",
+  "mat-progressions": "## mat-progressions — Progressões e funções\n\nSubtemas e calibração do edital:\n- **Subtemas:** sequências; PA e PG; funções de 1º/2º grau, modular, exponencial e logarítmica; gráficos, domínio e composição básica [1] [6].\n- **Enunciado típico:** regra de recorrência, tabela/gráfico ou problema de crescimento para determinar termo, soma, parâmetro, raiz ou comportamento.\n- **Armadilhas/distratores:** confundir índice inicial e termo geral; aplicar propriedade de PA a PG ou regra de log sem respeitar domínio/base e módulo por partes.\n- **Raciocínio:** aplicação e análise de representação. O programa confirma os blocos; a distribuição entre progressões e funções não foi confirmada publicamente.\n\nFontes diretas de livros/PDFs e calibração para este conteúdo (licenças e limites preservados):\n- OpenStax — Precalculus 2e: recorte pertinente: funções; trigonometria; sistemas; geometria analítica; sequências/progressões; probabilidade e contagem; exercícios/seções: Sim; mais de 5.900 exercícios, aplicações e testes de capítulo.; licença: CC BY-NC-SA 4.0; limite/permissão: Uso, remixagem e redistribuição não comercial com atribuição e compartilhamento pela mesma licença; conferir créditos de arte e não vender sem autorização; URL: https://openstax.org/books/precalculus-2e/pages/preface\n- OpenStax — Algebra and Trigonometry 2e: recorte pertinente: álgebra; funções; equações e polinômios; exponenciais e logaritmos; trigonometria; exercícios/seções: Sim; a página informa mais de 6.300 exercícios, revisões e testes.; licença: CC BY-NC-SA 4.0, declarada no prefácio; figuras de terceiros podem ter créditos próprios; limite/permissão: Redistribuição, adaptação e derivados permitidos para fins não comerciais, com atribuição e mesma licença; não presumir autorização comercial nem para toda arte incorporada; URL: https://openstax.org/books/algebra-and-trigonometry-2e/pages/preface\n- Wikilivros — Matemática elementar: recorte pertinente: funções; álgebra e polinômios; trigonometria; progressões; combinatória e probabilidade; estatística; geometria plana e espacial; geometria analítica; exercícios/seções: Sim; o índice mostra exercícios em várias seções, incluindo funções, exponenciais, polinômios e Teorema de Tales.; licença: A página de direitos autorais consultada declara CC BY-SA 3.0 não adaptada; verificar página e mídia específicas; limite/permissão: Texto compatível pode ser copiado, adaptado e redistribuído com atribuição e share-alike; não presumir a mesma licença para imagens, mídia ou trechos de terceiros; URL: https://pt.wikibooks.org/wiki/Matem%C3%A1tica_elementar\n- Khan Academy — Pré-cálculo em português: recorte pertinente: Organiza prática em funções compostas/inversas, trigonometria, cônicas, matrizes, probabilidade e análise combinatória, com testes de unidade.; exercícios/seções: seções de exercícios não detalhadas na ficha; licença: não verificada; limite/permissão: Termos oficiais restringem em regra a acesso pessoal não comercial e proíbem baixar, distribuir ou modificar conteúdo, salvo item explicitamente marcado com licença alternativa: https://www.khanacademy.org/about/docs/khan-academy-terms-of-service; URL: https://pt.khanacademy.org/math/precalculus\n- Edital oficial EA CFS 1/2027: recorte pertinente: Define que as provas escritas abrangem o Conteúdo Programático do Anexo III e é a referência para a matriz e regras vigentes.; exercícios/seções: seções de exercícios não detalhadas na ficha; licença: não verificada; limite/permissão: Não foi localizada licença aberta; não reproduzir questões, alternativas, gráficos, gabaritos ou páginas. A extração automática do PDF foi parcial, então conferir a versão vigente no FAB/EEAR.; URL: https://www.fab.mil.br/cabine/concursos/IE%20EA%20CFS%201%202027_11_02_2026.pdf"
+ },
+ "topicSources": {
+  "mat-algebra": [
+   {
+    "exerciseAvailability": "Sim; a página informa mais de 6.300 exercícios, revisões e testes.",
+    "license": "CC BY-NC-SA 4.0, declarada no prefácio; figuras de terceiros podem ter créditos próprios",
+    "organization": "OpenStax/Rice University",
+    "reuseAllowed": "Redistribuição, adaptação e derivados permitidos para fins não comerciais, com atribuição e mesma licença; não presumir autorização comercial nem para toda arte incorporada",
+    "title": "OpenStax — Algebra and Trigonometry 2e",
+    "topics": [
+     "álgebra",
+     "funções",
+     "equações e polinômios",
+     "exponenciais e logaritmos",
+     "trigonometria"
+    ],
+    "url": "https://openstax.org/books/algebra-and-trigonometry-2e/pages/preface"
+   },
+   {
+    "exerciseAvailability": "Sim; mais de 5.900 exercícios, aplicações e testes de capítulo.",
+    "license": "CC BY-NC-SA 4.0",
+    "organization": "OpenStax/Rice University",
+    "reuseAllowed": "Uso, remixagem e redistribuição não comercial com atribuição e compartilhamento pela mesma licença; conferir créditos de arte e não vender sem autorização",
+    "title": "OpenStax — Precalculus 2e",
+    "topics": [
+     "funções",
+     "trigonometria",
+     "sistemas",
+     "geometria analítica",
+     "sequências/progressões",
+     "probabilidade e contagem"
+    ],
+    "url": "https://openstax.org/books/precalculus-2e/pages/preface"
+   },
+   {
+    "exerciseAvailability": "Sim; o índice mostra exercícios em várias seções, incluindo funções, exponenciais, polinômios e Teorema de Tales.",
+    "license": "A página de direitos autorais consultada declara CC BY-SA 3.0 não adaptada; verificar página e mídia específicas",
+    "organization": "Comunidade lusófona do Wikilivros/Wikimedia Foundation",
+    "reuseAllowed": "Texto compatível pode ser copiado, adaptado e redistribuído com atribuição e share-alike; não presumir a mesma licença para imagens, mídia ou trechos de terceiros",
+    "title": "Wikilivros — Matemática elementar",
+    "topics": [
+     "funções",
+     "álgebra e polinômios",
+     "trigonometria",
+     "progressões",
+     "combinatória e probabilidade",
+     "estatística",
+     "geometria plana e espacial",
+     "geometria analítica"
+    ],
+    "url": "https://pt.wikibooks.org/wiki/Matem%C3%A1tica_elementar"
+   },
+   {
+    "organization": "Força Aérea Brasileira/EEAR",
+    "reuseLimit": "Não foi localizada licença aberta; não reproduzir questões, alternativas, gráficos, gabaritos ou páginas. A extração automática do PDF foi parcial, então conferir a versão vigente no FAB/EEAR.",
+    "title": "Edital oficial EA CFS 1/2027",
+    "url": "https://www.fab.mil.br/cabine/concursos/IE%20EA%20CFS%201%202027_11_02_2026.pdf",
+    "whyUsefulForCalibration": "Define que as provas escritas abrangem o Conteúdo Programático do Anexo III e é a referência para a matriz e regras vigentes."
+   },
+   {
+    "organization": "IMPA/OBMEP",
+    "reuseLimit": "A página consultada diz que o conteúdo é gratuito, mas não exibe licença aberta geral; não copiar ou redistribuir PDFs, vídeos, problemas, soluções ou aplicativos sem autorização.",
+    "title": "Portal da Matemática OBMEP/IMPA",
+    "url": "https://portaldaobmep.impa.br/",
+    "whyUsefulForCalibration": "Oferece videoaulas, apostilas, exercícios, problemas resolvidos e testes para níveis fundamental 2 e médio, úteis para calibrar progressão e linguagem."
+   },
+   {
+    "organization": "Estratégia Militares, fonte comercial secundária",
+    "reuseLimit": "Não foi localizada licença aberta; não copiar redação, listas, questões, soluções ou material comercial.",
+    "title": "O que cai no concurso EEAR",
+    "url": "https://militares.estrategia.com/portal/materias-e-dicas/o-que-cai-no-concurso-eear/",
+    "whyUsefulForCalibration": "Organiza a matriz em Álgebra I, geometria plana, trigonometria, Álgebra II, estatística, geometria espacial, geometria analítica e Álgebra III, ajudando a localizar competências; o edital oficial prevalece."
+   }
+  ],
+  "mat-geometria": [
+   {
+    "exerciseAvailability": "Sim; o índice mostra exercícios em várias seções, incluindo funções, exponenciais, polinômios e Teorema de Tales.",
+    "license": "A página de direitos autorais consultada declara CC BY-SA 3.0 não adaptada; verificar página e mídia específicas",
+    "organization": "Comunidade lusófona do Wikilivros/Wikimedia Foundation",
+    "reuseAllowed": "Texto compatível pode ser copiado, adaptado e redistribuído com atribuição e share-alike; não presumir a mesma licença para imagens, mídia ou trechos de terceiros",
+    "title": "Wikilivros — Matemática elementar",
+    "topics": [
+     "funções",
+     "álgebra e polinômios",
+     "trigonometria",
+     "progressões",
+     "combinatória e probabilidade",
+     "estatística",
+     "geometria plana e espacial",
+     "geometria analítica"
+    ],
+    "url": "https://pt.wikibooks.org/wiki/Matem%C3%A1tica_elementar"
+   },
+   {
+    "exerciseAvailability": "Há capítulo Solutions no sumário, mas o catálogo não quantifica os exercícios; confirmar a edição integral.",
+    "license": "CC BY-SA/Attribution-ShareAlike, versão não indicada no registro",
+    "organization": "Daniel P. Callahan; Open Textbook Library",
+    "reuseAllowed": "Adaptação e redistribuição sob a CC BY-SA indicada, com atribuição e share-alike; confirmar a licença na edição/PDF antes de publicar",
+    "title": "Euclid’s Elements Redux",
+    "topics": [
+     "geometria plana",
+     "ângulos e paralelas",
+     "círculos",
+     "proporções",
+     "sequências geométricas",
+     "raciocínio e prova"
+    ],
+    "url": "https://open.umn.edu/opentextbooks/textbooks/euclid-s-elements-redux"
+   },
+   {
+    "exerciseAvailability": "Sim, como discussão e proposição de exercícios; é fonte histórica/pedagógica, não cobertura completa do edital.",
+    "license": "O eBook é indicado como domínio público nos EUA sob os termos do Project Gutenberg; a política exige verificação fora dos EUA",
+    "organization": "Project Gutenberg; David Eugene Smith",
+    "reuseAllowed": "Candidato a reutilizável nos EUA, inclusive com derivados; no Brasil não classificado como liberado sem checagem jurídica. Uso comercial do nome Project Gutenberg tem termos próprios",
+    "title": "The Teaching of Geometry",
+    "topics": [
+     "didática de geometria",
+     "proposições e provas",
+     "organização de exercícios e problemas"
+    ],
+    "url": "https://www.gutenberg.org/ebooks/37681"
+   },
+   {
+    "exerciseAvailability": "Sim; a página informa mais de 6.300 exercícios, revisões e testes.",
+    "license": "CC BY-NC-SA 4.0, declarada no prefácio; figuras de terceiros podem ter créditos próprios",
+    "organization": "OpenStax/Rice University",
+    "reuseAllowed": "Redistribuição, adaptação e derivados permitidos para fins não comerciais, com atribuição e mesma licença; não presumir autorização comercial nem para toda arte incorporada",
+    "title": "OpenStax — Algebra and Trigonometry 2e",
+    "topics": [
+     "álgebra",
+     "funções",
+     "equações e polinômios",
+     "exponenciais e logaritmos",
+     "trigonometria"
+    ],
+    "url": "https://openstax.org/books/algebra-and-trigonometry-2e/pages/preface"
+   },
+   {
+    "exerciseAvailability": "Sim; atividades iniciais, Progress Checks, exercícios selecionados e respostas/dicas.",
+    "license": "CC BY-NC-SA, versão numérica não indicada no registro",
+    "organization": "Ted Sundstrom e Steven Schlicker, Grand Valley State University; Open Textbook Library/University of Minnesota",
+    "reuseAllowed": "Reutilização e adaptação não comercial com atribuição e mesma licença; verificar a versão, as atribuições e os termos de applets, planilhas e vídeos vinculados",
+    "title": "Trigonometry",
+    "topics": [
+     "trigonometria circular e de triângulo retângulo",
+     "funções e gráficos trigonométricos",
+     "triângulos e vetores",
+     "identidades e equações",
+     "números complexos e coordenadas polares"
+    ],
+    "url": "https://open.umn.edu/opentextbooks/textbooks/trigonometry"
+   },
+   {
+    "organization": "Força Aérea Brasileira/EEAR",
+    "reuseLimit": "Não foi localizada licença aberta; não reproduzir questões, alternativas, gráficos, gabaritos ou páginas. A extração automática do PDF foi parcial, então conferir a versão vigente no FAB/EEAR.",
+    "title": "Edital oficial EA CFS 1/2027",
+    "url": "https://www.fab.mil.br/cabine/concursos/IE%20EA%20CFS%201%202027_11_02_2026.pdf",
+    "whyUsefulForCalibration": "Define que as provas escritas abrangem o Conteúdo Programático do Anexo III e é a referência para a matriz e regras vigentes."
+   },
+   {
+    "organization": "IMPA/OBMEP",
+    "reuseLimit": "A página consultada diz que o conteúdo é gratuito, mas não exibe licença aberta geral; não copiar ou redistribuir PDFs, vídeos, problemas, soluções ou aplicativos sem autorização.",
+    "title": "Portal da Matemática OBMEP/IMPA",
+    "url": "https://portaldaobmep.impa.br/",
+    "whyUsefulForCalibration": "Oferece videoaulas, apostilas, exercícios, problemas resolvidos e testes para níveis fundamental 2 e médio, úteis para calibrar progressão e linguagem."
+   },
+   {
+    "organization": "Estratégia Militares, fonte comercial secundária",
+    "reuseLimit": "Não foi localizada licença aberta; não copiar redação, listas, questões, soluções ou material comercial.",
+    "title": "O que cai no concurso EEAR",
+    "url": "https://militares.estrategia.com/portal/materias-e-dicas/o-que-cai-no-concurso-eear/",
+    "whyUsefulForCalibration": "Organiza a matriz em Álgebra I, geometria plana, trigonometria, Álgebra II, estatística, geometria espacial, geometria analítica e Álgebra III, ajudando a localizar competências; o edital oficial prevalece."
+   }
+  ],
+  "mat-trig": [
+   {
+    "exerciseAvailability": "Sim; a página informa mais de 6.300 exercícios, revisões e testes.",
+    "license": "CC BY-NC-SA 4.0, declarada no prefácio; figuras de terceiros podem ter créditos próprios",
+    "organization": "OpenStax/Rice University",
+    "reuseAllowed": "Redistribuição, adaptação e derivados permitidos para fins não comerciais, com atribuição e mesma licença; não presumir autorização comercial nem para toda arte incorporada",
+    "title": "OpenStax — Algebra and Trigonometry 2e",
+    "topics": [
+     "álgebra",
+     "funções",
+     "equações e polinômios",
+     "exponenciais e logaritmos",
+     "trigonometria"
+    ],
+    "url": "https://openstax.org/books/algebra-and-trigonometry-2e/pages/preface"
+   },
+   {
+    "exerciseAvailability": "Sim; mais de 5.900 exercícios, aplicações e testes de capítulo.",
+    "license": "CC BY-NC-SA 4.0",
+    "organization": "OpenStax/Rice University",
+    "reuseAllowed": "Uso, remixagem e redistribuição não comercial com atribuição e compartilhamento pela mesma licença; conferir créditos de arte e não vender sem autorização",
+    "title": "OpenStax — Precalculus 2e",
+    "topics": [
+     "funções",
+     "trigonometria",
+     "sistemas",
+     "geometria analítica",
+     "sequências/progressões",
+     "probabilidade e contagem"
+    ],
+    "url": "https://openstax.org/books/precalculus-2e/pages/preface"
+   },
+   {
+    "exerciseAvailability": "Sim; atividades iniciais, Progress Checks, exercícios selecionados e respostas/dicas.",
+    "license": "CC BY-NC-SA, versão numérica não indicada no registro",
+    "organization": "Ted Sundstrom e Steven Schlicker, Grand Valley State University; Open Textbook Library/University of Minnesota",
+    "reuseAllowed": "Reutilização e adaptação não comercial com atribuição e mesma licença; verificar a versão, as atribuições e os termos de applets, planilhas e vídeos vinculados",
+    "title": "Trigonometry",
+    "topics": [
+     "trigonometria circular e de triângulo retângulo",
+     "funções e gráficos trigonométricos",
+     "triângulos e vetores",
+     "identidades e equações",
+     "números complexos e coordenadas polares"
+    ],
+    "url": "https://open.umn.edu/opentextbooks/textbooks/trigonometry"
+   },
+   {
+    "exerciseAvailability": "Sim; o índice mostra exercícios em várias seções, incluindo funções, exponenciais, polinômios e Teorema de Tales.",
+    "license": "A página de direitos autorais consultada declara CC BY-SA 3.0 não adaptada; verificar página e mídia específicas",
+    "organization": "Comunidade lusófona do Wikilivros/Wikimedia Foundation",
+    "reuseAllowed": "Texto compatível pode ser copiado, adaptado e redistribuído com atribuição e share-alike; não presumir a mesma licença para imagens, mídia ou trechos de terceiros",
+    "title": "Wikilivros — Matemática elementar",
+    "topics": [
+     "funções",
+     "álgebra e polinômios",
+     "trigonometria",
+     "progressões",
+     "combinatória e probabilidade",
+     "estatística",
+     "geometria plana e espacial",
+     "geometria analítica"
+    ],
+    "url": "https://pt.wikibooks.org/wiki/Matem%C3%A1tica_elementar"
+   },
+   {
+    "organization": "Força Aérea Brasileira/EEAR",
+    "reuseLimit": "Não foi localizada licença aberta; não reproduzir questões, alternativas, gráficos, gabaritos ou páginas. A extração automática do PDF foi parcial, então conferir a versão vigente no FAB/EEAR.",
+    "title": "Edital oficial EA CFS 1/2027",
+    "url": "https://www.fab.mil.br/cabine/concursos/IE%20EA%20CFS%201%202027_11_02_2026.pdf",
+    "whyUsefulForCalibration": "Define que as provas escritas abrangem o Conteúdo Programático do Anexo III e é a referência para a matriz e regras vigentes."
+   }
+  ],
+  "mat-stats": [
+   {
+    "exerciseAvailability": "Sim; Try It, prática, deveres, exercícios colaborativos e laboratórios.",
+    "license": "CC BY-NC-SA 4.0; ilustrações podem ter atribuição distinta",
+    "organization": "OpenStax/Rice University",
+    "reuseAllowed": "Copiar, adaptar e redistribuir a parte licenciada em uso não comercial, com atribuição e mesma licença; não tratar PDF gratuito como licença comercial",
+    "title": "OpenStax — Introductory Statistics 2e",
+    "topics": [
+     "estatística descritiva",
+     "amostragem e dados",
+     "probabilidade",
+     "variáveis aleatórias",
+     "distribuição normal",
+     "regressão e correlação"
+    ],
+    "url": "https://openstax.org/books/introductory-statistics-2e/pages/preface"
+   },
+   {
+    "exerciseAvailability": "Sim; o registro informa mais de 600 exercícios, com e sem computador e teóricos.",
+    "license": "GNU Free Documentation License (GFDL), conforme o registro; PDF direto: https://math.dartmouth.edu/~prob/prob/prob.pdf",
+    "organization": "Charles M. Grinstead e J. Laurie Snell; Swarthmore College/Dartmouth; Open Textbook Library",
+    "reuseAllowed": "Redistribuição e adaptação nos termos da GFDL, preservando avisos/licença e verificando requisitos de edição; não é domínio público nem CC BY",
+    "title": "Introduction to Probability, 2nd edition",
+    "topics": [
+     "probabilidade discreta e contínua",
+     "combinatória",
+     "probabilidade condicional",
+     "valor esperado e variância",
+     "lei dos grandes números",
+     "teorema central do limite"
+    ],
+    "url": "https://open.umn.edu/opentextbooks/textbooks/introduction-to-probability"
+   },
+   {
+    "exerciseAvailability": "Sim; mais de 5.900 exercícios, aplicações e testes de capítulo.",
+    "license": "CC BY-NC-SA 4.0",
+    "organization": "OpenStax/Rice University",
+    "reuseAllowed": "Uso, remixagem e redistribuição não comercial com atribuição e compartilhamento pela mesma licença; conferir créditos de arte e não vender sem autorização",
+    "title": "OpenStax — Precalculus 2e",
+    "topics": [
+     "funções",
+     "trigonometria",
+     "sistemas",
+     "geometria analítica",
+     "sequências/progressões",
+     "probabilidade e contagem"
+    ],
+    "url": "https://openstax.org/books/precalculus-2e/pages/preface"
+   },
+   {
+    "exerciseAvailability": "Sim; o índice mostra exercícios em várias seções, incluindo funções, exponenciais, polinômios e Teorema de Tales.",
+    "license": "A página de direitos autorais consultada declara CC BY-SA 3.0 não adaptada; verificar página e mídia específicas",
+    "organization": "Comunidade lusófona do Wikilivros/Wikimedia Foundation",
+    "reuseAllowed": "Texto compatível pode ser copiado, adaptado e redistribuído com atribuição e share-alike; não presumir a mesma licença para imagens, mídia ou trechos de terceiros",
+    "title": "Wikilivros — Matemática elementar",
+    "topics": [
+     "funções",
+     "álgebra e polinômios",
+     "trigonometria",
+     "progressões",
+     "combinatória e probabilidade",
+     "estatística",
+     "geometria plana e espacial",
+     "geometria analítica"
+    ],
+    "url": "https://pt.wikibooks.org/wiki/Matem%C3%A1tica_elementar"
+   },
+   {
+    "organization": "Força Aérea Brasileira/EEAR",
+    "reuseLimit": "Não foi localizada licença aberta; não reproduzir questões, alternativas, gráficos, gabaritos ou páginas. A extração automática do PDF foi parcial, então conferir a versão vigente no FAB/EEAR.",
+    "title": "Edital oficial EA CFS 1/2027",
+    "url": "https://www.fab.mil.br/cabine/concursos/IE%20EA%20CFS%201%202027_11_02_2026.pdf",
+    "whyUsefulForCalibration": "Define que as provas escritas abrangem o Conteúdo Programático do Anexo III e é a referência para a matriz e regras vigentes."
+   },
+   {
+    "organization": "IMPA/OBMEP",
+    "reuseLimit": "A página consultada diz que o conteúdo é gratuito, mas não exibe licença aberta geral; não copiar ou redistribuir PDFs, vídeos, problemas, soluções ou aplicativos sem autorização.",
+    "title": "Portal da Matemática OBMEP/IMPA",
+    "url": "https://portaldaobmep.impa.br/",
+    "whyUsefulForCalibration": "Oferece videoaulas, apostilas, exercícios, problemas resolvidos e testes para níveis fundamental 2 e médio, úteis para calibrar progressão e linguagem."
+   }
+  ],
+  "mat-spatial": [
+   {
+    "exerciseAvailability": "Sim; o índice mostra exercícios em várias seções, incluindo funções, exponenciais, polinômios e Teorema de Tales.",
+    "license": "A página de direitos autorais consultada declara CC BY-SA 3.0 não adaptada; verificar página e mídia específicas",
+    "organization": "Comunidade lusófona do Wikilivros/Wikimedia Foundation",
+    "reuseAllowed": "Texto compatível pode ser copiado, adaptado e redistribuído com atribuição e share-alike; não presumir a mesma licença para imagens, mídia ou trechos de terceiros",
+    "title": "Wikilivros — Matemática elementar",
+    "topics": [
+     "funções",
+     "álgebra e polinômios",
+     "trigonometria",
+     "progressões",
+     "combinatória e probabilidade",
+     "estatística",
+     "geometria plana e espacial",
+     "geometria analítica"
+    ],
+    "url": "https://pt.wikibooks.org/wiki/Matem%C3%A1tica_elementar"
+   },
+   {
+    "organization": "Força Aérea Brasileira/EEAR",
+    "reuseLimit": "Não foi localizada licença aberta; não reproduzir questões, alternativas, gráficos, gabaritos ou páginas. A extração automática do PDF foi parcial, então conferir a versão vigente no FAB/EEAR.",
+    "title": "Edital oficial EA CFS 1/2027",
+    "url": "https://www.fab.mil.br/cabine/concursos/IE%20EA%20CFS%201%202027_11_02_2026.pdf",
+    "whyUsefulForCalibration": "Define que as provas escritas abrangem o Conteúdo Programático do Anexo III e é a referência para a matriz e regras vigentes."
+   },
+   {
+    "organization": "IMPA/OBMEP",
+    "reuseLimit": "A página consultada diz que o conteúdo é gratuito, mas não exibe licença aberta geral; não copiar ou redistribuir PDFs, vídeos, problemas, soluções ou aplicativos sem autorização.",
+    "title": "Portal da Matemática OBMEP/IMPA",
+    "url": "https://portaldaobmep.impa.br/",
+    "whyUsefulForCalibration": "Oferece videoaulas, apostilas, exercícios, problemas resolvidos e testes para níveis fundamental 2 e médio, úteis para calibrar progressão e linguagem."
+   },
+   {
+    "organization": "Estratégia Militares, fonte comercial secundária",
+    "reuseLimit": "Não foi localizada licença aberta; não copiar redação, listas, questões, soluções ou material comercial.",
+    "title": "O que cai no concurso EEAR",
+    "url": "https://militares.estrategia.com/portal/materias-e-dicas/o-que-cai-no-concurso-eear/",
+    "whyUsefulForCalibration": "Organiza a matriz em Álgebra I, geometria plana, trigonometria, Álgebra II, estatística, geometria espacial, geometria analítica e Álgebra III, ajudando a localizar competências; o edital oficial prevalece."
+   }
+  ],
+  "mat-analytic": [
+   {
+    "exerciseAvailability": "Sim; mais de 5.900 exercícios, aplicações e testes de capítulo.",
+    "license": "CC BY-NC-SA 4.0",
+    "organization": "OpenStax/Rice University",
+    "reuseAllowed": "Uso, remixagem e redistribuição não comercial com atribuição e compartilhamento pela mesma licença; conferir créditos de arte e não vender sem autorização",
+    "title": "OpenStax — Precalculus 2e",
+    "topics": [
+     "funções",
+     "trigonometria",
+     "sistemas",
+     "geometria analítica",
+     "sequências/progressões",
+     "probabilidade e contagem"
+    ],
+    "url": "https://openstax.org/books/precalculus-2e/pages/preface"
+   },
+   {
+    "exerciseAvailability": "Sim; o índice mostra exercícios em várias seções, incluindo funções, exponenciais, polinômios e Teorema de Tales.",
+    "license": "A página de direitos autorais consultada declara CC BY-SA 3.0 não adaptada; verificar página e mídia específicas",
+    "organization": "Comunidade lusófona do Wikilivros/Wikimedia Foundation",
+    "reuseAllowed": "Texto compatível pode ser copiado, adaptado e redistribuído com atribuição e share-alike; não presumir a mesma licença para imagens, mídia ou trechos de terceiros",
+    "title": "Wikilivros — Matemática elementar",
+    "topics": [
+     "funções",
+     "álgebra e polinômios",
+     "trigonometria",
+     "progressões",
+     "combinatória e probabilidade",
+     "estatística",
+     "geometria plana e espacial",
+     "geometria analítica"
+    ],
+    "url": "https://pt.wikibooks.org/wiki/Matem%C3%A1tica_elementar"
+   },
+   {
+    "organization": "Khan Academy",
+    "reuseLimit": "Termos oficiais restringem em regra a acesso pessoal não comercial e proíbem baixar, distribuir ou modificar conteúdo, salvo item explicitamente marcado com licença alternativa: https://www.khanacademy.org/about/docs/khan-academy-terms-of-service",
+    "title": "Khan Academy — Pré-cálculo em português",
+    "url": "https://pt.khanacademy.org/math/precalculus",
+    "whyUsefulForCalibration": "Organiza prática em funções compostas/inversas, trigonometria, cônicas, matrizes, probabilidade e análise combinatória, com testes de unidade."
+   },
+   {
+    "organization": "Força Aérea Brasileira/EEAR",
+    "reuseLimit": "Não foi localizada licença aberta; não reproduzir questões, alternativas, gráficos, gabaritos ou páginas. A extração automática do PDF foi parcial, então conferir a versão vigente no FAB/EEAR.",
+    "title": "Edital oficial EA CFS 1/2027",
+    "url": "https://www.fab.mil.br/cabine/concursos/IE%20EA%20CFS%201%202027_11_02_2026.pdf",
+    "whyUsefulForCalibration": "Define que as provas escritas abrangem o Conteúdo Programático do Anexo III e é a referência para a matriz e regras vigentes."
+   },
+   {
+    "organization": "Estratégia Militares, fonte comercial secundária",
+    "reuseLimit": "Não foi localizada licença aberta; não copiar redação, listas, questões, soluções ou material comercial.",
+    "title": "O que cai no concurso EEAR",
+    "url": "https://militares.estrategia.com/portal/materias-e-dicas/o-que-cai-no-concurso-eear/",
+    "whyUsefulForCalibration": "Organiza a matriz em Álgebra I, geometria plana, trigonometria, Álgebra II, estatística, geometria espacial, geometria analítica e Álgebra III, ajudando a localizar competências; o edital oficial prevalece."
+   }
+  ],
+  "mat-progressions": [
+   {
+    "exerciseAvailability": "Sim; mais de 5.900 exercícios, aplicações e testes de capítulo.",
+    "license": "CC BY-NC-SA 4.0",
+    "organization": "OpenStax/Rice University",
+    "reuseAllowed": "Uso, remixagem e redistribuição não comercial com atribuição e compartilhamento pela mesma licença; conferir créditos de arte e não vender sem autorização",
+    "title": "OpenStax — Precalculus 2e",
+    "topics": [
+     "funções",
+     "trigonometria",
+     "sistemas",
+     "geometria analítica",
+     "sequências/progressões",
+     "probabilidade e contagem"
+    ],
+    "url": "https://openstax.org/books/precalculus-2e/pages/preface"
+   },
+   {
+    "exerciseAvailability": "Sim; a página informa mais de 6.300 exercícios, revisões e testes.",
+    "license": "CC BY-NC-SA 4.0, declarada no prefácio; figuras de terceiros podem ter créditos próprios",
+    "organization": "OpenStax/Rice University",
+    "reuseAllowed": "Redistribuição, adaptação e derivados permitidos para fins não comerciais, com atribuição e mesma licença; não presumir autorização comercial nem para toda arte incorporada",
+    "title": "OpenStax — Algebra and Trigonometry 2e",
+    "topics": [
+     "álgebra",
+     "funções",
+     "equações e polinômios",
+     "exponenciais e logaritmos",
+     "trigonometria"
+    ],
+    "url": "https://openstax.org/books/algebra-and-trigonometry-2e/pages/preface"
+   },
+   {
+    "exerciseAvailability": "Sim; o índice mostra exercícios em várias seções, incluindo funções, exponenciais, polinômios e Teorema de Tales.",
+    "license": "A página de direitos autorais consultada declara CC BY-SA 3.0 não adaptada; verificar página e mídia específicas",
+    "organization": "Comunidade lusófona do Wikilivros/Wikimedia Foundation",
+    "reuseAllowed": "Texto compatível pode ser copiado, adaptado e redistribuído com atribuição e share-alike; não presumir a mesma licença para imagens, mídia ou trechos de terceiros",
+    "title": "Wikilivros — Matemática elementar",
+    "topics": [
+     "funções",
+     "álgebra e polinômios",
+     "trigonometria",
+     "progressões",
+     "combinatória e probabilidade",
+     "estatística",
+     "geometria plana e espacial",
+     "geometria analítica"
+    ],
+    "url": "https://pt.wikibooks.org/wiki/Matem%C3%A1tica_elementar"
+   },
+   {
+    "organization": "Khan Academy",
+    "reuseLimit": "Termos oficiais restringem em regra a acesso pessoal não comercial e proíbem baixar, distribuir ou modificar conteúdo, salvo item explicitamente marcado com licença alternativa: https://www.khanacademy.org/about/docs/khan-academy-terms-of-service",
+    "title": "Khan Academy — Pré-cálculo em português",
+    "url": "https://pt.khanacademy.org/math/precalculus",
+    "whyUsefulForCalibration": "Organiza prática em funções compostas/inversas, trigonometria, cônicas, matrizes, probabilidade e análise combinatória, com testes de unidade."
+   },
+   {
+    "organization": "Força Aérea Brasileira/EEAR",
+    "reuseLimit": "Não foi localizada licença aberta; não reproduzir questões, alternativas, gráficos, gabaritos ou páginas. A extração automática do PDF foi parcial, então conferir a versão vigente no FAB/EEAR.",
+    "title": "Edital oficial EA CFS 1/2027",
+    "url": "https://www.fab.mil.br/cabine/concursos/IE%20EA%20CFS%201%202027_11_02_2026.pdf",
+    "whyUsefulForCalibration": "Define que as provas escritas abrangem o Conteúdo Programático do Anexo III e é a referência para a matriz e regras vigentes."
+   }
+  ]
+ },
+ "topicIds": [
+  "mat-algebra",
+  "mat-geometria",
+  "mat-trig",
+  "mat-stats",
+  "mat-spatial",
+  "mat-analytic",
+  "mat-progressions"
+ ]
+}

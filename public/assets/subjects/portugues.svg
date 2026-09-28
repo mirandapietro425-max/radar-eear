@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 720">
+<defs>
+ <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#08131d"/><stop offset="1" stop-color="#1a2733"/></linearGradient>
+ <linearGradient id="paper" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#f5efe2"/><stop offset="1" stop-color="#d9d0bc"/></linearGradient>
+ <filter id="shadow"><feDropShadow dx="0" dy="18" stdDeviation="20" flood-opacity=".32"/></filter>
+</defs>
+<rect width="1200" height="720" rx="42" fill="url(#bg)"/>
+<path d="M0 560 C240 470 390 690 620 560 S990 500 1200 610 V720 H0Z" fill="#102a35" opacity=".72"/>
+<g transform="translate(700 90) rotate(-7)" filter="url(#shadow)">
+ <rect width="360" height="470" rx="18" fill="url(#paper)"/>
+ <rect x="34" y="34" width="292" height="8" rx="4" fill="#c9ad72"/>
+ <text x="34" y="112" font-family="Georgia,serif" font-size="44" fill="#18262d">A palavra</text>
+ <text x="34" y="160" font-family="Georgia,serif" font-size="44" font-style="italic" fill="#18262d">é ferramenta.</text>
+ <path d="M36 194H325" stroke="#8b9a95" stroke-width="2" opacity=".55"/>
+ <path d="M36 235H292M36 272H310M36 309H276M36 346H305" stroke="#6f7d79" stroke-width="5" stroke-linecap="round" opacity=".45"/>
+ <circle cx="284" cy="403" r="42" fill="#e3b65a" opacity=".9"/><path d="M269 403h30M284 388v30" stroke="#13242a" stroke-width="7"/>
+</g>
+<g fill="#d8b56b"><circle cx="142" cy="142" r="4"/><circle cx="196" cy="186" r="3"/><circle cx="252" cy="128" r="5"/><circle cx="560" cy="112" r="3"/></g>
+<text x="74" y="610" font-family="Arial,sans-serif" font-size="54" font-weight="700" fill="#f6f0e5">PORTUGUÊS</text>
+<text x="78" y="655" font-family="monospace" font-size="18" letter-spacing="4" fill="#98aaa3">LEITURA · GRAMÁTICA · LITERATURA</text>
+</svg>

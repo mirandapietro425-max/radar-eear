@@ -1,0 +1,1086 @@
+{
+ "findings": [
+  "O relatório foi salvo em /home/ubuntu/task_v45/build/research/fontes_fisica.md.",
+  "Foram verificadas mais de cinco fontes reutilizáveis com licença explícita; há pelo menos CC BY 4.0 (Foundations of Physics e módulo LibreTexts/OpenStax), CC BY-SA 4.0/GFDL (Wikibooks) e CC BY-NC-SA 4.0 (OpenStax e MIT OCW).",
+  "A cobertura conjunta atende todos os blocos pedidos: cinemática, dinâmica, trabalho/energia/potência, fluidos, calor/termodinâmica, ondas/óptica e eletricidade/magnetismo.",
+  "Fontes abertas não são equivalentes em nível: College Physics 2e e Foundations of Physics são mais adequados ao nível algébrico/ensino médio; University Physics e MIT podem exceder o edital por usarem cálculo.",
+  "Foram incluídos seis achados de calibração protegidos (edital oficial, página EEAR, Khan Academy, QConcursos, TecConcursos e vídeo), sem reproduzir questões protegidas.",
+  "Licença aberta de um livro não cobre automaticamente imagens, vídeos, soluções de instrutor, arquivos de terceiros ou todos os módulos de um agregador; o relatório marca essas cautelas e recomenda verificar o rodapé de cada recurso.",
+  "O edital oficial foi acessado pelo URL da FAB, mas a extração automática do PDF foi parcial; por isso a licença foi marcada como não verificada e o uso recomendado é consulta por link, não redistribuição."
+ ],
+ "openSources": [
+  {
+   "exerciseAvailability": "Sim: perguntas conceituais, Problems & Exercises, problemas integrados, resultados não razoáveis e questões de pensamento crítico; respostas/recursos parcialmente separados.",
+   "license": "CC BY-NC-SA 4.0, declarada no prefácio; arte e materiais de terceiros devem ser conferidos por legenda.",
+   "organization": "OpenStax / Rice University",
+   "reuseAllowed": "Redistribuição, tradução e adaptação não comercial com atribuição, indicação de mudanças e ShareAlike; não vender nem remover créditos.",
+   "title": "OpenStax — College Physics 2e",
+   "topics": [
+    "cinemática e dinâmica",
+    "trabalho, energia e potência",
+    "fluidos",
+    "calor e termodinâmica",
+    "ondas e óptica",
+    "eletricidade e magnetismo"
+   ],
+   "url": "https://openstax.org/books/college-physics-2e/pages/preface"
+  },
+  {
+   "exerciseAvailability": "Sim: exercícios ao fim dos capítulos, perguntas conceituais, problemas, problemas adicionais e desafios; respostas selecionadas.",
+   "license": "CC BY-NC-SA 4.0, declarada no prefácio.",
+   "organization": "OpenStax / Rice University",
+   "reuseAllowed": "Uso, remix e redistribuição não comercial com atribuição, indicação de mudanças e mesma licença; conferir arte/terceiros.",
+   "title": "OpenStax — University Physics Volume 1",
+   "topics": [
+    "cinemática",
+    "dinâmica e leis de Newton",
+    "trabalho e energia",
+    "momento e colisões",
+    "gravitação",
+    "fluidos",
+    "oscilações, ondas e som"
+   ],
+   "url": "https://openstax.org/books/university-physics-volume-1/pages/preface"
+  },
+  {
+   "exerciseAvailability": "Sim: perguntas conceituais, problemas, adicionais e desafios; respostas selecionadas e guias de solução.",
+   "license": "CC BY-NC-SA 4.0, declarada no prefácio.",
+   "organization": "OpenStax / Rice University",
+   "reuseAllowed": "Uso, remix e redistribuição não comercial com atribuição, indicação de mudanças e ShareAlike; soluções de instrutor e mídia devem ser verificadas separadamente.",
+   "title": "OpenStax — University Physics Volume 2",
+   "topics": [
+    "temperatura e calor",
+    "teoria cinética e termodinâmica",
+    "cargas e campos elétricos",
+    "potencial e capacitância",
+    "corrente, resistência e circuitos",
+    "magnetismo e indução"
+   ],
+   "url": "https://openstax.org/books/university-physics-volume-2/pages/preface"
+  },
+  {
+   "exerciseAvailability": "Sim: perguntas conceituais, problemas por seção, problemas adicionais, resultados não razoáveis e desafios; respostas selecionadas.",
+   "license": "CC BY-NC-SA 4.0, declarada no prefácio.",
+   "organization": "OpenStax / Rice University",
+   "reuseAllowed": "Uso, remix e redistribuição não comercial com atribuição, indicação de mudanças e ShareAlike; conferir arte e itens de terceiros.",
+   "title": "OpenStax — University Physics Volume 3",
+   "topics": [
+    "natureza da luz",
+    "óptica geométrica e formação de imagens",
+    "interferência",
+    "difração"
+   ],
+   "url": "https://openstax.org/books/university-physics-volume-3/pages/preface"
+  },
+  {
+   "exerciseAvailability": "Sim: a descrição declara exemplos, exercícios e recursos de apoio; capítulos consultados exibem exemplos e exercícios.",
+   "license": "CC BY 4.0, exceto onde indicado na obra.",
+   "organization": "BCcampus Open Publishing / Terrance Berg",
+   "reuseAllowed": "Cópia, adaptação, tradução e redistribuição inclusive comercial sob CC BY 4.0, com crédito, link da licença e indicação de alterações; verificar exceções e mídias.",
+   "title": "Foundations of Physics",
+   "topics": [
+    "cinemática",
+    "dinâmica",
+    "energia",
+    "calor",
+    "ondas",
+    "eletricidade; capítulos consultados também cobrem trabalho/energia/potência e eletrostática"
+   ],
+   "url": "https://opentextbc.ca/foundationsofphysics/"
+  },
+  {
+   "exerciseAvailability": "O Study Guide é sobretudo expositivo; para exercícios usar a coleção Physics Exercises.",
+   "license": "Política geral: CC BY-SA 4.0 e GFDL sem versão, salvo indicação contrária no módulo/rodapé.",
+   "organization": "Wikibooks / Wikimedia",
+   "reuseAllowed": "Copiar, modificar e redistribuir com atribuição, aviso de mudanças, aviso de licença e ShareAlike; conferir mídia, fair use e exceções.",
+   "title": "Wikibooks — Physics Study Guide",
+   "topics": [
+    "cinemática e forças",
+    "momento, trabalho e energia",
+    "gravidade e movimento circular",
+    "ondas e som",
+    "fluidos",
+    "termodinâmica",
+    "eletricidade e magnetismo",
+    "óptica"
+   ],
+   "url": "https://en.wikibooks.org/wiki/Physics_Study_Guide"
+  },
+  {
+   "exerciseAvailability": "Sim: coleção explicitamente voltada a exercícios aplicados e teóricos, com soluções em páginas separadas; desenvolvimento incompleto.",
+   "license": "Política geral: CC BY-SA 4.0 e GFDL sem versão, salvo exceções do módulo.",
+   "organization": "Wikibooks / Wikimedia",
+   "reuseAllowed": "Redistribuir/adaptar módulos licenciados com atribuição, indicação de mudanças e ShareAlike; verificar histórico, rodapé e status de desenvolvimento.",
+   "title": "Wikibooks — Physics Exercises",
+   "topics": [
+    "mecânica clássica, cinemática e dinâmica",
+    "conservação de energia",
+    "oscilações e som",
+    "eletricidade e magnetismo",
+    "óptica",
+    "termodinâmica",
+    "fluidos"
+   ],
+   "url": "https://en.wikibooks.org/wiki/Physics_Exercises"
+  },
+  {
+   "exerciseAvailability": "Sim: problem sets semanais, exemplos e materiais de estudo; verificar arquivos individualmente.",
+   "license": "CC BY-NC-SA 4.0 por padrão OCW, salvo item marcado de modo diferente.",
+   "organization": "MIT OpenCourseWare / Massachusetts Institute of Technology",
+   "reuseAllowed": "Copiar, editar, traduzir e redistribuir não comercialmente com atribuição e ShareAlike; não comercializar nem sugerir endosso MIT.",
+   "title": "MIT OpenCourseWare — 8.01SC Classical Mechanics",
+   "topics": [
+    "cinemática",
+    "força e leis de Newton",
+    "momento",
+    "torque e momento angular",
+    "conservação de energia e momento"
+   ],
+   "url": "https://ocw.mit.edu/courses/8-01sc-classical-mechanics-fall-2016/"
+  },
+  {
+   "exerciseAvailability": "Sim: página Assignments com problem sets em PDF; verificar os termos de cada arquivo.",
+   "license": "CC BY-NC-SA 4.0 por padrão OCW, salvo exceções nos arquivos.",
+   "organization": "MIT OpenCourseWare / Massachusetts Institute of Technology",
+   "reuseAllowed": "Cópia, adaptação e tradução não comercial com atribuição e ShareAlike; conferir contribuições de terceiros e não usar marcas MIT como endosso.",
+   "title": "MIT OpenCourseWare — 8.022 Physics II: Electricity and Magnetism",
+   "topics": [
+    "campos e potencial elétrico/magnético",
+    "equações de Maxwell",
+    "relatividade introdutória",
+    "dielétricos",
+    "materiais magnéticos",
+    "indução e eletromagnetismo"
+   ],
+   "url": "https://ocw.mit.edu/courses/8-022-physics-ii-electricity-and-magnetism-fall-2004/"
+  },
+  {
+   "exerciseAvailability": "Sim: perguntas conceituais, problemas e challenge problems.",
+   "license": "A própria página declara CC BY 4.0 para o trabalho licenciado por OpenStax University Physics.",
+   "organization": "Physics LibreTexts / Gettysburg College / OpenStax contributors",
+   "reuseAllowed": "Texto do módulo pode ser reutilizado/adaptado sob CC BY 4.0 com atribuição, link da licença e indicação de mudanças; não generalizar para todo o site, imagens ou outros módulos.",
+   "title": "LibreTexts — 1.E: Exercises (Gettysburg College Physics for Physics Majors)",
+   "topics": [
+    "unidades e padrões",
+    "modelagem física",
+    "problemas conceituais e numéricos",
+    "dimensionalidade e análise de ordem de grandeza"
+   ],
+   "url": "https://phys.libretexts.org/Courses/Gettysburg_College/Gettysburg_College_Physics_for_Physics_Majors/01%3A_C1)_Abstraction_and_Modeling/1.E%3A_Exercises"
+  }
+ ],
+ "output_path": "/home/ubuntu/task_v45/build/research/fontes_fisica.md",
+ "protectedSources": [
+  {
+   "organization": "Força Aérea Brasileira / Escola de Especialistas de Aeronáutica",
+   "reuseLimit": "Nenhuma licença CC ou autorização geral de reprodução foi encontrada. O PDF é público para consulta, mas não deve ser redistribuído ou ter questões/anexos reproduzidos; usar apenas link e descrever competências. A extração automática do PDF foi parcial.",
+   "title": "Edital oficial — Exame de Admissão ao CFS 1/2027 (EEAR/FAB)",
+   "url": "https://www.fab.mil.br/cabine/concursos/IE%20EA%20CFS%201%202027_11_02_2026.pdf",
+   "whyUsefulForCalibration": "Fonte oficial para nomenclatura do conteúdo e formato: indexação oficial informa prova objetiva de múltipla escolha com quatro alternativas; o documento indexa energia, trabalho e potência, calor/mudanças de estado e demais blocos de Física do edital."
+  },
+  {
+   "organization": "Força Aérea Brasileira",
+   "reuseLimit": "Licença de reutilização não verificada na página. Não copiar textos, fotos, marcas ou identidade visual; usar link e fatos institucionais.",
+   "title": "Página institucional de admissão EEAR",
+   "url": "https://www.fab.mil.br/admissao/militares-de-carreira/eear/",
+   "whyUsefulForCalibration": "Confirma escopo institucional do CFS: formação de sargentos, dois anos/quatro semestres e ensino médio; ajuda a manter o material no nível de ingresso e a não confundir CFS com EAGS."
+  },
+  {
+   "organization": "Khan Academy",
+   "reuseLimit": "Termos concedem acesso pessoal não comercial a vídeos/exercícios; salvo licença alternativa explícita, não baixar, distribuir, vender, modificar ou fornecer acesso a terceiros. Proibidas cópia/extração automatizada e uso para treinar IA.",
+   "title": "Khan Academy — High School Physics",
+   "url": "https://www.khanacademy.org/science/highschool-physics",
+   "whyUsefulForCalibration": "Organiza competências por unidades de movimento/forças, momento, gravitação, eletrostática, energia, eletromagnetismo e radiação; quizzes e testes ajudam a calibrar progressão conceitual e distratores."
+  },
+  {
+   "organization": "QConcursos",
+   "reuseLimit": "Não foi encontrada licença aberta para enunciados, alternativas ou comentários. Tratar como conteúdo protegido/comercial; não copiar, raspar ou redistribuir.",
+   "title": "QConcursos — questões militares de Física para EEAR",
+   "url": "https://www.qconcursos.com/questoes-militares/questoes?discipline_ids%5B%5D=198&institute_ids%5B%5D=6284",
+   "whyUsefulForCalibration": "Mostra variedade de padrões: afirmações para julgar, cálculo com constantes/unidades, direção de campos, ondas, MCU, termodinâmica, óptica, eletrostática, indução e força magnética."
+  },
+  {
+   "organization": "TecConcursos",
+   "reuseLimit": "Serviço comercial; licença CC/autorização de reprodução não encontrada. Não copiar o catálogo, questões ou comentários.",
+   "title": "TecConcursos — Guia de Física para Sargento EEAR",
+   "url": "https://www.tecconcursos.com.br/guias/eear-2026/curso-de-formacao-de-sargentos-eear/aeronavegantes-e-naoaeronavegantes/-/fisica-para-sargento-eear-2026/id",
+   "whyUsefulForCalibration": "A página lista a distribuição de subtópicos do banco: cinemática, dinâmica, energia/trabalho/potência, fluidostática, termologia/termodinâmica, óptica, ondas, circuitos, eletrostática e eletromagnetismo; útil para priorização sem copiar itens."
+  },
+  {
+   "organization": "Projeto Especialista no YouTube",
+   "reuseLimit": "Licença de reutilização não encontrada; seguir termos do YouTube e direitos do criador. Não baixar, transcrever ou redistribuir prova, vídeo ou solução.",
+   "title": "Vídeo de resolução de prova EEAR — Projeto Especialista/YouTube",
+   "url": "https://www.youtube.com/watch?v=h0KCL9NrLQw",
+   "whyUsefulForCalibration": "Identifica resolução de Física do CFS e revisões EEAR; útil para observar duração, sequência de resolução, vocabulário e necessidade de justificar alternativa sem transcrever a prova."
+  }
+ ],
+ "subject": "Fontes de Física para EEAR — pesquisa de licenças, exercícios e calibração",
+ "topicNotes": {
+  "fis-cinematica": "## fis-cinematica — Cinemática\n\nSubtemas e calibração do edital:\n- **Subtemas:** movimento uniforme e uniformemente variado; gráficos; queda/lançamento vertical; movimento horizontal/parabólico e grandezas vetoriais [1] [6].\n- **Enunciado típico:** dados de posição, velocidade, tempo ou gráfico para calcular grandeza, interpretar inclinação/área ou comparar movimentos.\n- **Armadilhas/distratores:** confundir velocidade média com instantânea ou módulo da velocidade com deslocamento; errar sinal, unidade e referência do eixo.\n- **Raciocínio:** aplicação/análise de modelo e gráfico. A recorrência por tipo de lançamento não foi quantificada; trate os exemplos como orientação geral.\n\nFontes diretas de livros/PDFs e calibração para este conteúdo (licenças e limites preservados):\n- OpenStax — College Physics 2e: recorte pertinente: cinemática e dinâmica; trabalho, energia e potência; fluidos; calor e termodinâmica; ondas e óptica; eletricidade e magnetismo; exercícios/seções: Sim: perguntas conceituais, Problems & Exercises, problemas integrados, resultados não razoáveis e questões de pensamento crítico; respostas/recursos parcialmente separados.; licença: CC BY-NC-SA 4.0, declarada no prefácio; arte e materiais de terceiros devem ser conferidos por legenda.; limite/permissão: Redistribuição, tradução e adaptação não comercial com atribuição, indicação de mudanças e ShareAlike; não vender nem remover créditos.; URL: https://openstax.org/books/college-physics-2e/pages/preface\n- OpenStax — University Physics Volume 1: recorte pertinente: cinemática; dinâmica e leis de Newton; trabalho e energia; momento e colisões; gravitação; fluidos; oscilações, ondas e som; exercícios/seções: Sim: exercícios ao fim dos capítulos, perguntas conceituais, problemas, problemas adicionais e desafios; respostas selecionadas.; licença: CC BY-NC-SA 4.0, declarada no prefácio.; limite/permissão: Uso, remix e redistribuição não comercial com atribuição, indicação de mudanças e mesma licença; conferir arte/terceiros.; URL: https://openstax.org/books/university-physics-volume-1/pages/preface\n- Foundations of Physics: recorte pertinente: cinemática; dinâmica; energia; calor; ondas; eletricidade; capítulos consultados também cobrem trabalho/energia/potência e eletrostática; exercícios/seções: Sim: a descrição declara exemplos, exercícios e recursos de apoio; capítulos consultados exibem exemplos e exercícios.; licença: CC BY 4.0, exceto onde indicado na obra.; limite/permissão: Cópia, adaptação, tradução e redistribuição inclusive comercial sob CC BY 4.0, com crédito, link da licença e indicação de alterações; verificar exceções e mídias.; URL: https://opentextbc.ca/foundationsofphysics/\n- Wikibooks — Physics Study Guide: recorte pertinente: cinemática e forças; momento, trabalho e energia; gravidade e movimento circular; ondas e som; fluidos; termodinâmica; eletricidade e magnetismo; óptica; exercícios/seções: O Study Guide é sobretudo expositivo; para exercícios usar a coleção Physics Exercises.; licença: Política geral: CC BY-SA 4.0 e GFDL sem versão, salvo indicação contrária no módulo/rodapé.; limite/permissão: Copiar, modificar e redistribuir com atribuição, aviso de mudanças, aviso de licença e ShareAlike; conferir mídia, fair use e exceções.; URL: https://en.wikibooks.org/wiki/Physics_Study_Guide\n- Wikibooks — Physics Exercises: recorte pertinente: mecânica clássica, cinemática e dinâmica; conservação de energia; oscilações e som; eletricidade e magnetismo; óptica; termodinâmica; fluidos; exercícios/seções: Sim: coleção explicitamente voltada a exercícios aplicados e teóricos, com soluções em páginas separadas; desenvolvimento incompleto.; licença: Política geral: CC BY-SA 4.0 e GFDL sem versão, salvo exceções do módulo.; limite/permissão: Redistribuir/adaptar módulos licenciados com atribuição, indicação de mudanças e ShareAlike; verificar histórico, rodapé e status de desenvolvimento.; URL: https://en.wikibooks.org/wiki/Physics_Exercises\n- MIT OpenCourseWare — 8.01SC Classical Mechanics: recorte pertinente: cinemática; força e leis de Newton; momento; torque e momento angular; conservação de energia e momento; exercícios/seções: Sim: problem sets semanais, exemplos e materiais de estudo; verificar arquivos individualmente.; licença: CC BY-NC-SA 4.0 por padrão OCW, salvo item marcado de modo diferente.; limite/permissão: Copiar, editar, traduzir e redistribuir não comercialmente com atribuição e ShareAlike; não comercializar nem sugerir endosso MIT.; URL: https://ocw.mit.edu/courses/8-01sc-classical-mechanics-fall-2016/\n- Edital oficial — Exame de Admissão ao CFS 1/2027 (EEAR/FAB): recorte pertinente: Fonte oficial para nomenclatura do conteúdo e formato: indexação oficial informa prova objetiva de múltipla escolha com quatro alternativas; o documento indexa energia, trabalho e potência, calor/mudanças de estado e demais blocos de Física do edital.; exercícios/seções: seções de exercícios não detalhadas na ficha; licença: não verificada; limite/permissão: Nenhuma licença CC ou autorização geral de reprodução foi encontrada. O PDF é público para consulta, mas não deve ser redistribuído ou ter questões/anexos reproduzidos; usar apenas link e descrever competências. A extração automática do PDF foi parcial.; URL: https://www.fab.mil.br/cabine/concursos/IE%20EA%20CFS%201%202027_11_02_2026.pdf\n- Khan Academy — High School Physics: recorte pertinente: Organiza competências por unidades de movimento/forças, momento, gravitação, eletrostática, energia, eletromagnetismo e radiação; quizzes e testes ajudam a calibrar progressão conceitual e distratores.; exercícios/seções: seções de exercícios não detalhadas na ficha; licença: não verificada; limite/permissão: Termos concedem acesso pessoal não comercial a vídeos/exercícios; salvo licença alternativa explícita, não baixar, distribuir, vender, modificar ou fornecer acesso a terceiros. Proibidas cópia/extração automatizada e uso para treinar IA.; URL: https://www.khanacademy.org/science/highschool-physics\n- QConcursos — questões militares de Física para EEAR: recorte pertinente: Mostra variedade de padrões: afirmações para julgar, cálculo com constantes/unidades, direção de campos, ondas, MCU, termodinâmica, óptica, eletrostática, indução e força magnética.; exercícios/seções: seções de exercícios não detalhadas na ficha; licença: não verificada; limite/permissão: Não foi encontrada licença aberta para enunciados, alternativas ou comentários. Tratar como conteúdo protegido/comercial; não copiar, raspar ou redistribuir.; URL: https://www.qconcursos.com/questoes-militares/questoes?discipline_ids%5B%5D=198&institute_ids%5B%5D=6284\n- TecConcursos — Guia de Física para Sargento EEAR: recorte pertinente: A página lista a distribuição de subtópicos do banco: cinemática, dinâmica, energia/trabalho/potência, fluidostática, termologia/termodinâmica, óptica, ondas, circuitos, eletrostática e eletromagnetismo; útil para priorização sem copiar itens.; exercícios/seções: seções de exercícios não detalhadas na ficha; licença: não verificada; limite/permissão: Serviço comercial; licença CC/autorização de reprodução não encontrada. Não copiar o catálogo, questões ou comentários.; URL: https://www.tecconcursos.com.br/guias/eear-2026/curso-de-formacao-de-sargentos-eear/aeronavegantes-e-naoaeronavegantes/-/fisica-para-sargento-eear-2026/id",
+  "fis-dinamica": "## fis-dinamica — Dinâmica\n\nSubtemas e calibração do edital:\n- **Subtemas:** leis de Newton; diagramas de forças; atrito, tração, peso e normal; equilíbrio e movimento circular; gravitação quando pertinente [1] [6].\n- **Enunciado típico:** corpo em plano, sistema de blocos ou curva, pedindo força resultante, aceleração, tensão ou condição de equilíbrio.\n- **Armadilhas/distratores:** confundir par ação-reação no mesmo corpo; inverter sentido do atrito, incluir força inexistente ou usar massa no lugar de peso.\n- **Raciocínio:** aplicação/análise de diagrama e equações. Não há evidência pública específica de incidência por montagem; exija desenho mental coerente, não cálculo mecânico.\n\nFontes diretas de livros/PDFs e calibração para este conteúdo (licenças e limites preservados):\n- OpenStax — College Physics 2e: recorte pertinente: cinemática e dinâmica; trabalho, energia e potência; fluidos; calor e termodinâmica; ondas e óptica; eletricidade e magnetismo; exercícios/seções: Sim: perguntas conceituais, Problems & Exercises, problemas integrados, resultados não razoáveis e questões de pensamento crítico; respostas/recursos parcialmente separados.; licença: CC BY-NC-SA 4.0, declarada no prefácio; arte e materiais de terceiros devem ser conferidos por legenda.; limite/permissão: Redistribuição, tradução e adaptação não comercial com atribuição, indicação de mudanças e ShareAlike; não vender nem remover créditos.; URL: https://openstax.org/books/college-physics-2e/pages/preface\n- OpenStax — University Physics Volume 1: recorte pertinente: cinemática; dinâmica e leis de Newton; trabalho e energia; momento e colisões; gravitação; fluidos; oscilações, ondas e som; exercícios/seções: Sim: exercícios ao fim dos capítulos, perguntas conceituais, problemas, problemas adicionais e desafios; respostas selecionadas.; licença: CC BY-NC-SA 4.0, declarada no prefácio.; limite/permissão: Uso, remix e redistribuição não comercial com atribuição, indicação de mudanças e mesma licença; conferir arte/terceiros.; URL: https://openstax.org/books/university-physics-volume-1/pages/preface\n- Foundations of Physics: recorte pertinente: cinemática; dinâmica; energia; calor; ondas; eletricidade; capítulos consultados também cobrem trabalho/energia/potência e eletrostática; exercícios/seções: Sim: a descrição declara exemplos, exercícios e recursos de apoio; capítulos consultados exibem exemplos e exercícios.; licença: CC BY 4.0, exceto onde indicado na obra.; limite/permissão: Cópia, adaptação, tradução e redistribuição inclusive comercial sob CC BY 4.0, com crédito, link da licença e indicação de alterações; verificar exceções e mídias.; URL: https://opentextbc.ca/foundationsofphysics/\n- Wikibooks — Physics Study Guide: recorte pertinente: cinemática e forças; momento, trabalho e energia; gravidade e movimento circular; ondas e som; fluidos; termodinâmica; eletricidade e magnetismo; óptica; exercícios/seções: O Study Guide é sobretudo expositivo; para exercícios usar a coleção Physics Exercises.; licença: Política geral: CC BY-SA 4.0 e GFDL sem versão, salvo indicação contrária no módulo/rodapé.; limite/permissão: Copiar, modificar e redistribuir com atribuição, aviso de mudanças, aviso de licença e ShareAlike; conferir mídia, fair use e exceções.; URL: https://en.wikibooks.org/wiki/Physics_Study_Guide\n- Wikibooks — Physics Exercises: recorte pertinente: mecânica clássica, cinemática e dinâmica; conservação de energia; oscilações e som; eletricidade e magnetismo; óptica; termodinâmica; fluidos; exercícios/seções: Sim: coleção explicitamente voltada a exercícios aplicados e teóricos, com soluções em páginas separadas; desenvolvimento incompleto.; licença: Política geral: CC BY-SA 4.0 e GFDL sem versão, salvo exceções do módulo.; limite/permissão: Redistribuir/adaptar módulos licenciados com atribuição, indicação de mudanças e ShareAlike; verificar histórico, rodapé e status de desenvolvimento.; URL: https://en.wikibooks.org/wiki/Physics_Exercises\n- MIT OpenCourseWare — 8.01SC Classical Mechanics: recorte pertinente: cinemática; força e leis de Newton; momento; torque e momento angular; conservação de energia e momento; exercícios/seções: Sim: problem sets semanais, exemplos e materiais de estudo; verificar arquivos individualmente.; licença: CC BY-NC-SA 4.0 por padrão OCW, salvo item marcado de modo diferente.; limite/permissão: Copiar, editar, traduzir e redistribuir não comercialmente com atribuição e ShareAlike; não comercializar nem sugerir endosso MIT.; URL: https://ocw.mit.edu/courses/8-01sc-classical-mechanics-fall-2016/\n- Edital oficial — Exame de Admissão ao CFS 1/2027 (EEAR/FAB): recorte pertinente: Fonte oficial para nomenclatura do conteúdo e formato: indexação oficial informa prova objetiva de múltipla escolha com quatro alternativas; o documento indexa energia, trabalho e potência, calor/mudanças de estado e demais blocos de Física do edital.; exercícios/seções: seções de exercícios não detalhadas na ficha; licença: não verificada; limite/permissão: Nenhuma licença CC ou autorização geral de reprodução foi encontrada. O PDF é público para consulta, mas não deve ser redistribuído ou ter questões/anexos reproduzidos; usar apenas link e descrever competências. A extração automática do PDF foi parcial.; URL: https://www.fab.mil.br/cabine/concursos/IE%20EA%20CFS%201%202027_11_02_2026.pdf\n- Khan Academy — High School Physics: recorte pertinente: Organiza competências por unidades de movimento/forças, momento, gravitação, eletrostática, energia, eletromagnetismo e radiação; quizzes e testes ajudam a calibrar progressão conceitual e distratores.; exercícios/seções: seções de exercícios não detalhadas na ficha; licença: não verificada; limite/permissão: Termos concedem acesso pessoal não comercial a vídeos/exercícios; salvo licença alternativa explícita, não baixar, distribuir, vender, modificar ou fornecer acesso a terceiros. Proibidas cópia/extração automatizada e uso para treinar IA.; URL: https://www.khanacademy.org/science/highschool-physics\n- QConcursos — questões militares de Física para EEAR: recorte pertinente: Mostra variedade de padrões: afirmações para julgar, cálculo com constantes/unidades, direção de campos, ondas, MCU, termodinâmica, óptica, eletrostática, indução e força magnética.; exercícios/seções: seções de exercícios não detalhadas na ficha; licença: não verificada; limite/permissão: Não foi encontrada licença aberta para enunciados, alternativas ou comentários. Tratar como conteúdo protegido/comercial; não copiar, raspar ou redistribuir.; URL: https://www.qconcursos.com/questoes-militares/questoes?discipline_ids%5B%5D=198&institute_ids%5B%5D=6284\n- TecConcursos — Guia de Física para Sargento EEAR: recorte pertinente: A página lista a distribuição de subtópicos do banco: cinemática, dinâmica, energia/trabalho/potência, fluidostática, termologia/termodinâmica, óptica, ondas, circuitos, eletrostática e eletromagnetismo; útil para priorização sem copiar itens.; exercícios/seções: seções de exercícios não detalhadas na ficha; licença: não verificada; limite/permissão: Serviço comercial; licença CC/autorização de reprodução não encontrada. Não copiar o catálogo, questões ou comentários.; URL: https://www.tecconcursos.com.br/guias/eear-2026/curso-de-formacao-de-sargentos-eear/aeronavegantes-e-naoaeronavegantes/-/fisica-para-sargento-eear-2026/id",
+  "fis-energia": "## fis-energia — Trabalho, energia e potência\n\nSubtemas e calibração do edital:\n- **Subtemas:** trabalho de força constante/variável em nível médio; energia cinética e potencial; conservação; potência, rendimento e perdas [1] [6].\n- **Enunciado típico:** rampa, máquina ou deslocamento com forças e alturas para relacionar trabalho, variação de energia, tempo e potência.\n- **Armadilhas/distratores:** trocar trabalho por força ou potência; errar o sinal pelo ângulo/deslocamento ou conservar energia mecânica quando há atrito sem contabilizar perda.\n- **Raciocínio:** aplicação e análise de conservação. A incidência específica de cada forma de energia não foi confirmada; indique sistema e referência no enunciado autoral.\n\nFontes diretas de livros/PDFs e calibração para este conteúdo (licenças e limites preservados):\n- OpenStax — College Physics 2e: recorte pertinente: cinemática e dinâmica; trabalho, energia e potência; fluidos; calor e termodinâmica; ondas e óptica; eletricidade e magnetismo; exercícios/seções: Sim: perguntas conceituais, Problems & Exercises, problemas integrados, resultados não razoáveis e questões de pensamento crítico; respostas/recursos parcialmente separados.; licença: CC BY-NC-SA 4.0, declarada no prefácio; arte e materiais de terceiros devem ser conferidos por legenda.; limite/permissão: Redistribuição, tradução e adaptação não comercial com atribuição, indicação de mudanças e ShareAlike; não vender nem remover créditos.; URL: https://openstax.org/books/college-physics-2e/pages/preface\n- OpenStax — University Physics Volume 1: recorte pertinente: cinemática; dinâmica e leis de Newton; trabalho e energia; momento e colisões; gravitação; fluidos; oscilações, ondas e som; exercícios/seções: Sim: exercícios ao fim dos capítulos, perguntas conceituais, problemas, problemas adicionais e desafios; respostas selecionadas.; licença: CC BY-NC-SA 4.0, declarada no prefácio.; limite/permissão: Uso, remix e redistribuição não comercial com atribuição, indicação de mudanças e mesma licença; conferir arte/terceiros.; URL: https://openstax.org/books/university-physics-volume-1/pages/preface\n- Foundations of Physics: recorte pertinente: cinemática; dinâmica; energia; calor; ondas; eletricidade; capítulos consultados também cobrem trabalho/energia/potência e eletrostática; exercícios/seções: Sim: a descrição declara exemplos, exercícios e recursos de apoio; capítulos consultados exibem exemplos e exercícios.; licença: CC BY 4.0, exceto onde indicado na obra.; limite/permissão: Cópia, adaptação, tradução e redistribuição inclusive comercial sob CC BY 4.0, com crédito, link da licença e indicação de alterações; verificar exceções e mídias.; URL: https://opentextbc.ca/foundationsofphysics/\n- Wikibooks — Physics Study Guide: recorte pertinente: cinemática e forças; momento, trabalho e energia; gravidade e movimento circular; ondas e som; fluidos; termodinâmica; eletricidade e magnetismo; óptica; exercícios/seções: O Study Guide é sobretudo expositivo; para exercícios usar a coleção Physics Exercises.; licença: Política geral: CC BY-SA 4.0 e GFDL sem versão, salvo indicação contrária no módulo/rodapé.; limite/permissão: Copiar, modificar e redistribuir com atribuição, aviso de mudanças, aviso de licença e ShareAlike; conferir mídia, fair use e exceções.; URL: https://en.wikibooks.org/wiki/Physics_Study_Guide\n- Wikibooks — Physics Exercises: recorte pertinente: mecânica clássica, cinemática e dinâmica; conservação de energia; oscilações e som; eletricidade e magnetismo; óptica; termodinâmica; fluidos; exercícios/seções: Sim: coleção explicitamente voltada a exercícios aplicados e teóricos, com soluções em páginas separadas; desenvolvimento incompleto.; licença: Política geral: CC BY-SA 4.0 e GFDL sem versão, salvo exceções do módulo.; limite/permissão: Redistribuir/adaptar módulos licenciados com atribuição, indicação de mudanças e ShareAlike; verificar histórico, rodapé e status de desenvolvimento.; URL: https://en.wikibooks.org/wiki/Physics_Exercises\n- MIT OpenCourseWare — 8.01SC Classical Mechanics: recorte pertinente: cinemática; força e leis de Newton; momento; torque e momento angular; conservação de energia e momento; exercícios/seções: Sim: problem sets semanais, exemplos e materiais de estudo; verificar arquivos individualmente.; licença: CC BY-NC-SA 4.0 por padrão OCW, salvo item marcado de modo diferente.; limite/permissão: Copiar, editar, traduzir e redistribuir não comercialmente com atribuição e ShareAlike; não comercializar nem sugerir endosso MIT.; URL: https://ocw.mit.edu/courses/8-01sc-classical-mechanics-fall-2016/\n- Edital oficial — Exame de Admissão ao CFS 1/2027 (EEAR/FAB): recorte pertinente: Fonte oficial para nomenclatura do conteúdo e formato: indexação oficial informa prova objetiva de múltipla escolha com quatro alternativas; o documento indexa energia, trabalho e potência, calor/mudanças de estado e demais blocos de Física do edital.; exercícios/seções: seções de exercícios não detalhadas na ficha; licença: não verificada; limite/permissão: Nenhuma licença CC ou autorização geral de reprodução foi encontrada. O PDF é público para consulta, mas não deve ser redistribuído ou ter questões/anexos reproduzidos; usar apenas link e descrever competências. A extração automática do PDF foi parcial.; URL: https://www.fab.mil.br/cabine/concursos/IE%20EA%20CFS%201%202027_11_02_2026.pdf\n- QConcursos — questões militares de Física para EEAR: recorte pertinente: Mostra variedade de padrões: afirmações para julgar, cálculo com constantes/unidades, direção de campos, ondas, MCU, termodinâmica, óptica, eletrostática, indução e força magnética.; exercícios/seções: seções de exercícios não detalhadas na ficha; licença: não verificada; limite/permissão: Não foi encontrada licença aberta para enunciados, alternativas ou comentários. Tratar como conteúdo protegido/comercial; não copiar, raspar ou redistribuir.; URL: https://www.qconcursos.com/questoes-militares/questoes?discipline_ids%5B%5D=198&institute_ids%5B%5D=6284\n- TecConcursos — Guia de Física para Sargento EEAR: recorte pertinente: A página lista a distribuição de subtópicos do banco: cinemática, dinâmica, energia/trabalho/potência, fluidostática, termologia/termodinâmica, óptica, ondas, circuitos, eletrostática e eletromagnetismo; útil para priorização sem copiar itens.; exercícios/seções: seções de exercícios não detalhadas na ficha; licença: não verificada; limite/permissão: Serviço comercial; licença CC/autorização de reprodução não encontrada. Não copiar o catálogo, questões ou comentários.; URL: https://www.tecconcursos.com.br/guias/eear-2026/curso-de-formacao-de-sargentos-eear/aeronavegantes-e-naoaeronavegantes/-/fisica-para-sargento-eear-2026/id",
+  "fis-fluidos": "## fis-fluidos — Fluidos\n\nSubtemas e calibração do edital:\n- **Subtemas:** densidade e pressão; hidrostática; Pascal; empuxo/Arquimedes; vazão, continuidade e, quando previsto, Bernoulli [1] [6].\n- **Enunciado típico:** vasos comunicantes, prensa, corpo imerso ou escoamento para determinar pressão, força, volume deslocado ou velocidade.\n- **Armadilhas/distratores:** misturar pressão absoluta e manométrica; usar massa específica errada ou confundir área de seção com volume/vazão.\n- **Raciocínio:** aplicação/análise de conservação e equilíbrio. A presença relativa de Bernoulli não foi confirmada publicamente; marque-o como orientação geral e confira o Anexo III aplicável.\n\nFontes diretas de livros/PDFs e calibração para este conteúdo (licenças e limites preservados):\n- OpenStax — College Physics 2e: recorte pertinente: cinemática e dinâmica; trabalho, energia e potência; fluidos; calor e termodinâmica; ondas e óptica; eletricidade e magnetismo; exercícios/seções: Sim: perguntas conceituais, Problems & Exercises, problemas integrados, resultados não razoáveis e questões de pensamento crítico; respostas/recursos parcialmente separados.; licença: CC BY-NC-SA 4.0, declarada no prefácio; arte e materiais de terceiros devem ser conferidos por legenda.; limite/permissão: Redistribuição, tradução e adaptação não comercial com atribuição, indicação de mudanças e ShareAlike; não vender nem remover créditos.; URL: https://openstax.org/books/college-physics-2e/pages/preface\n- OpenStax — University Physics Volume 1: recorte pertinente: cinemática; dinâmica e leis de Newton; trabalho e energia; momento e colisões; gravitação; fluidos; oscilações, ondas e som; exercícios/seções: Sim: exercícios ao fim dos capítulos, perguntas conceituais, problemas, problemas adicionais e desafios; respostas selecionadas.; licença: CC BY-NC-SA 4.0, declarada no prefácio.; limite/permissão: Uso, remix e redistribuição não comercial com atribuição, indicação de mudanças e mesma licença; conferir arte/terceiros.; URL: https://openstax.org/books/university-physics-volume-1/pages/preface\n- Wikibooks — Physics Study Guide: recorte pertinente: cinemática e forças; momento, trabalho e energia; gravidade e movimento circular; ondas e som; fluidos; termodinâmica; eletricidade e magnetismo; óptica; exercícios/seções: O Study Guide é sobretudo expositivo; para exercícios usar a coleção Physics Exercises.; licença: Política geral: CC BY-SA 4.0 e GFDL sem versão, salvo indicação contrária no módulo/rodapé.; limite/permissão: Copiar, modificar e redistribuir com atribuição, aviso de mudanças, aviso de licença e ShareAlike; conferir mídia, fair use e exceções.; URL: https://en.wikibooks.org/wiki/Physics_Study_Guide\n- Wikibooks — Physics Exercises: recorte pertinente: mecânica clássica, cinemática e dinâmica; conservação de energia; oscilações e som; eletricidade e magnetismo; óptica; termodinâmica; fluidos; exercícios/seções: Sim: coleção explicitamente voltada a exercícios aplicados e teóricos, com soluções em páginas separadas; desenvolvimento incompleto.; licença: Política geral: CC BY-SA 4.0 e GFDL sem versão, salvo exceções do módulo.; limite/permissão: Redistribuir/adaptar módulos licenciados com atribuição, indicação de mudanças e ShareAlike; verificar histórico, rodapé e status de desenvolvimento.; URL: https://en.wikibooks.org/wiki/Physics_Exercises\n- Edital oficial — Exame de Admissão ao CFS 1/2027 (EEAR/FAB): recorte pertinente: Fonte oficial para nomenclatura do conteúdo e formato: indexação oficial informa prova objetiva de múltipla escolha com quatro alternativas; o documento indexa energia, trabalho e potência, calor/mudanças de estado e demais blocos de Física do edital.; exercícios/seções: seções de exercícios não detalhadas na ficha; licença: não verificada; limite/permissão: Nenhuma licença CC ou autorização geral de reprodução foi encontrada. O PDF é público para consulta, mas não deve ser redistribuído ou ter questões/anexos reproduzidos; usar apenas link e descrever competências. A extração automática do PDF foi parcial.; URL: https://www.fab.mil.br/cabine/concursos/IE%20EA%20CFS%201%202027_11_02_2026.pdf\n- TecConcursos — Guia de Física para Sargento EEAR: recorte pertinente: A página lista a distribuição de subtópicos do banco: cinemática, dinâmica, energia/trabalho/potência, fluidostática, termologia/termodinâmica, óptica, ondas, circuitos, eletrostática e eletromagnetismo; útil para priorização sem copiar itens.; exercícios/seções: seções de exercícios não detalhadas na ficha; licença: não verificada; limite/permissão: Serviço comercial; licença CC/autorização de reprodução não encontrada. Não copiar o catálogo, questões ou comentários.; URL: https://www.tecconcursos.com.br/guias/eear-2026/curso-de-formacao-de-sargentos-eear/aeronavegantes-e-naoaeronavegantes/-/fisica-para-sargento-eear-2026/id",
+  "fis-termica": "## fis-termica — Calor e termodinâmica\n\nSubtemas e calibração do edital:\n- **Subtemas:** escalas e dilatação; calor sensível/latente; mudanças de fase; calorimetria; gases e princípios básicos da termodinâmica [1] [6].\n- **Enunciado típico:** mistura de corpos, aquecimento em gráfico, transformação gasosa ou máquina para calcular temperatura, calor, trabalho ou rendimento.\n- **Armadilhas/distratores:** confundir calor com temperatura; misturar Celsius/Kelvin ou ignorar calor latente, sinal de trabalho e conservação no sistema escolhido.\n- **Raciocínio:** aplicação/análise com balanço energético. Sem evidência pública específica para a proporção entre calorimetria e leis dos gases; cubra os tópicos previstos.\n\nFontes diretas de livros/PDFs e calibração para este conteúdo (licenças e limites preservados):\n- OpenStax — College Physics 2e: recorte pertinente: cinemática e dinâmica; trabalho, energia e potência; fluidos; calor e termodinâmica; ondas e óptica; eletricidade e magnetismo; exercícios/seções: Sim: perguntas conceituais, Problems & Exercises, problemas integrados, resultados não razoáveis e questões de pensamento crítico; respostas/recursos parcialmente separados.; licença: CC BY-NC-SA 4.0, declarada no prefácio; arte e materiais de terceiros devem ser conferidos por legenda.; limite/permissão: Redistribuição, tradução e adaptação não comercial com atribuição, indicação de mudanças e ShareAlike; não vender nem remover créditos.; URL: https://openstax.org/books/college-physics-2e/pages/preface\n- OpenStax — University Physics Volume 2: recorte pertinente: temperatura e calor; teoria cinética e termodinâmica; cargas e campos elétricos; potencial e capacitância; corrente, resistência e circuitos; magnetismo e indução; exercícios/seções: Sim: perguntas conceituais, problemas, adicionais e desafios; respostas selecionadas e guias de solução.; licença: CC BY-NC-SA 4.0, declarada no prefácio.; limite/permissão: Uso, remix e redistribuição não comercial com atribuição, indicação de mudanças e ShareAlike; soluções de instrutor e mídia devem ser verificadas separadamente.; URL: https://openstax.org/books/university-physics-volume-2/pages/preface\n- Foundations of Physics: recorte pertinente: cinemática; dinâmica; energia; calor; ondas; eletricidade; capítulos consultados também cobrem trabalho/energia/potência e eletrostática; exercícios/seções: Sim: a descrição declara exemplos, exercícios e recursos de apoio; capítulos consultados exibem exemplos e exercícios.; licença: CC BY 4.0, exceto onde indicado na obra.; limite/permissão: Cópia, adaptação, tradução e redistribuição inclusive comercial sob CC BY 4.0, com crédito, link da licença e indicação de alterações; verificar exceções e mídias.; URL: https://opentextbc.ca/foundationsofphysics/\n- Wikibooks — Physics Study Guide: recorte pertinente: cinemática e forças; momento, trabalho e energia; gravidade e movimento circular; ondas e som; fluidos; termodinâmica; eletricidade e magnetismo; óptica; exercícios/seções: O Study Guide é sobretudo expositivo; para exercícios usar a coleção Physics Exercises.; licença: Política geral: CC BY-SA 4.0 e GFDL sem versão, salvo indicação contrária no módulo/rodapé.; limite/permissão: Copiar, modificar e redistribuir com atribuição, aviso de mudanças, aviso de licença e ShareAlike; conferir mídia, fair use e exceções.; URL: https://en.wikibooks.org/wiki/Physics_Study_Guide\n- Wikibooks — Physics Exercises: recorte pertinente: mecânica clássica, cinemática e dinâmica; conservação de energia; oscilações e som; eletricidade e magnetismo; óptica; termodinâmica; fluidos; exercícios/seções: Sim: coleção explicitamente voltada a exercícios aplicados e teóricos, com soluções em páginas separadas; desenvolvimento incompleto.; licença: Política geral: CC BY-SA 4.0 e GFDL sem versão, salvo exceções do módulo.; limite/permissão: Redistribuir/adaptar módulos licenciados com atribuição, indicação de mudanças e ShareAlike; verificar histórico, rodapé e status de desenvolvimento.; URL: https://en.wikibooks.org/wiki/Physics_Exercises\n- Edital oficial — Exame de Admissão ao CFS 1/2027 (EEAR/FAB): recorte pertinente: Fonte oficial para nomenclatura do conteúdo e formato: indexação oficial informa prova objetiva de múltipla escolha com quatro alternativas; o documento indexa energia, trabalho e potência, calor/mudanças de estado e demais blocos de Física do edital.; exercícios/seções: seções de exercícios não detalhadas na ficha; licença: não verificada; limite/permissão: Nenhuma licença CC ou autorização geral de reprodução foi encontrada. O PDF é público para consulta, mas não deve ser redistribuído ou ter questões/anexos reproduzidos; usar apenas link e descrever competências. A extração automática do PDF foi parcial.; URL: https://www.fab.mil.br/cabine/concursos/IE%20EA%20CFS%201%202027_11_02_2026.pdf\n- Khan Academy — High School Physics: recorte pertinente: Organiza competências por unidades de movimento/forças, momento, gravitação, eletrostática, energia, eletromagnetismo e radiação; quizzes e testes ajudam a calibrar progressão conceitual e distratores.; exercícios/seções: seções de exercícios não detalhadas na ficha; licença: não verificada; limite/permissão: Termos concedem acesso pessoal não comercial a vídeos/exercícios; salvo licença alternativa explícita, não baixar, distribuir, vender, modificar ou fornecer acesso a terceiros. Proibidas cópia/extração automatizada e uso para treinar IA.; URL: https://www.khanacademy.org/science/highschool-physics\n- QConcursos — questões militares de Física para EEAR: recorte pertinente: Mostra variedade de padrões: afirmações para julgar, cálculo com constantes/unidades, direção de campos, ondas, MCU, termodinâmica, óptica, eletrostática, indução e força magnética.; exercícios/seções: seções de exercícios não detalhadas na ficha; licença: não verificada; limite/permissão: Não foi encontrada licença aberta para enunciados, alternativas ou comentários. Tratar como conteúdo protegido/comercial; não copiar, raspar ou redistribuir.; URL: https://www.qconcursos.com/questoes-militares/questoes?discipline_ids%5B%5D=198&institute_ids%5B%5D=6284\n- TecConcursos — Guia de Física para Sargento EEAR: recorte pertinente: A página lista a distribuição de subtópicos do banco: cinemática, dinâmica, energia/trabalho/potência, fluidostática, termologia/termodinâmica, óptica, ondas, circuitos, eletrostática e eletromagnetismo; útil para priorização sem copiar itens.; exercícios/seções: seções de exercícios não detalhadas na ficha; licença: não verificada; limite/permissão: Serviço comercial; licença CC/autorização de reprodução não encontrada. Não copiar o catálogo, questões ou comentários.; URL: https://www.tecconcursos.com.br/guias/eear-2026/curso-de-formacao-de-sargentos-eear/aeronavegantes-e-naoaeronavegantes/-/fisica-para-sargento-eear-2026/id",
+  "fis-ondas": "## fis-ondas — Ondas e óptica\n\nSubtemas e calibração do edital:\n- **Subtemas:** frequência, período, comprimento e velocidade; ondas sonoras; reflexão/refração; espelhos e lentes da óptica geométrica; imagens e aumento [1] [6].\n- **Enunciado típico:** gráfico ou desenho de onda/raios, pedindo parâmetro, posição de imagem, relação de refração ou interpretação de fenômeno.\n- **Armadilhas/distratores:** confundir frequência com período ou amplitude com comprimento; trocar convenção de sinais/raios notáveis e ignorar índice, normal ou unidade.\n- **Raciocínio:** aplicação/análise de gráfico e diagrama. A distribuição entre ondulatória e óptica não foi confirmada por contagem pública; use exemplos autorais.\n\nFontes diretas de livros/PDFs e calibração para este conteúdo (licenças e limites preservados):\n- OpenStax — College Physics 2e: recorte pertinente: cinemática e dinâmica; trabalho, energia e potência; fluidos; calor e termodinâmica; ondas e óptica; eletricidade e magnetismo; exercícios/seções: Sim: perguntas conceituais, Problems & Exercises, problemas integrados, resultados não razoáveis e questões de pensamento crítico; respostas/recursos parcialmente separados.; licença: CC BY-NC-SA 4.0, declarada no prefácio; arte e materiais de terceiros devem ser conferidos por legenda.; limite/permissão: Redistribuição, tradução e adaptação não comercial com atribuição, indicação de mudanças e ShareAlike; não vender nem remover créditos.; URL: https://openstax.org/books/college-physics-2e/pages/preface\n- OpenStax — University Physics Volume 1: recorte pertinente: cinemática; dinâmica e leis de Newton; trabalho e energia; momento e colisões; gravitação; fluidos; oscilações, ondas e som; exercícios/seções: Sim: exercícios ao fim dos capítulos, perguntas conceituais, problemas, problemas adicionais e desafios; respostas selecionadas.; licença: CC BY-NC-SA 4.0, declarada no prefácio.; limite/permissão: Uso, remix e redistribuição não comercial com atribuição, indicação de mudanças e mesma licença; conferir arte/terceiros.; URL: https://openstax.org/books/university-physics-volume-1/pages/preface\n- OpenStax — University Physics Volume 3: recorte pertinente: natureza da luz; óptica geométrica e formação de imagens; interferência; difração; exercícios/seções: Sim: perguntas conceituais, problemas por seção, problemas adicionais, resultados não razoáveis e desafios; respostas selecionadas.; licença: CC BY-NC-SA 4.0, declarada no prefácio.; limite/permissão: Uso, remix e redistribuição não comercial com atribuição, indicação de mudanças e ShareAlike; conferir arte e itens de terceiros.; URL: https://openstax.org/books/university-physics-volume-3/pages/preface\n- Foundations of Physics: recorte pertinente: cinemática; dinâmica; energia; calor; ondas; eletricidade; capítulos consultados também cobrem trabalho/energia/potência e eletrostática; exercícios/seções: Sim: a descrição declara exemplos, exercícios e recursos de apoio; capítulos consultados exibem exemplos e exercícios.; licença: CC BY 4.0, exceto onde indicado na obra.; limite/permissão: Cópia, adaptação, tradução e redistribuição inclusive comercial sob CC BY 4.0, com crédito, link da licença e indicação de alterações; verificar exceções e mídias.; URL: https://opentextbc.ca/foundationsofphysics/\n- Wikibooks — Physics Study Guide: recorte pertinente: cinemática e forças; momento, trabalho e energia; gravidade e movimento circular; ondas e som; fluidos; termodinâmica; eletricidade e magnetismo; óptica; exercícios/seções: O Study Guide é sobretudo expositivo; para exercícios usar a coleção Physics Exercises.; licença: Política geral: CC BY-SA 4.0 e GFDL sem versão, salvo indicação contrária no módulo/rodapé.; limite/permissão: Copiar, modificar e redistribuir com atribuição, aviso de mudanças, aviso de licença e ShareAlike; conferir mídia, fair use e exceções.; URL: https://en.wikibooks.org/wiki/Physics_Study_Guide\n- Wikibooks — Physics Exercises: recorte pertinente: mecânica clássica, cinemática e dinâmica; conservação de energia; oscilações e som; eletricidade e magnetismo; óptica; termodinâmica; fluidos; exercícios/seções: Sim: coleção explicitamente voltada a exercícios aplicados e teóricos, com soluções em páginas separadas; desenvolvimento incompleto.; licença: Política geral: CC BY-SA 4.0 e GFDL sem versão, salvo exceções do módulo.; limite/permissão: Redistribuir/adaptar módulos licenciados com atribuição, indicação de mudanças e ShareAlike; verificar histórico, rodapé e status de desenvolvimento.; URL: https://en.wikibooks.org/wiki/Physics_Exercises\n- Edital oficial — Exame de Admissão ao CFS 1/2027 (EEAR/FAB): recorte pertinente: Fonte oficial para nomenclatura do conteúdo e formato: indexação oficial informa prova objetiva de múltipla escolha com quatro alternativas; o documento indexa energia, trabalho e potência, calor/mudanças de estado e demais blocos de Física do edital.; exercícios/seções: seções de exercícios não detalhadas na ficha; licença: não verificada; limite/permissão: Nenhuma licença CC ou autorização geral de reprodução foi encontrada. O PDF é público para consulta, mas não deve ser redistribuído ou ter questões/anexos reproduzidos; usar apenas link e descrever competências. A extração automática do PDF foi parcial.; URL: https://www.fab.mil.br/cabine/concursos/IE%20EA%20CFS%201%202027_11_02_2026.pdf\n- Khan Academy — High School Physics: recorte pertinente: Organiza competências por unidades de movimento/forças, momento, gravitação, eletrostática, energia, eletromagnetismo e radiação; quizzes e testes ajudam a calibrar progressão conceitual e distratores.; exercícios/seções: seções de exercícios não detalhadas na ficha; licença: não verificada; limite/permissão: Termos concedem acesso pessoal não comercial a vídeos/exercícios; salvo licença alternativa explícita, não baixar, distribuir, vender, modificar ou fornecer acesso a terceiros. Proibidas cópia/extração automatizada e uso para treinar IA.; URL: https://www.khanacademy.org/science/highschool-physics\n- QConcursos — questões militares de Física para EEAR: recorte pertinente: Mostra variedade de padrões: afirmações para julgar, cálculo com constantes/unidades, direção de campos, ondas, MCU, termodinâmica, óptica, eletrostática, indução e força magnética.; exercícios/seções: seções de exercícios não detalhadas na ficha; licença: não verificada; limite/permissão: Não foi encontrada licença aberta para enunciados, alternativas ou comentários. Tratar como conteúdo protegido/comercial; não copiar, raspar ou redistribuir.; URL: https://www.qconcursos.com/questoes-militares/questoes?discipline_ids%5B%5D=198&institute_ids%5B%5D=6284\n- TecConcursos — Guia de Física para Sargento EEAR: recorte pertinente: A página lista a distribuição de subtópicos do banco: cinemática, dinâmica, energia/trabalho/potência, fluidostática, termologia/termodinâmica, óptica, ondas, circuitos, eletrostática e eletromagnetismo; útil para priorização sem copiar itens.; exercícios/seções: seções de exercícios não detalhadas na ficha; licença: não verificada; limite/permissão: Serviço comercial; licença CC/autorização de reprodução não encontrada. Não copiar o catálogo, questões ou comentários.; URL: https://www.tecconcursos.com.br/guias/eear-2026/curso-de-formacao-de-sargentos-eear/aeronavegantes-e-naoaeronavegantes/-/fisica-para-sargento-eear-2026/id",
+  "fis-eletrica": "## fis-eletrica — Eletricidade e magnetismo\n\nSubtemas e calibração do edital:\n- **Subtemas:** carga, campo e potencial; corrente, resistência, Lei de Ohm; associações e potência; magnetismo e indução [1] [6].\n- **Enunciado típico:** circuito esquemático, cargas/campos ou condutor em campo magnético para calcular grandeza, equivalência, sentido ou energia.\n- **Armadilhas/distratores:** confundir série/paralelo ou tensão/corrente; errar sentido de campo/força pela regra da mão direita e misturar potencial com energia.\n- **Raciocínio:** aplicação/análise de circuito, vetor e conservação. O peso relativo de eletrostática, circuitos e magnetismo não foi confirmado publicamente; não atribua percentuais.\n\nFontes diretas de livros/PDFs e calibração para este conteúdo (licenças e limites preservados):\n- OpenStax — College Physics 2e: recorte pertinente: cinemática e dinâmica; trabalho, energia e potência; fluidos; calor e termodinâmica; ondas e óptica; eletricidade e magnetismo; exercícios/seções: Sim: perguntas conceituais, Problems & Exercises, problemas integrados, resultados não razoáveis e questões de pensamento crítico; respostas/recursos parcialmente separados.; licença: CC BY-NC-SA 4.0, declarada no prefácio; arte e materiais de terceiros devem ser conferidos por legenda.; limite/permissão: Redistribuição, tradução e adaptação não comercial com atribuição, indicação de mudanças e ShareAlike; não vender nem remover créditos.; URL: https://openstax.org/books/college-physics-2e/pages/preface\n- OpenStax — University Physics Volume 2: recorte pertinente: temperatura e calor; teoria cinética e termodinâmica; cargas e campos elétricos; potencial e capacitância; corrente, resistência e circuitos; magnetismo e indução; exercícios/seções: Sim: perguntas conceituais, problemas, adicionais e desafios; respostas selecionadas e guias de solução.; licença: CC BY-NC-SA 4.0, declarada no prefácio.; limite/permissão: Uso, remix e redistribuição não comercial com atribuição, indicação de mudanças e ShareAlike; soluções de instrutor e mídia devem ser verificadas separadamente.; URL: https://openstax.org/books/university-physics-volume-2/pages/preface\n- Foundations of Physics: recorte pertinente: cinemática; dinâmica; energia; calor; ondas; eletricidade; capítulos consultados também cobrem trabalho/energia/potência e eletrostática; exercícios/seções: Sim: a descrição declara exemplos, exercícios e recursos de apoio; capítulos consultados exibem exemplos e exercícios.; licença: CC BY 4.0, exceto onde indicado na obra.; limite/permissão: Cópia, adaptação, tradução e redistribuição inclusive comercial sob CC BY 4.0, com crédito, link da licença e indicação de alterações; verificar exceções e mídias.; URL: https://opentextbc.ca/foundationsofphysics/\n- Wikibooks — Physics Study Guide: recorte pertinente: cinemática e forças; momento, trabalho e energia; gravidade e movimento circular; ondas e som; fluidos; termodinâmica; eletricidade e magnetismo; óptica; exercícios/seções: O Study Guide é sobretudo expositivo; para exercícios usar a coleção Physics Exercises.; licença: Política geral: CC BY-SA 4.0 e GFDL sem versão, salvo indicação contrária no módulo/rodapé.; limite/permissão: Copiar, modificar e redistribuir com atribuição, aviso de mudanças, aviso de licença e ShareAlike; conferir mídia, fair use e exceções.; URL: https://en.wikibooks.org/wiki/Physics_Study_Guide\n- Wikibooks — Physics Exercises: recorte pertinente: mecânica clássica, cinemática e dinâmica; conservação de energia; oscilações e som; eletricidade e magnetismo; óptica; termodinâmica; fluidos; exercícios/seções: Sim: coleção explicitamente voltada a exercícios aplicados e teóricos, com soluções em páginas separadas; desenvolvimento incompleto.; licença: Política geral: CC BY-SA 4.0 e GFDL sem versão, salvo exceções do módulo.; limite/permissão: Redistribuir/adaptar módulos licenciados com atribuição, indicação de mudanças e ShareAlike; verificar histórico, rodapé e status de desenvolvimento.; URL: https://en.wikibooks.org/wiki/Physics_Exercises\n- MIT OpenCourseWare — 8.022 Physics II: Electricity and Magnetism: recorte pertinente: campos e potencial elétrico/magnético; equações de Maxwell; relatividade introdutória; dielétricos; materiais magnéticos; indução e eletromagnetismo; exercícios/seções: Sim: página Assignments com problem sets em PDF; verificar os termos de cada arquivo.; licença: CC BY-NC-SA 4.0 por padrão OCW, salvo exceções nos arquivos.; limite/permissão: Cópia, adaptação e tradução não comercial com atribuição e ShareAlike; conferir contribuições de terceiros e não usar marcas MIT como endosso.; URL: https://ocw.mit.edu/courses/8-022-physics-ii-electricity-and-magnetism-fall-2004/\n- LibreTexts — 1.E: Exercises (Gettysburg College Physics for Physics Majors): recorte pertinente: unidades e padrões; modelagem física; problemas conceituais e numéricos; dimensionalidade e análise de ordem de grandeza; exercícios/seções: Sim: perguntas conceituais, problemas e challenge problems.; licença: A própria página declara CC BY 4.0 para o trabalho licenciado por OpenStax University Physics.; limite/permissão: Texto do módulo pode ser reutilizado/adaptado sob CC BY 4.0 com atribuição, link da licença e indicação de mudanças; não generalizar para todo o site, imagens ou outros módulos.; URL: https://phys.libretexts.org/Courses/Gettysburg_College/Gettysburg_College_Physics_for_Physics_Majors/01%3A_C1)_Abstraction_and_Modeling/1.E%3A_Exercises\n- Edital oficial — Exame de Admissão ao CFS 1/2027 (EEAR/FAB): recorte pertinente: Fonte oficial para nomenclatura do conteúdo e formato: indexação oficial informa prova objetiva de múltipla escolha com quatro alternativas; o documento indexa energia, trabalho e potência, calor/mudanças de estado e demais blocos de Física do edital.; exercícios/seções: seções de exercícios não detalhadas na ficha; licença: não verificada; limite/permissão: Nenhuma licença CC ou autorização geral de reprodução foi encontrada. O PDF é público para consulta, mas não deve ser redistribuído ou ter questões/anexos reproduzidos; usar apenas link e descrever competências. A extração automática do PDF foi parcial.; URL: https://www.fab.mil.br/cabine/concursos/IE%20EA%20CFS%201%202027_11_02_2026.pdf\n- Khan Academy — High School Physics: recorte pertinente: Organiza competências por unidades de movimento/forças, momento, gravitação, eletrostática, energia, eletromagnetismo e radiação; quizzes e testes ajudam a calibrar progressão conceitual e distratores.; exercícios/seções: seções de exercícios não detalhadas na ficha; licença: não verificada; limite/permissão: Termos concedem acesso pessoal não comercial a vídeos/exercícios; salvo licença alternativa explícita, não baixar, distribuir, vender, modificar ou fornecer acesso a terceiros. Proibidas cópia/extração automatizada e uso para treinar IA.; URL: https://www.khanacademy.org/science/highschool-physics\n- QConcursos — questões militares de Física para EEAR: recorte pertinente: Mostra variedade de padrões: afirmações para julgar, cálculo com constantes/unidades, direção de campos, ondas, MCU, termodinâmica, óptica, eletrostática, indução e força magnética.; exercícios/seções: seções de exercícios não detalhadas na ficha; licença: não verificada; limite/permissão: Não foi encontrada licença aberta para enunciados, alternativas ou comentários. Tratar como conteúdo protegido/comercial; não copiar, raspar ou redistribuir.; URL: https://www.qconcursos.com/questoes-militares/questoes?discipline_ids%5B%5D=198&institute_ids%5B%5D=6284\n- TecConcursos — Guia de Física para Sargento EEAR: recorte pertinente: A página lista a distribuição de subtópicos do banco: cinemática, dinâmica, energia/trabalho/potência, fluidostática, termologia/termodinâmica, óptica, ondas, circuitos, eletrostática e eletromagnetismo; útil para priorização sem copiar itens.; exercícios/seções: seções de exercícios não detalhadas na ficha; licença: não verificada; limite/permissão: Serviço comercial; licença CC/autorização de reprodução não encontrada. Não copiar o catálogo, questões ou comentários.; URL: https://www.tecconcursos.com.br/guias/eear-2026/curso-de-formacao-de-sargentos-eear/aeronavegantes-e-naoaeronavegantes/-/fisica-para-sargento-eear-2026/id"
+ },
+ "topicSources": {
+  "fis-cinematica": [
+   {
+    "exerciseAvailability": "Sim: perguntas conceituais, Problems & Exercises, problemas integrados, resultados não razoáveis e questões de pensamento crítico; respostas/recursos parcialmente separados.",
+    "license": "CC BY-NC-SA 4.0, declarada no prefácio; arte e materiais de terceiros devem ser conferidos por legenda.",
+    "organization": "OpenStax / Rice University",
+    "reuseAllowed": "Redistribuição, tradução e adaptação não comercial com atribuição, indicação de mudanças e ShareAlike; não vender nem remover créditos.",
+    "title": "OpenStax — College Physics 2e",
+    "topics": [
+     "cinemática e dinâmica",
+     "trabalho, energia e potência",
+     "fluidos",
+     "calor e termodinâmica",
+     "ondas e óptica",
+     "eletricidade e magnetismo"
+    ],
+    "url": "https://openstax.org/books/college-physics-2e/pages/preface"
+   },
+   {
+    "exerciseAvailability": "Sim: exercícios ao fim dos capítulos, perguntas conceituais, problemas, problemas adicionais e desafios; respostas selecionadas.",
+    "license": "CC BY-NC-SA 4.0, declarada no prefácio.",
+    "organization": "OpenStax / Rice University",
+    "reuseAllowed": "Uso, remix e redistribuição não comercial com atribuição, indicação de mudanças e mesma licença; conferir arte/terceiros.",
+    "title": "OpenStax — University Physics Volume 1",
+    "topics": [
+     "cinemática",
+     "dinâmica e leis de Newton",
+     "trabalho e energia",
+     "momento e colisões",
+     "gravitação",
+     "fluidos",
+     "oscilações, ondas e som"
+    ],
+    "url": "https://openstax.org/books/university-physics-volume-1/pages/preface"
+   },
+   {
+    "exerciseAvailability": "Sim: a descrição declara exemplos, exercícios e recursos de apoio; capítulos consultados exibem exemplos e exercícios.",
+    "license": "CC BY 4.0, exceto onde indicado na obra.",
+    "organization": "BCcampus Open Publishing / Terrance Berg",
+    "reuseAllowed": "Cópia, adaptação, tradução e redistribuição inclusive comercial sob CC BY 4.0, com crédito, link da licença e indicação de alterações; verificar exceções e mídias.",
+    "title": "Foundations of Physics",
+    "topics": [
+     "cinemática",
+     "dinâmica",
+     "energia",
+     "calor",
+     "ondas",
+     "eletricidade; capítulos consultados também cobrem trabalho/energia/potência e eletrostática"
+    ],
+    "url": "https://opentextbc.ca/foundationsofphysics/"
+   },
+   {
+    "exerciseAvailability": "O Study Guide é sobretudo expositivo; para exercícios usar a coleção Physics Exercises.",
+    "license": "Política geral: CC BY-SA 4.0 e GFDL sem versão, salvo indicação contrária no módulo/rodapé.",
+    "organization": "Wikibooks / Wikimedia",
+    "reuseAllowed": "Copiar, modificar e redistribuir com atribuição, aviso de mudanças, aviso de licença e ShareAlike; conferir mídia, fair use e exceções.",
+    "title": "Wikibooks — Physics Study Guide",
+    "topics": [
+     "cinemática e forças",
+     "momento, trabalho e energia",
+     "gravidade e movimento circular",
+     "ondas e som",
+     "fluidos",
+     "termodinâmica",
+     "eletricidade e magnetismo",
+     "óptica"
+    ],
+    "url": "https://en.wikibooks.org/wiki/Physics_Study_Guide"
+   },
+   {
+    "exerciseAvailability": "Sim: coleção explicitamente voltada a exercícios aplicados e teóricos, com soluções em páginas separadas; desenvolvimento incompleto.",
+    "license": "Política geral: CC BY-SA 4.0 e GFDL sem versão, salvo exceções do módulo.",
+    "organization": "Wikibooks / Wikimedia",
+    "reuseAllowed": "Redistribuir/adaptar módulos licenciados com atribuição, indicação de mudanças e ShareAlike; verificar histórico, rodapé e status de desenvolvimento.",
+    "title": "Wikibooks — Physics Exercises",
+    "topics": [
+     "mecânica clássica, cinemática e dinâmica",
+     "conservação de energia",
+     "oscilações e som",
+     "eletricidade e magnetismo",
+     "óptica",
+     "termodinâmica",
+     "fluidos"
+    ],
+    "url": "https://en.wikibooks.org/wiki/Physics_Exercises"
+   },
+   {
+    "exerciseAvailability": "Sim: problem sets semanais, exemplos e materiais de estudo; verificar arquivos individualmente.",
+    "license": "CC BY-NC-SA 4.0 por padrão OCW, salvo item marcado de modo diferente.",
+    "organization": "MIT OpenCourseWare / Massachusetts Institute of Technology",
+    "reuseAllowed": "Copiar, editar, traduzir e redistribuir não comercialmente com atribuição e ShareAlike; não comercializar nem sugerir endosso MIT.",
+    "title": "MIT OpenCourseWare — 8.01SC Classical Mechanics",
+    "topics": [
+     "cinemática",
+     "força e leis de Newton",
+     "momento",
+     "torque e momento angular",
+     "conservação de energia e momento"
+    ],
+    "url": "https://ocw.mit.edu/courses/8-01sc-classical-mechanics-fall-2016/"
+   },
+   {
+    "organization": "Força Aérea Brasileira / Escola de Especialistas de Aeronáutica",
+    "reuseLimit": "Nenhuma licença CC ou autorização geral de reprodução foi encontrada. O PDF é público para consulta, mas não deve ser redistribuído ou ter questões/anexos reproduzidos; usar apenas link e descrever competências. A extração automática do PDF foi parcial.",
+    "title": "Edital oficial — Exame de Admissão ao CFS 1/2027 (EEAR/FAB)",
+    "url": "https://www.fab.mil.br/cabine/concursos/IE%20EA%20CFS%201%202027_11_02_2026.pdf",
+    "whyUsefulForCalibration": "Fonte oficial para nomenclatura do conteúdo e formato: indexação oficial informa prova objetiva de múltipla escolha com quatro alternativas; o documento indexa energia, trabalho e potência, calor/mudanças de estado e demais blocos de Física do edital."
+   },
+   {
+    "organization": "Khan Academy",
+    "reuseLimit": "Termos concedem acesso pessoal não comercial a vídeos/exercícios; salvo licença alternativa explícita, não baixar, distribuir, vender, modificar ou fornecer acesso a terceiros. Proibidas cópia/extração automatizada e uso para treinar IA.",
+    "title": "Khan Academy — High School Physics",
+    "url": "https://www.khanacademy.org/science/highschool-physics",
+    "whyUsefulForCalibration": "Organiza competências por unidades de movimento/forças, momento, gravitação, eletrostática, energia, eletromagnetismo e radiação; quizzes e testes ajudam a calibrar progressão conceitual e distratores."
+   },
+   {
+    "organization": "QConcursos",
+    "reuseLimit": "Não foi encontrada licença aberta para enunciados, alternativas ou comentários. Tratar como conteúdo protegido/comercial; não copiar, raspar ou redistribuir.",
+    "title": "QConcursos — questões militares de Física para EEAR",
+    "url": "https://www.qconcursos.com/questoes-militares/questoes?discipline_ids%5B%5D=198&institute_ids%5B%5D=6284",
+    "whyUsefulForCalibration": "Mostra variedade de padrões: afirmações para julgar, cálculo com constantes/unidades, direção de campos, ondas, MCU, termodinâmica, óptica, eletrostática, indução e força magnética."
+   },
+   {
+    "organization": "TecConcursos",
+    "reuseLimit": "Serviço comercial; licença CC/autorização de reprodução não encontrada. Não copiar o catálogo, questões ou comentários.",
+    "title": "TecConcursos — Guia de Física para Sargento EEAR",
+    "url": "https://www.tecconcursos.com.br/guias/eear-2026/curso-de-formacao-de-sargentos-eear/aeronavegantes-e-naoaeronavegantes/-/fisica-para-sargento-eear-2026/id",
+    "whyUsefulForCalibration": "A página lista a distribuição de subtópicos do banco: cinemática, dinâmica, energia/trabalho/potência, fluidostática, termologia/termodinâmica, óptica, ondas, circuitos, eletrostática e eletromagnetismo; útil para priorização sem copiar itens."
+   }
+  ],
+  "fis-dinamica": [
+   {
+    "exerciseAvailability": "Sim: perguntas conceituais, Problems & Exercises, problemas integrados, resultados não razoáveis e questões de pensamento crítico; respostas/recursos parcialmente separados.",
+    "license": "CC BY-NC-SA 4.0, declarada no prefácio; arte e materiais de terceiros devem ser conferidos por legenda.",
+    "organization": "OpenStax / Rice University",
+    "reuseAllowed": "Redistribuição, tradução e adaptação não comercial com atribuição, indicação de mudanças e ShareAlike; não vender nem remover créditos.",
+    "title": "OpenStax — College Physics 2e",
+    "topics": [
+     "cinemática e dinâmica",
+     "trabalho, energia e potência",
+     "fluidos",
+     "calor e termodinâmica",
+     "ondas e óptica",
+     "eletricidade e magnetismo"
+    ],
+    "url": "https://openstax.org/books/college-physics-2e/pages/preface"
+   },
+   {
+    "exerciseAvailability": "Sim: exercícios ao fim dos capítulos, perguntas conceituais, problemas, problemas adicionais e desafios; respostas selecionadas.",
+    "license": "CC BY-NC-SA 4.0, declarada no prefácio.",
+    "organization": "OpenStax / Rice University",
+    "reuseAllowed": "Uso, remix e redistribuição não comercial com atribuição, indicação de mudanças e mesma licença; conferir arte/terceiros.",
+    "title": "OpenStax — University Physics Volume 1",
+    "topics": [
+     "cinemática",
+     "dinâmica e leis de Newton",
+     "trabalho e energia",
+     "momento e colisões",
+     "gravitação",
+     "fluidos",
+     "oscilações, ondas e som"
+    ],
+    "url": "https://openstax.org/books/university-physics-volume-1/pages/preface"
+   },
+   {
+    "exerciseAvailability": "Sim: a descrição declara exemplos, exercícios e recursos de apoio; capítulos consultados exibem exemplos e exercícios.",
+    "license": "CC BY 4.0, exceto onde indicado na obra.",
+    "organization": "BCcampus Open Publishing / Terrance Berg",
+    "reuseAllowed": "Cópia, adaptação, tradução e redistribuição inclusive comercial sob CC BY 4.0, com crédito, link da licença e indicação de alterações; verificar exceções e mídias.",
+    "title": "Foundations of Physics",
+    "topics": [
+     "cinemática",
+     "dinâmica",
+     "energia",
+     "calor",
+     "ondas",
+     "eletricidade; capítulos consultados também cobrem trabalho/energia/potência e eletrostática"
+    ],
+    "url": "https://opentextbc.ca/foundationsofphysics/"
+   },
+   {
+    "exerciseAvailability": "O Study Guide é sobretudo expositivo; para exercícios usar a coleção Physics Exercises.",
+    "license": "Política geral: CC BY-SA 4.0 e GFDL sem versão, salvo indicação contrária no módulo/rodapé.",
+    "organization": "Wikibooks / Wikimedia",
+    "reuseAllowed": "Copiar, modificar e redistribuir com atribuição, aviso de mudanças, aviso de licença e ShareAlike; conferir mídia, fair use e exceções.",
+    "title": "Wikibooks — Physics Study Guide",
+    "topics": [
+     "cinemática e forças",
+     "momento, trabalho e energia",
+     "gravidade e movimento circular",
+     "ondas e som",
+     "fluidos",
+     "termodinâmica",
+     "eletricidade e magnetismo",
+     "óptica"
+    ],
+    "url": "https://en.wikibooks.org/wiki/Physics_Study_Guide"
+   },
+   {
+    "exerciseAvailability": "Sim: coleção explicitamente voltada a exercícios aplicados e teóricos, com soluções em páginas separadas; desenvolvimento incompleto.",
+    "license": "Política geral: CC BY-SA 4.0 e GFDL sem versão, salvo exceções do módulo.",
+    "organization": "Wikibooks / Wikimedia",
+    "reuseAllowed": "Redistribuir/adaptar módulos licenciados com atribuição, indicação de mudanças e ShareAlike; verificar histórico, rodapé e status de desenvolvimento.",
+    "title": "Wikibooks — Physics Exercises",
+    "topics": [
+     "mecânica clássica, cinemática e dinâmica",
+     "conservação de energia",
+     "oscilações e som",
+     "eletricidade e magnetismo",
+     "óptica",
+     "termodinâmica",
+     "fluidos"
+    ],
+    "url": "https://en.wikibooks.org/wiki/Physics_Exercises"
+   },
+   {
+    "exerciseAvailability": "Sim: problem sets semanais, exemplos e materiais de estudo; verificar arquivos individualmente.",
+    "license": "CC BY-NC-SA 4.0 por padrão OCW, salvo item marcado de modo diferente.",
+    "organization": "MIT OpenCourseWare / Massachusetts Institute of Technology",
+    "reuseAllowed": "Copiar, editar, traduzir e redistribuir não comercialmente com atribuição e ShareAlike; não comercializar nem sugerir endosso MIT.",
+    "title": "MIT OpenCourseWare — 8.01SC Classical Mechanics",
+    "topics": [
+     "cinemática",
+     "força e leis de Newton",
+     "momento",
+     "torque e momento angular",
+     "conservação de energia e momento"
+    ],
+    "url": "https://ocw.mit.edu/courses/8-01sc-classical-mechanics-fall-2016/"
+   },
+   {
+    "organization": "Força Aérea Brasileira / Escola de Especialistas de Aeronáutica",
+    "reuseLimit": "Nenhuma licença CC ou autorização geral de reprodução foi encontrada. O PDF é público para consulta, mas não deve ser redistribuído ou ter questões/anexos reproduzidos; usar apenas link e descrever competências. A extração automática do PDF foi parcial.",
+    "title": "Edital oficial — Exame de Admissão ao CFS 1/2027 (EEAR/FAB)",
+    "url": "https://www.fab.mil.br/cabine/concursos/IE%20EA%20CFS%201%202027_11_02_2026.pdf",
+    "whyUsefulForCalibration": "Fonte oficial para nomenclatura do conteúdo e formato: indexação oficial informa prova objetiva de múltipla escolha com quatro alternativas; o documento indexa energia, trabalho e potência, calor/mudanças de estado e demais blocos de Física do edital."
+   },
+   {
+    "organization": "Khan Academy",
+    "reuseLimit": "Termos concedem acesso pessoal não comercial a vídeos/exercícios; salvo licença alternativa explícita, não baixar, distribuir, vender, modificar ou fornecer acesso a terceiros. Proibidas cópia/extração automatizada e uso para treinar IA.",
+    "title": "Khan Academy — High School Physics",
+    "url": "https://www.khanacademy.org/science/highschool-physics",
+    "whyUsefulForCalibration": "Organiza competências por unidades de movimento/forças, momento, gravitação, eletrostática, energia, eletromagnetismo e radiação; quizzes e testes ajudam a calibrar progressão conceitual e distratores."
+   },
+   {
+    "organization": "QConcursos",
+    "reuseLimit": "Não foi encontrada licença aberta para enunciados, alternativas ou comentários. Tratar como conteúdo protegido/comercial; não copiar, raspar ou redistribuir.",
+    "title": "QConcursos — questões militares de Física para EEAR",
+    "url": "https://www.qconcursos.com/questoes-militares/questoes?discipline_ids%5B%5D=198&institute_ids%5B%5D=6284",
+    "whyUsefulForCalibration": "Mostra variedade de padrões: afirmações para julgar, cálculo com constantes/unidades, direção de campos, ondas, MCU, termodinâmica, óptica, eletrostática, indução e força magnética."
+   },
+   {
+    "organization": "TecConcursos",
+    "reuseLimit": "Serviço comercial; licença CC/autorização de reprodução não encontrada. Não copiar o catálogo, questões ou comentários.",
+    "title": "TecConcursos — Guia de Física para Sargento EEAR",
+    "url": "https://www.tecconcursos.com.br/guias/eear-2026/curso-de-formacao-de-sargentos-eear/aeronavegantes-e-naoaeronavegantes/-/fisica-para-sargento-eear-2026/id",
+    "whyUsefulForCalibration": "A página lista a distribuição de subtópicos do banco: cinemática, dinâmica, energia/trabalho/potência, fluidostática, termologia/termodinâmica, óptica, ondas, circuitos, eletrostática e eletromagnetismo; útil para priorização sem copiar itens."
+   }
+  ],
+  "fis-energia": [
+   {
+    "exerciseAvailability": "Sim: perguntas conceituais, Problems & Exercises, problemas integrados, resultados não razoáveis e questões de pensamento crítico; respostas/recursos parcialmente separados.",
+    "license": "CC BY-NC-SA 4.0, declarada no prefácio; arte e materiais de terceiros devem ser conferidos por legenda.",
+    "organization": "OpenStax / Rice University",
+    "reuseAllowed": "Redistribuição, tradução e adaptação não comercial com atribuição, indicação de mudanças e ShareAlike; não vender nem remover créditos.",
+    "title": "OpenStax — College Physics 2e",
+    "topics": [
+     "cinemática e dinâmica",
+     "trabalho, energia e potência",
+     "fluidos",
+     "calor e termodinâmica",
+     "ondas e óptica",
+     "eletricidade e magnetismo"
+    ],
+    "url": "https://openstax.org/books/college-physics-2e/pages/preface"
+   },
+   {
+    "exerciseAvailability": "Sim: exercícios ao fim dos capítulos, perguntas conceituais, problemas, problemas adicionais e desafios; respostas selecionadas.",
+    "license": "CC BY-NC-SA 4.0, declarada no prefácio.",
+    "organization": "OpenStax / Rice University",
+    "reuseAllowed": "Uso, remix e redistribuição não comercial com atribuição, indicação de mudanças e mesma licença; conferir arte/terceiros.",
+    "title": "OpenStax — University Physics Volume 1",
+    "topics": [
+     "cinemática",
+     "dinâmica e leis de Newton",
+     "trabalho e energia",
+     "momento e colisões",
+     "gravitação",
+     "fluidos",
+     "oscilações, ondas e som"
+    ],
+    "url": "https://openstax.org/books/university-physics-volume-1/pages/preface"
+   },
+   {
+    "exerciseAvailability": "Sim: a descrição declara exemplos, exercícios e recursos de apoio; capítulos consultados exibem exemplos e exercícios.",
+    "license": "CC BY 4.0, exceto onde indicado na obra.",
+    "organization": "BCcampus Open Publishing / Terrance Berg",
+    "reuseAllowed": "Cópia, adaptação, tradução e redistribuição inclusive comercial sob CC BY 4.0, com crédito, link da licença e indicação de alterações; verificar exceções e mídias.",
+    "title": "Foundations of Physics",
+    "topics": [
+     "cinemática",
+     "dinâmica",
+     "energia",
+     "calor",
+     "ondas",
+     "eletricidade; capítulos consultados também cobrem trabalho/energia/potência e eletrostática"
+    ],
+    "url": "https://opentextbc.ca/foundationsofphysics/"
+   },
+   {
+    "exerciseAvailability": "O Study Guide é sobretudo expositivo; para exercícios usar a coleção Physics Exercises.",
+    "license": "Política geral: CC BY-SA 4.0 e GFDL sem versão, salvo indicação contrária no módulo/rodapé.",
+    "organization": "Wikibooks / Wikimedia",
+    "reuseAllowed": "Copiar, modificar e redistribuir com atribuição, aviso de mudanças, aviso de licença e ShareAlike; conferir mídia, fair use e exceções.",
+    "title": "Wikibooks — Physics Study Guide",
+    "topics": [
+     "cinemática e forças",
+     "momento, trabalho e energia",
+     "gravidade e movimento circular",
+     "ondas e som",
+     "fluidos",
+     "termodinâmica",
+     "eletricidade e magnetismo",
+     "óptica"
+    ],
+    "url": "https://en.wikibooks.org/wiki/Physics_Study_Guide"
+   },
+   {
+    "exerciseAvailability": "Sim: coleção explicitamente voltada a exercícios aplicados e teóricos, com soluções em páginas separadas; desenvolvimento incompleto.",
+    "license": "Política geral: CC BY-SA 4.0 e GFDL sem versão, salvo exceções do módulo.",
+    "organization": "Wikibooks / Wikimedia",
+    "reuseAllowed": "Redistribuir/adaptar módulos licenciados com atribuição, indicação de mudanças e ShareAlike; verificar histórico, rodapé e status de desenvolvimento.",
+    "title": "Wikibooks — Physics Exercises",
+    "topics": [
+     "mecânica clássica, cinemática e dinâmica",
+     "conservação de energia",
+     "oscilações e som",
+     "eletricidade e magnetismo",
+     "óptica",
+     "termodinâmica",
+     "fluidos"
+    ],
+    "url": "https://en.wikibooks.org/wiki/Physics_Exercises"
+   },
+   {
+    "exerciseAvailability": "Sim: problem sets semanais, exemplos e materiais de estudo; verificar arquivos individualmente.",
+    "license": "CC BY-NC-SA 4.0 por padrão OCW, salvo item marcado de modo diferente.",
+    "organization": "MIT OpenCourseWare / Massachusetts Institute of Technology",
+    "reuseAllowed": "Copiar, editar, traduzir e redistribuir não comercialmente com atribuição e ShareAlike; não comercializar nem sugerir endosso MIT.",
+    "title": "MIT OpenCourseWare — 8.01SC Classical Mechanics",
+    "topics": [
+     "cinemática",
+     "força e leis de Newton",
+     "momento",
+     "torque e momento angular",
+     "conservação de energia e momento"
+    ],
+    "url": "https://ocw.mit.edu/courses/8-01sc-classical-mechanics-fall-2016/"
+   },
+   {
+    "organization": "Força Aérea Brasileira / Escola de Especialistas de Aeronáutica",
+    "reuseLimit": "Nenhuma licença CC ou autorização geral de reprodução foi encontrada. O PDF é público para consulta, mas não deve ser redistribuído ou ter questões/anexos reproduzidos; usar apenas link e descrever competências. A extração automática do PDF foi parcial.",
+    "title": "Edital oficial — Exame de Admissão ao CFS 1/2027 (EEAR/FAB)",
+    "url": "https://www.fab.mil.br/cabine/concursos/IE%20EA%20CFS%201%202027_11_02_2026.pdf",
+    "whyUsefulForCalibration": "Fonte oficial para nomenclatura do conteúdo e formato: indexação oficial informa prova objetiva de múltipla escolha com quatro alternativas; o documento indexa energia, trabalho e potência, calor/mudanças de estado e demais blocos de Física do edital."
+   },
+   {
+    "organization": "QConcursos",
+    "reuseLimit": "Não foi encontrada licença aberta para enunciados, alternativas ou comentários. Tratar como conteúdo protegido/comercial; não copiar, raspar ou redistribuir.",
+    "title": "QConcursos — questões militares de Física para EEAR",
+    "url": "https://www.qconcursos.com/questoes-militares/questoes?discipline_ids%5B%5D=198&institute_ids%5B%5D=6284",
+    "whyUsefulForCalibration": "Mostra variedade de padrões: afirmações para julgar, cálculo com constantes/unidades, direção de campos, ondas, MCU, termodinâmica, óptica, eletrostática, indução e força magnética."
+   },
+   {
+    "organization": "TecConcursos",
+    "reuseLimit": "Serviço comercial; licença CC/autorização de reprodução não encontrada. Não copiar o catálogo, questões ou comentários.",
+    "title": "TecConcursos — Guia de Física para Sargento EEAR",
+    "url": "https://www.tecconcursos.com.br/guias/eear-2026/curso-de-formacao-de-sargentos-eear/aeronavegantes-e-naoaeronavegantes/-/fisica-para-sargento-eear-2026/id",
+    "whyUsefulForCalibration": "A página lista a distribuição de subtópicos do banco: cinemática, dinâmica, energia/trabalho/potência, fluidostática, termologia/termodinâmica, óptica, ondas, circuitos, eletrostática e eletromagnetismo; útil para priorização sem copiar itens."
+   }
+  ],
+  "fis-fluidos": [
+   {
+    "exerciseAvailability": "Sim: perguntas conceituais, Problems & Exercises, problemas integrados, resultados não razoáveis e questões de pensamento crítico; respostas/recursos parcialmente separados.",
+    "license": "CC BY-NC-SA 4.0, declarada no prefácio; arte e materiais de terceiros devem ser conferidos por legenda.",
+    "organization": "OpenStax / Rice University",
+    "reuseAllowed": "Redistribuição, tradução e adaptação não comercial com atribuição, indicação de mudanças e ShareAlike; não vender nem remover créditos.",
+    "title": "OpenStax — College Physics 2e",
+    "topics": [
+     "cinemática e dinâmica",
+     "trabalho, energia e potência",
+     "fluidos",
+     "calor e termodinâmica",
+     "ondas e óptica",
+     "eletricidade e magnetismo"
+    ],
+    "url": "https://openstax.org/books/college-physics-2e/pages/preface"
+   },
+   {
+    "exerciseAvailability": "Sim: exercícios ao fim dos capítulos, perguntas conceituais, problemas, problemas adicionais e desafios; respostas selecionadas.",
+    "license": "CC BY-NC-SA 4.0, declarada no prefácio.",
+    "organization": "OpenStax / Rice University",
+    "reuseAllowed": "Uso, remix e redistribuição não comercial com atribuição, indicação de mudanças e mesma licença; conferir arte/terceiros.",
+    "title": "OpenStax — University Physics Volume 1",
+    "topics": [
+     "cinemática",
+     "dinâmica e leis de Newton",
+     "trabalho e energia",
+     "momento e colisões",
+     "gravitação",
+     "fluidos",
+     "oscilações, ondas e som"
+    ],
+    "url": "https://openstax.org/books/university-physics-volume-1/pages/preface"
+   },
+   {
+    "exerciseAvailability": "O Study Guide é sobretudo expositivo; para exercícios usar a coleção Physics Exercises.",
+    "license": "Política geral: CC BY-SA 4.0 e GFDL sem versão, salvo indicação contrária no módulo/rodapé.",
+    "organization": "Wikibooks / Wikimedia",
+    "reuseAllowed": "Copiar, modificar e redistribuir com atribuição, aviso de mudanças, aviso de licença e ShareAlike; conferir mídia, fair use e exceções.",
+    "title": "Wikibooks — Physics Study Guide",
+    "topics": [
+     "cinemática e forças",
+     "momento, trabalho e energia",
+     "gravidade e movimento circular",
+     "ondas e som",
+     "fluidos",
+     "termodinâmica",
+     "eletricidade e magnetismo",
+     "óptica"
+    ],
+    "url": "https://en.wikibooks.org/wiki/Physics_Study_Guide"
+   },
+   {
+    "exerciseAvailability": "Sim: coleção explicitamente voltada a exercícios aplicados e teóricos, com soluções em páginas separadas; desenvolvimento incompleto.",
+    "license": "Política geral: CC BY-SA 4.0 e GFDL sem versão, salvo exceções do módulo.",
+    "organization": "Wikibooks / Wikimedia",
+    "reuseAllowed": "Redistribuir/adaptar módulos licenciados com atribuição, indicação de mudanças e ShareAlike; verificar histórico, rodapé e status de desenvolvimento.",
+    "title": "Wikibooks — Physics Exercises",
+    "topics": [
+     "mecânica clássica, cinemática e dinâmica",
+     "conservação de energia",
+     "oscilações e som",
+     "eletricidade e magnetismo",
+     "óptica",
+     "termodinâmica",
+     "fluidos"
+    ],
+    "url": "https://en.wikibooks.org/wiki/Physics_Exercises"
+   },
+   {
+    "organization": "Força Aérea Brasileira / Escola de Especialistas de Aeronáutica",
+    "reuseLimit": "Nenhuma licença CC ou autorização geral de reprodução foi encontrada. O PDF é público para consulta, mas não deve ser redistribuído ou ter questões/anexos reproduzidos; usar apenas link e descrever competências. A extração automática do PDF foi parcial.",
+    "title": "Edital oficial — Exame de Admissão ao CFS 1/2027 (EEAR/FAB)",
+    "url": "https://www.fab.mil.br/cabine/concursos/IE%20EA%20CFS%201%202027_11_02_2026.pdf",
+    "whyUsefulForCalibration": "Fonte oficial para nomenclatura do conteúdo e formato: indexação oficial informa prova objetiva de múltipla escolha com quatro alternativas; o documento indexa energia, trabalho e potência, calor/mudanças de estado e demais blocos de Física do edital."
+   },
+   {
+    "organization": "TecConcursos",
+    "reuseLimit": "Serviço comercial; licença CC/autorização de reprodução não encontrada. Não copiar o catálogo, questões ou comentários.",
+    "title": "TecConcursos — Guia de Física para Sargento EEAR",
+    "url": "https://www.tecconcursos.com.br/guias/eear-2026/curso-de-formacao-de-sargentos-eear/aeronavegantes-e-naoaeronavegantes/-/fisica-para-sargento-eear-2026/id",
+    "whyUsefulForCalibration": "A página lista a distribuição de subtópicos do banco: cinemática, dinâmica, energia/trabalho/potência, fluidostática, termologia/termodinâmica, óptica, ondas, circuitos, eletrostática e eletromagnetismo; útil para priorização sem copiar itens."
+   }
+  ],
+  "fis-termica": [
+   {
+    "exerciseAvailability": "Sim: perguntas conceituais, Problems & Exercises, problemas integrados, resultados não razoáveis e questões de pensamento crítico; respostas/recursos parcialmente separados.",
+    "license": "CC BY-NC-SA 4.0, declarada no prefácio; arte e materiais de terceiros devem ser conferidos por legenda.",
+    "organization": "OpenStax / Rice University",
+    "reuseAllowed": "Redistribuição, tradução e adaptação não comercial com atribuição, indicação de mudanças e ShareAlike; não vender nem remover créditos.",
+    "title": "OpenStax — College Physics 2e",
+    "topics": [
+     "cinemática e dinâmica",
+     "trabalho, energia e potência",
+     "fluidos",
+     "calor e termodinâmica",
+     "ondas e óptica",
+     "eletricidade e magnetismo"
+    ],
+    "url": "https://openstax.org/books/college-physics-2e/pages/preface"
+   },
+   {
+    "exerciseAvailability": "Sim: perguntas conceituais, problemas, adicionais e desafios; respostas selecionadas e guias de solução.",
+    "license": "CC BY-NC-SA 4.0, declarada no prefácio.",
+    "organization": "OpenStax / Rice University",
+    "reuseAllowed": "Uso, remix e redistribuição não comercial com atribuição, indicação de mudanças e ShareAlike; soluções de instrutor e mídia devem ser verificadas separadamente.",
+    "title": "OpenStax — University Physics Volume 2",
+    "topics": [
+     "temperatura e calor",
+     "teoria cinética e termodinâmica",
+     "cargas e campos elétricos",
+     "potencial e capacitância",
+     "corrente, resistência e circuitos",
+     "magnetismo e indução"
+    ],
+    "url": "https://openstax.org/books/university-physics-volume-2/pages/preface"
+   },
+   {
+    "exerciseAvailability": "Sim: a descrição declara exemplos, exercícios e recursos de apoio; capítulos consultados exibem exemplos e exercícios.",
+    "license": "CC BY 4.0, exceto onde indicado na obra.",
+    "organization": "BCcampus Open Publishing / Terrance Berg",
+    "reuseAllowed": "Cópia, adaptação, tradução e redistribuição inclusive comercial sob CC BY 4.0, com crédito, link da licença e indicação de alterações; verificar exceções e mídias.",
+    "title": "Foundations of Physics",
+    "topics": [
+     "cinemática",
+     "dinâmica",
+     "energia",
+     "calor",
+     "ondas",
+     "eletricidade; capítulos consultados também cobrem trabalho/energia/potência e eletrostática"
+    ],
+    "url": "https://opentextbc.ca/foundationsofphysics/"
+   },
+   {
+    "exerciseAvailability": "O Study Guide é sobretudo expositivo; para exercícios usar a coleção Physics Exercises.",
+    "license": "Política geral: CC BY-SA 4.0 e GFDL sem versão, salvo indicação contrária no módulo/rodapé.",
+    "organization": "Wikibooks / Wikimedia",
+    "reuseAllowed": "Copiar, modificar e redistribuir com atribuição, aviso de mudanças, aviso de licença e ShareAlike; conferir mídia, fair use e exceções.",
+    "title": "Wikibooks — Physics Study Guide",
+    "topics": [
+     "cinemática e forças",
+     "momento, trabalho e energia",
+     "gravidade e movimento circular",
+     "ondas e som",
+     "fluidos",
+     "termodinâmica",
+     "eletricidade e magnetismo",
+     "óptica"
+    ],
+    "url": "https://en.wikibooks.org/wiki/Physics_Study_Guide"
+   },
+   {
+    "exerciseAvailability": "Sim: coleção explicitamente voltada a exercícios aplicados e teóricos, com soluções em páginas separadas; desenvolvimento incompleto.",
+    "license": "Política geral: CC BY-SA 4.0 e GFDL sem versão, salvo exceções do módulo.",
+    "organization": "Wikibooks / Wikimedia",
+    "reuseAllowed": "Redistribuir/adaptar módulos licenciados com atribuição, indicação de mudanças e ShareAlike; verificar histórico, rodapé e status de desenvolvimento.",
+    "title": "Wikibooks — Physics Exercises",
+    "topics": [
+     "mecânica clássica, cinemática e dinâmica",
+     "conservação de energia",
+     "oscilações e som",
+     "eletricidade e magnetismo",
+     "óptica",
+     "termodinâmica",
+     "fluidos"
+    ],
+    "url": "https://en.wikibooks.org/wiki/Physics_Exercises"
+   },
+   {
+    "organization": "Força Aérea Brasileira / Escola de Especialistas de Aeronáutica",
+    "reuseLimit": "Nenhuma licença CC ou autorização geral de reprodução foi encontrada. O PDF é público para consulta, mas não deve ser redistribuído ou ter questões/anexos reproduzidos; usar apenas link e descrever competências. A extração automática do PDF foi parcial.",
+    "title": "Edital oficial — Exame de Admissão ao CFS 1/2027 (EEAR/FAB)",
+    "url": "https://www.fab.mil.br/cabine/concursos/IE%20EA%20CFS%201%202027_11_02_2026.pdf",
+    "whyUsefulForCalibration": "Fonte oficial para nomenclatura do conteúdo e formato: indexação oficial informa prova objetiva de múltipla escolha com quatro alternativas; o documento indexa energia, trabalho e potência, calor/mudanças de estado e demais blocos de Física do edital."
+   },
+   {
+    "organization": "Khan Academy",
+    "reuseLimit": "Termos concedem acesso pessoal não comercial a vídeos/exercícios; salvo licença alternativa explícita, não baixar, distribuir, vender, modificar ou fornecer acesso a terceiros. Proibidas cópia/extração automatizada e uso para treinar IA.",
+    "title": "Khan Academy — High School Physics",
+    "url": "https://www.khanacademy.org/science/highschool-physics",
+    "whyUsefulForCalibration": "Organiza competências por unidades de movimento/forças, momento, gravitação, eletrostática, energia, eletromagnetismo e radiação; quizzes e testes ajudam a calibrar progressão conceitual e distratores."
+   },
+   {
+    "organization": "QConcursos",
+    "reuseLimit": "Não foi encontrada licença aberta para enunciados, alternativas ou comentários. Tratar como conteúdo protegido/comercial; não copiar, raspar ou redistribuir.",
+    "title": "QConcursos — questões militares de Física para EEAR",
+    "url": "https://www.qconcursos.com/questoes-militares/questoes?discipline_ids%5B%5D=198&institute_ids%5B%5D=6284",
+    "whyUsefulForCalibration": "Mostra variedade de padrões: afirmações para julgar, cálculo com constantes/unidades, direção de campos, ondas, MCU, termodinâmica, óptica, eletrostática, indução e força magnética."
+   },
+   {
+    "organization": "TecConcursos",
+    "reuseLimit": "Serviço comercial; licença CC/autorização de reprodução não encontrada. Não copiar o catálogo, questões ou comentários.",
+    "title": "TecConcursos — Guia de Física para Sargento EEAR",
+    "url": "https://www.tecconcursos.com.br/guias/eear-2026/curso-de-formacao-de-sargentos-eear/aeronavegantes-e-naoaeronavegantes/-/fisica-para-sargento-eear-2026/id",
+    "whyUsefulForCalibration": "A página lista a distribuição de subtópicos do banco: cinemática, dinâmica, energia/trabalho/potência, fluidostática, termologia/termodinâmica, óptica, ondas, circuitos, eletrostática e eletromagnetismo; útil para priorização sem copiar itens."
+   }
+  ],
+  "fis-ondas": [
+   {
+    "exerciseAvailability": "Sim: perguntas conceituais, Problems & Exercises, problemas integrados, resultados não razoáveis e questões de pensamento crítico; respostas/recursos parcialmente separados.",
+    "license": "CC BY-NC-SA 4.0, declarada no prefácio; arte e materiais de terceiros devem ser conferidos por legenda.",
+    "organization": "OpenStax / Rice University",
+    "reuseAllowed": "Redistribuição, tradução e adaptação não comercial com atribuição, indicação de mudanças e ShareAlike; não vender nem remover créditos.",
+    "title": "OpenStax — College Physics 2e",
+    "topics": [
+     "cinemática e dinâmica",
+     "trabalho, energia e potência",
+     "fluidos",
+     "calor e termodinâmica",
+     "ondas e óptica",
+     "eletricidade e magnetismo"
+    ],
+    "url": "https://openstax.org/books/college-physics-2e/pages/preface"
+   },
+   {
+    "exerciseAvailability": "Sim: exercícios ao fim dos capítulos, perguntas conceituais, problemas, problemas adicionais e desafios; respostas selecionadas.",
+    "license": "CC BY-NC-SA 4.0, declarada no prefácio.",
+    "organization": "OpenStax / Rice University",
+    "reuseAllowed": "Uso, remix e redistribuição não comercial com atribuição, indicação de mudanças e mesma licença; conferir arte/terceiros.",
+    "title": "OpenStax — University Physics Volume 1",
+    "topics": [
+     "cinemática",
+     "dinâmica e leis de Newton",
+     "trabalho e energia",
+     "momento e colisões",
+     "gravitação",
+     "fluidos",
+     "oscilações, ondas e som"
+    ],
+    "url": "https://openstax.org/books/university-physics-volume-1/pages/preface"
+   },
+   {
+    "exerciseAvailability": "Sim: perguntas conceituais, problemas por seção, problemas adicionais, resultados não razoáveis e desafios; respostas selecionadas.",
+    "license": "CC BY-NC-SA 4.0, declarada no prefácio.",
+    "organization": "OpenStax / Rice University",
+    "reuseAllowed": "Uso, remix e redistribuição não comercial com atribuição, indicação de mudanças e ShareAlike; conferir arte e itens de terceiros.",
+    "title": "OpenStax — University Physics Volume 3",
+    "topics": [
+     "natureza da luz",
+     "óptica geométrica e formação de imagens",
+     "interferência",
+     "difração"
+    ],
+    "url": "https://openstax.org/books/university-physics-volume-3/pages/preface"
+   },
+   {
+    "exerciseAvailability": "Sim: a descrição declara exemplos, exercícios e recursos de apoio; capítulos consultados exibem exemplos e exercícios.",
+    "license": "CC BY 4.0, exceto onde indicado na obra.",
+    "organization": "BCcampus Open Publishing / Terrance Berg",
+    "reuseAllowed": "Cópia, adaptação, tradução e redistribuição inclusive comercial sob CC BY 4.0, com crédito, link da licença e indicação de alterações; verificar exceções e mídias.",
+    "title": "Foundations of Physics",
+    "topics": [
+     "cinemática",
+     "dinâmica",
+     "energia",
+     "calor",
+     "ondas",
+     "eletricidade; capítulos consultados também cobrem trabalho/energia/potência e eletrostática"
+    ],
+    "url": "https://opentextbc.ca/foundationsofphysics/"
+   },
+   {
+    "exerciseAvailability": "O Study Guide é sobretudo expositivo; para exercícios usar a coleção Physics Exercises.",
+    "license": "Política geral: CC BY-SA 4.0 e GFDL sem versão, salvo indicação contrária no módulo/rodapé.",
+    "organization": "Wikibooks / Wikimedia",
+    "reuseAllowed": "Copiar, modificar e redistribuir com atribuição, aviso de mudanças, aviso de licença e ShareAlike; conferir mídia, fair use e exceções.",
+    "title": "Wikibooks — Physics Study Guide",
+    "topics": [
+     "cinemática e forças",
+     "momento, trabalho e energia",
+     "gravidade e movimento circular",
+     "ondas e som",
+     "fluidos",
+     "termodinâmica",
+     "eletricidade e magnetismo",
+     "óptica"
+    ],
+    "url": "https://en.wikibooks.org/wiki/Physics_Study_Guide"
+   },
+   {
+    "exerciseAvailability": "Sim: coleção explicitamente voltada a exercícios aplicados e teóricos, com soluções em páginas separadas; desenvolvimento incompleto.",
+    "license": "Política geral: CC BY-SA 4.0 e GFDL sem versão, salvo exceções do módulo.",
+    "organization": "Wikibooks / Wikimedia",
+    "reuseAllowed": "Redistribuir/adaptar módulos licenciados com atribuição, indicação de mudanças e ShareAlike; verificar histórico, rodapé e status de desenvolvimento.",
+    "title": "Wikibooks — Physics Exercises",
+    "topics": [
+     "mecânica clássica, cinemática e dinâmica",
+     "conservação de energia",
+     "oscilações e som",
+     "eletricidade e magnetismo",
+     "óptica",
+     "termodinâmica",
+     "fluidos"
+    ],
+    "url": "https://en.wikibooks.org/wiki/Physics_Exercises"
+   },
+   {
+    "organization": "Força Aérea Brasileira / Escola de Especialistas de Aeronáutica",
+    "reuseLimit": "Nenhuma licença CC ou autorização geral de reprodução foi encontrada. O PDF é público para consulta, mas não deve ser redistribuído ou ter questões/anexos reproduzidos; usar apenas link e descrever competências. A extração automática do PDF foi parcial.",
+    "title": "Edital oficial — Exame de Admissão ao CFS 1/2027 (EEAR/FAB)",
+    "url": "https://www.fab.mil.br/cabine/concursos/IE%20EA%20CFS%201%202027_11_02_2026.pdf",
+    "whyUsefulForCalibration": "Fonte oficial para nomenclatura do conteúdo e formato: indexação oficial informa prova objetiva de múltipla escolha com quatro alternativas; o documento indexa energia, trabalho e potência, calor/mudanças de estado e demais blocos de Física do edital."
+   },
+   {
+    "organization": "Khan Academy",
+    "reuseLimit": "Termos concedem acesso pessoal não comercial a vídeos/exercícios; salvo licença alternativa explícita, não baixar, distribuir, vender, modificar ou fornecer acesso a terceiros. Proibidas cópia/extração automatizada e uso para treinar IA.",
+    "title": "Khan Academy — High School Physics",
+    "url": "https://www.khanacademy.org/science/highschool-physics",
+    "whyUsefulForCalibration": "Organiza competências por unidades de movimento/forças, momento, gravitação, eletrostática, energia, eletromagnetismo e radiação; quizzes e testes ajudam a calibrar progressão conceitual e distratores."
+   },
+   {
+    "organization": "QConcursos",
+    "reuseLimit": "Não foi encontrada licença aberta para enunciados, alternativas ou comentários. Tratar como conteúdo protegido/comercial; não copiar, raspar ou redistribuir.",
+    "title": "QConcursos — questões militares de Física para EEAR",
+    "url": "https://www.qconcursos.com/questoes-militares/questoes?discipline_ids%5B%5D=198&institute_ids%5B%5D=6284",
+    "whyUsefulForCalibration": "Mostra variedade de padrões: afirmações para julgar, cálculo com constantes/unidades, direção de campos, ondas, MCU, termodinâmica, óptica, eletrostática, indução e força magnética."
+   },
+   {
+    "organization": "TecConcursos",
+    "reuseLimit": "Serviço comercial; licença CC/autorização de reprodução não encontrada. Não copiar o catálogo, questões ou comentários.",
+    "title": "TecConcursos — Guia de Física para Sargento EEAR",
+    "url": "https://www.tecconcursos.com.br/guias/eear-2026/curso-de-formacao-de-sargentos-eear/aeronavegantes-e-naoaeronavegantes/-/fisica-para-sargento-eear-2026/id",
+    "whyUsefulForCalibration": "A página lista a distribuição de subtópicos do banco: cinemática, dinâmica, energia/trabalho/potência, fluidostática, termologia/termodinâmica, óptica, ondas, circuitos, eletrostática e eletromagnetismo; útil para priorização sem copiar itens."
+   }
+  ],
+  "fis-eletrica": [
+   {
+    "exerciseAvailability": "Sim: perguntas conceituais, Problems & Exercises, problemas integrados, resultados não razoáveis e questões de pensamento crítico; respostas/recursos parcialmente separados.",
+    "license": "CC BY-NC-SA 4.0, declarada no prefácio; arte e materiais de terceiros devem ser conferidos por legenda.",
+    "organization": "OpenStax / Rice University",
+    "reuseAllowed": "Redistribuição, tradução e adaptação não comercial com atribuição, indicação de mudanças e ShareAlike; não vender nem remover créditos.",
+    "title": "OpenStax — College Physics 2e",
+    "topics": [
+     "cinemática e dinâmica",
+     "trabalho, energia e potência",
+     "fluidos",
+     "calor e termodinâmica",
+     "ondas e óptica",
+     "eletricidade e magnetismo"
+    ],
+    "url": "https://openstax.org/books/college-physics-2e/pages/preface"
+   },
+   {
+    "exerciseAvailability": "Sim: perguntas conceituais, problemas, adicionais e desafios; respostas selecionadas e guias de solução.",
+    "license": "CC BY-NC-SA 4.0, declarada no prefácio.",
+    "organization": "OpenStax / Rice University",
+    "reuseAllowed": "Uso, remix e redistribuição não comercial com atribuição, indicação de mudanças e ShareAlike; soluções de instrutor e mídia devem ser verificadas separadamente.",
+    "title": "OpenStax — University Physics Volume 2",
+    "topics": [
+     "temperatura e calor",
+     "teoria cinética e termodinâmica",
+     "cargas e campos elétricos",
+     "potencial e capacitância",
+     "corrente, resistência e circuitos",
+     "magnetismo e indução"
+    ],
+    "url": "https://openstax.org/books/university-physics-volume-2/pages/preface"
+   },
+   {
+    "exerciseAvailability": "Sim: a descrição declara exemplos, exercícios e recursos de apoio; capítulos consultados exibem exemplos e exercícios.",
+    "license": "CC BY 4.0, exceto onde indicado na obra.",
+    "organization": "BCcampus Open Publishing / Terrance Berg",
+    "reuseAllowed": "Cópia, adaptação, tradução e redistribuição inclusive comercial sob CC BY 4.0, com crédito, link da licença e indicação de alterações; verificar exceções e mídias.",
+    "title": "Foundations of Physics",
+    "topics": [
+     "cinemática",
+     "dinâmica",
+     "energia",
+     "calor",
+     "ondas",
+     "eletricidade; capítulos consultados também cobrem trabalho/energia/potência e eletrostática"
+    ],
+    "url": "https://opentextbc.ca/foundationsofphysics/"
+   },
+   {
+    "exerciseAvailability": "O Study Guide é sobretudo expositivo; para exercícios usar a coleção Physics Exercises.",
+    "license": "Política geral: CC BY-SA 4.0 e GFDL sem versão, salvo indicação contrária no módulo/rodapé.",
+    "organization": "Wikibooks / Wikimedia",
+    "reuseAllowed": "Copiar, modificar e redistribuir com atribuição, aviso de mudanças, aviso de licença e ShareAlike; conferir mídia, fair use e exceções.",
+    "title": "Wikibooks — Physics Study Guide",
+    "topics": [
+     "cinemática e forças",
+     "momento, trabalho e energia",
+     "gravidade e movimento circular",
+     "ondas e som",
+     "fluidos",
+     "termodinâmica",
+     "eletricidade e magnetismo",
+     "óptica"
+    ],
+    "url": "https://en.wikibooks.org/wiki/Physics_Study_Guide"
+   },
+   {
+    "exerciseAvailability": "Sim: coleção explicitamente voltada a exercícios aplicados e teóricos, com soluções em páginas separadas; desenvolvimento incompleto.",
+    "license": "Política geral: CC BY-SA 4.0 e GFDL sem versão, salvo exceções do módulo.",
+    "organization": "Wikibooks / Wikimedia",
+    "reuseAllowed": "Redistribuir/adaptar módulos licenciados com atribuição, indicação de mudanças e ShareAlike; verificar histórico, rodapé e status de desenvolvimento.",
+    "title": "Wikibooks — Physics Exercises",
+    "topics": [
+     "mecânica clássica, cinemática e dinâmica",
+     "conservação de energia",
+     "oscilações e som",
+     "eletricidade e magnetismo",
+     "óptica",
+     "termodinâmica",
+     "fluidos"
+    ],
+    "url": "https://en.wikibooks.org/wiki/Physics_Exercises"
+   },
+   {
+    "exerciseAvailability": "Sim: página Assignments com problem sets em PDF; verificar os termos de cada arquivo.",
+    "license": "CC BY-NC-SA 4.0 por padrão OCW, salvo exceções nos arquivos.",
+    "organization": "MIT OpenCourseWare / Massachusetts Institute of Technology",
+    "reuseAllowed": "Cópia, adaptação e tradução não comercial com atribuição e ShareAlike; conferir contribuições de terceiros e não usar marcas MIT como endosso.",
+    "title": "MIT OpenCourseWare — 8.022 Physics II: Electricity and Magnetism",
+    "topics": [
+     "campos e potencial elétrico/magnético",
+     "equações de Maxwell",
+     "relatividade introdutória",
+     "dielétricos",
+     "materiais magnéticos",
+     "indução e eletromagnetismo"
+    ],
+    "url": "https://ocw.mit.edu/courses/8-022-physics-ii-electricity-and-magnetism-fall-2004/"
+   },
+   {
+    "exerciseAvailability": "Sim: perguntas conceituais, problemas e challenge problems.",
+    "license": "A própria página declara CC BY 4.0 para o trabalho licenciado por OpenStax University Physics.",
+    "organization": "Physics LibreTexts / Gettysburg College / OpenStax contributors",
+    "reuseAllowed": "Texto do módulo pode ser reutilizado/adaptado sob CC BY 4.0 com atribuição, link da licença e indicação de mudanças; não generalizar para todo o site, imagens ou outros módulos.",
+    "title": "LibreTexts — 1.E: Exercises (Gettysburg College Physics for Physics Majors)",
+    "topics": [
+     "unidades e padrões",
+     "modelagem física",
+     "problemas conceituais e numéricos",
+     "dimensionalidade e análise de ordem de grandeza"
+    ],
+    "url": "https://phys.libretexts.org/Courses/Gettysburg_College/Gettysburg_College_Physics_for_Physics_Majors/01%3A_C1)_Abstraction_and_Modeling/1.E%3A_Exercises"
+   },
+   {
+    "organization": "Força Aérea Brasileira / Escola de Especialistas de Aeronáutica",
+    "reuseLimit": "Nenhuma licença CC ou autorização geral de reprodução foi encontrada. O PDF é público para consulta, mas não deve ser redistribuído ou ter questões/anexos reproduzidos; usar apenas link e descrever competências. A extração automática do PDF foi parcial.",
+    "title": "Edital oficial — Exame de Admissão ao CFS 1/2027 (EEAR/FAB)",
+    "url": "https://www.fab.mil.br/cabine/concursos/IE%20EA%20CFS%201%202027_11_02_2026.pdf",
+    "whyUsefulForCalibration": "Fonte oficial para nomenclatura do conteúdo e formato: indexação oficial informa prova objetiva de múltipla escolha com quatro alternativas; o documento indexa energia, trabalho e potência, calor/mudanças de estado e demais blocos de Física do edital."
+   },
+   {
+    "organization": "Khan Academy",
+    "reuseLimit": "Termos concedem acesso pessoal não comercial a vídeos/exercícios; salvo licença alternativa explícita, não baixar, distribuir, vender, modificar ou fornecer acesso a terceiros. Proibidas cópia/extração automatizada e uso para treinar IA.",
+    "title": "Khan Academy — High School Physics",
+    "url": "https://www.khanacademy.org/science/highschool-physics",
+    "whyUsefulForCalibration": "Organiza competências por unidades de movimento/forças, momento, gravitação, eletrostática, energia, eletromagnetismo e radiação; quizzes e testes ajudam a calibrar progressão conceitual e distratores."
+   },
+   {
+    "organization": "QConcursos",
+    "reuseLimit": "Não foi encontrada licença aberta para enunciados, alternativas ou comentários. Tratar como conteúdo protegido/comercial; não copiar, raspar ou redistribuir.",
+    "title": "QConcursos — questões militares de Física para EEAR",
+    "url": "https://www.qconcursos.com/questoes-militares/questoes?discipline_ids%5B%5D=198&institute_ids%5B%5D=6284",
+    "whyUsefulForCalibration": "Mostra variedade de padrões: afirmações para julgar, cálculo com constantes/unidades, direção de campos, ondas, MCU, termodinâmica, óptica, eletrostática, indução e força magnética."
+   },
+   {
+    "organization": "TecConcursos",
+    "reuseLimit": "Serviço comercial; licença CC/autorização de reprodução não encontrada. Não copiar o catálogo, questões ou comentários.",
+    "title": "TecConcursos — Guia de Física para Sargento EEAR",
+    "url": "https://www.tecconcursos.com.br/guias/eear-2026/curso-de-formacao-de-sargentos-eear/aeronavegantes-e-naoaeronavegantes/-/fisica-para-sargento-eear-2026/id",
+    "whyUsefulForCalibration": "A página lista a distribuição de subtópicos do banco: cinemática, dinâmica, energia/trabalho/potência, fluidostática, termologia/termodinâmica, óptica, ondas, circuitos, eletrostática e eletromagnetismo; útil para priorização sem copiar itens."
+   }
+  ]
+ },
+ "topicIds": [
+  "fis-cinematica",
+  "fis-dinamica",
+  "fis-energia",
+  "fis-fluidos",
+  "fis-termica",
+  "fis-ondas",
+  "fis-eletrica"
+ ]
+}
