@@ -1,5 +1,5 @@
 import { getStoredSession, supabaseConfigured, tableInsert, tableSelect, tableUpsert, tableDelete, type AuthUser } from './auth/supabase-rest';
-import { enqueue } from './offline/indexed-queue';
+import { enqueue, clearQueue as clearOfflineQueue } from './offline/indexed-queue';
 
 export async function loadRemoteProfile(user: AuthUser) {
   if(!supabaseConfigured)return null;
@@ -177,3 +177,5 @@ export async function flushOfflineQueue(){
   }
   return {synced};
 }
+
+export async function clearQueue(){ await clearOfflineQueue(); }

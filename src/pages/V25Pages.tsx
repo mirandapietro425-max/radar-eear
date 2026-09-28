@@ -5,6 +5,7 @@ import { EntityMedia } from '../components/EntityMedia';
 import { explorationTrails, globalTimeline, v25CultureMap } from '../data/v25-content';
 import { broaderBooks } from '../data/catalog';
 import { expandedBooks, expandedThinkers } from '../data/editorial-expansion';
+import { thinkerDetails } from '../data/thinker-details';
 import { thinkers, books, places } from '../experience-data';
 import { bibleBooks } from '../experience-data';
 import { editorialSubjects } from '../data/exam-data';
