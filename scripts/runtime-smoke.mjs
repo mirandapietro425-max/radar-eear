@@ -6,6 +6,8 @@ import { apocrypha } from '../src/data/apocrypha.ts';
 import { hardwareModules } from '../src/data/hardware.ts';
 import { mathMicroconcepts, physicsMicroconcepts } from '../src/data/microconcepts.ts';
 import { generatedQuestions } from '../src/data/question-bank.ts';
+import { v45Questions } from '../src/data/question-bank-v45.ts';
+import { contentGuidesV45 } from '../src/data/content-guides-v45.ts';
 import { previousExamCatalog } from '../src/data/exam-archive.ts';
 import fs from 'node:fs';
 
@@ -32,7 +34,7 @@ assert.equal(rec.type,'review');
 const resumed=recommendNext({events:[],reviews:{},lastResume:{user_id:'u',content_type:'book',content_id:'guerra-e-paz',route:'/biblioteca/guerra-e-paz',elapsed_seconds:0,started_at:base,last_activity_at:base,status:'paused'},goalMinutes:120,availableMinutes:20});
 assert.equal(resumed.type,'continue');
 assert.equal(bibleBooks.length,66); assert.equal(bibleBooks.reduce((n,b)=>n+b[2],0),1189);
-assert.equal(books.length+broaderBooks.length,30); assert.ok(thinkers.length>=20); assert.ok(places.length>=10); assert.ok(apocrypha.length>=20); assert.equal(hardwareModules.length,20); assert.equal(mathMicroconcepts.length,214); assert.equal(physicsMicroconcepts.length,240); assert.equal(questions.length+generatedQuestions.length,98); assert.ok(previousExamCatalog.length>=60);
+assert.equal(books.length+broaderBooks.length,30); assert.ok(thinkers.length>=20); assert.ok(places.length>=10); assert.ok(apocrypha.length>=20); assert.equal(hardwareModules.length,20); assert.equal(mathMicroconcepts.length,214); assert.equal(physicsMicroconcepts.length,240); assert.equal(questions.length+generatedQuestions.length,98); assert.equal(v45Questions.length,420); assert.equal(new Set(v45Questions.map(q=>q.contentId)).size,28); assert.equal(Math.min(...Array.from(new Map(v45Questions.map(q=>[q.contentId,0])).keys()).map(id=>v45Questions.filter(q=>q.contentId===id).length)),15); assert.equal(contentGuidesV45.length,28); assert.ok(previousExamCatalog.length>=60);
 const mustExist=['public/assets/bible/books/genesis.svg','public/assets/bible/books/revelation.svg','public/assets/apocrypha/1-enoque.svg','public/assets/hardware/20.svg'];
 for(const f of mustExist) assert.ok(fs.existsSync(f),`missing ${f}`);
-console.log(JSON.stringify({ok:true,progress:p,counts:{books:30,bibleBooks:66,bibleChapters:1189,thinkers:thinkers.length,places:places.length,apocrypha:apocrypha.length,hardware:hardwareModules.length,math:mathMicroconcepts.length,physics:physicsMicroconcepts.length,questions:98,previousExams:previousExamCatalog.length,games:11}},null,2));
+console.log(JSON.stringify({ok:true,progress:p,counts:{books:30,bibleBooks:66,bibleChapters:1189,thinkers:thinkers.length,places:places.length,apocrypha:apocrypha.length,hardware:hardwareModules.length,math:mathMicroconcepts.length,physics:physicsMicroconcepts.length,questionsLegacy:98,questionsV45:420,contentGuidesV45:28,previousExams:previousExamCatalog.length,games:11}},null,2));

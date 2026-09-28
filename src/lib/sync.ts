@@ -8,12 +8,18 @@ export async function loadRemoteProfile(user: AuthUser) {
 }
 export async function saveRemoteProfile(userId:string, profile:any) {
   if(!supabaseConfigured)return;
-  const payload={id:userId,name:profile.name,exam_target:profile.target,exam_edition_id:profile.target,daily_goal:profile.goalMinutes,available_time:profile.availableTime,preferred_subjects:profile.preferredSubjects||[],notifications:profile.notifications!==false,motion_preference:profile.reducedMotion?'reduced':'full',theme:profile.theme||'dark',language:profile.language||'pt-BR',updated_at:new Date().toISOString()};
+  const payload={id:userId,name:profile.name,exam_target:profile.target,exam_edition_id:profile.target,daily_goal:profile.goalMinutes,available_time:profile.availableTime,preferred_subjects:profile.preferredSubjects||[],notifications:profile.notifications===true,motion_preference:profile.reducedMotion?'reduced':'full',theme:profile.theme||'dark',language:profile.language||'pt-BR',updated_at:new Date().toISOString()};
   try{await tableUpsert('profiles',[payload],'id');}catch{await enqueue('profiles',payload).catch(()=>undefined);}
 }
 export async function loadRemoteEvents(userId:string){
   if(!supabaseConfigured)return [];
-  const rows=await tableSelect<any>('study_events',`user_id=eq.${encodeURIComponent(userId)}&select=*&order=created_at.asc&limit=5000`);
+  const pageSize=1000; let offset=0; const rows:any[]=[];
+  while(true){
+    const page=await tableSelect<any>('study_events',`user_id=eq.${encodeURIComponent(userId)}&select=*&order=created_at.asc&offset=${offset}&limit=${pageSize}`);
+    rows.push(...page);
+    if(page.length<pageSize)break;
+    offset+=pageSize;
+  }
   return rows.map((r:any)=>({id:String(r.client_event_id||r.id),entityId:String(r.entity_id),type:String(r.type),subject:r.subject||undefined,correct:typeof r.correct==='boolean'?r.correct:undefined,seconds:r.seconds||undefined,createdAt:String(r.created_at),meta:r.metadata_json||{}}));
 }
 export async function loadRemoteResume(userId:string){

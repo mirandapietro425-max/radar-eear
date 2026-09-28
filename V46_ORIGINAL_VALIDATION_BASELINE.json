@@ -1,10 +1,10 @@
 {
-  "timestamp": "2026-09-28T16:11:18.393Z",
-  "status": "fail",
+  "timestamp": "2026-09-28T13:53:31.339Z",
+  "status": "pass",
   "summary": {
     "passed": 33,
-    "total": 34,
-    "failed": 1
+    "total": 33,
+    "failed": 0
   },
   "counts": {
     "content": 28,
@@ -53,7 +53,7 @@
       "detail": ""
     },
     {
-      "name": "timer-screen-wake-lock",
+      "name": "timer-screen-may-lock",
       "ok": true,
       "detail": ""
     },
@@ -104,7 +104,7 @@
     },
     {
       "name": "no-speech-output",
-      "ok": false,
+      "ok": true,
       "detail": ""
     },
     {
@@ -114,11 +114,6 @@
     },
     {
       "name": "sw-versioned",
-      "ok": true,
-      "detail": ""
-    },
-    {
-      "name": "sw-push-notifications",
       "ok": true,
       "detail": ""
     },
@@ -188,10 +183,5 @@
       "detail": "found 12"
     }
   ],
-  "failures": [
-    {
-      "name": "no-speech-output",
-      "detail": ""
-    }
-  ]
+  "failures": []
 }

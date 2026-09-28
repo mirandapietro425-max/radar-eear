@@ -34,10 +34,21 @@ export async function fetchLocalText(url:string){
 
 export async function fetchGutenbergText(url:string){
   const cache=await caches.open('radar-eear-books-v23').catch(()=>null);
+  const proxy=`/api/book?url=${encodeURIComponent(url)}`;
   let r:Response;
-  try{r=await fetch(url,{cache:'force-cache'});if(cache&&r.ok)await cache.put(url,r.clone());}
-  catch{const cached=cache?await cache.match(url):undefined;if(!cached)throw new Error('BOOK_OFFLINE');r=cached;}
-  if(!r.ok)throw new Error(`BOOK_${r.status}`);
+  try{
+    r=await fetch(proxy,{cache:'no-store'});
+    if(cache&&r.ok)await cache.put(url,r.clone());
+  }catch{
+    const cached=cache?await cache.match(url):undefined;
+    if(!cached)throw new Error('BOOK_OFFLINE');
+    r=cached;
+  }
+  if(!r.ok){
+    const cached=cache?await cache.match(url):undefined;
+    if(cached)return cached.text();
+    throw new Error(`BOOK_${r.status}`);
+  }
   return r.text();
 }
 
@@ -52,9 +63,10 @@ export async function fetchWikisourceText(pageUrl:string){
   const page=new URL(pageUrl);
   const title=decodeURIComponent(page.pathname.replace(/^\/wiki\//,''));
   const api=`https://${page.host}/w/api.php?action=parse&page=${encodeURIComponent(title)}&prop=text&format=json&origin=*`;
+  const proxy=`/api/book?url=${encodeURIComponent(api)}`;
   const cache=await caches.open('radar-eear-books-v23').catch(()=>null);
   let response:Response;
-  try{response=await fetch(api,{cache:'force-cache'});if(cache&&response.ok)await cache.put(api,response.clone());}
+  try{response=await fetch(proxy,{cache:'no-store'});if(cache&&response.ok)await cache.put(api,response.clone());}
   catch{const cached=cache?await cache.match(api):undefined;if(!cached)throw new Error('BOOK_WIKISOURCE_OFFLINE');response=cached;}
   if(!response.ok)throw new Error(`BOOK_WIKISOURCE_${response.status}`);
   const data:any=await response.json();

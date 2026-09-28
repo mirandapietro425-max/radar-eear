@@ -1,0 +1,109 @@
+{
+  "timestamp": "2026-09-28T16:11:48.963Z",
+  "passed": 20,
+  "total": 20,
+  "failed": 0,
+  "checks": [
+    {
+      "name": "book-proxy-api",
+      "ok": true,
+      "detail": "api/book.js"
+    },
+    {
+      "name": "book-proxy-allowlist",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "name": "book-reader-meta-inference",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "name": "book-reader-proxy-runtime",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "name": "question-hub",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "name": "question-exact-filter",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "name": "420-questions",
+      "ok": true,
+      "detail": "found 420"
+    },
+    {
+      "name": "28-question-modules",
+      "ok": true,
+      "detail": "found 28"
+    },
+    {
+      "name": "15-per-question-module",
+      "ok": true,
+      "detail": "[]"
+    },
+    {
+      "name": "no-local-missing-book-paths",
+      "ok": true,
+      "detail": "local fulltext refs removed"
+    },
+    {
+      "name": "assistant-voice",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "name": "assistant-speech-output",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "name": "assistant-navigation-actions",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "name": "coverage-route-helper",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "name": "prehistory-alias",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "name": "science-experiment-alias",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "name": "curiosity-detail",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "name": "thinker-math",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "name": "voice-first-css",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "name": "reader-error-retry",
+      "ok": true,
+      "detail": ""
+    }
+  ],
+  "failures": []
+}

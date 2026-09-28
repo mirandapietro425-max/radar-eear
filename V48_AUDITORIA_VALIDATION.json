@@ -1,0 +1,194 @@
+{
+  "timestamp": "2026-09-28T18:46:21.802Z",
+  "passed": 37,
+  "total": 37,
+  "failed": 0,
+  "checks": [
+    {
+      "name": "book-proxy-api",
+      "ok": true,
+      "detail": "api/book.js"
+    },
+    {
+      "name": "book-proxy-allowlist",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "name": "book-reader-meta-inference",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "name": "book-reader-proxy-runtime",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "name": "question-hub",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "name": "question-exact-filter",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "name": "420-questions",
+      "ok": true,
+      "detail": "found 420"
+    },
+    {
+      "name": "28-question-modules",
+      "ok": true,
+      "detail": "found 28"
+    },
+    {
+      "name": "15-per-question-module",
+      "ok": true,
+      "detail": "[]"
+    },
+    {
+      "name": "no-local-missing-book-paths",
+      "ok": true,
+      "detail": "local fulltext refs removed"
+    },
+    {
+      "name": "assistant-voice",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "name": "assistant-speech-output",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "name": "assistant-navigation-actions",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "name": "coverage-route-helper",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "name": "prehistory-alias",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "name": "science-experiment-alias",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "name": "curiosity-detail",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "name": "thinker-math",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "name": "voice-first-css",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "name": "reader-error-retry",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "name": "curiosity-detail-route",
+      "ok": true,
+      "detail": "curiosidade abre a rota de detalhe real"
+    },
+    {
+      "name": "library-effective-integrated-count",
+      "ok": true,
+      "detail": "contador usa leitura efetiva"
+    },
+    {
+      "name": "library-continue-reading",
+      "ok": true,
+      "detail": "retomada por progresso de livro"
+    },
+    {
+      "name": "notification-permission",
+      "ok": true,
+      "detail": "toggle solicita permissão real"
+    },
+    {
+      "name": "domain-progress-all-subjects",
+      "ok": true,
+      "detail": "idiomas não ficam artificialmente em 0%"
+    },
+    {
+      "name": "review-direct-question",
+      "ok": true,
+      "detail": "revisão retorna à questão e aproveita diagnóstico"
+    },
+    {
+      "name": "microprofile-parentheses",
+      "ok": true,
+      "detail": "regras matemáticas sem ambiguidade de precedência"
+    },
+    {
+      "name": "question-hub-curated-15",
+      "ok": true,
+      "detail": "hub usa pacote fechado de 420 questões"
+    },
+    {
+      "name": "question-helper-curated-first",
+      "ok": true,
+      "detail": "atalhos de estudo priorizam o pacote fechado"
+    },
+    {
+      "name": "simulation-curated-pool",
+      "ok": true,
+      "detail": "simulados usam o pacote fechado para treino"
+    },
+    {
+      "name": "curiosity-save",
+      "ok": true,
+      "detail": "curiosidade pode entrar no conhecimento pessoal"
+    },
+    {
+      "name": "default-notifications-off",
+      "ok": true,
+      "detail": "estado inicial não promete notificações antes da permissão"
+    },
+    {
+      "name": "curiosity-dataset-quality",
+      "ok": true,
+      "detail": "75 registros editoriais presentes"
+    },
+    {
+      "name": "study-guides-28",
+      "ok": true,
+      "detail": "arquivo de guias presente"
+    },
+    {
+      "name": "compare-types",
+      "ok": true,
+      "detail": "Compare cobre quatro tipos de entidade"
+    },
+    {
+      "name": "curiosity-saved-resolution",
+      "ok": true,
+      "detail": "salvos resolve curiosidades para a página correta"
+    },
+    {
+      "name": "question-empty-state-safe",
+      "ok": true,
+      "detail": "filtro vazio não gera acesso a q indefinido"
+    }
+  ],
+  "failures": []
+}

@@ -13,7 +13,7 @@ export const explorationTrails: ExplorationTrail[] = [
     {label:'Cálculo',href:'/estudar/matematica?topic=Álgebra avançada',image:'/assets/subjects/matematica.svg'},
     {label:'Leis do movimento',href:'/estudar/fisica?topic=Mecânica',image:'/assets/subjects/fisica.svg'},
     {label:'Principia',href:'/biblioteca/newton-principia',image:'/assets/library/catalog/newton-principia.svg'},
-    {label:'Questão relacionada',href:'/questoes?topic=Cinemática',image:'/assets/games/physics.svg'},
+    {label:'Questão relacionada',href:'/questoes?subject=Física&contentId=fis-cinematica',image:'/assets/games/physics.svg'},
     {label:'Revisões',href:'/revisoes',image:'/assets/review/review.svg'},
   ]},
   { id:'palavra-fisica', title:'Da palavra à física', description:'Linguagem → matemática → física → aviação.', duration:45, steps:[

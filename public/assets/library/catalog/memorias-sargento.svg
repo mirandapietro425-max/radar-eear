@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 900">
+<defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#132333"/><stop offset="1" stop-color="#0a1119"/></linearGradient><filter id="sh"><feDropShadow dx="0" dy="18" stdDeviation="18" flood-opacity=".28"/></filter></defs>
+<rect x="18" y="18" width="604" height="864" rx="24" fill="url(#bg)" stroke="#314b5d" stroke-width="3" filter="url(#sh)"/>
+<path d="M58 118h524M58 774h524" stroke="#d6b26a" stroke-opacity=".38"/>
+<text x="58" y="88" fill="#d6b26a" font-family="Arial,Helvetica,sans-serif" font-size="20" letter-spacing="4">RADAR · BIBLIOTECA</text>
+<text x="58" y="320" fill="#eef3f6" font-family="Georgia,serif" font-size="74" font-weight="700">Memórias de um</text>
+<text x="58" y="400" fill="#eef3f6" font-family="Georgia,serif" font-size="68" font-weight="700">Sargento de Milícias</text>
+<text x="58" y="454" fill="#9cb0bd" font-family="Arial,Helvetica,sans-serif" font-size="23">Manuel Antônio de Almeida</text>
+<text x="58" y="835" fill="#788d9b" font-family="monospace" font-size="18">EDIÇÃO EDITORIAL · 1854</text>
+</svg>

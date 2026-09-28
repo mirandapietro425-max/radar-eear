@@ -1,0 +1,21 @@
+{
+  "issues": [],
+  "stats": {
+    "books": {
+      "base": 6,
+      "libraryV45": 85,
+      "broader": 24,
+      "expanded": 12
+    },
+    "thinkers": {
+      "base": 24,
+      "expanded": 7
+    },
+    "places": 31,
+    "bibleBooks": 66,
+    "apocrypha": 25,
+    "hardware": 20,
+    "games": 4,
+    "daily": 16
+  }
+}

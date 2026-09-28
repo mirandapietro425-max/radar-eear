@@ -42,3 +42,15 @@ export async function writeLocalSnapshot<T>(value: T, updatedAt = Date.now()): P
     });
   } catch { /* localStorage remains the fast fallback */ }
 }
+
+export async function clearLocalSnapshot(): Promise<void> {
+  try {
+    const db = await openDb();
+    await new Promise<void>((resolve, reject) => {
+      const tx = db.transaction(STORE, 'readwrite');
+      tx.objectStore(STORE).delete(KEY);
+      tx.oncomplete = () => { db.close(); resolve(); };
+      tx.onerror = () => { db.close(); reject(tx.error || new Error('indexeddb-delete-failed')); };
+    });
+  } catch { /* nothing to clear */ }
+}

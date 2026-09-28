@@ -56,14 +56,15 @@ export function recommendNext(args:{events:LearningEvent[]; reviews:Record<strin
   const studiedToday=sessions.filter(e=>localDayKey(e.createdAt)===todayKey).reduce((n,e)=>n+(e.seconds||0),0)/60;
   const recentSessions=sessions.filter(e=>Date.parse(e.createdAt)>=now.getTime()-14*86400000);
   const fatigue=recentSessions.reduce((n,e)=>n+(e.seconds||0),0)/60>=120 || studiedToday>=90;
-  const candidateMap=new Map<string,{subject:string;topic:string;wrong:number;total:number;last:number;recentWrong:number;recentTotal:number;avgMs:number}>();
+  const candidateMap=new Map<string,{subject:string;topic:string;contentId:string;wrong:number;total:number;last:number;recentWrong:number;recentTotal:number;avgMs:number}>();
   for(const e of attempts){
-    const topic=String(e.meta?.topic||e.entityId); const subject=String(e.subject||e.meta?.subject||'');
-    const x=candidateMap.get(topic)||{subject,topic,wrong:0,total:0,last:0,recentWrong:0,recentTotal:0,avgMs:0};
+    const topic=String(e.meta?.topic||e.entityId); const subject=String(e.subject||e.meta?.subject||''); const contentId=String(e.meta?.contentId||'');
+    const key=`${subject}::${contentId||topic}`;
+    const x=candidateMap.get(key)||{subject,topic,contentId,wrong:0,total:0,last:0,recentWrong:0,recentTotal:0,avgMs:0};
     x.total++; if(!e.correct)x.wrong++; x.last=Math.max(x.last,Date.parse(e.createdAt)||0);
     const ms=Number(e.meta?.elapsed_ms||0); if(ms>0)x.avgMs=x.avgMs?((x.avgMs+ms)/2):ms;
     if(new Date(e.createdAt)>=recentCut){x.recentTotal++;if(!e.correct)x.recentWrong++;}
-    candidateMap.set(topic,x);
+    candidateMap.set(key,x);
   }
   const resume=args.lastResume && ['started','active','paused'].includes(args.lastResume.status)?args.lastResume:undefined;
   if(resume){
@@ -88,7 +89,8 @@ export function recommendNext(args:{events:LearningEvent[]; reviews:Record<strin
     return {...x,score};
   }).sort((a,b)=>b.score-a.score)[0];
   if(weakness){
-    return {type:'questions',reason:'weakness',title:`Reforçar ${weakness.topic}`,detail:`${weakness.wrong} erro${weakness.wrong>1?'s':''} em ${weakness.total} tentativas; prioridade por fragilidade recente.`,href:`/questoes?topic=${encodeURIComponent(weakness.topic)}`,score:Math.min(1,weakness.score/3)};
+    const href=weakness.contentId?`/questoes?subject=${encodeURIComponent(weakness.subject)}&contentId=${encodeURIComponent(weakness.contentId)}`:`/questoes?subject=${encodeURIComponent(weakness.subject)}&topic=${encodeURIComponent(weakness.topic)}`;
+    return {type:'questions',reason:'weakness',title:`Reforçar ${weakness.topic}`,detail:`${weakness.wrong} erro${weakness.wrong>1?'s':''} em ${weakness.total} tentativas; prioridade por fragilidade recente.`,href,score:Math.min(1,weakness.score/3)};
   }
   const preferred=(args.preferredSubjects||[])[0];
   if(preferred && studiedToday < Math.min(args.goalMinutes,20)){

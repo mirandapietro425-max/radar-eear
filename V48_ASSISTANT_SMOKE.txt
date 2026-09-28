@@ -1,0 +1,4 @@
+RADAR Assistente smoke: PASS
+API proxy: presente
+Navegação contextual: presente
+Voz do dispositivo: presente

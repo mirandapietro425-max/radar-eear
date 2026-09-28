@@ -1,0 +1,319 @@
+{
+  "timestamp": "2026-09-28T19:41:09.160Z",
+  "passed": 62,
+  "total": 62,
+  "failed": 0,
+  "checks": [
+    {
+      "name": "version-v54",
+      "ok": true,
+      "detail": "package 0.6.7"
+    },
+    {
+      "name": "sw-cache-v54",
+      "ok": true,
+      "detail": "cache shell version remains current"
+    },
+    {
+      "name": "manifest-icons",
+      "ok": true,
+      "detail": "installable raster icons"
+    },
+    {
+      "name": "sw-caches-icons",
+      "ok": true,
+      "detail": "service worker precaches install icons"
+    },
+    {
+      "name": "timer-audio",
+      "ok": true,
+      "detail": "timer has mobile media-session audio keepalive"
+    },
+    {
+      "name": "focus-visible",
+      "ok": true,
+      "detail": "keyboard focus styles"
+    },
+    {
+      "name": "questions-420",
+      "ok": true,
+      "detail": "found 420"
+    },
+    {
+      "name": "question-modules-28",
+      "ok": true,
+      "detail": "found 28"
+    },
+    {
+      "name": "question-modules-15",
+      "ok": true,
+      "detail": "bad 0"
+    },
+    {
+      "name": "questions-have-content",
+      "ok": true,
+      "detail": "every question maps to a guide"
+    },
+    {
+      "name": "guide-count-28",
+      "ok": true,
+      "detail": "found 28"
+    },
+    {
+      "name": "guide-files",
+      "ok": true,
+      "detail": "all guides resolve"
+    },
+    {
+      "name": "guide-images",
+      "ok": true,
+      "detail": "all guide images resolve"
+    },
+    {
+      "name": "curiosities-75",
+      "ok": true,
+      "detail": "found 75"
+    },
+    {
+      "name": "curiosity-fields",
+      "ok": true,
+      "detail": "curiosities have editorial/source fields"
+    },
+    {
+      "name": "curiosity-images",
+      "ok": true,
+      "detail": "curiosity images resolve"
+    },
+    {
+      "name": "expanded-thinkers-route",
+      "ok": true,
+      "detail": "expanded thinker routes resolve"
+    },
+    {
+      "name": "expanded-thinker-relations",
+      "ok": true,
+      "detail": "relation sanitizer knows expanded thinkers"
+    },
+    {
+      "name": "expanded-books-unique",
+      "ok": true,
+      "detail": "expanded books unique"
+    },
+    {
+      "name": "book-position-real",
+      "ok": true,
+      "detail": "book resume stores actual reader position"
+    },
+    {
+      "name": "book-position-latest-event",
+      "ok": true,
+      "detail": "backward book movement survives persistence"
+    },
+    {
+      "name": "book-hydration-merge",
+      "ok": true,
+      "detail": "higher progress wins and newer equal-progress position wins"
+    },
+    {
+      "name": "notifications-permission",
+      "ok": true,
+      "detail": "notifications require browser permission"
+    },
+    {
+      "name": "notifications-default-off-remote",
+      "ok": true,
+      "detail": "remote profile defaults to notifications disabled unless explicitly enabled"
+    },
+    {
+      "name": "notifications-remote-save",
+      "ok": true,
+      "detail": "notification toggle persists to remote profile"
+    },
+    {
+      "name": "logout-clears-local",
+      "ok": true,
+      "detail": "logout clears local snapshot and queue"
+    },
+    {
+      "name": "backup-keeps-account",
+      "ok": true,
+      "detail": "backup import preserves active account"
+    },
+    {
+      "name": "bible-history",
+      "ok": true,
+      "detail": "Bible chapters support browser back/forward"
+    },
+    {
+      "name": "question-search-specific",
+      "ok": true,
+      "detail": "search result keeps question module"
+    },
+    {
+      "name": "question-practice-specific",
+      "ok": true,
+      "detail": "practice path stays module-specific"
+    },
+    {
+      "name": "timer-module-isolation",
+      "ok": true,
+      "detail": "timer state is isolated per content module"
+    },
+    {
+      "name": "timer-resume-route-specific",
+      "ok": true,
+      "detail": "focus resume keeps exact contentId route"
+    },
+    {
+      "name": "focus-notes-isolated",
+      "ok": true,
+      "detail": "focus notes do not collide across subjects/modules"
+    },
+    {
+      "name": "recommendation-map-key",
+      "ok": true,
+      "detail": "adaptive recommendation stores candidate by the same composite key used to retrieve it"
+    },
+    {
+      "name": "search-deduplicated",
+      "ok": true,
+      "detail": "universal search deduplicates identical destinations"
+    },
+    {
+      "name": "search-accent-insensitive",
+      "ok": true,
+      "detail": "universal search ignores diacritics"
+    },
+    {
+      "name": "library-author-actions",
+      "ok": true,
+      "detail": "library author strip has real actions"
+    },
+    {
+      "name": "assistant-continue-exact",
+      "ok": true,
+      "detail": "assistant can jump to active reading"
+    },
+    {
+      "name": "related-question-exact",
+      "ok": true,
+      "detail": "related questions keep subject and content module"
+    },
+    {
+      "name": "sw-offline-safe",
+      "ok": true,
+      "detail": "API failures are not masked with HTML"
+    },
+    {
+      "name": "sync-sources",
+      "ok": true,
+      "detail": "cloud sync primitives present"
+    },
+    {
+      "name": "sync-events-paginated",
+      "ok": true,
+      "detail": "remote events load beyond the first page"
+    },
+    {
+      "name": "sync-events-no-local-cap",
+      "ok": true,
+      "detail": "local event sync does not truncate history to last 100"
+    },
+    {
+      "name": "no-event-hard-cap",
+      "ok": true,
+      "detail": "event hydration does not silently discard older history"
+    },
+    {
+      "name": "indexeddb-snapshot",
+      "ok": true,
+      "detail": "IndexedDB snapshot exists"
+    },
+    {
+      "name": "recommendation-exact-module",
+      "ok": true,
+      "detail": "adaptive recommendation keeps the exact module when event has contentId"
+    },
+    {
+      "name": "legacy-content-links-exact",
+      "ok": true,
+      "detail": "legacy science question links use exact modules"
+    },
+    {
+      "name": "literal-assets",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "name": "no-demo-identity",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "name": "events-no-local-retention-cap",
+      "ok": true,
+      "detail": "event history is not silently truncated at 5000"
+    },
+    {
+      "name": "simulation-attempt-isolated",
+      "ok": true,
+      "detail": "simulation results are isolated to the current attempt"
+    },
+    {
+      "name": "official-mode-honest",
+      "ok": true,
+      "detail": "official mode cannot silently claim authorial questions are official"
+    },
+    {
+      "name": "language-no-silent-fallback",
+      "ok": true,
+      "detail": "unknown language topic does not fall back to another lesson"
+    },
+    {
+      "name": "cycle-minutes-editable",
+      "ok": true,
+      "detail": "study cycle exposes editable block duration"
+    },
+    {
+      "name": "hardware-completion-hydrates",
+      "ok": true,
+      "detail": "hardware checklist reflects prior completion"
+    },
+    {
+      "name": "atlas-story-safe",
+      "ok": true,
+      "detail": "Atlas does not substitute an unrelated journey when a place has no route"
+    },
+    {
+      "name": "sync-incremental",
+      "ok": true,
+      "detail": "authenticated sync avoids re-uploading the entire history on every new event"
+    },
+    {
+      "name": "book-completion-idempotent",
+      "ok": true,
+      "detail": "book completion is emitted once per work"
+    },
+    {
+      "name": "bible-completion-idempotent",
+      "ok": true,
+      "detail": "Bible chapter completion is emitted once per chapter"
+    },
+    {
+      "name": "library-search-hydration",
+      "ok": true,
+      "detail": "library honors deep-link search and accents"
+    },
+    {
+      "name": "css-asset-references",
+      "ok": true,
+      "detail": "stylesheet contains expected asset references"
+    },
+    {
+      "name": "biblia-history-no-popstate-push",
+      "ok": true,
+      "detail": "browser back does not push a new history entry"
+    }
+  ],
+  "failures": []
+}

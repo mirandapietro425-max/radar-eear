@@ -1,6 +1,6 @@
 {
   "name": "radar-eear",
-  "version": "0.6.1",
+  "version": "0.6.7",
   "private": true,
   "type": "module",
   "scripts": {
@@ -8,8 +8,8 @@
     "build": "tsc -p tsconfig.json --noEmit && vite build",
     "typecheck": "tsc -p tsconfig.json --noEmit",
     "preview": "vite preview",
-    "test:runtime": "node --experimental-strip-types scripts/runtime-smoke.mjs && node scripts/validate-v26.6.mjs",
-    "validate": "node scripts/validate-v26.6.mjs",
+    "test:runtime": "node --experimental-strip-types scripts/runtime-smoke.mjs && node --experimental-strip-types scripts/validate-v53-global.mjs",
+    "validate": "node --experimental-strip-types scripts/validate-v53-global.mjs",
     "test:e2e": "playwright test",
     "test:all": "npm run test:runtime && npm run test:e2e",
     "test:assistant": "node scripts/assistant-smoke.mjs"

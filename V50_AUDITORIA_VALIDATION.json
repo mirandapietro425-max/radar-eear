@@ -1,0 +1,224 @@
+{
+  "timestamp": "2026-09-28T19:19:04.626Z",
+  "passed": 43,
+  "total": 43,
+  "failed": 0,
+  "checks": [
+    {
+      "name": "version-v50",
+      "ok": true,
+      "detail": "package 0.6.3"
+    },
+    {
+      "name": "sw-cache-v50",
+      "ok": true,
+      "detail": "cache shell version remains current"
+    },
+    {
+      "name": "manifest-icons",
+      "ok": true,
+      "detail": "installable raster icons"
+    },
+    {
+      "name": "timer-audio",
+      "ok": true,
+      "detail": "timer has mobile media-session audio keepalive"
+    },
+    {
+      "name": "focus-visible",
+      "ok": true,
+      "detail": "keyboard focus styles"
+    },
+    {
+      "name": "questions-420",
+      "ok": true,
+      "detail": "found 420"
+    },
+    {
+      "name": "question-modules-28",
+      "ok": true,
+      "detail": "found 28"
+    },
+    {
+      "name": "question-modules-15",
+      "ok": true,
+      "detail": "bad 0"
+    },
+    {
+      "name": "questions-have-content",
+      "ok": true,
+      "detail": "every question maps to a guide"
+    },
+    {
+      "name": "guide-count-28",
+      "ok": true,
+      "detail": "found 28"
+    },
+    {
+      "name": "guide-files",
+      "ok": true,
+      "detail": "all guides resolve"
+    },
+    {
+      "name": "guide-images",
+      "ok": true,
+      "detail": "all guide images resolve"
+    },
+    {
+      "name": "curiosities-75",
+      "ok": true,
+      "detail": "found 75"
+    },
+    {
+      "name": "curiosity-fields",
+      "ok": true,
+      "detail": "curiosities have editorial/source fields"
+    },
+    {
+      "name": "curiosity-images",
+      "ok": true,
+      "detail": "curiosity images resolve"
+    },
+    {
+      "name": "expanded-thinkers-route",
+      "ok": true,
+      "detail": "expanded thinker routes resolve"
+    },
+    {
+      "name": "expanded-thinker-relations",
+      "ok": true,
+      "detail": "relation sanitizer knows expanded thinkers"
+    },
+    {
+      "name": "expanded-books-unique",
+      "ok": true,
+      "detail": "expanded books unique"
+    },
+    {
+      "name": "book-position-real",
+      "ok": true,
+      "detail": "book resume stores actual reader position"
+    },
+    {
+      "name": "book-position-latest-event",
+      "ok": true,
+      "detail": "backward book movement survives persistence"
+    },
+    {
+      "name": "book-hydration-merge",
+      "ok": true,
+      "detail": "newer local book position is protected"
+    },
+    {
+      "name": "notifications-permission",
+      "ok": true,
+      "detail": "notifications require browser permission"
+    },
+    {
+      "name": "notifications-remote-save",
+      "ok": true,
+      "detail": "notification toggle persists to remote profile"
+    },
+    {
+      "name": "logout-clears-local",
+      "ok": true,
+      "detail": "logout clears local snapshot and queue"
+    },
+    {
+      "name": "backup-keeps-account",
+      "ok": true,
+      "detail": "backup import preserves active account"
+    },
+    {
+      "name": "bible-history",
+      "ok": true,
+      "detail": "Bible chapters support browser back/forward"
+    },
+    {
+      "name": "question-search-specific",
+      "ok": true,
+      "detail": "search result keeps question module"
+    },
+    {
+      "name": "question-practice-specific",
+      "ok": true,
+      "detail": "practice path stays module-specific"
+    },
+    {
+      "name": "timer-module-isolation",
+      "ok": true,
+      "detail": "timer state is isolated per content module"
+    },
+    {
+      "name": "timer-resume-route-specific",
+      "ok": true,
+      "detail": "focus resume keeps exact contentId route"
+    },
+    {
+      "name": "focus-notes-isolated",
+      "ok": true,
+      "detail": "focus notes do not collide across subjects/modules"
+    },
+    {
+      "name": "recommendation-map-key",
+      "ok": true,
+      "detail": "adaptive recommendation stores candidate by the same composite key used to retrieve it"
+    },
+    {
+      "name": "search-deduplicated",
+      "ok": true,
+      "detail": "universal search deduplicates identical destinations"
+    },
+    {
+      "name": "related-question-exact",
+      "ok": true,
+      "detail": "related questions keep subject and content module"
+    },
+    {
+      "name": "sw-offline-safe",
+      "ok": true,
+      "detail": "API failures are not masked with HTML"
+    },
+    {
+      "name": "sync-sources",
+      "ok": true,
+      "detail": "cloud sync primitives present"
+    },
+    {
+      "name": "sync-events-paginated",
+      "ok": true,
+      "detail": "remote events load beyond the first page"
+    },
+    {
+      "name": "no-event-hard-cap",
+      "ok": true,
+      "detail": "event hydration does not silently discard older history"
+    },
+    {
+      "name": "indexeddb-snapshot",
+      "ok": true,
+      "detail": "IndexedDB snapshot exists"
+    },
+    {
+      "name": "recommendation-exact-module",
+      "ok": true,
+      "detail": "adaptive recommendation keeps the exact module when event has contentId"
+    },
+    {
+      "name": "legacy-content-links-exact",
+      "ok": true,
+      "detail": "legacy science question links use exact modules"
+    },
+    {
+      "name": "literal-assets",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "name": "no-demo-identity",
+      "ok": true,
+      "detail": ""
+    }
+  ],
+  "failures": []
+}

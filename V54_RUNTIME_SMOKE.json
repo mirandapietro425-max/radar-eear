@@ -1,0 +1,30 @@
+{
+  "ok": true,
+  "progress": {
+    "attempts": 2,
+    "correct": 1,
+    "accuracy": 0.5,
+    "seconds": 1800,
+    "completed": 1,
+    "activeDays": 1,
+    "reviewCompleted": 0,
+    "booksStarted": 0,
+    "bibleChaptersCompleted": 1
+  },
+  "counts": {
+    "books": 30,
+    "bibleBooks": 66,
+    "bibleChapters": 1189,
+    "thinkers": 24,
+    "places": 31,
+    "apocrypha": 25,
+    "hardware": 20,
+    "math": 214,
+    "physics": 240,
+    "questionsLegacy": 98,
+    "questionsV45": 420,
+    "contentGuidesV45": 28,
+    "previousExams": 64,
+    "games": 11
+  }
+}
