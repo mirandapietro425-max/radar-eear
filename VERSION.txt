@@ -1,1 +1,0 @@
-RADAR EEAR V46 — V45 content/assets integrated; mobile-first controls; durable IndexedDB snapshot; backup/restore; timer HH:MM:SS + visibility recovery; notification controls; history routes; robust Apocrypha.

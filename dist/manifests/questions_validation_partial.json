@@ -1,0 +1,82 @@
+{
+ "total": 150,
+ "unique": 150,
+ "subjectCounts": {
+  "portugues": 105,
+  "ingles": 45
+ },
+ "difficultyByPack": {
+  "pt-leitura": {
+   "avançada": 8,
+   "intermediária": 7
+  },
+  "pt-gramatica": {
+   "intermediária": 7,
+   "avançada": 8
+  },
+  "pt-sintaxe": {
+   "intermediária": 7,
+   "avançada": 8
+  },
+  "pt-concordancia": {
+   "intermediária": 7,
+   "avançada": 8
+  },
+  "pt-regencia": {
+   "intermediária": 7,
+   "avançada": 8
+  },
+  "pt-semantica": {
+   "intermediária": 7,
+   "avançada": 8
+  },
+  "pt-ortografia": {
+   "avançada": 8,
+   "intermediária": 7
+  },
+  "en-reading": {
+   "intermediária": 7,
+   "avançada": 8
+  },
+  "en-vocabulary": {
+   "avançada": 8,
+   "intermediária": 7
+  },
+  "en-tenses": {
+   "intermediária": 7,
+   "avançada": 8
+  }
+ },
+ "answerPositionCounts": {
+  "2": 39,
+  "0": 40,
+  "3": 31,
+  "1": 40
+ },
+ "problems": [],
+ "complete": false,
+ "scope": "completed packs only",
+ "expectedPacks": 28,
+ "completedPacks": 10,
+ "expectedQuestions": 420,
+ "pendingContentIds": [
+  "en-pronouns",
+  "en-modals",
+  "en-connectors",
+  "en-reported",
+  "mat-algebra",
+  "mat-geometria",
+  "mat-trig",
+  "mat-stats",
+  "mat-spatial",
+  "mat-analytic",
+  "mat-progressions",
+  "fis-cinematica",
+  "fis-dinamica",
+  "fis-energia",
+  "fis-fluidos",
+  "fis-termica",
+  "fis-ondas",
+  "fis-eletrica"
+ ]
+}

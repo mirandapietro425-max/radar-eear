@@ -1,0 +1,348 @@
+{
+  "version": "Radar EEAR question packs — final V45 2026-09-27",
+  "complete": true,
+  "totalPacks": 28,
+  "expectedPacks": 28,
+  "totalQuestions": 420,
+  "expectedQuestions": 420,
+  "pendingContentIds": [],
+  "items": [
+    {
+      "contentId": "pt-leitura",
+      "subjectId": "portugues",
+      "title": "Interpretação",
+      "path": "/questions/portugues/pt-leitura.json",
+      "questionCount": 15,
+      "origin": "autoral/similar",
+      "difficulty": {
+        "intermediária": 7,
+        "avançada": 8
+      }
+    },
+    {
+      "contentId": "pt-gramatica",
+      "subjectId": "portugues",
+      "title": "Gramática",
+      "path": "/questions/portugues/pt-gramatica.json",
+      "questionCount": 15,
+      "origin": "autoral/similar",
+      "difficulty": {
+        "intermediária": 7,
+        "avançada": 8
+      }
+    },
+    {
+      "contentId": "pt-sintaxe",
+      "subjectId": "portugues",
+      "title": "Sintaxe",
+      "path": "/questions/portugues/pt-sintaxe.json",
+      "questionCount": 15,
+      "origin": "autoral/similar",
+      "difficulty": {
+        "intermediária": 7,
+        "avançada": 8
+      }
+    },
+    {
+      "contentId": "pt-concordancia",
+      "subjectId": "portugues",
+      "title": "Concordância",
+      "path": "/questions/portugues/pt-concordancia.json",
+      "questionCount": 15,
+      "origin": "autoral/similar",
+      "difficulty": {
+        "intermediária": 7,
+        "avançada": 8
+      }
+    },
+    {
+      "contentId": "pt-regencia",
+      "subjectId": "portugues",
+      "title": "Regência e crase",
+      "path": "/questions/portugues/pt-regencia.json",
+      "questionCount": 15,
+      "origin": "autoral/similar",
+      "difficulty": {
+        "intermediária": 7,
+        "avançada": 8
+      }
+    },
+    {
+      "contentId": "pt-semantica",
+      "subjectId": "portugues",
+      "title": "Semântica e léxico",
+      "path": "/questions/portugues/pt-semantica.json",
+      "questionCount": 15,
+      "origin": "autoral/similar",
+      "difficulty": {
+        "intermediária": 7,
+        "avançada": 8
+      }
+    },
+    {
+      "contentId": "pt-ortografia",
+      "subjectId": "portugues",
+      "title": "Ortografia e recursos expressivos",
+      "path": "/questions/portugues/pt-ortografia.json",
+      "questionCount": 15,
+      "origin": "autoral/similar",
+      "difficulty": {
+        "intermediária": 7,
+        "avançada": 8
+      }
+    },
+    {
+      "contentId": "en-reading",
+      "subjectId": "ingles",
+      "title": "Reading",
+      "path": "/questions/ingles/en-reading.json",
+      "questionCount": 15,
+      "origin": "autoral/similar",
+      "difficulty": {
+        "intermediária": 7,
+        "avançada": 8
+      }
+    },
+    {
+      "contentId": "en-vocabulary",
+      "subjectId": "ingles",
+      "title": "Vocabulary",
+      "path": "/questions/ingles/en-vocabulary.json",
+      "questionCount": 15,
+      "origin": "autoral/similar",
+      "difficulty": {
+        "intermediária": 7,
+        "avançada": 8
+      }
+    },
+    {
+      "contentId": "en-tenses",
+      "subjectId": "ingles",
+      "title": "Verb tenses",
+      "path": "/questions/ingles/en-tenses.json",
+      "questionCount": 15,
+      "origin": "autoral/similar",
+      "difficulty": {
+        "intermediária": 7,
+        "avançada": 8
+      }
+    },
+    {
+      "contentId": "en-pronouns",
+      "subjectId": "ingles",
+      "title": "Pronouns and determiners",
+      "path": "/questions/ingles/en-pronouns.json",
+      "questionCount": 15,
+      "origin": "autoral/similar",
+      "difficulty": {
+        "intermediária": 7,
+        "avançada": 8
+      }
+    },
+    {
+      "contentId": "en-modals",
+      "subjectId": "ingles",
+      "title": "Modals and passive voice",
+      "path": "/questions/ingles/en-modals.json",
+      "questionCount": 15,
+      "origin": "autoral/similar",
+      "difficulty": {
+        "intermediária": 7,
+        "avançada": 8
+      }
+    },
+    {
+      "contentId": "en-connectors",
+      "subjectId": "ingles",
+      "title": "Connectors and prepositions",
+      "path": "/questions/ingles/en-connectors.json",
+      "questionCount": 15,
+      "origin": "autoral/similar",
+      "difficulty": {
+        "intermediária": 7,
+        "avançada": 8
+      }
+    },
+    {
+      "contentId": "en-reported",
+      "subjectId": "ingles",
+      "title": "Reported speech and advanced usage",
+      "path": "/questions/ingles/en-reported.json",
+      "questionCount": 15,
+      "origin": "autoral/similar",
+      "difficulty": {
+        "intermediária": 7,
+        "avançada": 8
+      }
+    },
+    {
+      "contentId": "mat-algebra",
+      "subjectId": "matematica",
+      "title": "Álgebra",
+      "path": "/questions/matematica/mat-algebra.json",
+      "questionCount": 15,
+      "origin": "autoral/similar",
+      "difficulty": {
+        "intermediária": 7,
+        "avançada": 8
+      }
+    },
+    {
+      "contentId": "mat-geometria",
+      "subjectId": "matematica",
+      "title": "Geometria plana",
+      "path": "/questions/matematica/mat-geometria.json",
+      "questionCount": 15,
+      "origin": "autoral/similar",
+      "difficulty": {
+        "intermediária": 7,
+        "avançada": 8
+      }
+    },
+    {
+      "contentId": "mat-trig",
+      "subjectId": "matematica",
+      "title": "Trigonometria",
+      "path": "/questions/matematica/mat-trig.json",
+      "questionCount": 15,
+      "origin": "autoral/similar",
+      "difficulty": {
+        "intermediária": 7,
+        "avançada": 8
+      }
+    },
+    {
+      "contentId": "mat-stats",
+      "subjectId": "matematica",
+      "title": "Estatística e probabilidade",
+      "path": "/questions/matematica/mat-stats.json",
+      "questionCount": 15,
+      "origin": "autoral/similar",
+      "difficulty": {
+        "intermediária": 7,
+        "avançada": 8
+      }
+    },
+    {
+      "contentId": "mat-spatial",
+      "subjectId": "matematica",
+      "title": "Geometria espacial",
+      "path": "/questions/matematica/mat-spatial.json",
+      "questionCount": 15,
+      "origin": "autoral/similar",
+      "difficulty": {
+        "intermediária": 7,
+        "avançada": 8
+      }
+    },
+    {
+      "contentId": "mat-analytic",
+      "subjectId": "matematica",
+      "title": "Geometria analítica",
+      "path": "/questions/matematica/mat-analytic.json",
+      "questionCount": 15,
+      "origin": "autoral/similar",
+      "difficulty": {
+        "intermediária": 7,
+        "avançada": 8
+      }
+    },
+    {
+      "contentId": "mat-progressions",
+      "subjectId": "matematica",
+      "title": "Progressões e funções",
+      "path": "/questions/matematica/mat-progressions.json",
+      "questionCount": 15,
+      "origin": "autoral/similar",
+      "difficulty": {
+        "intermediária": 7,
+        "avançada": 8
+      }
+    },
+    {
+      "contentId": "fis-cinematica",
+      "subjectId": "fisica",
+      "title": "Cinemática",
+      "path": "/questions/fisica/fis-cinematica.json",
+      "questionCount": 15,
+      "origin": "autoral/similar",
+      "difficulty": {
+        "intermediária": 7,
+        "avançada": 8
+      }
+    },
+    {
+      "contentId": "fis-dinamica",
+      "subjectId": "fisica",
+      "title": "Dinâmica",
+      "path": "/questions/fisica/fis-dinamica.json",
+      "questionCount": 15,
+      "origin": "autoral/similar",
+      "difficulty": {
+        "intermediária": 7,
+        "avançada": 8
+      }
+    },
+    {
+      "contentId": "fis-energia",
+      "subjectId": "fisica",
+      "title": "Trabalho, energia e potência",
+      "path": "/questions/fisica/fis-energia.json",
+      "questionCount": 15,
+      "origin": "autoral/similar",
+      "difficulty": {
+        "intermediária": 7,
+        "avançada": 8
+      }
+    },
+    {
+      "contentId": "fis-fluidos",
+      "subjectId": "fisica",
+      "title": "Fluidos",
+      "path": "/questions/fisica/fis-fluidos.json",
+      "questionCount": 15,
+      "origin": "autoral/similar",
+      "difficulty": {
+        "intermediária": 7,
+        "avançada": 8
+      }
+    },
+    {
+      "contentId": "fis-termica",
+      "subjectId": "fisica",
+      "title": "Calor e termodinâmica",
+      "path": "/questions/fisica/fis-termica.json",
+      "questionCount": 15,
+      "origin": "autoral/similar",
+      "difficulty": {
+        "intermediária": 7,
+        "avançada": 8
+      }
+    },
+    {
+      "contentId": "fis-ondas",
+      "subjectId": "fisica",
+      "title": "Ondas e óptica",
+      "path": "/questions/fisica/fis-ondas.json",
+      "questionCount": 15,
+      "origin": "autoral/similar",
+      "difficulty": {
+        "intermediária": 7,
+        "avançada": 8
+      }
+    },
+    {
+      "contentId": "fis-eletrica",
+      "subjectId": "fisica",
+      "title": "Eletricidade e magnetismo",
+      "path": "/questions/fisica/fis-eletrica.json",
+      "questionCount": 15,
+      "origin": "autoral/similar",
+      "difficulty": {
+        "intermediária": 7,
+        "avançada": 8
+      }
+    }
+  ],
+  "validationReport": "/manifests/questions_validation_final.json"
+}

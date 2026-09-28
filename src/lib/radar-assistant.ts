@@ -12,6 +12,9 @@ import { editorialSubjects } from '../data/exam-data';
 import researchV26 from '../data/research-packs-v26.json';
 import curiositiesV26 from '../data/curiosities-v26.json';
 import { v43Questions } from '../data/question-bank-v43';
+import { v45Questions } from '../data/question-bank-v45';
+import { contentGuidesV45 } from '../data/content-guides-v45';
+import { libraryV45 } from '../data/library-v45';
 
 type RouteAction = { type:'navigate'; path:string; label?:string } | { type:'search'; query:string; label?:string };
 
@@ -25,11 +28,12 @@ export type AssistantHint = { kind:string; title:string; path:string; id?:string
 export type AssistantResult = { reply:string; action?:RouteAction; source:'local'|'ai'|'error' };
 
 const normalize=(value:string)=>String(value||'').normalize('NFD').replace(/[\u0300-\u036f]/g,'').toLowerCase().trim();
-const allQuestions=[...questions,...generatedQuestions,...extendedQuestions,...deepQuestions,...v43Questions];
+const allQuestions=Array.from(new Map([...questions,...generatedQuestions,...extendedQuestions,...deepQuestions,...v43Questions,...v45Questions].map((q:any)=>[q.id,q])).values());
 const allBooks=[
   ...books.map((b:any)=>({id:b.id,title:b.title,author:b.author,path:`/biblioteca/${b.id}`})),
   ...broaderBooks.map((b:any)=>({id:b[0],title:b[1],author:b[2],path:`/biblioteca/${b[0]}`})),
   ...expandedBooks.map((b:any)=>({id:b.id,title:b.title,author:b.author,path:`/biblioteca/${b.id}`})),
+  ...libraryV45.map((b:any)=>({id:String(b.id),title:String(b.title),author:String(b.author),path:`/biblioteca/${b.id}`})),
 ];
 const allPeople=[
   ...thinkers.map((t:any)=>({id:t.id,title:t.name,path:`/pensadores/${t.id}`})),
@@ -37,6 +41,7 @@ const allPeople=[
 ];
 const allCuriosities=Array.isArray(curiositiesV26)?curiositiesV26:((researchV26 as any)?.curiosities||[]);
 const allModules=[...mathMicroconcepts,...physicsMicroconcepts].map((m:any)=>({id:m.id,title:m.title,topic:m.topic,subject:m.subject==='math'?'Matemática':'Física',path:`/estudar/${m.subject==='math'?'matematica':'fisica'}?topic=${encodeURIComponent(m.title)}`}));
+const allContentGuides=contentGuidesV45.map((c:any)=>({id:c.id,title:c.title,topic:c.title,subject:c.subject,path:`/conteudos/${c.id}`}));
 
 export function getAssistantContext(path:string):AssistantContext{
   const [pathname,queryString='']=path.split('?');
@@ -96,6 +101,7 @@ export function getAssistantHints(message:string,context:AssistantContext):Assis
     ...allPeople.map(x=>({kind:'Pessoa',title:x.title,path:x.path,id:x.id})),
     ...places.map((x:any)=>({kind:'Lugar',title:x.name,path:`/atlas?place=${x.id}`,id:x.id})),
     ...allQuestions.map((x:any)=>({kind:'Questão',title:x.topic,path:`/questoes?focus=${x.id}`,id:x.id})),
+    ...allContentGuides.map((x:any)=>({kind:'Conteúdo',title:x.title,path:x.path,id:x.id})),
     ...allCuriosities.map((x:any)=>({kind:'Curiosidade',title:x.title,path:`/curiosidades?item=${x.id}`,id:x.id})),
     ...allModules.map(x=>({kind:x.subject,title:x.title,path:x.path,id:x.id})),
     ...coverageModules.map((x:any)=>({kind:'Módulo',title:x.title,path:`/ciencia?module=${x.id}`,id:x.id})),
@@ -130,6 +136,7 @@ function actionFor(message:string, context:AssistantContext):AssistantResult|und
   if(/(onde|cadê|cade|abrir).*(cronom|timer|tempo)/.test(m)) return go('/cronometro','Abrindo o cronômetro.');
   if(/(onde|cadê|cade|abrir).*(perfil|meu radar)/.test(m)) return go('/perfil','Abrindo seu perfil.');
 
+  for(const mod of allContentGuides){if(m.includes(normalize(mod.title))&&normalize(mod.title).length>5)return go(mod.path,`Achei “${mod.title}”. Vou abrir o conteúdo completo.`);}
   for(const mod of allModules){if(m.includes(normalize(mod.title))&&normalize(mod.title).length>4)return go(mod.path,`Achei “${mod.title}”. Vou abrir esse conteúdo de ${mod.subject}.`);}
   for(const b of allBooks){if(m.includes(normalize(b.title))&&normalize(b.title).length>4)return go(b.path,`Achei “${b.title}”. Vou abrir a ficha da obra.`);}
   for(const p of allPeople){if(m.includes(normalize(p.title))&&normalize(p.title).length>4)return go(p.path,`Achei o perfil de ${p.title}.`);}

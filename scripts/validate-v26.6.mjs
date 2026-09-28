@@ -16,7 +16,7 @@ ok('viewport-safe',!/maximum-scale\s*=/.test(index));
 ok('auth-not-fake',!/Marina Santos|Marina Silva/.test(app));
 ok('real-persistence',/bookPosition/.test(app)&&/bibleProgress/.test(app)&&/question_answered/.test(app));
 ok('real-daily-links',/href=\{`\/dia\?item=\$\{d.id\}`\}/.test(app));
-ok('apocrypha-link-state',/setLoc\(\`\/apocrifos\/\$\{encodeURIComponent\(id\)\}\`\)/.test(app)&&/Route path="\/apocrifos\/:workId"/.test(app));
+ok('apocrypha-link-state',app.includes('href={`/apocrifos/${encodeURIComponent(id)}`}')&&/apocrypha\.map/.test(app));
 ok('topic-specific-experiences',/resolveMicroProfile/.test(app)&&/Números complexos/.test(app)&&/Trabalho e energia/.test(app)&&/Óptica/.test(app));
 ok('book-cover-assets',/SmartBookCover/.test(app)&&/object-fit:contain/.test(css));
 ok('portrait-fallbacks',/function SmartPortrait/.test(app)&&/wikipedia\.org/.test(app));
@@ -30,6 +30,6 @@ ok('dark-options',/\.options \.option-btn.*background:#0b151e!important/.test(cs
 ok('compact-thinkers',/thinker-grid/.test(css)&&/graph-node/.test(css));
 ok('mobile-safe',/bottom:calc\(8px \+ env\(safe-area-inset-bottom\)\)/.test(css)&&/overflow-x:hidden/.test(css));
 ok('assets',assetSet.size>=250,`found ${assetSet.size}`);
-const staticRefs=[...new Set([...app].join('').matchAll(/["'](\/assets\/[A-Za-z0-9_./%-]+)["']/g))].map(m=>m[1]);const missing=staticRefs.filter(x=>!assetSet.has(x));ok('asset-refs',missing.length===0,missing.slice(0,10).join(', '));
+const staticRefs=[...new Set([...app].join('').matchAll(/["'](\/assets\/[A-Za-z0-9_./%-]+)["']/g))].map(m=>m[1]);const missing=staticRefs.filter(x=>!assetSet.has(x)&&!x.endsWith('/'));ok('asset-refs',missing.length===0,missing.slice(0,10).join(', '));
 try{const out=execFileSync(process.execPath,['--experimental-strip-types','scripts/runtime-smoke.mjs'],{cwd:root,encoding:'utf8'});const j=JSON.parse(out.slice(out.indexOf('{')));ok('runtime-smoke',j.ok===true,JSON.stringify(j.counts));}catch(e){ok('runtime-smoke',false,e.message)}
 const result={timestamp:new Date().toISOString(),summary:{passed:checks.filter(x=>x.ok).length,total:checks.length,failed:failures.length},failures,checks};fs.writeFileSync(path.join(root,'V26_6_VALIDATION.json'),JSON.stringify(result,null,2)+'\n');console.log(JSON.stringify(result.summary));if(failures.length)process.exit(1);

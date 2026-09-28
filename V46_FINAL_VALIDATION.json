@@ -1,0 +1,187 @@
+{
+  "timestamp": "2026-09-28T14:03:16.470Z",
+  "status": "pass",
+  "summary": {
+    "passed": 33,
+    "total": 33,
+    "failed": 0
+  },
+  "counts": {
+    "content": 28,
+    "questions": 28,
+    "subjects": 4,
+    "diagrams": 7,
+    "curiosities": 75,
+    "atlas": 32,
+    "thinkers": 31,
+    "bookCovers": 12
+  },
+  "checks": [
+    {
+      "name": "apocrypha-direct-link",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "name": "apocrypha-data",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "name": "bible-theme-routes",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "name": "history-routes",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "name": "timer-hhmmss",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "name": "timer-persisted",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "name": "timer-media-session",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "name": "timer-screen-may-lock",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "name": "browser-history-buttons",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "name": "mobile-history-visible",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "name": "notifications-real-permission",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "name": "god-eyes-no-fake-placeholder",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "name": "assistant-voice-input",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "name": "assistant-v45-questions",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "name": "assistant-v45-books",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "name": "assistant-content-guides",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "name": "search-v45-books",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "name": "no-speech-output",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "name": "pwa-manifest",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "name": "sw-versioned",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "name": "viewport-safe",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "name": "28-content-guides",
+      "ok": true,
+      "detail": "found 28"
+    },
+    {
+      "name": "28-question-packs",
+      "ok": true,
+      "detail": "found 28"
+    },
+    {
+      "name": "420-questions-json",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "name": "420-questions",
+      "ok": true,
+      "detail": "found 420"
+    },
+    {
+      "name": "question-ids-unique",
+      "ok": true,
+      "detail": "420/420"
+    },
+    {
+      "name": "15-per-pack",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "name": "4-subject-images",
+      "ok": true,
+      "detail": "found 4"
+    },
+    {
+      "name": "28-content-images",
+      "ok": true,
+      "detail": "diagrams 7, content guides 28"
+    },
+    {
+      "name": "75-curiosity-images",
+      "ok": true,
+      "detail": "found 75"
+    },
+    {
+      "name": "31-atlas-images",
+      "ok": true,
+      "detail": "found 32"
+    },
+    {
+      "name": "31-thinker-images",
+      "ok": true,
+      "detail": "found 31"
+    },
+    {
+      "name": "book-cover-assets",
+      "ok": true,
+      "detail": "found 12"
+    }
+  ],
+  "failures": []
+}
